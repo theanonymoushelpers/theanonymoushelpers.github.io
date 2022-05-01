@@ -1,62 +1,48 @@
-
+<html>
+<head>
 <style>
-    #HNotice {
-        font-size: 1.8em;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-
-    #PNotice {
-        font-size: 1.4em;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-
-    .bgImage {
-        background-image: url(lib/images/notice.jpg);
-        filter: blur(8px);
-        -webkit-filter: blur(8px);
-        height: 100%;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-
-    .bgText {
-        background-color: rgb(0,0,0); /* Fallback color */
-        background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
-        color: white;
-        font-weight: bold;
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        z-index: 2;
-        width: 60%;
-        padding: 20px;
-         text-align: center;
-        }
 </style>
 
 
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="globalstyle.css">
+    <title>TAH | Practice Mode</title>
+    <meta name="description" content="Learn, review, and practice IB topics with ease."> 
 
-
-<html>
-
-    <head>
-        <title>TAH | Practice Mode</title>
-        <meta name="description" content="Learn, review, and practice IB topics with ease."> 
-    </head>
+</head>
 
 
 
     <body>
-        <div class="bgImage"></div>
 
-        <div class="bgText">
-            <h1 id="HNotice">Welcome to the new Anonymous Helpers Practice website!</h1>
-            <p id="PNotice">We are still working on this page. Come back soon to try our new resources!</p>
-            <img src="lib/images/tah_logoW.png">
+
+    <div class="pageHt">
+        <div class="pageContentCont">
+            <div class="menuStyle">
+                <ImgLink class="active" href="#home">
+                    <img src="lib/images/tahpmLogoW.png">
+                </ImgLink>
+                <Txlink  onClick="location.href='learn/index.html'">Learn</Txlink>
+                <Txlink  onClick="location.href='review/index.html'">Review</Txlink>
+                <Txlink  onClick="location.href='practice/index.html'">Practice</Txlink>
+                <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                    <img src="lib/images/tahpmMenuR.png">
+                </ImgLink>
+            </div>
+            
+            <div>
+                <h1 class="titleText">This website is not quite ready for you yet!</h1>
+                <h1 class="head1Text">We're still working on this site! We're hoping to have it ready by the summer. Check our social media channels for updates about this project.</h1>
+            </div>
+
+        </div>
+        <div class="footer">
+            <ImgLink onClick="location.href='index.html'">
+                <img src="lib/images/tahpmLogoW.png">
+            </ImgLink>
+            <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by the International Baccaleurate Organization, CollegeBoard, or any other academic institution. © The Anonymous Helpers 2022 </p>
         </div>
 
+    </div>
 
     </body>
 
