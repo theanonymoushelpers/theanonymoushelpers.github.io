@@ -120,6 +120,8 @@ margin: auto;
 .bodyText {
 font-size: 16px;
 width: 80%;
+text-align: center;
+margin: auto;
 }
 
 .bodyTextSm {
