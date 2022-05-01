@@ -1,1 +1,31 @@
+<html>
+
+    <head>
+
+    </head>
+
+    <body>
+        <button onclick="redirectPage('bi-samplequiz1')">Test Quiz Structure</button>
+        <button onclick="redirectPage('bi-samplequiz2')">Test Quiz Structure 2</button>
+        <button onclick="redirectPage('bi-samplequiz3')">Test Quiz Structure 3</button>
+
+
+
+
+        <script>
+            let redirectPage = (quizNameRedirect) => {
+
+
+                
+                var url = "../quiz.html" +
+                    "?subject=" + 'biology'  + 
+                    "&ident=" + 'bio-quizzes' +
+                    "&quizName=" + quizNameRedirect;
+            
+                window.location.href = url;
+            }
+            </script>
+
+    </body>
+</html>
 
