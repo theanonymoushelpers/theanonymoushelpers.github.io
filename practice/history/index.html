@@ -1,0 +1,31 @@
+
+<html>
+
+    <head>
+
+    </head>
+
+    <body>
+        <button class="testQuizHistory" onclick="redirectPage('ht-samplequiz1')">Test Quiz Structure</button>
+        <button class="testQuizHistory" onclick="redirectPage('ht-samplequiz2')">Test Quiz Structure 2</button>
+        <button class="testQuizHistory" onclick="redirectPage('ht-samplequiz3')">Test Quiz Structure 3</button>
+
+
+
+
+        <script>
+            let redirectPage = (quizNameRedirect) => {
+
+
+                
+                var url = "../quiz.html" +
+                    "?subject=" + 'history'  + 
+                    "&ident=" + 'his-quizzes' +
+                    "&quizName=" + quizNameRedirect + "&questionNo" + "1";
+            
+                window.location.href = url;
+            }
+            </script>
+
+    </body>
+</html>
