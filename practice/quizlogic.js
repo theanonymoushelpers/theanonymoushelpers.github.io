@@ -79,8 +79,9 @@ function checkAnswer() {
 
 function loadNextQuestion() {
     //if question count is less than 10, load next question, otherwise go to results page with context
-    if (i < 10) {
+    if (i < 9) {
     i++;
+    console.log(i)
     questionDisplay.textContent = dataQA[i]["qu"]
     o1.textContent = dataQA[i]["a1"]
     o2.textContent = dataQA[i]["a2"]
