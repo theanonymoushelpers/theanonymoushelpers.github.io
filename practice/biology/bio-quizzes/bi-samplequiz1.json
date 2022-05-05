@@ -1,1 +1,33 @@
+{
+    "quizID": 1000,
+    "title": "Biology Sample Quiz",
+    "questions": [
+        {
+            "qu": "What is the powerhouse of the cell?",
+            "a1": "Lysosome",
+            "a2": "Cell Membrane",
+            "a3": "Nucleus",
+            "a4": "Mitochondria"
+        },
+        {
+            "qu": "Question2 BioSample",
+            "a1": "Answer1 BioSample",
+            "a2": "Answer1 BioSample",
+            "a3": "Answer1 BioSample",
+            "a4": "Answer1 BioSample"
+        },
 
+        {
+            "qu": "Question3 BioSample",
+            "a1": "Answer1 BioSample",
+            "a2": "Answer1 BioSample",
+            "a3": "Answer1 BioSample",
+            "a4": "Answer1 BioSample"
+        }
+
+
+
+
+
+    ]
+}

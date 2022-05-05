@@ -7,6 +7,42 @@ body, html {
     color: white;
 }
 
+.button {
+    background-color: rgb(100, 110, 200);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+.button:hover {opacity: 1}
+
+.buttonB {
+    background-color: rgb(110, 110, 110);
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.8;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+.buttonB:hover {opacity: 1}
+
 .menuStyle {
 background-color: rgb(100,100,100);
 float: left;

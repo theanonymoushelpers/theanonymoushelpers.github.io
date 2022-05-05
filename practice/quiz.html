@@ -1,13 +1,106 @@
 <html>
 
 <head>
+<style>
+
+
+:root{
+  --currentProgressBar: 0%;
+  --newProgressBar: 0%;
+}
+
+.progress {
+  margin: 50px auto;
+  padding: 2px;
+  width: 100%;
+  max-width: 80%;
+  border: 1px solid grey;
+  height: 30px;
+}
+
+.progress .progress_bar {
+  height: 100%;
+  width: var(--currentProgressBar);
+  background: rgb(6,36,0);
+  background: linear-gradient(90deg, rgba(86,131,1,1) 0%, rgba(53,121,9,1) 50%, rgba(11,171,89,1) 100%);
+}
+
+#multiplechoice{
+  height: 300px;
+  border: none;
+  overflow-y: auto;
+  background-color: rgb(50, 50, 50);
+}
+
+#multiplechoice::-moz-focus-inner {
+  border: 0;
+}
+
+#multiplechoice:focus {
+  outline: none;
+}
+
+#multiplechoice option{
+  width: 200px;
+  font-size: 1.2em;
+  padding: 10px 0;
+  text-align: center;
+  margin-right: 20px;
+  display: list-item;
+  cursor: pointer;
+  border:rgb(200, 186, 234) solid 1px;
+  border-radius: 5px;
+  color: rgb(200, 186, 234);
+}
+
+</style>
+
+<link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
 
 </head>
 
     <body>
-        <script type="text/javascript" src="quizlogic.js"></script>
+
+        <div>
+          <button style="margin-right: 95%; text-align: left;" onclick="location.href='index.html'">Exit</button>
+            <div class="progress"> 
+                <div class="progress_bar"></div>
+            </div>
+          </div>
+
+        <div><h1 id="quDisplay" style="margin: auto; text-align: center; margin-bottom: 30px;">Question</h1></div>
+        <div><body style="margin: auto; text-align: center; margin-bottom: 70px;"></body></div>
+
+        <select name="options" id="multiplechoice" multiple>
+        <div><option value="1" id="a1Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 1</option></div>
+        <div><option value="2" id="a2Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 2</option></div>
+        <div><option value="3" id="a3Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 3</option></div>
+        <div><option value="4" id="a4Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 4</option></div>
+        </select>
+
+
+        <div><button id="checkcontinuequiz" class="buttonB" style="margin: auto; text-align: center;" onclick="progressMove()">Check</button></div>
+
+
+        <script>
+            var progress = 0;
+
+            function progressMove() {
+              let root = document.documentElement;
+
+              root.style.setProperty("--currentProgressBar", progress + 10 + "%");
+              progress = progress + 10;
+            }
+
+
         
-        <button onclick="location.href='index.html'">Quiz not avail yet. Go back to practice.</button>
+        </script>
+
+        <script type="text/javascript" src="quizlogic.js"></script>
+
+      
+    
+
         
     </body>
 
