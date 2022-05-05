@@ -10,7 +10,7 @@ var nameQ = getQuizParameter('quizName')
 var questionN = getQuizParameter('questionNo')
 
 var directQ = subjectQ + "/" + identQ + "/" + nameQ + ".json"
-document.write(directQ);
+console.log(directQ);
 
 //this array stores info of json file
 var dataQA;
