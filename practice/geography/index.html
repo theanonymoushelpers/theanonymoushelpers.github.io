@@ -1,0 +1,31 @@
+<html>
+
+    <head>
+
+    </head>
+
+    <body>
+        <button onclick="redirectPage('ge-samplequiz1')">Test Quiz Structure</button>
+        <button onclick="redirectPage('ge-samplequiz2')">Test Quiz Structure 2</button>
+        <button onclick="redirectPage('ge-samplequiz3')">Test Quiz Structure 3</button>
+
+
+
+
+        <script>
+            let redirectPage = (quizNameRedirect) => {
+
+
+                
+                var url = "../quiz.html" +
+                    "?subject=" + 'geography'  + 
+                    "&ident=" + 'geo-quizzes' +
+                    "&quizName=" + quizNameRedirect + "&questionNo" + "1";
+            
+                window.location.href = url;
+            }
+            </script>
+
+    </body>
+</html>
+
