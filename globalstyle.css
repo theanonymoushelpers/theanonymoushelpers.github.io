@@ -2,9 +2,67 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(50, 50, 50);
+    background-color: rgb(29, 29, 36);
     font-family: Arial, Helvetica, sans-serif;
     color: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+
+.centerTopTextOverlay {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    width: 80%;
+    font-weight: bold;
+}
+
+.centerTopMidTextOverlay {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    width: 80%;
+    font-weight: bold;
+}
+
+.centerTextOverlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    width: 80%;
+    font-weight: bold;
+}
+
+.centerBottomMidTextOverlay {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    width: 80%;
+    font-weight: 300;
+}
+
+.centerBottomTextOverlay {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 45px;
+    width: 80%;
+    font-weight: bold;
 }
 
 .button {
@@ -44,7 +102,7 @@ body, html {
 .buttonB:hover {opacity: 1}
 
 .menuStyle {
-background-color: rgb(100,100,100);
+background-color: rgb(29, 29, 36);
 float: left;
 width: 100%;
 }
@@ -76,19 +134,19 @@ font-size: 24px;
 }
 
 .menuStyle Txlink:hover {
-    background-color: rgb(150, 150, 150);
+    color: rgb(150, 150, 150);
 }
 
 .menuStyle Txlink.active {
-    background-color: rgb(120, 120, 120);
+    background-color: rgb(29, 29, 36);
 }
 
 .menuStyle Imglink:hover {
-    background-color: rgb(150, 150, 150);
+    color: rgb(150, 150, 150);
 }
 
 .menuStyle ImgLink.active {
-    background-color: rgb(120, 120, 120);
+    background-color: rgb(29, 29, 36);
 }
 
 @media screen and (max-width: 1400px) {
@@ -119,7 +177,7 @@ position: absolute;
 height: 200px;
 bottom: 0;
 width: 100%;
-background-color: rgb(100,100,100);
+background-color: rgb(49, 49, 56);
 color: white;
 text-align: center;
 }
