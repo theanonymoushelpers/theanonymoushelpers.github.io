@@ -2,30 +2,214 @@
 <html>
 
     <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../globalstyle.css">
 
+        <style>
+            .column {
+            float: left;
+            width: 23%;
+            padding: 0 10px;
+            height: 500px;
+            }
+
+            .row {
+            margin: 0 -5px;
+            }
+
+            .row:after {
+            content: "";
+            display: table;
+            clear: both;
+            }
+
+            @media screen and (max-width: 1250px) {
+             .column {
+            width: 100%;
+            display: block;
+            margin-bottom: 20px;
+                }
+            }
+
+            .card_img {
+            width: 100%;
+            border-radius: 12px;
+            height: 214px;
+            object-fit: cover;
+            }
+
+            #container {
+            width: 270px;
+            height: 500px;
+            margin: 0 auto;
+            margin-top: 20vh;
+            }
+
+            .card {
+            background-color: white;
+            border: 1px solid #bacdd8;
+            padding: 8px;
+            border-radius: 12px;
+            }
+
+           
+            .tag {
+            padding: 4px 8px;
+            border: 1px solid #e5eaed;
+
+            border-radius: 50px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #788697;
+            }
+
+            .name {
+            font-size: 24px;
+            font-weight: 600;
+            color: black;
+            margin-top: 16px;
+            }
+
+            p {
+            font-size: 14px;
+            color: #7f8c9b;
+            line-height: 150%;
+            }
+
+            button {
+            border: none;
+            padding: 12px 24px;
+            border-radius: 50px;
+
+            font-weight: 600;
+            color: #8a5d16;
+            background-color: #ffdba1;
+
+            
+            margin: 0 auto;
+            display: block;
+
+            
+            cursor: pointer;
+            }
+
+            .card__details {
+            padding: 16px 8px 8px 8px;
+            }
+        </style>
     </head>
 
     <body>
-        <button class="testQuizMath" onclick="redirectPage('ma-samplequiz1')">Test Quiz Structure</button>
-        <button class="testQuizMath" onclick="redirectPage('ma-samplequiz2')">Test Quiz Structure 2</button>
-        <button class="testQuizMath" onclick="redirectPage('ma-samplequiz3')">Test Quiz Structure 3</button>
 
-
-
-
-        <script>
-            let redirectPage = (quizNameRedirect) => {
-
-
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../index.html'">
+                        <img src="../../lib/images/tahpmLogoW.png">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../learn/index.html'">Learn</Txlink>
+                    <Txlink  onClick="location.href='../../review/index.html'">Review</Txlink>
+                    <Txlink class="active" onClick="location.href='../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../lib/images/tahpmMenuR.png">
+                    </ImgLink>
+                </div>
                 
-                var url = "../quiz.html" +
-                    "?subject=" + 'math'  + 
-                    "&ident=" + 'mat-quizzes' +
-                    "&quizName=" + quizNameRedirect + "&questionNo" + "1";
-            
-                window.location.href = url;
-            }
-            </script>
+<div>
+    <div style="height: 100px;"></div>
 
-    </body>
-</html>
+    <div class="row">
+    <div class="column">
+    <div id="container">
+        <div class="card">
+            <img class="card_img" src="" alt="Unit 1">
+
+            <div class="card_info">
+                <span class="tag">Algebra</span>
+                <span class="tag">Number System</span>
+
+                <div class="name">Algebra</div>
+
+                <p>Learn more by practicing number systems, pattterns, and modelling situations to solve mathematical problems.</p>
+
+                <button>Practice</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+            <div class="card">
+                <img class="card_img" src="" alt="Unit 2">
+    
+                <div class="card_info">
+                    <span class="tag">Functions</span>
+                    <span class="tag">Quadratics</span>
+    
+                    <div class="name">Functions</div>
+    
+                    <p>Create functions that can model how variables are related to each other, to understand complex situations visually, and algebraically.</p>
+    
+                    <button>Practice</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                <div class="card">
+                    <img class="card_img" src="" alt="Unit 3">
+        
+                    <div class="card_info">
+                        <span class="tag">Shapes</span>
+                        <span class="tag">Trigonometry</span>
+        
+                        <div class="name">Geometry</div>
+        
+                        <p>Use geometry and trigonometry to understand the 2D and 3D world.</p>
+        
+                        <button>Practice</button>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                    <div class="card">
+                        <img class="card_img" src="" alt="Unit 4">
+            
+                        <div class="card_info">
+                            <span class="tag">Statistics</span>
+                            <span class="tag">Probability</span>
+            
+                            <div class="name">Statistics</div>
+            
+                            <p>Interpret and analyse data to draw conclusions and make predictions.</p>
+            
+                            <button>Practice</button>
+                        </div>
+                    </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                        <div class="card">
+                            <img class="card_img" src="" alt="Unit 5">
+                
+                            <div class="card_info">
+                                <span class="tag">Derivatives</span>
+                                <span class="tag">Integrals</span>
+                
+                                <div class="name">Calculus</div>
+                
+                                <p>Understand rates of change to model problems and understand graphs.</p>
+                
+                                <button>Practice</button>
+                            </div>
+                        </div>
+        </div>
+    </div>
+
+    </div>
+    </div>
+</div>
