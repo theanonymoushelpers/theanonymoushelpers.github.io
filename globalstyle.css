@@ -144,12 +144,16 @@ font-size: 24px;
     outline: hidden;
 }
 
+
 .menuStyle Imglink:hover {
     color: rgb(150, 150, 150);
 }
 
 .menuStyle ImgLink.active {
     background-color: rgb(29, 29, 36);
+    border: none;
+    border-radius: 45px;
+    outline: hidden;
 }
 
 @media screen and (max-width: 1400px) {
