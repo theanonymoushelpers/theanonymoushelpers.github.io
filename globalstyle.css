@@ -234,6 +234,9 @@ font-size: 16px;
 line-height: 1.4;
 }
 
+/*Card design on most pages inspired by https://www.freecodecamp.org/news/learn-css-basics-by-building-a-card-component/ */
+/*Button designs below inspired by https://blog.christopherianmurphy.com/2017/04/glowing-button/*/
+
 .buttonStOr {
     border: none;
     border-radius: 25px;
@@ -252,10 +255,9 @@ line-height: 1.4;
 }
 
     .buttonStOr::before {
-    background: #8a5d16;
+    background: #ffb742;
     border-radius: inherit;
     content: '';
-    filter: blur(10px); 
     opacity: 0;
     position: absolute;
     transition: all .2s ease-in-out;
@@ -263,7 +265,7 @@ line-height: 1.4;
     height: 100%;
     top: 0;
     right: 0;
-    z-index: -1; 
+    z-index: 0; 
 }
 
     .buttonStOr:hover::before {
@@ -289,10 +291,9 @@ line-height: 1.4;
 }
 
     .buttonStGr::before {
-    background: #238a16;
+    background: #4bea36;
     border-radius: inherit;
     content: '';
-    filter: blur(10px); 
     opacity: 0;
     position: absolute;
     transition: all .2s ease-in-out;
@@ -300,7 +301,7 @@ line-height: 1.4;
     height: 100%;
     top: 0;
     right: 0;
-    z-index: -1; 
+    z-index: 0; 
 }
 
     .buttonStGr:hover::before {
@@ -326,10 +327,9 @@ line-height: 1.4;
 }
 
     .buttonStPr::before {
-    background: #56168a;
+    background: #a844fa;
     border-radius: inherit;
     content: '';
-    filter: blur(10px); 
     opacity: 0;
     position: absolute;
     transition: all .2s ease-in-out;
@@ -337,7 +337,7 @@ line-height: 1.4;
     height: 100%;
     top: 0;
     right: 0;
-    z-index: -1; 
+    z-index: 0; 
 }
 
     .buttonStPr:hover::before {
