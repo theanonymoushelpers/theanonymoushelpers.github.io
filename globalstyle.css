@@ -102,7 +102,7 @@ body, html {
 .buttonB:hover {opacity: 1}
 
 .menuStyle {
-background-color: rgb(29, 29, 36);
+background-color: rgb(49, 49, 56);
 float: left;
 width: 100%;
 }
@@ -139,6 +139,9 @@ font-size: 24px;
 
 .menuStyle Txlink.active {
     background-color: rgb(29, 29, 36);
+    border: none;
+    border-radius: 45px;
+    outline: hidden;
 }
 
 .menuStyle Imglink:hover {
@@ -225,4 +228,115 @@ text-align: center;
 margin: auto;
 font-size: 16px;
 line-height: 1.4;
+}
+
+.buttonStOr {
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+    position: relative; 
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #8a5d16;
+    background-color: #ffdba1;
+    margin: 0 auto;
+    display: block;
+}
+
+    .buttonStOr::before {
+    background: #8a5d16;
+    border-radius: inherit;
+    content: '';
+    filter: blur(10px); 
+    opacity: 0;
+    position: absolute;
+    transition: all .2s ease-in-out;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: -1; 
+}
+
+    .buttonStOr:hover::before {
+    filter: blur(30px); 
+    opacity: 1;
+}
+
+.buttonStGr {
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+    position: relative; 
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #238a16;
+    background-color: #a2ffa1;
+    margin: 0 auto;
+    display: block;
+}
+
+    .buttonStGr::before {
+    background: #238a16;
+    border-radius: inherit;
+    content: '';
+    filter: blur(10px); 
+    opacity: 0;
+    position: absolute;
+    transition: all .2s ease-in-out;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: -1; 
+}
+
+    .buttonStGr:hover::before {
+    filter: blur(30px); 
+    opacity: 1;
+}
+
+.buttonStPr {
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+    position: relative; 
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #56168a;
+    background-color: #c0a1ff;
+    margin: 0 auto;
+    display: block;
+}
+
+    .buttonStPr::before {
+    background: #56168a;
+    border-radius: inherit;
+    content: '';
+    filter: blur(10px); 
+    opacity: 0;
+    position: absolute;
+    transition: all .2s ease-in-out;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: -1; 
+}
+
+    .buttonStPr:hover::before {
+    filter: blur(30px); 
+    opacity: 1;
 }

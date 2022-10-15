@@ -9,6 +9,7 @@
             float: left;
             width: 23%;
             padding: 0 10px;
+            padding-bottom: 50px;
             height: 500px;
             }
 
@@ -38,7 +39,7 @@
             }
 
             #container {
-            width: 270px;
+            width: 90%;
             height: 500px;
             margin: 0 auto;
             margin-top: 20vh;
@@ -75,23 +76,6 @@
             line-height: 150%;
             }
 
-            button {
-            border: none;
-            padding: 12px 24px;
-            border-radius: 50px;
-
-            font-weight: 600;
-            color: #8a5d16;
-            background-color: #ffdba1;
-
-            
-            margin: 0 auto;
-            display: block;
-
-            
-            cursor: pointer;
-            }
-
             .card__details {
             padding: 16px 8px 8px 8px;
             }
@@ -117,6 +101,7 @@
                 
 <div>
     <h1 class="titleText" style="padding-top: 100px; font-size: 50px;">Practice Math</h1>
+    <p class="bodyTextSm" style="font-size: 20px; font-weight: 500; width: 80%;">Select a unit to start practicing.</p>
 
     <div class="row">
     <div class="column">
@@ -132,7 +117,7 @@
 
                 <p>Learn more by practicing number systems, pattterns, and modelling situations to solve mathematical problems.</p>
 
-                <button>Practice</button>
+                <button class="buttonStOr" onClick="location.href='1-algebra/index.html'">Practice</button>
             </div>
         </div>
         </div>
@@ -150,7 +135,7 @@
     
                     <p>Create functions that can model how variables are related to each other, to understand complex situations visually, and algebraically.</p>
     
-                    <button>Practice</button>
+                    <button class="buttonStOr">Practice</button>
                 </div>
             </div>
         </div>
@@ -168,7 +153,7 @@
         
                         <p>Use geometry and trigonometry to understand the 2D and 3D world.</p>
         
-                        <button>Practice</button>
+                        <button class="buttonStOr">Practice</button>
                     </div>
                 </div>
         </div>
@@ -186,7 +171,7 @@
             
                             <p>Interpret and analyse data to draw conclusions and make predictions.</p>
             
-                            <button>Practice</button>
+                            <button class="buttonStOr">Practice</button>
                         </div>
                     </div>
         </div>
@@ -204,7 +189,7 @@
                 
                                 <p>Understand rates of change to model problems and understand graphs.</p>
                 
-                                <button>Practice</button>
+                                <button class="buttonStOr">Practice</button>
                             </div>
                         </div>
         </div>
@@ -212,4 +197,13 @@
 
     </div>
     </div>
+
+    <div style="height: 100px;"></div>
+    <div class="footer">
+        <ImgLink onClick="location.href='index.html'">
+            <img src="../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+    </div>
+
 </div>
