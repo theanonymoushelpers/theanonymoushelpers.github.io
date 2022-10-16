@@ -1,32 +1,360 @@
+
 <html>
 
     <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../globalstyle.css">
 
+        <style>
+            .column {
+            float: left;
+            width: 23%;
+            padding: 0 10px;
+            padding-bottom: 50px;
+            height: 500px;
+            }
+
+            .row {
+            margin: 0 -5px;
+            }
+
+            .row:after {
+            content: "";
+            display: table;
+            clear: both;
+            }
+
+            @media screen and (max-width: 1250px) {
+             .column {
+            width: 100%;
+            display: block;
+            margin-bottom: 20px;
+                }
+            }
+
+            .card_img {
+            width: 100%;
+            border-radius: 12px;
+            height: 214px;
+            object-fit: cover;
+            }
+
+            #container {
+            width: 90%;
+            height: 500px;
+            margin: 0 auto;
+            margin-top: 20vh;
+            }
+
+            .card {
+            background-color: rgba(255, 255, 255, 1);
+            border: 1px solid #bacdd8;
+            padding: 8px;
+            border-radius: 12px;
+            }
+
+           
+            .tag {
+            padding: 4px 8px;
+            border: 1px solid #e5eaed;
+            border-radius: 50px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #788697;
+            }
+
+            .name {
+            font-size: 24px;
+            font-weight: 600;
+            color: black;
+            margin-top: 16px;
+            }
+
+            p {
+            font-size: 14px;
+            color: #7f8c9b;
+            line-height: 150%;
+            }
+
+            button {
+            border: none;
+            padding: 12px 24px;
+            border-radius: 5px;
+            font-weight: 600;
+            color: #8a5d16;
+            background-color: #ffdba1;
+
+            
+            margin: 0 auto;
+            display: block;
+
+            
+            cursor: pointer;
+            }
+
+            .card__details {
+            padding: 16px 8px 8px 8px;
+            }
+        </style>
     </head>
 
     <body>
-        <button onclick="redirectPage('ph-samplequiz1')">Test Quiz Structure</button>
-        <button onclick="redirectPage('ph-samplequiz2')">Test Quiz Structure 2</button>
-        <button onclick="redirectPage('ph-samplequiz3')">Test Quiz Structure 3</button>
 
-
-
-
-        <script>
-            let redirectPage = (quizNameRedirect) => {
-
-
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../index.html'">
+                        <img src="../../lib/images/tahpmLogoW.png">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../learn/index.html'">Learn</Txlink>
+                    <Txlink  onClick="location.href='../../review/index.html'">Review</Txlink>
+                    <Txlink class="active" onClick="location.href='../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../lib/images/tahpmMenuR.png">
+                    </ImgLink>
+                </div>
                 
-                var url = "../quiz.html" +
-                    "?subject=" + 'physics'  + 
-                    "&ident=" + 'phy-quizzes' +
-                    "&quizName=" + quizNameRedirect + "&questionNo" + "1";
+<div>
+    <h1 class="titleText" style="padding-top: 100px; font-size: 50px;">Practice Physics</h1>
+
+    <div class="row">
+    <div class="column">
+    <div id="container">
+        <div class="card">
+            <img class="card_img" src="" alt="Unit 1">
+
+            <div class="card_info">
+                <span class="tag">Uncertainties</span>
+                <span class="tag">Vectors</span>
+                <span class="tag">SL/HL</span>
+
+                <div class="name">Measurements</div>
+
+                <p>This unit covers the basics of measurements in physics, including uncertainties, error propagation, vectors, and scalar quantities.</p>
+
+                <button>Practice</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+            <div class="card">
+                <img class="card_img" src="" alt="Unit 2">
+    
+                <div class="card_info">
+                    <span class="tag">Motion</span>
+                    <span class="tag">Force</span>
+                    <span class="tag">SL/HL</span>
+    
+                    <div class="name">Mechanics</div>
+    
+                    <p>This unit covers forcees, momentum, motion, and energy, to describe how things work.</p>
+    
+                    <button>Practice</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                <div class="card">
+                    <img class="card_img" src="" alt="Unit 3">
+        
+                    <div class="card_info">
+                        <span class="tag">Thermodynamics</span>
+                        <span class="tag">Gasses</span>
+                        <span class="tag">SL/HL</span>
+        
+                        <div class="name">Thermal Physics</div>
+        
+                        <p></p>
+        
+                        <button>Practice</button>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                    <div class="card">
+                        <img class="card_img" src="" alt="Unit 4">
             
-                window.location.href = url;
-            }
-            </script>
+                        <div class="card_info">
+                            <span class="tag">Oscillations</span>
+                            <span class="tag">Wave Characteristics</span>
+                            <span class="tag">SL/HL</span>
+            
+                            <div class="name">Waves</div>
+            
+                            <p></p>
+            
+                            <button>Practice</button>
+                        </div>
+                    </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                        <div class="card">
+                            <img class="card_img" src="" alt="Unit 5">
+                
+                            <div class="card_info">
+                                <span class="tag">Current</span>
+                                <span class="tag">Magnetism</span>
+                                <span class="tag">SL/HL</span>
+                
+                                <div class="name">Electricity</div>
+                
+                                <p></p>
+                
+                                <button>Practice</button>
+                            </div>
+                        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="" alt="Unit 5">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Gravitation</span>
+                                    <span class="tag">Circular Motion</span>
+                                    <span class="tag">SL/HL</span>
+                    
+                                    <div class="name">Gravity</div>
+                    
+                                    <p></p>
+                    
+                                    <button>Practice</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="" alt="Unit 5">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Atoms</span>
+                                    <span class="tag">Nucleus</span>
+                                    <span class="tag">SL/HL</span>
+                    
+                                    <div class="name">Particle Physics</div>
+                    
+                                    <p></p>
+                    
+                                    <button>Practice</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="" alt="Unit 5">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Renewable</span>
+                                    <span class="tag">Energy Sources</span>
+                                    <span class="tag">SL/HL</span>
+                    
+                                    <div class="name">Energy Production</div>
+                    
+                                    <p></p>
+                    
+                                    <button>Practice</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="" alt="Unit 5">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Diffraction</span>
+                                    <span class="tag">HL</span>
+                    
+                                    <div class="name">Wave Phenomena</div>
+                    
+                                    <p></p>
+                    
+                                    <button>Practice</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                                <div class="card">
+                                    <img class="card_img" src="" alt="Unit 5">
+                        
+                                    <div class="card_info">
+                                        <span class="tag">Magnetism</span>
+                                        <span class="tag">HL</span>
+                        
+                                        <div class="name">Fields</div>
+                        
+                                        <p></p>
+                        
+                                        <button>Practice</button>
+                                    </div>
+                                </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                                <div class="card">
+                                    <img class="card_img" src="" alt="Unit 5">
+                        
+                                    <div class="card_info">
+                                        <span class="tag">Induction</span>
+                                        <span class="tag">HL</span>
+                        
+                                        <div class="name">Electromagnetic Induction</div>
+                        
+                                        <p></p>
+                        
+                                        <button>Practice</button>
+                                    </div>
+                                </div>
+        </div>
+     </div>
+     <div class="column">
+    <div id="container">
+                                <div class="card">
+                                    <img class="card_img" src="" alt="Unit 5">
+                        
+                                    <div class="card_info">
+                                        <span class="tag">Nuclear</span>
+                                        <span class="tag">Quantum</span>
+                                        <span class="tag">HL</span>
+                        
+                                        <div class="name">Quantum Physics</div>
+                        
+                                        <p></p>
+                        
+                                        <button>Practice</button>
+                                    </div>
+                                </div>
+        </div>
+    </div>
+    
+    
+    </div>
+    </div>
 
-    </body>
-</html>
+    <div style="height: 100px;"></div>
+    <div class="footer">
+        <ImgLink onClick="location.href='index.html'">
+            <img src="../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+    </div>
 
 
+</div>

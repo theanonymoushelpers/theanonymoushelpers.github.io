@@ -1,58 +1,326 @@
 
 <html>
+
     <head>
-    <style>
-    </style>
-    
-    
         <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
-        <title>TAH PM | Learn</title>
-        <meta name="description" content="Review concepts from your high school courses to keep your memory sharp, so you're ready for that next test."> 
-    
+
+        <style>
+            .column {
+            float: left;
+            width: 48%;
+            padding: 0 10px;
+            padding-bottom: 50px;
+            height: 500px;
+            }
+
+            .row {
+            margin: 0 -5px;
+            }
+
+            .row:after {
+            content: "";
+            display: table;
+            clear: both;
+            }
+
+            @media screen and (max-width: 1250px) {
+             .column {
+            width: 100%;
+            display: block;
+            margin-bottom: 20px;
+                }
+            }
+
+            .card_img {
+            width: 100%;
+            border-radius: 12px;
+            height: 214px;
+            object-fit: cover;
+            }
+
+            #container {
+            width: 90%;
+            height: 500px;
+            margin: 0 auto;
+            margin-top: 20vh;
+            }
+
+            .card {
+            background-color: rgba(206, 220, 250, 0.5);
+            padding: 8px;
+            border-radius: 12px;
+            }
+
+           
+            .tag {
+            padding: 4px 8px;
+            border: 1px solid rgba(170,180,180);
+            background-color: rgba(170,180,180);
+            border-radius: 50px;
+            font-size: 12px;
+            font-weight: 600;
+            color: white;
+            }
+
+            .name {
+            font-size: 24px;
+            font-weight: 600;
+            color: white;
+            margin-top: 16px;
+            }
+
+            p {
+            font-size: 14px;
+            color: white;
+            line-height: 150%;
+            }
+
+
+            .card_info {
+            padding: 16px 8px 8px 8px;
+            }
+        </style>
     </head>
-    
-    
-    
+
     <body>
 
-
+        
         <div class="pageHt">
             <div class="pageContentCont">
                 <div class="menuStyle">
                     <ImgLink onClick="location.href='../index.html'">
-                        <img src="../lib/images/tahpmLogoW.png">
+                        <img src="../lib/images/3.svg">
                     </ImgLink>
                     <Txlink  onClick="location.href='../learn/index.html'">Learn</Txlink>
-                    <Txlink class="active" onClick="location.href='../review/index.html'">Review</Txlink>
+                    <Txlink  class="active" onClick="location.href='../review/index.html'">Review</Txlink>
                     <Txlink  onClick="location.href='../practice/index.html'">Practice</Txlink>
                     <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
-                        <img src="../lib/images/tahpmMenuR.png">
+                        <img src="../lib/images/4.svg">
                     </ImgLink>
                 </div>
+                
+<div>
+    <h1 class="titleText" style="padding-top: 100px; font-size: 50px;">Review</h1>
+    <p class="bodyTextSm" style="font-size: 20px; font-weight: 500; width: 80%;">Select an available subject to view review sheets, example questions with solutions, and more!</p>
 
-                <div>
-                    <h1 class="titleText" style="padding-top: 100px;">Review</h1>
-                    <h1 class="head1Text">Select one of our available subjects to begin reviewing.</h1>
+    <div class="row">
+    <div class="column">
+    <div id="container">
+        <div class="card">
+            <img class="card_img" src="">
 
-                    <p class="bodyTextSm" style="padding: 20px">We're still working on this site! We're hoping to have it ready by the summer. Check our social media channels for updates about this project.</p>
+            <div class="card_info">
+                <span class="tag">Group 4</span>
+                <span class="tag">Science</span>
+                <span class="tag">Life</span>
+                <span class="tag">Anatomy</span>
+
+                <div class="name">Biology</div>
+
+                <p>Learn about the processes of life, from the environment, to animals and humans.</p>
+
+                <button class="buttonStGr" onClick="location.href='biology/index.html'">Review</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+            <div class="card">
+                <img class="card_img" src="">
+    
+                <div class="card_info">
+                    <span class="tag">Group 3</span>
+                    <span class="tag">Social Science</span>
+                    <span class="tag">Administration</span>
+                    <span class="tag">Management</span>
+    
+                    <div class="name">Business</div>
+    
+                    <p>Learn the fundamentals of how businesses operate.</p>
+    
+                    <button class="buttonStGr" onClick="location.href='business/index.html'">Review</button>
                 </div>
             </div>
-            <div class="footer">
-                <ImgLink onClick="location.href='index.html'">
-                    <img src="../lib/images/tahpmLogoW.png">
-                </ImgLink>
-                <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by the International Baccaleurate Organization, CollegeBoard, or any other academic institution. © The Anonymous Helpers 2022 </p>
-            </div>
-    
         </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                <div class="card">
+                    <img class="card_img" src="">
+        
+                    <div class="card_info">
+                        <span class="tag">Group 4</span>
+                        <span class="tag">Science</span>
+                        <span class="tag">Reactions</span>
+                        <span class="tag">Elements</span>
+        
+                        <div class="name">Chemistry</div>
+        
+                        <p></p>
+        
+                        <button class="buttonStGr" onClick="location.href='chemistry/index.html'">Review</button>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                    <div class="card">
+                        <img class="card_img" src="">
+            
+                        <div class="card_info">
+                            <span class="tag">Group 1</span>
+                            <span class="tag">Language A</span>
+                            <span class="tag">English</span>
+                            <span class="tag">Books and Literature</span>
+            
+                            <div class="name">Language and Literature</div>
+            
+                            <p></p>
+            
+                            <button class="buttonStGr" onClick="location.href='english/index.html'">Review</button>
+                        </div>
+                    </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                        <div class="card">
+                            <img class="card_img" src="">
+                
+                            <div class="card_info">
+                                <span class="tag">Group 2</span>
+                                <span class="tag">Language B</span>
+                                <span class="tag">Reading</span>
+                                <span class="tag">Writing</span>
+                                <span class="tag">Listening</span>
+                                <span class="tag">Speaking</span>
+                
+                                <div class="name">French</div>
+                
+                                <p></p>
+                
+                                <button class="buttonStGr" onClick="location.href='french/index.html'">Review</button>
+                            </div>
+                        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Group 3</span>
+                                    <span class="tag">Social Sciences</span>
+                                    <span class="tag">Topography</span>
+                                    <span class="tag">World</span>
+                    
+                                    <div class="name">Geography</div>
+                    
+                                    <p></p>
+                    
+                                    <button class="buttonStGr" onClick="location.href='geography/index.html'">Review</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Group 3</span>
+                                    <span class="tag">Social Sciences</span>
+                                    <span class="tag">Wars</span>
+                                    <span class="tag">Revolutions</span>
+                                    <span class="tag">Impact</span>
+                    
+                                    <div class="name">History</div>
+                    
+                                    <p></p>
+                    
+                                    <button class="buttonStGr" onClick="location.href='history/index.html'">Review</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Group 5</span>
+                                    <span class="tag">Analysis</span>
+                                    <span class="tag">Problem Solving</span>
+                                    <span class="tag">Graphing</span>
+                                    <span class="tag">Functions</span>
+                    
+                                    <div class="name">Math</div>
+                    
+                                    <p></p>
+                    
+                                    <button class="buttonStGr" onClick="location.href='math/index.html'">Review</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Group 4</span>
+                                    <span class="tag">Science</span>
+                                    <span class="tag">Motion</span>
+                                    <span class="tag">Mechanics</span>
+                    
+                                    <div class="name">Physics</div>
+                    
+                                    <p></p>
+                    
+                                    <button class="buttonStGr" onClick="location.href='physics/index.html'">Review</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
+        <div class="column">
+    <div id="container">
+                            <div class="card">
+                                <img class="card_img" src="">
+                    
+                                <div class="card_info">
+                                    <span class="tag">Group 2</span>
+                                    <span class="tag">Language B</span>
+                                    <span class="tag">Reading</span>
+                                    <span class="tag">Writing</span>
+                                    <span class="tag">Listening</span>
+                                    <span class="tag">Speaking</span>
+                    
+                                    <div class="name">Spanish</div>
+                    
+                                    <p></p>
+                    
+                                    <button class="buttonStGr" onClick="location.href='spanish/index.html'">Review</button>
+                                </div>
+                            </div>
+        </div>
+    </div>
     
-        </body>
+    
+    </div>
+    </div>
 
+    <div style="height: 100px;"></div>
+    <div class="footer">
+        <ImgLink onClick="location.href='index.html'">
+            <img src="../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+    </div>
 
-    
-    
-    
-    
-    </html>
-    
-    
+</div>
