@@ -37,6 +37,11 @@ var speedLower;
 var speedTimer = 0;
 var speedPointsCount = 0;
 
+//go to reuslts page with context for answer key
+var ansSubject = subjectQ;
+var ansIdent = identQ;
+var ansName = nameQ;
+
 
 //bool controls whether check or continue function is ran
 var isContinue = false;
@@ -148,15 +153,15 @@ function loadNextQuestion() {
     setInterval(function () {}, 1000);
     }
     else {
-        let redirectPage = (corrWrong, speedPointsAvg) => {
+        let redirectPage = (corrWrong, speedPointsAvg, ansSubject, ansIdent, ansName) => {
 
             var url = "results.html" +
-                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg;
+                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName;
 
             window.location.href = url;
         }
 
-        redirectPage(corr/(dataQuizLength+1)*100 + "%", speedPointsCount/(dataQuizLength+1)*10 + "%")
+        redirectPage(corr/(dataQuizLength+1)*100 + "%", speedPointsCount/(dataQuizLength+1)*10 + "%", subjectQ, identQ, nameQ)
     }
     
 }
