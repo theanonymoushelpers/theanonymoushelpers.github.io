@@ -77,13 +77,14 @@ fetch(directQ)
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-setInterval(function () {speedTimer += 1}, 1000);
+setInterval(function () {speedTimer += 1; console.log(speedTimer)}, 1000);
 
 function checkAnswer() {
     selectedValue = selection.value;
     checkButton.style.visibility = 'hidden';
     continueButton.style.visibility = 'visible';
     clearInterval();
+    console.log(speedTimer);
 
     if (selectedValue == ansValue) {
         console.log("correct")
@@ -93,14 +94,23 @@ function checkAnswer() {
         {
             speedPointsCount +=3;
         }
+        else {
+        console.log("Not achieved")
+        }
         if (speedTimer < speedMidRange[i])
         {
             speedPointsCount +=3;
         }
+        else {
+            console.log("Not achieved")
+            }
         if (speedTimer < speedUpper[i])
         {
             speedPointsCount +=4;
         }
+        else {
+            console.log("Not achieved")
+            }
         corr++;
         speedTimer = 0;
     }
