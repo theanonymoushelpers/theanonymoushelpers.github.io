@@ -34,8 +34,8 @@ var continueButton = document.getElementById("continueButton")
 var speedUpper;
 var speedMidRange;
 var speedLower;
-var speedTimer;
-var speedPointsCount;
+var speedTimer = 0;
+var speedPointsCount = 0;
 
 
 //bool controls whether check or continue function is ran
@@ -71,13 +71,14 @@ fetch(directQ)
         speedUpper = dataQA[i]["timeUpper"]
         speedMidRange = dataQA[i]["timeMid"]
         speedLower = dataQA[i]["timeLower"]
+        console.log("Speed Upper Req:" + speedUpper)
        } )
 
 
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-setInterval(function () {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
+setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
 
 function checkAnswer() {
     selectedValue = selection.value;
@@ -90,21 +91,22 @@ function checkAnswer() {
         console.log("correct")
         console.log(ansValue)
         console.log(selectedValue)
-        if (speedTimer < speedLower[i])
+        console.log("Speed Upper Req:" + speedUpper)
+        if (speedTimer < speedLower)
         {
             speedPointsCount +=3;
         }
         else {
         console.log("Not achieved")
         }
-        if (speedTimer < speedMidRange[i])
+        if (speedTimer < speedMidRange)
         {
             speedPointsCount +=3;
         }
         else {
             console.log("Not achieved")
             }
-        if (speedTimer < speedUpper[i])
+        if (speedTimer < speedUpper)
         {
             speedPointsCount +=4;
         }
@@ -114,17 +116,18 @@ function checkAnswer() {
         corr++;
         console.log("Speed timer:" + speedTimer);
         console.log("Total speed points:" + speedPointsCount);
-        speedTimer = 0;
+        
     }
-    else console.log("wrong")
+    else {console.log("wrong")
         console.log(ansValue)
         console.log(selectedValue)
         inco++;
-        speedTimer = 0;
+        
     }
-
+}
 
 function loadNextQuestion() {
+
     //if question count is less than 10, load next question, otherwise go to results page with context
     if (i < dataQuizLength) {
     i++;
@@ -135,9 +138,14 @@ function loadNextQuestion() {
     o3.textContent = dataQA[i]["a3"]
     o4.textContent = dataQA[i]["a4"]
     ansValue = dataQA[i]["ans"];
+    speedUpper = dataQA[i]["timeUpper"]
+    speedMidRange = dataQA[i]["timeMid"]
+    speedLower = dataQA[i]["timeLower"]
+    console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';
     checkButton.style.visibility = 'visible';
-    setInterval(function () {speedTimer += 1}, 1000);
+    speedTimer = 0;
+    setInterval(function () {}, 1000);
     }
     else {
         let redirectPage = (corrWrong, speedPointsAvg) => {
@@ -148,7 +156,7 @@ function loadNextQuestion() {
             window.location.href = url;
         }
 
-        redirectPage(corr/inco*100 + "%", speedPointsCount/(dataQuizLength+1)*100 + "%")
+        redirectPage(corr/(dataQuizLength+1)*100 + "%", speedPointsCount/(dataQuizLength+1)*10 + "%")
     }
     
 }
