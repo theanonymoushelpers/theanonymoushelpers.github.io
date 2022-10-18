@@ -10,9 +10,9 @@
             "a3": "Nucleus",
             "a4": "Mitochondria",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15
+            "timeUpper": 70,
+            "timeMid": 120,
+            "timeLower": 150
         },
         {
             "qu": "Question2 BioSample",
@@ -21,9 +21,9 @@
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15
+            "timeUpper": 700,
+            "timeMid": 1200,
+            "timeLower": 1500
         },
         {
             "qu": "Question3 BioSample",
