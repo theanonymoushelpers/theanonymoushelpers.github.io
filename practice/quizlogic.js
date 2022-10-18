@@ -36,7 +36,6 @@ var speedMidRange;
 var speedLower;
 var speedTimer;
 var speedPointsCount;
-var speedPointsAvg;
 
 
 //bool controls whether check or continue function is ran
@@ -129,16 +128,15 @@ function loadNextQuestion() {
     setInterval(function () {speedTimer += 1}, 1000);
     }
     else {
-        speedPointsAvg = speedPointsCount/(dataQuizLength+1)
-        let redirectPage = (corrWrong) => {
+        let redirectPage = (corrWrong, speedPointsAvg) => {
 
             var url = "results.html" +
                 "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg;
-                
+
             window.location.href = url;
         }
 
-        redirectPage(corr/(dataQuizLength+1)*100 + "%")
+        redirectPage(corr/inco*100 + "%", speedPointsCount/(dataQuizLength+1)*100 + "%")
     }
     
 }
