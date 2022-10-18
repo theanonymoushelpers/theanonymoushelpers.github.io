@@ -12,6 +12,10 @@ var questionN = getQuizParameter('questionNo')
 var directQ = subjectQ + "/" + identQ + "/" + nameQ + ".json"
 console.log(directQ);
 
+
+//this includes data for quiz length
+var dataQuizLength;
+
 //this array stores info of json file
 var dataQA;
 
@@ -26,6 +30,13 @@ var ansExplain;
 var checkButton = document.getElementById("checkButton")
 var continueButton = document.getElementById("continueButton")
 
+//speedscore variable
+var speedUpper;
+var speedMidRange;
+var speedLower;
+var speedTimer;
+var speedPointsCount;
+var speedPointsAvg;
 
 
 //bool controls whether check or continue function is ran
@@ -48,6 +59,7 @@ fetch(directQ)
     .then(response => response.json())
     .then(data => {
         dataQA = data["questionList"]
+        dataQuizLength = data["quCountMinusOne"]
         //console log validates data is loading correctly for debugging.
         console.log(data)
         console.log(data.quizID)
@@ -56,36 +68,54 @@ fetch(directQ)
         o2.textContent = dataQA[i]["a2"]
         o3.textContent = dataQA[i]["a3"]
         o4.textContent = dataQA[i]["a4"]
-        ansValue = dataQA[i]["ans"];
+        ansValue = dataQA[i]["ans"]
+        speedUpper = dataQA[i]["timeUpper"]
+        speedMidRange = dataQA[i]["timeLMid"]
+        speedLower = dataQA[i]["timeLower"]
        } )
 
 
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-
+setInterval(function () {speedTimer += 1}, 1000);
 
 function checkAnswer() {
     selectedValue = selection.value;
     checkButton.style.visibility = 'hidden';
     continueButton.style.visibility = 'visible';
+    clearInterval();
+
     if (selectedValue == ansValue) {
         console.log("correct")
         console.log(ansValue)
         console.log(selectedValue)
+        if (speedTimer < speedLower[i])
+        {
+            speedPointsCount +=3;
+        }
+        if (speedTimer < speedMidRange[i])
+        {
+            speedPointsCount +=3;
+        }
+        if (speedTimer < speedUpper[i])
+        {
+            speedPointsCount +=4;
+        }
         corr++;
+        speedTimer = 0;
     }
     else console.log("wrong")
         console.log(ansValue)
         console.log(selectedValue)
         inco++;
-
-}
+        speedTimer = 0;
+    }
 
 
 function loadNextQuestion() {
     //if question count is less than 10, load next question, otherwise go to results page with context
-    if (i < 9) {
+    if (i < dataQuizLength) {
     i++;
     console.log(i)
     questionDisplay.textContent = dataQA[i]["qu"]
@@ -96,18 +126,19 @@ function loadNextQuestion() {
     ansValue = dataQA[i]["ans"];
     continueButton.style.visibility = 'hidden';
     checkButton.style.visibility = 'visible';
+    setInterval(function () {speedTimer += 1}, 1000);
     }
     else {
+        speedPointsAvg = speedPointsCount/(dataQuizLength+1)
         let redirectPage = (corrWrong) => {
 
             var url = "results.html" +
-                "?quizPercent=" + corrWrong;
-     //CHANGE RIGHT AND WRONG TO VARIABLES
-        
+                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg;
+                
             window.location.href = url;
         }
 
-        redirectPage(corr/inco*100 + "%")
+        redirectPage(corr/(dataQuizLength+1)*100 + "%")
     }
     
 }
