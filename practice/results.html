@@ -8,15 +8,16 @@
 <div style="height: 150px;"></div>
 <h1 style="text-align: center; font-size:55px">Great work!</h1>
 
-<div id="scoring" style="text-align: center; font-size:26px">
-<p id="score"></p>
-<p id="speed"></p>
+<div id="scoring" style="text-align: center; font-size:26px; width: 25%; margin: auto;">
+<p class="buttonStOr" style="margin-bottom: 40px;" id="score"></p>
+<p class="buttonStOr" id="speed"></p>
 </div>
 
 <div id="answerKey">
 </div>
 
 <div id="quitSave">
+    <button class="buttonStPr" style="margin-top: 150px; width: 180px;">Save and Exit</button>
 </div>
 
 
@@ -35,9 +36,7 @@ var speedP = getQuizParameter('speedScore')
 var sc = document.getElementById("score");
 var sp = document.getElementById("speed");
 
-sc.textContent = "You scored " + scoreP + "!"
-sp.textContent = "Your speed score was " + speedP + "!"
-
-
+sc.textContent = "You scored " + scoreP
+sp.textContent = "Your speed score was " + speedP
 </script>
 </html>
