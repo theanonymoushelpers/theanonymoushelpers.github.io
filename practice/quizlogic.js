@@ -77,7 +77,7 @@ fetch(directQ)
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-setInterval(function () {speedTimer += 1; console.log(speedTimer)}, 1000);
+setInterval(function () {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
 
 function checkAnswer() {
     selectedValue = selection.value;
@@ -112,6 +112,8 @@ function checkAnswer() {
             console.log("Not achieved")
             }
         corr++;
+        console.log("Speed timer:" + speedTimer);
+        console.log("Total speed points:" + speedPointsCount);
         speedTimer = 0;
     }
     else console.log("wrong")
