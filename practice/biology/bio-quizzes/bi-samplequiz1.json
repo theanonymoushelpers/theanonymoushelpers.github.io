@@ -1,6 +1,7 @@
 {
     "quizID": 1000,
     "title": "Biology Sample Quiz",
+    "quCountMinusOne": 9, 
     "questionList": [
         {
             "qu": "What is the powerhouse of the cell?",
@@ -8,7 +9,10 @@
             "a2": "Cell Membrane",
             "a3": "Nucleus",
             "a4": "Mitochondria",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question2 BioSample",
@@ -16,7 +20,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question3 BioSample",
@@ -24,7 +31,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question4 BioSample",
@@ -32,7 +42,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question5 BioSample",
@@ -40,7 +53,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question6 BioSample",
@@ -48,7 +64,11 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
+            
         },
         {
             "qu": "Question7 BioSample",
@@ -56,7 +76,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question8 BioSample",
@@ -64,7 +87,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question9 BioSample",
@@ -72,7 +98,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         },
         {
             "qu": "Question10 BioSample",
@@ -80,7 +109,10 @@
             "a2": "Answer2 BioSample",
             "a3": "Answer3 BioSample",
             "a4": "Answer4 BioSample",
-            "ans": 4
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15
         }
 
 
