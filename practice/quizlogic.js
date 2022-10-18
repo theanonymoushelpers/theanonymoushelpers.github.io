@@ -69,7 +69,7 @@ fetch(directQ)
         o4.textContent = dataQA[i]["a4"]
         ansValue = dataQA[i]["ans"]
         speedUpper = dataQA[i]["timeUpper"]
-        speedMidRange = dataQA[i]["timeLMid"]
+        speedMidRange = dataQA[i]["timeMid"]
         speedLower = dataQA[i]["timeLower"]
        } )
 
