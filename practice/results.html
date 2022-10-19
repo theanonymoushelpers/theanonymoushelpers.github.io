@@ -2,22 +2,35 @@
 
     <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
 
+    <style>
+
+        
+        #speedscore {
+            color: white;
+            font-size: 20px;
+        }
+
+    </style>
 
 <body>
 
 <div style="height: 150px;"></div>
 <h1 style="text-align: center; font-size:55px">Great work!</h1>
 
-<div id="scoring" style="text-align: center; font-size:26px; width: 25%; margin: auto;">
-<p class="buttonStOr" style="margin-bottom: 40px;" id="score"></p>
-<p class="buttonStOr" id="speed"></p>
+<div id="scoring" style="text-align: center; font-size:26px; margin: auto;">
+<button class="buttonStOr collapsible" style="margin-bottom: 40px; width: 350px;" id="score"></button>
+<button class="buttonStOr" id="speed" style="width: 350px; margin-bottom: 40px;"></button>
+    <div id="speedscore" style="width: 500px; margin: auto;">
+        Your SpeedScore helps you keep pace so that when you go into exams, you can recall information faster and get through more questions.
+            Each question is weighted based on around how long it takes the majority of people to answer the question.
+    </div>
 </div>
 
 <div id="answerKey">
 </div>
 
 <div id="quitSave">
-    <button class="buttonStPr" style="margin-top: 150px; width: 180px;">Save and Exit</button>
+    <button class="buttonStPr" style="margin-top: 150px; width: 180px;" onClick="location.href='../practice/index.html'">Save and Exit</button>
 </div>
 
 
@@ -42,5 +55,6 @@ var sp = document.getElementById("speed");
 
 sc.textContent = "You scored " + scoreP
 sp.textContent = "Your speed score was " + speedP
+
 </script>
 </html>
