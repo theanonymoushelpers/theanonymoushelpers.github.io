@@ -12,6 +12,10 @@ var questionN = getQuizParameter('questionNo')
 var directQ = subjectQ + "/" + identQ + "/" + nameQ + ".json"
 console.log(directQ);
 
+
+//this includes data for quiz length
+var dataQuizLength;
+
 //this array stores info of json file
 var dataQA;
 
@@ -26,6 +30,17 @@ var ansExplain;
 var checkButton = document.getElementById("checkButton")
 var continueButton = document.getElementById("continueButton")
 
+//speedscore variable
+var speedUpper;
+var speedMidRange;
+var speedLower;
+var speedTimer = 0;
+var speedPointsCount = 0;
+
+//go to reuslts page with context for answer key
+var ansSubject = subjectQ;
+var ansIdent = identQ;
+var ansName = nameQ;
 
 
 //bool controls whether check or continue function is ran
@@ -48,6 +63,7 @@ fetch(directQ)
     .then(response => response.json())
     .then(data => {
         dataQA = data["questionList"]
+        dataQuizLength = data["quCountMinusOne"]
         //console log validates data is loading correctly for debugging.
         console.log(data)
         console.log(data.quizID)
@@ -56,36 +72,69 @@ fetch(directQ)
         o2.textContent = dataQA[i]["a2"]
         o3.textContent = dataQA[i]["a3"]
         o4.textContent = dataQA[i]["a4"]
-        ansValue = dataQA[i]["ans"];
+        ansValue = dataQA[i]["ans"]
+        speedUpper = dataQA[i]["timeUpper"]
+        speedMidRange = dataQA[i]["timeMid"]
+        speedLower = dataQA[i]["timeLower"]
+        console.log("Speed Upper Req:" + speedUpper)
        } )
 
 
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-
+setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
 
 function checkAnswer() {
     selectedValue = selection.value;
     checkButton.style.visibility = 'hidden';
     continueButton.style.visibility = 'visible';
+    clearInterval();
+    console.log(speedTimer);
+
     if (selectedValue == ansValue) {
         console.log("correct")
         console.log(ansValue)
         console.log(selectedValue)
+        console.log("Speed Upper Req:" + speedUpper)
+        if (speedTimer < speedLower)
+        {
+            speedPointsCount +=3;
+        }
+        else {
+        console.log("Not achieved")
+        }
+        if (speedTimer < speedMidRange)
+        {
+            speedPointsCount +=3;
+        }
+        else {
+            console.log("Not achieved")
+            }
+        if (speedTimer < speedUpper)
+        {
+            speedPointsCount +=4;
+        }
+        else {
+            console.log("Not achieved")
+            }
         corr++;
+        console.log("Speed timer:" + speedTimer);
+        console.log("Total speed points:" + speedPointsCount);
+        
     }
-    else console.log("wrong")
+    else {console.log("wrong")
         console.log(ansValue)
         console.log(selectedValue)
         inco++;
-
+        
+    }
 }
 
-
 function loadNextQuestion() {
+
     //if question count is less than 10, load next question, otherwise go to results page with context
-    if (i < 9) {
+    if (i < dataQuizLength) {
     i++;
     console.log(i)
     questionDisplay.textContent = dataQA[i]["qu"]
@@ -94,20 +143,25 @@ function loadNextQuestion() {
     o3.textContent = dataQA[i]["a3"]
     o4.textContent = dataQA[i]["a4"]
     ansValue = dataQA[i]["ans"];
+    speedUpper = dataQA[i]["timeUpper"]
+    speedMidRange = dataQA[i]["timeMid"]
+    speedLower = dataQA[i]["timeLower"]
+    console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';
     checkButton.style.visibility = 'visible';
+    speedTimer = 0;
+    setInterval(function () {}, 1000);
     }
     else {
-        let redirectPage = (corrWrong) => {
+        let redirectPage = (corrWrong, speedPointsAvg, ansSubject, ansIdent, ansName) => {
 
             var url = "results.html" +
-                "?quizPercent=" + corrWrong;
-     //CHANGE RIGHT AND WRONG TO VARIABLES
-        
+                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName;
+
             window.location.href = url;
         }
 
-        redirectPage(corr/inco*100 + "%")
+        redirectPage(corr/(dataQuizLength+1)*100 + "%", speedPointsCount/(dataQuizLength+1)*10 + "%", subjectQ, identQ, nameQ)
     }
     
 }

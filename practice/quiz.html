@@ -48,10 +48,12 @@
   margin-right: 20px;
   display: list-item;
   cursor: pointer;
-  border:rgb(200, 186, 234) solid 1px;
-  border-radius: 5px;
-  color: rgb(200, 186, 234);
+  color: #8a5d16;
+    background-color: #ffdba1;
+    font-size: 20px;
+    border-radius: 25px;
 }
+
 
 </style>
 
@@ -64,7 +66,7 @@
 
         
         <div>
-          <button style="margin-right: 95%; text-align: left;" onclick="location.href='index.html'">Exit</button>
+          <img style="margin-right: 95%; text-align: left; height: 50px; width: 50px;" onclick="location.href='index.html'" src="../lib/images/x.svg"></img>
             <div class="progress"> 
                 <div class="progress_bar"></div>
             </div>
@@ -73,7 +75,7 @@
         <div><h1 id="quDisplay" style="margin: auto; text-align: center; margin-bottom: 30px;">Question</h1></div>
         <div><body style="margin: auto; text-align: center; margin-bottom: 70px;"></body></div>
 
-        <select name="options" id="multiplechoice" multiple>
+        <select required name="options" id="multiplechoice" multiple>
         <div><option value="1" id="a1Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 1</option></div>
         <div><option value="2" id="a2Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 2</option></div>
         <div><option value="3" id="a3Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 3</option></div>
@@ -81,8 +83,8 @@
         </select>
 
 
-        <div><button id="checkButton" class="buttonB" style="margin: auto; text-align: center;">Check</button></div>
-        <div><button id="continueButton" class="buttonB" style="margin: auto; text-align: center; visibility: hidden;" onclick="progressMove()">Continue</button></div>
+        <div><button id="checkButton" class="buttonStGr" style="margin: auto; text-align: center;">Check</button></div>
+        <div><button id="continueButton" class="buttonStOr" style="margin: auto; text-align: center; visibility: hidden;" onclick="progressMove()">Continue</button></div>
 
 
         <script>

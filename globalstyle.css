@@ -344,3 +344,7 @@ line-height: 1.4;
     filter: blur(30px); 
     opacity: 1;
 }
+
+img {
+    object-fit: cover;
+}
