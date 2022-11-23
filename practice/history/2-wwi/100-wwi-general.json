@@ -1,0 +1,254 @@
+{
+    "quizID": "WWI - General Review",
+    "title": "History WW1",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Which flower became a symbol of World War I?",
+            "a1": "Poppy",
+            "a2": "Rose",
+            "a3": "Tulip",
+            "a4": "Sunflower",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Poppy."
+        },
+        {
+            "qu": "Why did Russia quit fighting World War I?",
+            "a1": "Not enough conscripts",
+            "a2": "They surrendered",
+            "a3": "Communist revolution",
+            "a4": "Achieved its objective",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The bolshevik revolution overthrew the Tsar in 1917, thus Russia pulled out of the war."
+        },
+        {
+            "qu": "Which deadly World War I weapon was outlawed in the Geneva Protocol of 1925?",
+            "a1": "Mines",
+            "a2": "Flamethrowers",
+            "a3": "Cannons",
+            "a4": "Mustard gas",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The mustard gas, a chemical weapon, was outlawed."
+        },
+        {
+            "qu": "In which battle was poison gas first used effectively as a weapon in World War I?",
+            "a1": "The Battle of Somme",
+            "a2": "Second Battle of Ypres",
+            "a3": "The Battle of Verdun",
+            "a4": "The Battle of Vimy Ridge",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The second battle of Ypres was the first time Germans use poison gas."
+        },
+        {
+            "qu": "Which is the other name for the Battle of Passchendaele?",
+            "a1": "The Battle of the Scheldt",
+            "a2": "The Battle of the Meuse River ",
+            "a3": "Third Battle of Ypres",
+            "a4": "The Fourth Battle of Antwerp ",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Third Battle of Ypres."
+        },{
+            "qu": "In which year did the Battle of Verdun start?",
+            "a1": "1916",
+            "a2": "1917",
+            "a3": "1915",
+            "a4": "1918",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "1916"
+        },
+        {
+            "qu": "Who was the prime minister of the United Kingdom at the end of World War I?",
+            "a1": "David Lloyd George",
+            "a2": "Winston Churchill",
+            "a3": "Neville Chamberlain",
+            "a4": "Stanley Baldwin",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "David Lloyd George."
+        },
+        {
+            "qu": "What novel way were French troops transported to the First Battle of the Marne, just 30 miles from Paris?",
+            "a1": "Planes",
+            "a2": "Tractors",
+            "a3": "Bicycles",
+            "a4": "Taxicabs",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "All must make way for the French Taxi!"
+        },
+        {
+            "qu": "Who was the prime minister of France at the end of World War I?",
+            "a1": "Emmauel Macron",
+            "a2": "Georges Clemenceau",
+            "a3": "Charles de Gaulle",
+            "a4": "Joseph Joffre",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Georges Clemenceau."
+        },
+        {
+            "qu": "Which weapon was first used at the Battle of the Somme in World War I?",
+            "a1": "Gas",
+            "a2": "Auto-cannons",
+            "a3": "Tank",
+            "a4": "Anti-tank guns",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The tanks."
+        },
+        {
+            "qu": "Which nickname was given to U.S. infantrymen?",
+            "a1": "Jerries",
+            "a2": "Doughboys",
+            "a3": "Duckies",
+            "a4": "Yorks",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Doughboys."
+        },
+        {
+            "qu": "When did the United States enter World War I?",
+            "a1": "1918",
+            "a2": "1916",
+            "a3": "1919",
+            "a4": "1917",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The US offically joined in 1917."
+        },
+        {
+            "qu": "What were aerial battles between fighter aircraft called?",
+            "a1": "Chase",
+            "a2": "Aerial targetting",
+            "a3": "Dogfight",
+            "a4": "Catfight",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Dogfight is the option."
+        },
+        {
+            "qu": "The greatest number of casualties and wounds in World War I were caused by what?",
+            "a1": "Gas",
+            "a2": "Artillery",
+            "a3": "Machine gun",
+            "a4": "Grenades",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The sharpnel from artillery caused the greatest amount of death."
+        },
+        {
+            "qu": "Which German aviator is credited with shooting down 80 enemy aircraft in World War I?",
+            "a1": "Erich Hartmann",
+            "a2": "Manfred Von Richthofen",
+            "a3": "Otto Kittel",
+            "a4": "Wilhelm Batz",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Von Richthofen - Red Baron."
+        },
+        {
+            "qu": "Which of these innovations helped end World War I style of trench warfare?",
+            "a1": "Shotguns",
+            "a2": "Tanks",
+            "a3": "Planes",
+            "a4": "Anti-tank guns",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The tanks."
+        },
+        {
+            "qu": "Which animals were frequently used to carry messages during World War I?",
+            "a1": "Dogs",
+            "a2": "Eagles",
+            "a3": "Pigs",
+            "a4": "Pigeons",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The pigeons were commonly used on both sides."
+        },
+        {
+            "qu": "The “Zimmermann Telegram” revealed Germany’s intent to entice which country to join it against the U.S.?",
+            "a1": "Canada",
+            "a2": "Mexico",
+            "a3": "Japan",
+            "a4": "Spain",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Mexico"
+        },
+        {
+            "qu": "How were aircraft primarily used at the beginning of World War I?",
+            "a1": "Air supermacy",
+            "a2": "Locating targets for artillery",
+            "a3": "Dogfight",
+            "a4": "Air transport",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Locating targets for artillery."
+        },
+        {
+            "qu": "Which Canadian fighter pilot is credited with shooting down 72 German aircraft?",
+            "a1": "Billy Bishop",
+            "a2": "Arthur Currie",
+            "a3": "Wilfrid Reid May",
+            "a4": "William George Barker",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Bily Bishop."
+        }
+
+
+
+
+
+
+    ]
+}
+

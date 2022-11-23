@@ -1,12 +1,51 @@
 <html>
 <head>
-<style>
-</style>
+    <style>
+        @media screen and (max-width: 1400px) {
+        #mainPageTitle {
+        padding-top: 250px;
+        }
+
+        .centerTopTextOverlay {
+        font-size: 30px;
+        }
+        }
+
+        .colorP {
+        color: #56168a;
+        background-color: #c0a1ff;
+        }
+
+        .colorP::before {
+        background: #a844fa;
+        }
+
+        .colorG {
+        color: #238a16;
+        background-color: #a2ffa1;
+        }
+
+        .colorG::before {
+        background: #4bea36;
+        }
+
+        .colorO {
+        color: #8a5d16;
+        background-color: #ffdba1;
+        }
+
+        .colorO::before {
+        background: #ffb742;
+        }
 
 
+        </style>
+
+    <script defer src="animate.js"></script>
     <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="globalstyle.css">
     <title>TAH | Practice Mode</title>
-    <meta name="description" content="Learn, review, and practice IB topics with ease."> 
+    <link rel="icon" type="image/x-icon" href="lib/images/favicon.ico">
+    <meta name="description" content="Learn, review, and practice high school topics with ease."> 
 
 </head>
 
@@ -17,72 +56,97 @@
 
     <div class="pageHt">
         <div class="pageContentCont">
-          
-         
+            <div class="menuStyle">
+                <ImgLink class="active" href="#home">
+                    <img src="lib/images/3.svg">
+                </ImgLink>
+                <Txlink  onClick="location.href='learn/index.html'">Learn</Txlink>
+                <Txlink  onClick="location.href='review/index.html'">Review</Txlink>
+                <Txlink  onClick="location.href='practice/index.html'">Practice</Txlink>
+                <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                    <img src="lib/images/4.svg">
+                </ImgLink>
+            </div>
+            
             <div>
-                <h1 class="titleText" style="padding-top: 100px; font-size: 50px;"></h1>
+                <div id="mainPageTitle" class="titleText" style="height: 40px;"></div>
 
                 <div class="container">
-                    <img src="lib/images/tah_summer.png" width="60%" height="75%" style="border-radius: 20px; display:block; margin-left:auto; margin-right:auto;">
-                    <h1 class="centerTopTextOverlay" style="font-size: 50px; width: 55%;">Welcome to The Anonymous Helpers: Practice Mode!</h1>
+                    <img src="lib/images/tah_summer.png" width="100%" height="100%" style="display:block; margin-left:auto; margin-right:auto;">
+                    <h1 class="centerTopTextOverlay hiddenAnimate" style="font-size: 40px; width: 55%;">Welcome to The Anonymous Helpers: Practice Mode!</h1>
 
-                    <p class="centerBottomTextOverlay" style="font-size: 25px; width: 55%;">A brand new experience designed to help you master your courses! Coming November 2022.</p>
+                    <p class="centerBottomTextOverlay hiddenAnimate" style="font-size: 25px; width: 55%;">Let's start learning.</p>
+
+                    <span>
+                        <button class="centerButtonOverlay colorP hiddenAnimate" style="left: 20%; transition-delay: 400ms;" onClick="location.href='learn/index.html'">Learn</button>
+                        <button class="centerButtonOverlay colorG hiddenAnimate" style="left: 50%; transition-delay: 800ms;" onClick="location.href='review/index.html'">Review</button>
+                        <button class="centerButtonOverlay colorO hiddenAnimate" style="left: 80%; transition-delay: 1200ms;" onClick="location.href='practice/index.html'">Practice</button>
+                    </span>
                 </div>
 
-                <p class="bodyTextSm" style="padding-bottom: 100px;"></p>
+                <p class="bodyTextSm" style="padding-bottom: 0px;"></p>
 
                 <div class="container">
-                    <img src="lib/images/tah_main2.png" width="60%" height="75%" style="border-radius: 20px; display:block; margin-left:auto; margin-right:auto;">
-                    <h1 class="centerTopMidTextOverlay" style="font-size: 50px; width: 55%;">Find the content you need, fast.</h1>
+                    <img src="lib/images/tah_main2.png" width="100%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
+                    <h1 class="centerTopMidTextOverlay hiddenAnimate" style="font-size: 50px; width: 55%;">Find the content you need, fast.</h1>
 
-                    <p class="centerBottomMidTextOverlay" style="font-size: 25px; width: 55%;">With hundreds of tutorials and quizzes, remembering what you need to know for your next exam just got easier.</p>
+                    <p class="centerBottomMidTextOverlay hiddenAnimate" style="font-size: 25px; width: 55%;">With a wide breadth of subjects, and content that covers a wide breadth of topics, our website is designed to be used by high school students taking many different curriculums.</p>
                 </div>
 
-                <p class="bodyTextSm" style="padding-bottom: 100px;"></p>
+                <p class="bodyTextSm" style="padding-bottom: 0px;"></p>
 
                 <div class="container">
-                    <img src="lib/images/tah_main3.png" width="60%" height="75%" style="border-radius: 20px; display:block; margin-left:auto; margin-right:auto;">
-                    <h1 class="centerTopMidTextOverlay" style="font-size: 50px; width: 55%;">Learn the how.</h1>
+                    <img src="lib/images/tah_main3.png" width="100%" height="100%" style="display:block; margin-left:auto; margin-right:auto;">
+                    <h1 class="centerTopMidTextOverlay hiddenAnimate" style="font-size: 50px; width: 55%;">Learn the how.</h1>
 
-                    <p class="centerBottomMidTextOverlay" style="font-size: 25px; width: 55%;">With tutorials, you'll be able to learn new concepts in no time. You can watch or read a tutorial, and try relevant practice questions to that tutorial, to get ahead and also gain a deeper understanding of each topic.</p>
-                </div>
-                
-                <p class="bodyTextSm" style="padding-bottom: 100px;"></p>
-
-                <div class="container">
-                    <img src="lib/images/tah_main4.png" width="60%" height="75%" style="border-radius: 20px; display:block; margin-left:auto; margin-right:auto;">
-                    <h1 class="centerTopMidTextOverlay" style="font-size: 50px; width: 55%;">Practice makes perfect.</h1>
-
-                    <p class="centerBottomMidTextOverlay" style="font-size: 25px; width: 55%;">We offer practice tests and quizzes to suit your needs, from multiple choice quizzes that give you feedback on the spot, to question generators that help you articulate and organize ideas, and give you general feedback to help guide your writing and make your points clearer.</p>
+                    <p class="centerBottomMidTextOverlay hiddenAnimate" style="font-size: 25px; width: 55%;">With tutorials, you'll be able to learn new concepts in no time. You can watch or read a tutorial, and try relevant practice questions to that tutorial, to get ahead and also gain a deeper understanding of each topic.</p>
                 </div>
                 
-                <p class="bodyTextSm" style="padding-bottom: 100px;"></p>
+                <p class="bodyTextSm" style="padding-bottom: 0px;"></p>
 
                 <div class="container">
-                    <img src="lib/images/tah_main5.png" width="60%" height="75%" style="border-radius: 20px; display:block; margin-left:auto; margin-right:auto;">
-                    <h1 class="centerTopMidTextOverlay" style="font-size: 50px; width: 55%;">Always free.</h1>
+                    <img src="lib/images/tah_main4.png" width="100%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
+                    <h1 class="centerTopMidTextOverlay hiddenAnimate" style="font-size: 50px; width: 55%;">Practice makes perfect.</h1>
 
-                    <p class="centerBottomMidTextOverlay" style="font-size: 25px; width: 55%;">Practice mode is made by students, for students. Our goal is to help every student succeed, by providing free materials to everyone.</p>
+                    <p class="centerBottomMidTextOverlay hiddenAnimate" style="font-size: 25px; width: 55%;">We offer practice tests and quizzes with hundreds of questions to suit your needs, from multiple choice quizzes to recall/produced answers (coming soon), that reinforce learning for each topic you study.</p>
                 </div>
                 
-                <p class="bodyTextSm" style="padding-bottom: 100px;"></p>
+                <p class="bodyTextSm" style="padding-bottom: 0px;"></p>
+
+                <div class="container">
+                    <img src="lib/images/tah_main5.png" width="100%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
+                    <h1 class="centerTopMidTextOverlay hiddenAnimate" style="font-size: 50px; width: 55%;">Always free.</h1>
+
+                    <p class="centerBottomMidTextOverlay hiddenAnimate" style="font-size: 25px; width: 55%;">Access a growing library of many quizzes, articles, videos, and more, for free. Created by students, for students.</p>
+                </div>
                 
-                <button  class="buttonStOr" onClick="location.href='https://theanonymoushelper.wixsite.com/home'">Back to old website</button>
+                <p class="bodyTextSm" style="padding-bottom: 0px;"></p>
+
 
             </div>
 
         </div>
-        <div class="footer">
-            <ImgLink onClick="location.href='index.html'">
+        <div class="footer hiddenAnimate">
+            <ImgLink class="hiddenAnimate" onClick="location.href='index.html'">
                 <img src="lib/images/2.svg">
             </ImgLink>
-            <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
-        </div>
+            <p class="bodyTextSm hiddenAnimate" style="transition-delay: 100ms;">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+            <div style="height: 35px"></div>
+            <div style=" margin: auto;">
+                <ImgLink class="hiddenAnimate" style="transition-delay: 200ms;" width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                    <img width="32" height="22" src="lib/images/logo_yt.png">
+                </ImgLink>
+                <ImgLink class="hiddenAnimate" style="transition-delay: 400ms;" width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                    <img width="22" height="22" src="lib/images/logo_insta.png">
+                </ImgLink>
+                <ImgLink class="hiddenAnimate" style="transition-delay: 600ms;" width="16" height="16" onClick="location.href='about/index.html'">
+                    <img width="22" height="22" src="lib/images/logo_aboutus.png">
+                </ImgLink>
+            </div>
 
     </div>
 
     </body>
-
 
 
 

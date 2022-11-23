@@ -1,0 +1,262 @@
+{
+    "quizID": 1000,
+    "title": "Introduction to the Principles of Business",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "What is the management function of using/developing people within a business?",
+            "a1": "Operations",
+            "a2": "Human resource",
+            "a3": "Finance and accounts",
+            "a4": "Marketing",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Human resource management or HRM."
+        },
+        {
+            "qu": "What is not a role of HRM?",
+            "a1": "Recruitment",
+            "a2": "Looking after employees' wellbeing",
+            "a3": "Production process",
+            "a4": "Staff training",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Production process is part of operations management."
+        },
+        {
+            "qu": "How is labour turnover rate calculated? (omitting the *100 at the end for %) ",
+            "a1": "number of staff leaving / total number of staff",
+            "a2": "number of staff in work / total number of staff",
+            "a3": "total number of staff - number of staff leaving / total number of staff",
+            "a4": "number of staff in work + total number of staff / number of staff leaving",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Labour turnover rate = number of staff leaving / total number of staff `*` 100."
+        },
+        {
+            "qu": "What does CLAMPS stand for?",
+            "a1": "Challenge, location, advancement, money, pride, security",
+            "a2": "Challenge, level, advancement, money, price, security",
+            "a3": "Challenge, location, autonomy, money, price, security",
+            "a4": "Challenge, location, autonomy, merit, pride, security",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "CRAMPS - acronym for main reasons for leaving jobs."
+        },
+        {
+            "qu": "What is not an effect of an ageing population accompanied by a decreased birth rate?",
+            "a1": "Change in population dependency",
+            "a2": "Change in labour mobility",
+            "a3": "Change in consumption patterns",
+            "a4": "Change in technological advancement",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Technological advancement doesn't have to do with the ageing population."
+        },
+        {
+            "qu": "How is the net migration rate calculated?",
+            "a1": "Immigrants - emmigrants / immigrants",
+            "a2": "Immigrants / emmigrants",
+            "a3": "Immigrants - emmigrants",
+            "a4": "Emmigrants - immigrants",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Net migration rate = immigrants - emmigrants (people leaving)."
+        },
+        {
+            "qu": "Which doesn't experience change due to new communcation technologies?",
+            "a1": "Recruitment",
+            "a2": "Appraisals",
+            "a3": "Retirement age",
+            "a4": "Flexitime",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Retirement age is caused by demographic changes."
+        },
+        {
+            "qu": "What does the TRAPS acronym stand for?",
+            "a1": "Truthful, relevant, accurate, positive, short",
+            "a2": "Trustworthy, relevant, accurate, positive, short",
+            "a3": "Truthful, relevant, attractive, prominent, short",
+            "a4": "Trustworthy, relevant, attractive, positive, short",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "TRAPS is the acronym for designing effective job advertisements."
+        },
+        {
+            "qu": "What is not part of the application process?",
+            "a1": "Application form",
+            "a2": "Curriculum vitae",
+            "a3": "Cover letter",
+            "a4": "Interviews",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Interviews are part of the selection process."
+        },
+        {
+            "qu": "What is not one of the main types of testing?",
+            "a1": "Behavioral tests",
+            "a2": "Psychometric tests",
+            "a3": "Intelligence tests",
+            "a4": "Aptitude tests",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Types of testing: psychometric, aptitude, intelligence, trade."
+        },
+        {
+            "qu": "What is the most common method of selection?",
+            "a1": "Testing",
+            "a2": "Interviews",
+            "a3": "References",
+            "a4": "Induction",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Interviews are the most common type."
+        },
+        {
+            "qu": "What is an advantage of internal recruitment",
+            "a1": "Fewer applicants",
+            "a2": "Wider range of experiences",
+            "a3": "Quicker adaptation",
+            "a4": "Range of new ideas",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Quicker adaptation to the business if it's coming from someone already working there."
+        },
+        {
+            "qu": "What is a disadvantage of external recruitment?",
+            "a1": "New blood",
+            "a2": "Fewer applicants",
+            "a3": "Internal politics",
+            "a4": "Expensive",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "External recruitment tends to be more expensive."
+        },
+        {
+            "qu": "What is not an objective of training?",
+            "a1": "Reduces financial costs",
+            "a2": "Helps staff adapt to change",
+            "a3": "Improve work quality",
+            "a4": "Develop productivity",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Financial costs is the major drawback of training."
+        },
+        {
+            "qu": "What is induction training?",
+            "a1": "Partnership between experienced staff and new employee to develop skills",
+            "a2": "Helping new employees at the organization settle in quickly",
+            "a3": "Offsite training with external specialists",
+            "a4": "Developing mental skills to improve work performance",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Induction training allows workers to settle in quickly."
+        },
+        {
+            "qu": "What is not a limitation of cognitive training?",
+            "a1": "Doesn't cater for individual trainee needs",
+            "a2": "Doesn't help improve work performance",
+            "a3": "Expensive",
+            "a4": "Hard to measure effects",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Cognitive training helps develop mental skills to improve work performance."
+        },
+        {
+            "qu": "What is not a type of appraisal?",
+            "a1": "Formative",
+            "a2": "Summative",
+            "a3": "360-degree feedback",
+            "a4": "Communications",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "3 types of appraisals (formal assessments)."
+        },
+        {
+            "qu": "What is not a type of behavioral training?",
+            "a1": "Team-building",
+            "a2": "Stress management",
+            "a3": "Memory practice",
+            "a4": "Business etiquette",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Memory practice is part of cognitive training."
+        },
+        {
+            "qu": "What is an advantage of mentoring?",
+            "a1": "Fast",
+            "a2": "Synergy",
+            "a3": "Ensured productivity",
+            "a4": "Boosting morale",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Mentoring hels achieve synergy (1+1 > 2)."
+        },
+        {
+            "qu": "What is 360-degree feedback?",
+            "a1": "Getting feedback from multiple companies about the employee",
+            "a2": "Getting feedback from peers and subordinates about the employee",
+            "a3": "Getting feedback from customers that interacted with the employee",
+            "a4": "Getting feedback from the mentor of the employee",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "360-degree feedback: collects appraisal evidence from peers/subordinates/line managers that have direct contact with the employee."
+        }
+        
+        
+        
+
+        
+
+
+
+
+
+
+
+
+    ]
+}
+

@@ -1,0 +1,78 @@
+
+h1 {
+width: 90%;
+margin: auto;
+text-align: center;
+font-size: 48px;
+font-weight: bold;
+color: white;
+}
+
+h2 {
+width: 90%;
+margin: auto;
+text-align: center;
+margin-top: 40px;
+font-size: 36px;
+font-weight: bold;
+color: white;
+}
+
+p {
+width: 90%;
+margin: auto;
+text-align: center;
+margin-top: 25px;
+font-size: 18px;
+font-weight: normal;
+color: white;
+}
+
+
+details {
+border-radius: 15px;
+padding: 15px;
+font-size: 25px;
+width: 60%;
+margin: auto;
+margin-top: 50px;
+}
+
+summary {
+font-size: 24px;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+
+details span {
+height: 20px;
+}
+
+details div {
+width: 90%;
+margin: auto;
+border-radius: 5px;
+}
+
+details div p {
+margin: auto;
+width: 90%;
+text-align: center;
+}
+
+.purpleExample {
+background-color: rgb(117, 81, 117);
+}
+
+.purpleExample div {
+background-color: rgb(144, 114, 144);
+}
+
+.greenExample {
+background-color: rgb(81, 117, 83);
+}
+
+.greenExample div {
+background-color: rgb(114, 144, 115);
+}

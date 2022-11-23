@@ -1,0 +1,110 @@
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../basefeaturestyle.css">
+       
+       <script>
+            MathJax = {
+              tex: {
+                inlineMath: [['`', '`']]
+              },
+              svg: {
+                fontCache: 'global'
+              }
+            };
+            </script>
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+        <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
+
+    </head>
+
+    <body>
+
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../../../index.html'">
+                        <img src="../../../../lib/images/3.svg">
+                    </ImgLink>
+                    <Txlink class="active" onClick="location.href='../../../../learn/index.html'">Learn</Txlink>
+                    <Txlink  onClick="location.href='../../../../review/index.html'">Review</Txlink>
+                    <Txlink  onClick="location.href='../../../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../../../lib/images/4.svg">
+                    </ImgLink>
+                </div>
+                
+<div style="background-color:#211d27;">
+    <h1>2.1 - X and Y Intercepts</h1>
+    <div style="height: 50px;"></div>
+    <h2 >Topic Video</h1>
+    <div style="height: 20px;"></div>
+    <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
+    <h2 >So what are quadratics?</h1>
+    <p>Quadratic functions have a degree of 2, meaning one term with x in it will be raised to the power of two. Displayed graphically, this forms a bowl shape. There are many ways to write a quadratic function, but for the purpose of this lesson, we are going to use something called standard form, which is written as: `y = ax^2 + bx + c`</p>
+    <p>The main idea of our functions is that when we plug in a value for x, we get the corresponding y value. All the other numbers (a, b, and c) will modify the equation to make it look like a parabola. To find specific points along our graph, we can plug in either x or y, and we'll get the corresponding y or x value.</p>
+    <p>To find our y-intercept, let's first look at a graph with a quadratic function:</p>
+    <div style="height: 20px;"></div>
+    <div id="calculator1" style="width: 40%; height: 40%; margin: auto;"></div>
+    <p>You can see that the y-axis is a vertical line that crosses the x axis when x is 0. Therefore, when x is 0, we get the value at which our function intercepts, or crosses the y axis. Let's see an example of this:</p>
+    <p>To find our x-intercept, let's look back at our first graph</p>
+    <p>As you can see, the x-axis is horizontal, and it crosses the y axis when y is 0. Therefore, when y is 0, we can find the x-intercept(s). Now, there are a few ways you can do this. You can watch the following videos to do this:</p>
+    <div style="height: 50px;"></div>
+
+    <h2>Quadratic Formula</h2>
+    <div style="height: 20px;"></div>
+    <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
+    <h2>Completing the Square</h2>
+    <div style="height: 20px;"></div>
+    <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
+    <h2>Factoring</h2>
+    <div style="height: 20px;"></div>
+    <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
+    <div style="height: 50px;"></div>
+
+    <p>Finished reading? Try the following examples below. Each question is collapisble, so when you would like to see the answers, you can expand each collapsible.</p>
+
+    <details class="purpleExample">
+        <summary>Find the y intercept of `y=x^2+3x+5`. Finished? Click to reveal answer.</summary>
+        <div><p>As the c component of this quadratic function is `c=5`, the y-intercept of this function is 5.</p></div>
+    </details>
+
+    <span>
+        <button class="ButtonStPr" style="width: 300px; margin-top: 20px;">Go to the Previous Page</button>
+        <button class="ButtonStPr" style="width: 300px; margin-top: 20px;" onclick="location.href='2-2-vertex.html'">Go to the Next Page</button>
+    </span>
+
+    <div style="height: 150px;"></div>
+    <div class="footer">
+        <ImgLink onClick="location.href='../../../../index.html'">
+            <img src="../../../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+        
+        <div style=" margin: auto;">
+            <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../../../../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../../../../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='../../../../about/index.html'">
+                <img width="22" height="22" src="../../../../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+
+</div>
+
+
+
+<script>
+    var elt = document.getElementById('calculator1');
+    var calculator = Desmos.GraphingCalculator(elt);
+    calculator.setExpression({ id: 'graph1', latex: 'y=x^2+2x-8' })
+</script>

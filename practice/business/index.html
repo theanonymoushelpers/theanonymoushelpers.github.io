@@ -1,31 +1,141 @@
+
 <html>
 
     <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../card_white.css">
 
+        <script defer src="../../animate.js"></script>       
+        <title>TAH | Practice Business</title>
+        <link rel="icon" type="image/x-icon" href="../../lib/images/favicon.ico">
     </head>
 
     <body>
-        <button onclick="redirectPage('bu-samplequiz1')">Test Quiz Structure</button>
-        <button onclick="redirectPage('bu-samplequiz2')">Test Quiz Structure 2</button>
-        <button onclick="redirectPage('bu-samplequiz3')">Test Quiz Structure 3</button>
 
-
-
-
-        <script>
-            let redirectPage = (quizNameRedirect) => {
-
-
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../index.html'">
+                        <img src="../../lib/images/3.svg">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../learn/index.html'">Learn</Txlink>
+                    <Txlink  onClick="location.href='../../review/index.html'">Review</Txlink>
+                    <Txlink class="active" onClick="location.href='../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../lib/images/4.svg">
+                    </ImgLink>
+                </div>
                 
-                var url = "../quiz.html" +
-                    "?subject=" + 'business'  + 
-                    "&ident=" + 'bus-quizzes' +
-                    "&quizName=" + quizNameRedirect;
+<div>
+    <h1 class="titleText" style="padding-top: 100px; font-size: 50px;">Practice Business</h1>
+    <p class="bodyTextSm" style="font-size: 20px; font-weight: 500; width: 80%;">Select a unit to start practicing.</p>
+
+    <div class="row">
+    <div class="column">
+    <div id="container">
+        <div class="card hiddenAnimate">
+            <img class="card_img" src="../../lib/images/business/14.jpg">
+
+            <div class="card_info">
+
+                <div class="name">The Basic Principles of Business</div>
+
+                <p>An introduction into businesses from the existing organization types, stakeholders, different ways businesses grow, and business analytical and planning tools.</p>
+
+                <button class="buttonStOr" onClick="location.href='1-businessprinciples/index.html'">Practice</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+            <div class="card hiddenAnimate">
+                <img class="card_img" src="../../lib/images/business/15.jpg">
+    
+                <div class="card_info">
+    
+                    <div class="name">Human Resources</div>
+    
+                    <p>The personnel of a business and how a business works with their different levels of staff.</p>
+    
+                    <button class="buttonStGrey">Not Available Yet</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                <div class="card hiddenAnimate">
+                    <img class="card_img" src="../../lib/images/business/16.jpg">
+        
+                    <div class="card_info">
+        
+                        <div class="name">Finances of a Busniess</div>
+        
+                        <p>How to promote a growing business with its finances and accounting with assistance from different types of analysis.</p>
+        
+                        <button class="buttonStGrey">Not Available Yet</button>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                    <div class="card hiddenAnimate">
+                        <img class="card_img" src="../../lib/images/business/17.jpg">
             
-                window.location.href = url;
-            }
-            </script>
+                        <div class="card_info">
+            
+                            <div class="name">Marketing and Public Reputation</div>
+            
+                            <p>The importance of marketing from its 4Ps, planning, and marketing on a macro scale.</p>
+            
+                            <button class="buttonStGrey">Not Available Yet</button>
+                        </div>
+                    </div>
+        </div>
+    </div>
+    <div class="column">
+    <div id="container">
+                        <div class="card hiddenAnimate">
+                            <img class="card_img" src="../../lib/images/business/18.jpg">
+                
+                            <div class="card_info">
 
-    </body>
-</html>
+                                <div class="name">Operations Management/Production</div>
+                
+                                <p>The process of converting materials into finished products through various ways of detailed planning.</p>
+                
+                                <button class="buttonStGrey">Not Available Yet</button>
+                            </div>
+                        </div>
+        </div>
+    </div>
 
+    </div>
+    </div>
+
+    <div style="height: 200px;"></div>
+
+    <div class="footer hiddenAnimate">
+        <ImgLink class="hiddenAnimate" onClick="location.href='../../index.html'">
+            <img src="../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm hiddenAnimate" style="transition-delay: 100ms">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+        
+        <div style="height: 20px;"></div>
+        <div style=" margin: auto;">
+            <ImgLink class="hiddenAnimate" style="transition-delay: 200ms;" width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 400ms;" width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 600ms;" width="16" height="16" onClick="location.href='../../about/index.html'">
+                <img width="22" height="22" src="../../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+
+</div>
+</div>

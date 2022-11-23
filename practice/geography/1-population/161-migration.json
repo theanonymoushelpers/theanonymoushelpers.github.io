@@ -1,0 +1,88 @@
+{
+    "quizID": 1000,
+    "title": "Migration",
+    "totalQuCount": 6, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "What is migration?",
+            "a1": "Refugees from one place seeking asylum elsewhere",
+            "a2": "A form of contraception",
+            "a3": "A decrease in population",
+            "a4": "Movement of people from one place to another",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Movement of people from one place to another."
+        },
+        {
+            "qu": "What is one example of forced migration?",
+            "a1": "The Rohingya people of Myanmar",
+            "a2": "The Founding Fathers",
+            "a3": "When my family went on vacation",
+            "a4": "Moving from Langley to Maple Ridge",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "The Rohingya people of Myanmar."
+        },
+        {
+            "qu": "Why would someone migrate voluntarily?",
+            "a1": "Grey economies",
+            "a2": "Better social services",
+            "a3": "War",
+            "a4": "A significant population decrease",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Better social services."
+        },
+        {
+            "qu": "What is an Internally Displaced Person?",
+            "a1": "Someone forced to flee their home due to a genuine fear of death or persecution",
+            "a2": "A person who must leave their home because they found a job elsewhere",
+            "a3": "Someone who is homeless",
+            "a4": "A significant population decrease",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Someone who is forced to flee their home due to a genuine fear of death or persecution."
+        },
+        {
+            "qu": "Which three nations of declining populations?",
+            "a1": "South Korea, France, China",
+            "a2": "Japan, Nigeria, and Sweden",
+            "a3": "Pakistan, India, China",
+            "a4": "Canada, Germany, Mali",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "South Korea, France, China."
+        },
+        {
+            "qu": "What nation is notorious for their one child policy?",
+            "a1": "Germany",
+            "a2": "Russia",
+            "a3": "Canada",
+            "a4": "China",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "China"
+        }
+
+
+
+
+
+
+
+    ]
+}
+

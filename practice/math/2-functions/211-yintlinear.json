@@ -1,0 +1,91 @@
+{
+    "quizID": 1000,
+    "title": "Finding Y Intercepts of Linear Functions",
+    "totalQuCount": 6, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "What is the y-intercept of `y = 2x+3`",
+            "a1": "-4",
+            "a2": "-1",
+            "a3": "0",
+            "a4": "3",
+            "ans": 4,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "The c component of the line is 3. Therefore, when x is equal to 0, 2 multiplied by x=0 is equal to 0, and 0+3 is equal to 3. Therefore, the y value at x=0 (which is the y-axis) is 3."
+        },
+        {
+            "qu": "What is the y-intercept of `y = 3x+5`",
+            "a1": "2",
+            "a2": "4",
+            "a3": "5",
+            "a4": "9",
+            "ans": 3,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "The c component of the line is 5. Therefore, when x is equal to 0, 3 multiplied by x=0 is equal to 0, and 0+5 is equal to 5. Therefore, the y value at x=0 (which is the y-axis) is 5."
+        },
+        {
+            "qu": "What is the y-intercept of `y = x+2`",
+            "a1": "-3",
+            "a2": "-1",
+            "a3": "2",
+            "a4": "4",
+            "ans": 3,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "The c component of the line is 2. Therefore, when x is equal to 0, 1 multiplied by x=0 is equal to 0, and 0+2 is equal to 2. Therefore, the y value at x=0 (which is the y-axis) is 2."
+        },
+        {
+            "qu": "What is the y-intercept of `y = 3x+1`",
+            "a1": "1",
+            "a2": "2",
+            "a3": "3",
+            "a4": "4",
+            "ans": 1,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "The c component of the line is 1. Therefore, when x is equal to 0, 3 multiplied by x=0 is equal to 0, and 0+1 is equal to 1. Therefore, the y value at x=0 (which is the y-axis) is 1."
+        },
+        {
+            "qu": "What is the y-intercept of `y+1 = 3x+3`",
+            "a1": "1",
+            "a2": "2",
+            "a3": "3",
+            "a4": "4",
+            "ans": 2,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "By moving the 1 to the other side of the equation, you get y-3x+2. Therefore, when x=0, y is equal to 2, so the y-intercept is 2."
+        },
+        {
+            "qu": "What is the y-intercept of `y-3 = 4x+2`",
+            "a1": "-2",
+            "a2": "-1",
+            "a3": "3",
+            "a4": "5",
+            "ans": 4,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "By moving the -3 to the other side of the equation, you get y-3x+5. Therefore, when x=0, y is equal to 5, so the y-intercept is 5."
+        }
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "quizID": 1000,
+    "title": "Key Vocab - Population Unit",
+    "totalQuCount": 8, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "What is the demographic dividend?",
+            "a1": "How many people there are in a region",
+            "a2": "A bulge or increase in the amount of people in the working population",
+            "a3": "When birth rates are high",
+            "a4": "A significant population decrease",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "A bulge or increase in the amount of people in the working population"
+        },
+        {
+            "qu": "What does YDR stand for?",
+            "a1": "You Don't Recall",
+            "a2": "Young Demographic Recording",
+            "a3": "Youthful Dependency Ratio",
+            "a4": "Yang Description Result",
+            "ans": 3,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Youthful Dependency Ratio."
+        },
+        {
+            "qu": "What is the purpose of the Demoraphic Transition Model?",
+            "a1": "It describes birth and death rate changes over time",
+            "a2": "Demonstrates how each nation has transformed it's economy",
+            "a3": "Used to increase births",
+            "a4": "A significant population decrease",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "It describes birth and death rate changes over time."
+        },
+        {
+            "qu": "What is migration?",
+            "a1": "Refugees from one place seeking asylum elsewhere",
+            "a2": "A form of contraception",
+            "a3": "A decrease in population",
+            "a4": "Movement of people from one place to another",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Movement of people from one place to another."
+        },
+        {
+            "qu": "What is an Internally Displaced Person?",
+            "a1": "Someone forced to flee their home due to a genuine fear of death or persecution",
+            "a2": "A person who must leave their home because they found a job elsewhere",
+            "a3": "Someone who is homeless",
+            "a4": "A significant population decrease",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Someone who is forced to flee their home due to a genuine fear of death or persecution."
+        },
+        {
+            "qu": "What is an ODR and where would we find one?",
+            "a1": "Onset Decline Ratio, found in Japan",
+            "a2": "Old Dependancy Ratio, found in HICs",
+            "a3": "Ongoing Delayed Rations, found in LICs",
+            "a4": "One Death Route, found in HICs",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Old Dependancy Ratio, found in HICs."
+        },
+        {
+            "qu": "What is a grey economy?",
+            "a1": "Old people are wealthier",
+            "a2": "Not a black economy",
+            "a3": "No economic movement",
+            "a4": "Services and businesses for elderly",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Services and businesses for elderly."
+        },
+        {
+            "qu": "What is the TFR?",
+            "a1": "Temporary Financial Reduction",
+            "a2": "The First Right",
+            "a3": "Total Fertility Rate",
+            "a4": "Trained Finance Reductions",
+            "ans": 3,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Total Fertility Rate."
+        }
+
+
+
+
+
+
+
+    ]
+}
+

@@ -1,32 +1,16 @@
 <html>
 
 <head>
+
 <style>
 
 
-:root{
-  --currentProgressBar: 0%;
-  --newProgressBar: 0%;
-}
 
-.progress {
-  margin: 50px auto;
-  padding: 2px;
-  width: 100%;
-  max-width: 80%;
-  border: 1px solid grey;
-  height: 30px;
-}
 
-.progress .progress_bar {
-  height: 100%;
-  width: var(--currentProgressBar);
-  background: rgb(47, 41, 41);
-  background: linear-gradient(90deg, rgba(86,131,1,1) 0%, rgba(53,121,9,1) 50%, rgba(11,171,89,1) 100%);
-}
 
 #multiplechoice{
-  height: 300px;
+  min-height: 300px;
+  max-height: 70%;
   border: none;
   overflow-y: auto;
   background-color: rgb(47, 41, 41);
@@ -41,23 +25,75 @@
 }
 
 #multiplechoice option{
-  width: 200px;
-  font-size: 1.2em;
+  min-width: 200px;
+  max-width: 90%;
   padding: 10px 0;
+  white-space: normal;
   text-align: center;
   margin-right: 20px;
   display: list-item;
   cursor: pointer;
   color: #8a5d16;
     background-color: #ffdba1;
-    font-size: 20px;
+  font-size: 20px;
     border-radius: 25px;
+}
+
+.feedbackPlacement {
+  text-align: center;
+  visibility: hidden; 
+
+}
+
+#sol-overlay {
+  position: fixed;
+  display: none;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255,255,255,0.5);
+  z-index: 2;
+  cursor: pointer;
+}
+
+#sol-text{
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 30px;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+}
+
+#sol-close{
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%,-80%);
+  -ms-transform: translate(-50%,-80%);
 }
 
 
 </style>
 
 <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
+
+<script>
+MathJax = {
+  loader: {load: ['input/asciimath', 'output/chtml']}
+}
+  </script>
+  
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<title id="quizTitle">TAH | Quiz</title>
+<link rel="icon" type="image/x-icon" href="../lib/images/favicon.ico">
 
 </head>
 
@@ -67,15 +103,14 @@
         
         <div>
           <img style="margin-right: 95%; text-align: left; height: 50px; width: 50px;" onclick="location.href='index.html'" src="../lib/images/x.svg"></img>
-            <div class="progress"> 
-                <div class="progress_bar"></div>
-            </div>
+                <h1 id="questionNumber" class="head1Text" style="font-weight: 500;">Question # of #</h1>
+                <div style="height: 50px;"></div>
           </div>
 
         <div><h1 id="quDisplay" style="margin: auto; text-align: center; margin-bottom: 30px;">Question</h1></div>
         <div><body style="margin: auto; text-align: center; margin-bottom: 70px;"></body></div>
 
-        <select required name="options" id="multiplechoice">
+        <select required name="options" id="multiplechoice" multiple>
         <div><option value="1" id="a1Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 1</option></div>
         <div><option value="2" id="a2Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 2</option></div>
         <div><option value="3" id="a3Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 3</option></div>
@@ -84,29 +119,42 @@
 
 
         <div><button id="checkButton" class="buttonStGr" style="margin: auto; text-align: center;">Check</button></div>
-        <div><button id="continueButton" class="buttonStOr" style="margin: auto; text-align: center; visibility: hidden;" onclick="progressMove()">Continue</button></div>
 
+        <div id="continueDiv" style="visibility: hidden; width: 80%; border-radius: 25px; height: 150px; margin: auto;">
+          <div style="height: 1px;"></div>
+          <h1 id="feedbackText" class="head1Text;" style=" top: 50%;">&#10004; Feedback here</h1>
+          <button id="continueButton" class="buttonStOr; feedbackPlacement" >Continue</button>
+        </div>
+
+        <div style="height: 30px"></div>
+
+        <div id="solutionDiv" style="visibility: hidden; width: 80%; border-radius: 25px; height: 50px; margin: auto;">
+          <h1 id="solutionExpand" class="head1Text;" style=" transform: translate(0px, 10px); font-size: 20px; font-weight: 600;" onclick="on()">	&plus; View Solution</h1>
+        </div>
+
+        <div id="sol-overlay">
+          <div style="width: 90%; height: 90%; border-radius: 100px; background-color: white; margin: auto;">
+            <p id="sol-text" class="head1Text">Overlay Text</p>
+            <button id="sol-close" class="buttonStOr" onclick="off()">Close Solution</button>
+          </div>
+        </div>
+        
 
         <script>
-            var progress = 0;
+          function on() {
+            document.getElementById("sol-overlay").style.display = "block";
+          }
 
-            function progressMove() {
-              let root = document.documentElement;
-
-              root.style.setProperty("--currentProgressBar", progress + 10 + "%");
-              progress = progress + 10;
-            }
-
-
-        
+          function off() {
+            document.getElementById("sol-overlay").style.display = "none";
+          }
         </script>
 
         <script type="text/javascript" src="quizlogic.js"></script>
-
-      
     
       </div>
         
     </body>
+
 
 </html>

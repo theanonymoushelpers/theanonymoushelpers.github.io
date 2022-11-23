@@ -1,0 +1,268 @@
+{
+    "quizID": 1000,
+    "title": "Types of Organizations Vocab",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Non-profit organizations that support good causes",
+            "a1": "Social Enterprises",
+            "a2": "Charities",
+            "a3": "Cooperatives",
+            "a4": "Foundation",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 18,
+            "solution": "A charity is a non-profit organization that provides support for good causes such as environmental protection"
+        },
+        {
+            "qu": "What is a company/corporation?",
+            "a1": "A for-profit organization",
+            "a2": "A business owned by the government",
+            "a3": "A business owned by shareholders",
+            "a4": "A business run by 2 parties",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "A company (or corporation) is a business that is owned by shareholders"
+        },
+        {
+            "qu": "Part of the economy run by private individuals and businesses",
+            "a1": "Private Sector",
+            "a2": "Primary Sector",
+            "a3": "Tertiary Sector",
+            "a4": "Personal Sector ",
+            "ans": 1,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 15,
+            "solution": "The private sector is the part of the economy that is run by private individuals and businesses instead of the governemnt"
+        },
+        {
+            "qu": "Part of the economy controlled by the government",
+            "a1": "Primary Sector ",
+            "a2": "Services",
+            "a3": "Secondary Sector",
+            "a4": "Public Sector",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 15,
+            "solution": "The public sector is the part of the economy that is run by the government instead of private individuals and businesses"
+        },
+        {
+            "qu": "Sole Trader",
+            "a1": "An entrepreneur",
+            "a2": "Self-employed person who runs the business and responsiable for it",
+            "a3": "A business that only deals with one organization",
+            "a4": "A business that only works within the private sector",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "A sole trader is a self-employed person who runs and controls the business and responsiable for its success or failure"
+        },
+        {
+            "qu": "For-profit social enterprises set up, owned and run by their members.",
+            "a1": "Corporation",
+            "a2": "Company",
+            "a3": "Cooperatives",
+            "a4": "Incorporation",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Cooperatives are for-profit social enterprises that are set up, owned and run by their members who can be employees and/or customers."
+        },
+        {
+            "qu": "Type of financial service aimed at small business entrepreneurs",
+            "a1": "Loan",
+            "a2": "Lines of credit",
+            "a3": "Equity Financing",
+            "a4": "Microfiance",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Microfiancing is a type of financial service aimed at small business entrepreneurs especially females and low incomes"
+        },
+        {
+            "qu": "Type of business in the private sector owned by 2-20 people",
+            "a1": "Enterprise",
+            "a2": "Partnership",
+            "a3": "Private Limited",
+            "a4": "Incorporation",
+            "ans": 2,
+            "timeUpper": 6,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "A partnership is a type of business in the private sector owned by 2-20 people who share the responsibilities of the business"
+        },
+        {
+            "qu": "Stock Exchange",
+            "a1": "A virtual marketplace for digital currency",
+            "a2": "Governement operated section of the economy",
+            "a3": "A subcategory of the private sector",
+            "a4": "A marketplace for trading stocks and shares of public limited companies",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "The stock exchange is a marketplace for trading stocks and shares of public limited companies"
+        },
+        {
+            "qu": "Organizations fully owned by the gorvenment",
+            "a1": "Services",
+            "a2": "State-owned enterprises",
+            "a3": "Government enterprises",
+            "a4": "Charities",
+            "ans": 2,
+            "timeUpper": 6,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "Organizations fully owned by the gorvenment are known as state-owned enterprises"
+        },
+        {
+            "qu": "Incorporated businesses that allows the public to buy and sell shares in the company via a stock exchange",
+            "a1": "Public limited company",
+            "a2": "Private limited company",
+            "a3": "Cooperatives",
+            "a4": "Company",
+            "ans": 1,
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "Public limited companies are incorporated businesses that allows the public to buy and sell shares in the company via a stock exchange"
+        },
+        {
+            "qu": "Define Public-private partnerships",
+            "a1": "When a cooperative works with a limited company",
+            "a2": "When a state-owned enterprise works with a company",
+            "a3": "When the governenment works together with the private sector",
+            "a4": "When an incorporation works with social enterprises",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "A Public-private partnership occurs when the governenment works together with the private sector"
+        },
+        {
+            "qu": "Revenue-generating business with social objectives at the core of their operations",
+            "a1": "Social Enterprises",
+            "a2": "Partnership",
+            "a3": "Deed of Partnership",
+            "a4": "Incorporation",
+            "ans": 1,
+            "timeUpper": 6,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "Social enterprises are revenue-generating business with social objectives at the core of their operations"
+        },
+        {
+            "qu": "Restriction on the amount of money that owners can lose is their business goes bankrupt",
+            "a1": "Unlimited Liability",
+            "a2": "Insurance",
+            "a3": "Limited Liability",
+            "a4": "Security",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Limited Liability is a restriction on the amount of money that owners can lose is their business goes bankrupt"
+        },
+        {
+            "qu": "Business owned by shareholders with limited liability and shares cannot be traded",
+            "a1": "Public limited company",
+            "a2": "Incorporation",
+            "a3": "Cooperative",
+            "a4": "Private limited company",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "A private limited company is a business owned by shareholders with limited liability and shares that cannot be sold or bought by the general public"
+        },
+        {
+            "qu": "Define Initial Public Offering",
+            "a1": "The process of a private business converting to a public business",
+            "a2": "When a business sells shares of the business on the stock market for the first time",
+            "a3": "When a business sells the company to the government",
+            "a4": "The process of making a business public and accessable to the public for the first time",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Initial Public Offering (IPO) occurs when a business sells all or part of the business to shareholders on the stock market"
+        },
+        {
+            "qu": "Legal contract signed by owners of a partnership",
+            "a1": "Contract",
+            "a2": "Insurance contract",
+            "a3": "Partnership endeavor",
+            "a4": "Deed of partnership",
+            "ans": 4,
+            "timeUpper": 6,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "A deep of partnership is a legal contract signed by owners of a partnership"
+        },
+        {
+            "qu": "Private sector not-for-profit social enterprises operating for the benefit of others",
+            "a1": "Charity",
+            "a2": "Non-profit organization",
+            "a3": "Non-governmental organization",
+            "a4": "Financer",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "A non-governmental organizations (NGO) are private sector not-for-profit social enterprises operating for the benefit of others rather than to make profit"
+        },
+        {
+            "qu": "Type of business where there is a legal difference between the owners of the company and the business itself",
+            "a1": "Corporation",
+            "a2": "Incorporation",
+            "a3": "Company",
+            "a4": "Charity",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Incorporation means that there is a legal difference between the owners of the company and the business itself"
+        },
+        {
+            "qu": "Feature of sole traders and ordinary partnerships who are legally liable for all for all money owed",
+            "a1": "Limited liability",
+            "a2": "Limited insurance",
+            "a3": "Unlimited liablity",
+            "a4": "Unlimited insurance",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Unlimited liability is a feature of sole traders and ordinary partnerships who are legally liable for all for all money owed even if it means selling personal possessions to pay for their debts"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+

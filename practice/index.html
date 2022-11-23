@@ -3,83 +3,13 @@
 
     <head>
         <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../card_blue.css">
 
-        <style>
-            .column {
-            float: left;
-            width: 48%;
-            padding: 0 10px;
-            padding-bottom: 50px;
-            height: 500px;
-            }
+        <script defer src="../animate.js"></script>
+        <title>TAH | Practice</title>
+        <link rel="icon" type="image/x-icon" href="../lib/images/favicon.ico">
+        <meta name="description" content="Practice a range of high school topics with clear summaries and many practice questions."> 
 
-            .row {
-            margin: 0 -5px;
-            }
-
-            .row:after {
-            content: "";
-            display: table;
-            clear: both;
-            }
-
-            @media screen and (max-width: 1250px) {
-             .column {
-            width: 100%;
-            display: block;
-            margin-bottom: 20px;
-                }
-            }
-
-            .card_img {
-            width: 100%;
-            border-radius: 12px;
-            height: 214px;
-            object-fit: cover;
-            }
-
-            #container {
-            width: 90%;
-            height: 500px;
-            margin: 0 auto;
-            margin-top: 20vh;
-            }
-
-            .card {
-            background-color: rgba(206, 220, 250, 0.5);
-            padding: 8px;
-            border-radius: 12px;
-            }
-
-           
-            .tag {
-            padding: 4px 8px;
-            border: 1px solid rgba(170,180,180);
-            background-color: rgba(170,180,180);
-            border-radius: 50px;
-            font-size: 12px;
-            font-weight: 600;
-            color: white;
-            }
-
-            .name {
-            font-size: 24px;
-            font-weight: 600;
-            color: white;
-            margin-top: 16px;
-            }
-
-            p {
-            font-size: 14px;
-            color: white;
-            line-height: 150%;
-            }
-
-
-            .card_info {
-            padding: 16px 8px 8px 8px;
-            }
-        </style>
     </head>
 
     <body>
@@ -106,11 +36,10 @@
     <div class="row">
     <div class="column">
     <div id="container">
-        <div class="card">
+        <div class="card hiddenAnimate">
             <img class="card_img" src="../lib/images/tah_bio.jpg">
 
             <div class="card_info">
-                <span class="tag">Group 4</span>
                 <span class="tag">Science</span>
                 <span class="tag">Life</span>
                 <span class="tag">Anatomy</span>
@@ -119,18 +48,17 @@
 
                 <p>Learn about the processes of life, from the environment, to animals and humans.</p>
 
-                <button class="buttonStOr" onClick="location.href='biology/index.html'">Practice</button>
+                <button class="buttonStGrey">Not Available Yet</button>
             </div>
         </div>
         </div>
     </div>
     <div class="column">
     <div id="container">
-            <div class="card">
+            <div class="card hiddenAnimate" style="transition-delay: 100ms;">
                 <img class="card_img" src="../lib/images/tah_bus.jpg">
     
                 <div class="card_info">
-                    <span class="tag">Group 3</span>
                     <span class="tag">Social Science</span>
                     <span class="tag">Administration</span>
                     <span class="tag">Management</span>
@@ -146,11 +74,10 @@
     </div>
     <div class="column">
     <div id="container">
-                <div class="card">
+                <div class="card hiddenAnimate">
                     <img class="card_img" src="../lib/images/tah_che.jpg">
         
                     <div class="card_info">
-                        <span class="tag">Group 4</span>
                         <span class="tag">Science</span>
                         <span class="tag">Reactions</span>
                         <span class="tag">Elements</span>
@@ -159,60 +86,56 @@
         
                         <p>Learn all about the elements that make up our universe.</p>
         
-                        <button class="buttonStOr" onClick="location.href='chemistry/index.html'">Practice</button>
+                        <button class="buttonStGrey">Not Available Yet</button>
                     </div>
                 </div>
         </div>
     </div>
     <div class="column">
     <div id="container">
-                    <div class="card">
+                    <div class="card hiddenAnimate" style="transition-delay: 100ms;">
                         <img class="card_img" src="../lib/images/tah_lan.jpg">
             
                         <div class="card_info">
-                            <span class="tag">Group 1</span>
                             <span class="tag">Language A</span>
                             <span class="tag">English</span>
                             <span class="tag">Books and Literature</span>
             
-                            <div class="name">Language and Literature</div>
+                            <div class="name">English Literature</div>
             
                             <p>Learn about different literary devices and examine a variety of texts.</p>
             
-                            <button class="buttonStOr" onClick="location.href='english/index.html'">Practice</button>
+                            <button class="buttonStGrey">Not Available Yet</button>
                         </div>
                     </div>
         </div>
     </div>
     <div class="column">
     <div id="container">
-                        <div class="card">
+                        <div class="card hiddenAnimate">
                             <img class="card_img" src="../lib/images/tah_fre.jpg">
                 
                             <div class="card_info">
-                                <span class="tag">Group 2</span>
                                 <span class="tag">Language B</span>
-                                <span class="tag">Reading</span>
-                                <span class="tag">Writing</span>
-                                <span class="tag">Listening</span>
-                                <span class="tag">Speaking</span>
+                                <span class="tag">Francophone</span>
+                                <span class="tag">Culture</span>
+
                 
                                 <div class="name">French</div>
                 
                                 <p>Learn conventions of the French language, and learn about Francophone culture.</p>
                 
-                                <button class="buttonStOr" onClick="location.href='french/index.html'">Practice</button>
+                                <button class="buttonStGrey">Not Available Yet</button>
                             </div>
                         </div>
         </div>
     </div>
     <div class="column">
     <div id="container">
-                            <div class="card">
+                            <div class="card hiddenAnimate" style="transition-delay: 100ms;">
                                 <img class="card_img" src="../lib/images/tah_geo.jpg">
                     
                                 <div class="card_info">
-                                    <span class="tag">Group 3</span>
                                     <span class="tag">Social Sciences</span>
                                     <span class="tag">Topography</span>
                                     <span class="tag">World</span>
@@ -228,11 +151,10 @@
     </div>
     <div class="column">
     <div id="container">
-                            <div class="card">
+                            <div class="card hiddenAnimate">
                                 <img class="card_img" src="../lib/images/tah_his.jpg">
                     
                                 <div class="card_info">
-                                    <span class="tag">Group 3</span>
                                     <span class="tag">Social Sciences</span>
                                     <span class="tag">Wars</span>
                                     <span class="tag">Revolutions</span>
@@ -249,11 +171,10 @@
     </div>
     <div class="column">
     <div id="container">
-                            <div class="card">
+                            <div class="card hiddenAnimate" style="transition-delay: 100ms;">
                                 <img class="card_img" src="../lib/images/tah_mat.jpg">
                     
                                 <div class="card_info">
-                                    <span class="tag">Group 5</span>
                                     <span class="tag">Analysis</span>
                                     <span class="tag">Problem Solving</span>
                                     <span class="tag">Graphing</span>
@@ -270,11 +191,10 @@
     </div>
     <div class="column">
     <div id="container">
-                            <div class="card">
+                            <div class="card hiddenAnimate">
                                 <img class="card_img" src="../lib/images/tah_phy.jpg">
                     
                                 <div class="card_info">
-                                    <span class="tag">Group 4</span>
                                     <span class="tag">Science</span>
                                     <span class="tag">Motion</span>
                                     <span class="tag">Mechanics</span>
@@ -283,23 +203,20 @@
                     
                                     <p>Learn about the mechanics of the universe, and how it works.</p>
                     
-                                    <button class="buttonStOr" onClick="location.href='physics/index.html'">Practice</button>
+                                    <button class="buttonStGrey">Not Available Yet</button>
                                 </div>
                             </div>
         </div>
     </div>
         <div class="column">
     <div id="container">
-                            <div class="card">
+                            <div class="card hiddenAnimate" style="transition-delay: 100ms;">
                                 <img class="card_img" src="../lib/images/tah_spa.jpg">
                     
                                 <div class="card_info">
-                                    <span class="tag">Group 2</span>
                                     <span class="tag">Language B</span>
-                                    <span class="tag">Reading</span>
-                                    <span class="tag">Writing</span>
-                                    <span class="tag">Listening</span>
-                                    <span class="tag">Speaking</span>
+                                    <span class="tag">Spain</span>
+                                    <span class="tag">Culture</span>
                     
                                     <div class="name">Spanish</div>
                     
@@ -315,12 +232,25 @@
     </div>
     </div>
 
-    <div style="height: 100px;"></div>
-    <div class="footer">
-        <ImgLink onClick="location.href='index.html'">
+    <div style="height: 400px;"></div>
+    <div class="footer hiddenAnimate">
+        <ImgLink class="hiddenAnimate" onClick="location.href='../index.html'">
             <img src="../lib/images/2.svg">
         </ImgLink>
-        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+        <p class="bodyTextSm hiddenAnimate" style="transition-delay: 100ms;">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+        
+        <div style=" margin: auto;">
+            <ImgLink class="hiddenAnimate" style="transition-delay: 200ms;" width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 400ms;" width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 600ms;" width="16" height="16" onClick="location.href='../about/index.html'">
+                <img width="22" height="22" src="../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+    
     </div>
 
 </div>

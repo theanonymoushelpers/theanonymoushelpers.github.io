@@ -1,0 +1,145 @@
+{
+    "quizID": 1000,
+    "title": "Migration",
+    "totalQuCount": 11, 
+    "quCountToDisplay": 4,
+    "questionList": [
+
+{
+    "qu": "What is generally a larger expenditure in countries with aging populations?",
+    "a1": "Healthcare",
+    "a2": "Education",
+    "a3": "Police",
+    "a4": "Roads",
+    "ans": 1,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "Elderly require good access to healthcare in order to extend their lifespan."
+},
+{
+    "qu": "Which factor would increase birth rates in a country?",
+    "a1": "Introducing contraceptives",
+    "a2": "Increasing education surrounding family planning",
+    "a3": "Introducing pro-natalist policies",
+    "a4": "Urbanizing further",
+    "ans": 3,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "The other factors make it less attractive to start a family, therefore, pro-natalist policies increase birth rates by incentivizing starting a family."
+},
+{
+    "qu": "If you were to look at a population pyramid that sorts by age, what would be a sign of low life expectancy?",
+    "a1": "Wide base, wide top",
+    "a2": "Narrow base, wide top",
+    "a3": "Wide base, narrow top",
+    "a4": "Wide base, wider middle, narrow top ",
+    "ans": 3,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "A wide base indicates many children being born, and a narrow base indicates that many of those children are not able to live long lifespans due to low life expectancy."
+},
+{
+    "qu": "If you were to look at a population pyramid that sorts by age, what would be a sign of high life expectancy?",
+    "a1": "Wide base, wide top",
+    "a2": "Narrow base, wide top",
+    "a3": "Wide base, narrow top",
+    "a4": "Wide base, wider middle, narrow top ",
+    "ans": 1,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "A wide base indicates many children being born, and a wide top indicates many of those children are growing old."
+},
+{
+    "qu": "What is a dependency ratio?",
+    "a1": "Number of people supporting the economy versus the number of dependent people",
+    "a2": "Number of people who are able to work versus number of people who are not in physical shape to work",
+    "a3": "The number of elderly in a society",
+    "a4": "The number of healthy people in a society",
+    "ans": 1,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "While elderly people may be dependent, and healthy people may be independent, not all that fall into one of these categories can be categorized as supporting the economy. The ratio determines how many people are supporting the economy in the workforce, versus the number of people dependent on the workforce."
+},
+{
+    "qu": "What does a high dependent population in a country suggest?",
+    "a1": "A relatively larger workforce",
+    "a2": "A relatively smaller workforce",
+    "a3": "People are living longer lifespans",
+    "a4": "People are living shorter lifespans",
+    "ans": 2,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "While older people are dependent, longer lifespans are not always correlated, since countries can have a very young population with short lifespans, whom are dependent. The opposite may also be true. Therefore, countries with dependent populations have a smaller workforce to sustain the economy."
+},
+{
+    "qu": "How is Japan making up for a lack of assistance for their elderly?",
+    "a1": "Hiring more people",
+    "a2": "Forcing people to help their grandparents",
+    "a3": "Using technology",
+    "a4": "There is no lack of assistance for elderly",
+    "ans": 3,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "Using technology."
+},
+{
+    "qu": "What is an ODR and where would we find one?",
+    "a1": "Onset Decline Ratio, found in Japan",
+    "a2": "Old Dependancy Ratio, found in HICs",
+    "a3": "Ongoing Delayed Rations, found in LICs",
+    "a4": "One Death Route, found in HICs",
+    "ans": 2,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "Old Dependancy Ratio, found in HICs."
+},
+{
+    "qu": "What are four benefits to the demographic dividend?",
+    "a1": "Old people are wealthier, less death, more old people, better mental health",
+    "a2": "Labour supply, savings, human capital, economic growth ",
+    "a3": "Later deaths, better medicine, more industries, higher birth rate",
+    "a4": "Less crime, less hunger, less war, less racism",
+    "ans": 2,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "Labour supply, savings, human capital, economic growth."
+},
+{
+    "qu": "What is one main reason why someone wouldn't want children?",
+    "a1": "Too lazy",
+    "a2": "Too expensive",
+    "a3": "Birth rates are high",
+    "a4": "Not enough time",
+    "ans": 2,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "Too expensive."
+},
+{
+    "qu": "What nation is notorious for their one child policy?",
+    "a1": "Germany",
+    "a2": "Russia",
+    "a3": "Canada",
+    "a4": "China",
+    "ans": 4,
+    "timeUpper": 15,
+    "timeMid": 23,
+    "timeLower": 30,
+    "solution": "China"
+}
+
+
+
+]
+}
+

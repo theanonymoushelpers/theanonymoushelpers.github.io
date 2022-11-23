@@ -1,0 +1,379 @@
+{
+    "quizID": 1000,
+    "title": "Mediterranean Diet Vocab",
+    "totalQuCount": 30, 
+    "quCountToDisplay": 8,
+    "questionList": [
+        {
+            "qu": "Plátano",
+            "a1": "Strawberry",
+            "a2": "Apple",
+            "a3": "Banana",
+            "a4": "Lemon",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Banana"
+        },
+        {
+            "qu": "Mandarina",
+            "a1": "Blueberry",
+            "a2": "Grape",
+            "a3": "Watermelon",
+            "a4": "Tangerine",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Tangerine"
+        },
+        {
+            "qu": "Ciruela",
+            "a1": "Plum",
+            "a2": "Grape",
+            "a3": "Watermelon",
+            "a4": "Tangerine",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Plum"
+        },
+        {
+            "qu": "Arándano",
+            "a1": "Apple",
+            "a2": "Peach",
+            "a3": "Watermelon",
+            "a4": "Blueberry",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Blueberry"
+        },
+        {
+            "qu": "Esperanza",
+            "a1": "Diet",
+            "a2": "Work",
+            "a3": "Hope",
+            "a4": "Food",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Hope"
+        },
+        {
+            "qu": "Talleres",
+            "a1": "Dishes",
+            "a2": "Tables",
+            "a3": "Ingredients",
+            "a4": "Workshops",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Workshops"
+        },
+        {
+            "qu": "Saludable",
+            "a1": "Healthy",
+            "a2": "Tired",
+            "a3": "Happy",
+            "a4": "Stressful",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Healthy"
+        },
+        {
+            "qu": "Ejercer",
+            "a1": "To eat",
+            "a2": "To drink",
+            "a3": "To play",
+            "a4": "To exercise",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "To exercise"
+        },
+        {
+            "qu": "Deporte",
+            "a1": "Breakfast",
+            "a2": "Food",
+            "a3": "Sport",
+            "a4": "Diet",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Sport"
+        },
+        {
+            "qu": "Carne",
+            "a1": "Fish",
+            "a2": "Meat",
+            "a3": "Bread",
+            "a4": "Hamburger",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Meat"
+        },
+        {
+            "qu": "Gestionar",
+            "a1": "To speak",
+            "a2": "To solve",
+            "a3": "To manage",
+            "a4": "To laugh",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "To manage"
+        },
+        {
+            "qu": "Estrés",
+            "a1": "Cough",
+            "a2": "Stress",
+            "a3": "Tear",
+            "a4": "Breath",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Stress"
+        },
+        {
+            "qu": "Siesta",
+            "a1": "Serious",
+            "a2": "System",
+            "a3": "Nap",
+            "a4": "Support",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Nap"
+        },
+        {
+            "qu": "Verduras",
+            "a1": "Vegetables",
+            "a2": "Cereals",
+            "a3": "Grains",
+            "a4": "Seafood",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Vegetables"
+        },
+        {
+            "qu": "Mariscos",
+            "a1": "Grains",
+            "a2": "Seafood",
+            "a3": "Watermelon",
+            "a4": "Butter",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Seafood"
+        },
+        {
+            "qu": "Granos",
+            "a1": "Plum",
+            "a2": "Wheat",
+            "a3": "Grains",
+            "a4": "Garbage",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Grains"
+        },
+        {
+            "qu": "Trigo",
+            "a1": "Wheat",
+            "a2": "Cheese",
+            "a3": "Lobster",
+            "a4": "Fish",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Wheat"
+        },
+        {
+            "qu": "Aceitunas",
+            "a1": "Almonds",
+            "a2": "Olives",
+            "a3": "Apple pie",
+            "a4": "Pizza",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Olives"
+        },
+        {
+            "qu": "Nueces",
+            "a1": "Oil",
+            "a2": "Butter",
+            "a3": "Nuts",
+            "a4": "Fruit",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Nuts"
+        },
+        {
+            "qu": "Estilo",
+            "a1": "Life",
+            "a2": "Body",
+            "a3": "Style",
+            "a4": "Benefit",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Style"
+        },
+        {
+            "qu": "Enfermedad",
+            "a1": "Emergency",
+            "a2": "Exit",
+            "a3": "Disease",
+            "a4": "Exposed",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Disease"
+        },
+        {
+            "qu": "Aguacate",
+            "a1": "Watermelon",
+            "a2": "Grape",
+            "a3": "Cucumber",
+            "a4": "Avocado",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Avocado"
+        },
+        {
+            "qu": "Lentejas",
+            "a1": "Seeds",
+            "a2": "Lentils",
+            "a3": "Beans",
+            "a4": "Peas",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Lentils"
+        },
+        {
+            "qu": "Desayuno",
+            "a1": "Breakfast",
+            "a2": "Early",
+            "a3": "Morning",
+            "a4": "Lunch",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Breakfast"
+        },
+        {
+            "qu": "Corazón",
+            "a1": "Brain",
+            "a2": "Arm",
+            "a3": "Leg",
+            "a4": "Heart",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Heart"
+        },
+        {
+            "qu": "Filosofía",
+            "a1": "Philosophy",
+            "a2": "Style of life",
+            "a3": "Process",
+            "a4": "Result",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Philosophy"
+        },
+        {
+            "qu": "Disfrutar",
+            "a1": "To communicate",
+            "a2": "To sit",
+            "a3": "To welcome",
+            "a4": "To enjoy",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "To enjoy"
+        },
+        {
+            "qu": "Patrimonio",
+            "a1": "Heritage",
+            "a2": "Culture",
+            "a3": "Tradition",
+            "a4": "Family tree",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Heritage"
+        },
+        {
+            "qu": "Pescado",
+            "a1": "Pet",
+            "a2": "Fish",
+            "a3": "Red meat",
+            "a4": "Pasta",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Fish"
+        },
+        {
+            "qu": "Desarrollar",
+            "a1": "To drive",
+            "a2": "To search",
+            "a3": "To surprise",
+            "a4": "To develop",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "To develop"
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+

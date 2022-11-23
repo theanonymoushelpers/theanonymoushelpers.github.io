@@ -1,0 +1,148 @@
+{
+    "quizID": 1000,
+    "title": "The Demographic Transition Model",
+    "totalQuCount": 11, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "What is the purpose of the Demoraphic Transition Model?",
+            "a1": "It describes birth and death rate changes over time",
+            "a2": "Demonstrates how each nation has transformed it's economy",
+            "a3": "Used to increase births",
+            "a4": "A significant population decrease",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "It describes birth and death rate changes over time."
+        },
+        {
+            "qu": "Where would one find Stage 1 of the DTM?",
+            "a1": "China",
+            "a2": "Nomadic Tribes",
+            "a3": "Bangladesh",
+            "a4": "Canada",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Nomadic Tribes."
+        },
+        {
+            "qu": "What is a characteristic of Stage 1 of the Demographic Transition Model?",
+            "a1": "Many births, many deaths",
+            "a2": "Many births, few deaths",
+            "a3": "Few births, many deaths",
+            "a4": "Few births, few deaths",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Many births and deaths are caused by poor infrastructure, making it difficult to grow a family with low life expectancies."
+        },
+        {
+            "qu": "What population change may be seen in a Stage 1 country?",
+            "a1": "Population increase",
+            "a2": "Population doesn't change",
+            "a3": "Population decrease",
+            "a4": "Entire population is wiped",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "The population remains the same, as while there are many births, there are also many deaths."
+        },  
+        {
+            "qu": "What is a characteristic of Stage 2 of the Demographic Transition Model?",
+            "a1": "More deaths than Stage 1",
+            "a2": "The same number of deaths as Stage 1",
+            "a3": "Less deaths than Stage 1",
+            "a4": "Rapid decline in births",
+            "ans": 3,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Less people die due to improving sanitation and healthcare quality."
+        },
+        {
+            "qu": "What population change may be seen in a Stage 2 country?",
+            "a1": "Population increase",
+            "a2": "Population doesn't change",
+            "a3": "Population decrease",
+            "a4": "Entire population is wiped",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "The population starts to rapidly grow with death rates falling quickly."
+        },
+        {
+            "qu": "What is a characteristic of Stage 3 of the Demographic Transition Model?",
+            "a1": "More births than Stage 2",
+            "a2": "The same number of births as Stage 2",
+            "a3": "More deaths than Stage 2",
+            "a4": "Rapid decline in births",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Births rapidly decline with contraceptives and new family planning methods."
+        },
+        {
+            "qu": "What population change may be seen in a Stage 3 country?",
+            "a1": "Population increase",
+            "a2": "Population doesn't change",
+            "a3": "Population decrease",
+            "a4": "Entire population is wiped",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "The birth rates still continue to be higher than the death rates, so the population increases."
+        },
+        {
+            "qu": "What is a characteristic of Stage 4 of the Demographic Transition Model?",
+            "a1": "Many births, many deaths",
+            "a2": "Many births, few deaths",
+            "a3": "Few births, many deaths",
+            "a4": "Few births, few deaths",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "Few births are caused by improved family planning, while robust healthcare and infrastructure gives long life spans to residents of Stage 4 countries."
+        },
+        {
+            "qu": "What population change may be seen in a Stage 4 country?",
+            "a1": "Population increase",
+            "a2": "Population doesn't change",
+            "a3": "Population decrease",
+            "a4": "Entire population is wiped",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "The population does not change much, due to low birth and death rates."
+        },
+        {
+            "qu": "What would Stage 5 of the Demographic Transition Model look like?",
+            "a1": "More deaths than births, and a declining population",
+            "a2": "The end of births",
+            "a3": "Stage 5 entails more births than deaths",
+            "a4": "A significant population increase",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 23,
+            "timeLower": 30,
+            "solution": "More deaths than births, and a declining population."
+        }
+
+
+
+
+
+
+
+    ]
+}
+

@@ -1,7 +1,8 @@
 {
     "quizID": 1000,
     "title": "Biology Sample Quiz",
-    "quCountMinusOne": 9, 
+    "totalQuCount": 10, 
+    "quCountToDisplay": 7,
     "questionList": [
         {
             "qu": "What is the powerhouse of the cell?",
@@ -12,7 +13,8 @@
             "ans": 4,
             "timeUpper": 5,
             "timeMid": 8,
-            "timeLower": 10
+            "timeLower": 10,
+            "solution": "The mitochondria produces energy for the cell, therefore, it is considered the powerhouse."
         },
         {
             "qu": "What contains the genetic material of the cell?",

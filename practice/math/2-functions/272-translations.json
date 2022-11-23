@@ -1,0 +1,124 @@
+{
+    "quizID": 1000,
+    "title": "Types of Transformations",
+    "totalQuCount": 9, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "Which vector represents the translation of a function in the form `y=a(b(x-c))+d`?",
+            "a1": "(a,b)",
+            "a2": "(a,c)",
+            "a3": "(b,d)",
+            "a4": "(c,d)",
+            "ans": 4,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "C represents horizontal translation, and D represents vertical translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(x+2)-3`?",
+            "a1": "(2,3)",
+            "a2": "(-2,3)",
+            "a3": "(2,-3)",
+            "a4": "(-2,-3)",
+            "ans": 4,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -2, and d is equal to -3, therefore the vector (-2,-3) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(x-4)-8`?",
+            "a1": "(4,8)",
+            "a2": "(-4,8)",
+            "a3": "(4,-8)",
+            "a4": "(-4,-8)",
+            "ans": 3,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to 4, and d is equal to -8, therefore the vector (4,-8) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(x+3)+7`?",
+            "a1": "(3,7)",
+            "a2": "(-3,7)",
+            "a3": "(3,-7)",
+            "a4": "(-3,-7)",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(x+3)+7`?",
+            "a1": "(3,7)",
+            "a2": "(-3,7)",
+            "a3": "(3,-7)",
+            "a4": "(-3,-7)",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(x+3)+7`?",
+            "a1": "(3,7)",
+            "a2": "(-3,7)",
+            "a3": "(3,-7)",
+            "a4": "(-3,-7)",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=2f(x+2)+4`?",
+            "a1": "(2,4)",
+            "a2": "(4,4)",
+            "a3": "(-2,4)",
+            "a4": "(-4,4)",
+            "ans": 3,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -2, and d is equal to 4, therefore the vector (-2,4) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=3f(x-3)+2`?",
+            "a1": "(3,2)",
+            "a2": "(3,2)",
+            "a3": "(-3,2)",
+            "a4": "(-3,2)",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to 3, and d is equal to 2, therefore the vector (3,2) represents the translation."
+        },
+        {
+            "qu": "Which vector represents the translation of the function `y=f(3(x+1))-3`?",
+            "a1": "(3,3)",
+            "a2": "(-3,-3)",
+            "a3": "(1,-3)",
+            "a4": "(-1,-3)",
+            "ans": 4,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "c is equal to -1, and d is equal to -3, therefore the vector (-1,-3) represents the translation."
+        }
+
+
+
+
+
+
+
+
+    ]
+}
