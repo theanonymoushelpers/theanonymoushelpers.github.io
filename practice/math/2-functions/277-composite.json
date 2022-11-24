@@ -1,7 +1,7 @@
 {
     "quizID": 1000,
     "title": "Composite Functions",
-    "totalQuCount": 10, 
+    "totalQuCount": 11, 
     "quCountToDisplay": 5,
     "questionList": [
         {
@@ -123,6 +123,18 @@
             "timeMid": 24,
             "timeLower": 32,
             "solution": "If we find the composite function `g@f(x)`, it is `3/(12/x)`. If we substitute 18 for x, we get `3/(12/18)`, which simplifies to `9/2`."
+        },
+        {
+            "qu": "What are the restrictions on the range of `f@g(x)` if `f(x)=2x+2` and `g(x)=1/x?",
+            "a1": "`f@g(x)!=0`",
+            "a2": "`f@g(x)!=1`",
+            "a3": "`f@g(x)!=2`",
+            "a4": "`f@g(x)!=3`",
+            "ans": 3,
+            "timeUpper": 30,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": ""
         }
      
 
