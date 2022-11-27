@@ -1,0 +1,315 @@
+{
+    "quizID": 1000,
+    "title": "Verbs",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Tener",
+            "a1": "To have",
+            "a2": "To sleep",
+            "a3": "To eat",
+            "a4": "To go",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To have"
+        },
+        {
+            "qu": "Poder",
+            "a1": "To laugh",
+            "a2": "To listen",
+            "a3": "To think",
+            "a4": "To be able",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To be able"
+        },
+        {
+            "qu": "Saber",
+            "a1": "To sing",
+            "a2": "To dance",
+            "a3": "To know",
+            "a4": "To go",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To know"
+        },
+        {
+            "qu": "Parecer",
+            "a1": "To speak",
+            "a2": "To sleep",
+            "a3": "To call",
+            "a4": "To seem",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To seem"
+        },
+        {
+            "qu": "Dejar",
+            "a1": "To believe",
+            "a2": "To leave",
+            "a3": "To stay",
+            "a4": "To put",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To leave"
+        },
+        {
+            "qu": "Tomar",
+            "a1": "To take, drink",
+            "a2": "To return ",
+            "a3": "To begin",
+            "a4": "To exist",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To take, drink"
+        },
+        {
+            "qu": "Trabajar",
+            "a1": "To understand",
+            "a2": "To remember",
+            "a3": "To work",
+            "a4": "To request",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To work"
+        },
+        {
+            "qu": "Necesitar",
+            "a1": "To get",
+            "a2": "To permit",
+            "a3": "To serve",
+            "a4": "To need",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To need"
+        },
+        {
+            "qu": "Cambiar",
+            "a1": "To change",
+            "a2": "To introduce",
+            "a3": "To finish",
+            "a4": "To hear",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To change"
+        },
+        {
+            "qu": "Considerar",
+            "a1": "To create",
+            "a2": "To consider",
+            "a3": "To win",
+            "a4": "To convert",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To consider"
+        },
+        {
+            "qu": "Comprender",
+            "a1": "To accept",
+            "a2": "To communicate",
+            "a3": "To touch",
+            "a4": "To comprehend",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To comprehend"
+        },
+        {
+            "qu": "Jugar",
+            "a1": "To have fun",
+            "a2": "To play",
+            "a3": "To drink",
+            "a4": "To go",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To play"
+        },
+        {
+            "qu": "Andar",
+            "a1": "To walk",
+            "a2": "To cancel",
+            "a3": "To fall",
+            "a4": "To fit",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To walk"
+        },
+        {
+            "qu": "Cortar",
+            "a1": "To give",
+            "a2": "To emerge",
+            "a3": "To cut",
+            "a4": "To teach",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To cut"
+        },
+        {
+            "qu": "Lavar",
+            "a1": "To lift",
+            "a2": "To forget",
+            "a3": "To pay",
+            "a4": "To wash",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To wash"
+        },
+        {
+            "qu": "Romper",
+            "a1": "To dream",
+            "a2": "To arise",
+            "a3": "To bring",
+            "a4": "To break",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To break"
+        },
+        {
+            "qu": "Toser",
+            "a1": "To use",
+            "a2": "To be worth",
+            "a3": "To dress",
+            "a4": "To cough",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To cough"
+        },
+        {
+            "qu": "Sudar",
+            "a1": "To sprain",
+            "a2": "To sweat",
+            "a3": "To breathe",
+            "a4": "To visit",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To sweat"
+        },
+        {
+            "qu": "Viajar",
+            "a1": "To travel",
+            "a2": "To live",
+            "a3": "To see",
+            "a4": "To return",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To travel"
+        },
+        {
+            "qu": "Escoger",
+            "a1": "To worsen",
+            "a2": "To last",
+            "a3": "To think",
+            "a4": "To choose",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To choose"
+        },
+        {
+            "qu": "Acostar(se)",
+            "a1": "To open",
+            "a2": "To fast",
+            "a3": "To go to bed",
+            "a4": "To bathe",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To go to bed"
+        },
+        {
+            "qu": "Bañar(se)",
+            "a1": "To cook",
+            "a2": "To find",
+            "a3": "To decide",
+            "a4": "To bathe (oneself)",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To bathe (oneself)"
+        },
+        {
+            "qu": "Cuidar",
+            "a1": "To care for",
+            "a2": "To sleep",
+            "a3": "To discuss",
+            "a4": "To detect",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To care for"
+        },
+        {
+            "qu": "Duchar (se)",
+            "a1": "To choose",
+            "a2": "To shower",
+            "a3": "To extend",
+            "a4": "To sign",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To shower"
+        },
+        {
+            "qu": "Recetar",
+            "a1": "To prescribe",
+            "a2": "To resist",
+            "a3": "To fear",
+            "a4": "To swallow",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 15,
+            "solution": "To prescribe"
+        }
+
+
+
+
+
+
+    ]
+}
+
