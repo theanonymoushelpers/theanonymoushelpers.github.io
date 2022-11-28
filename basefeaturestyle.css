@@ -1,29 +1,32 @@
+th, td {
+    border:1px solid white;
+  }
 
 h1 {
 width: 90%;
 margin: auto;
 text-align: center;
-font-size: 48px;
+font-size: 56px;
 font-weight: bold;
 color: white;
 }
 
 h2 {
-width: 90%;
+width: 60%;
 margin: auto;
 text-align: center;
 margin-top: 40px;
-font-size: 36px;
+font-size: 40px;
 font-weight: bold;
 color: white;
 }
 
 p {
-width: 90%;
+width: 60%;
 margin: auto;
 text-align: center;
 margin-top: 25px;
-font-size: 18px;
+font-size: 22px;
 font-weight: normal;
 color: white;
 }
@@ -75,4 +78,18 @@ background-color: rgb(81, 117, 83);
 
 .greenExample div {
 background-color: rgb(114, 144, 115);
+}
+
+.important {
+    background-color: rgb(177, 165, 112);
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 22px;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.spacer {
+    height: 80px;
 }

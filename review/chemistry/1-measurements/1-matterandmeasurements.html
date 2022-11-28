@@ -1,0 +1,164 @@
+
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../basefeaturestyle.css">
+        
+        <script defer src="../../../animate.js"></script>
+        <title>TAH | Unit 1 - Matter and Measurements </title>
+        <link rel="icon" type="image/x-icon" href="../../../lib/images/favicon.ico">
+
+        <script>
+            MathJax = {
+              tex: {
+                inlineMath: [['`', '`']]
+              }
+            };
+            </script>
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    </head>
+
+    <body>
+
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../../index.html'">
+                        <img src="../../../lib/images/3.svg">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../../learn/index.html'">Learn</Txlink>
+                    <Txlink  class="active" onClick="location.href='../../../review/index.html'">Review</Txlink>
+                    <Txlink  onClick="location.href='../../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../../lib/images/4.svg">
+                    </ImgLink>
+                </div>
+                
+<div>
+
+    <div class="reviewContent" style="background-color:#1d2720;">
+        <div style="height: 100px;"></div>
+
+        <h1 class="hiddenAnimate">Matter and Measurements</h1>
+        <p class="hiddenAnimate">This unit covers the basics of naming elements and compounds, balancing reactions, and measurements in the context of Chemistry, including important units and figures.</p>
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">1.1: SI Units</h2>
+        <p class="hiddenAnimate">SI units are a system of <b>standardized units</b> used across the sciences.</p>
+        <p class="hiddenAnimate">There are 7 base units that are most commonly used:</p>
+        <table style="margin: auto;">
+            <tr>
+                <th>Mass</th>
+                <th>Length</th>
+                <th>Time</th>
+                <th>Current</th>
+                <th>Temperature</th>
+                <th>Substance Amount</th>
+                <th>Luminosity</th>
+            </tr>
+            <tr>
+                <td>Kilogram (kg)</td>
+                <td>Meter (m)</td>
+                <td>Seconds (s)</td>
+                <td>Ampere (A)</td>
+                <td>Kelvin (K)</td>
+                <td>Mole(mol)</td>
+                <td>Candela (cl)</td>
+            </tr>
+        </table>
+        <p class="hiddenAnimate">Base units can be given prefixes in order to make it easier to work with smaller values. You can multiply these units by a factor of `10^n` determined by their prefix to get the value of it in SI units.</p>
+        <table style="margin: auto;">
+            <tr><th>Prefix</th><th>Multiplied by `10^n`</th></tr>
+            <tr><td>Giga (G)</td><td>`10^9`</td></tr>
+            <tr><td>Mega (M)</td><td>`10^6`</td></tr>
+            <tr><td>Kilo (k)</td><td>`10^3`</td></tr>
+            <tr><td>Deca (da)</td><td>`10^1`</td></tr>
+            <tr><td>Deci (d)</td><td>`10^-1`</td></tr>
+            <tr><td>Centi (c)</td><td>`10^-2`</td></tr>
+            <tr><td>Mili (m)</td><td>`10^-3`</td></tr>
+            <tr><td>Micro (µ)</td><td>`10^-6`</td></tr>
+            <tr><td>Nano (n)</td><td>`10^-9`</td></tr>
+        </table>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: Convert `100g` to `kg`</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">By looking at  the prefix of the unit we are converting to (k), we know that we are looking for kilograms. We can use a conversion factor to find this, by cancelling out our orignial unit.</p><p>`\dfrac{100g}{1} * \dfrac{1kg}{10^3g} =0.1kg`</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+        <p class="hiddenAnimate">From these base units come <b>derived units,</b> which are units that are algebraically combined to create new units that usually tell us how many of one unit we have per other unit.</p>
+        <p class="hiddenAnimate">This is where conversion factors become important to solving questions. You must ensure when converting between units that the original unit is cancelled out when doing fractions, so you end up with your new unit. For example, if we are converting from meters per second to kilometers per hour:</p>
+        <p class="hiddenAnimate">`\dfrac{10m}{1s} * \dfrac{1km}{10^3m} * \dfrac{3600s}{1hr} = 36km/hr`</p>
+        <p class="hiddenAnimate">Make sure that any unit you don't want is cancelled out, by having it appear the same amount of times on the numerator and denominator.</p>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: A pure substance has a mass of 96g. Assuming it has a molar mass of 16g/mol, how many moles are in the substance?</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">We have a weight in grams, and a conversion factor that converts from grams to moles. We can rearrange this to make it easier to solve.</p><p>`\dfrac{96g}{1} * \dfrac{1mol}{16g} =6mol`</p><p>The mol is written as the numerator in the conversion factor, so that the grams can cancel out, and only moles are left.</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+        <p class="hiddenAnimate important">Since some conversions may not be obvious, remember a mililiter (mL) is equal to a centimeter cubed (`cm^3`) and a liter (L) is equal to a decimeter cubed (`dm^3`).</p>
+        <p class="hiddenAnimate important">Also remember that temperature conversions work a little differently, and to convert from degrees Kelvin to degrees Celsius, you must subtract approx. 273 degrees.</p>
+        
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">1.2: Significant Figures</h2>
+        <p class="important hiddenAnimate">Remember the rule that whether it's decimal places or significant figures when completing operations, you always keep the smallest number.</p>
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">1.3: Physical and Chemical Properties</h2>
+        <p class="hiddenAnimate"><b>Physical properties</b> can be measured by observing them, and these do not involve any changes in bonding.</p>
+        <p class="hiddenAnimate"><b>Chemical properties</b> involve changes in bonds, as they can be measured  in the way they react with other elements.</p>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: Is malleability a physical or chemical property?</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">Malleability is the ability for a metal to be bent permanently without breaking. This does not result in changes in the bonds, therefore, we can classify this as a <b>physical property.</b></p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">1.4: Matter States and Classifications</h2>
+
+        <h2 class="hiddenAnimate">1.5: Naming Ionic Compounds</h2>
+
+        <h2 class="hiddenAnimate">1.6: Naming Covalent Compounds</h2>
+
+        <h2 class="hiddenAnimate">1.7: Reaction Classification and Balancing</h2>
+
+
+
+
+<span>
+    <button class="ButtonStGr hiddenAnimate" style="width: 300px; margin-top: 20px; transition-delay: 200ms;" onClick="location.href='../../index.html'">Close Review Page</button>
+</span>
+
+
+    <div style="height: 150px;"></div>
+</div>
+    <div class="footer">
+        <ImgLink onClick="location.href='../../../index.html'">
+            <img src="../../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2022.</p>
+        
+        <div style=" margin: auto;">
+            <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../../../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../../../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='../../../about/index.html'">
+                <img width="22" height="22" src="../../../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+
+</div>
+
