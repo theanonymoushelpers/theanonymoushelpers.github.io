@@ -199,6 +199,15 @@ font-size: 24px;
     outline: hidden;
 }
 
+.menuStyleReview {
+    background-color: #324438;
+    }
+
+.menuStyleReview TxLink.active {
+    background-color: #151b17;
+    }
+
+
 @media screen and (max-width: 1400px) {
 .menuStyle TxLink {
 float: none;
@@ -230,6 +239,10 @@ width: 100%;
 background-color: rgb(49, 49, 56);
 color: white;
 text-align: center;
+}
+
+.footerReview {
+background-color:#324438;
 }
 
 .pageHt {

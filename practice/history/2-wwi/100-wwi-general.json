@@ -1,8 +1,8 @@
 {
     "quizID": "WWI - General Review",
     "title": "History WW1",
-    "totalQuCount": 20, 
-    "quCountToDisplay": 5,
+    "totalQuCount": 30, 
+    "quCountToDisplay": 7,
     "questionList": [
         {
             "qu": "Which flower became a symbol of World War I?",
@@ -242,8 +242,127 @@
             "timeMid": 15,
             "timeLower": 20,
             "solution": "Bily Bishop."
+        },
+        {
+            "qu": "Which Chinese port city did Japan seize from German forces in 1914?",
+            "a1": "Hong Kong",
+            "a2": "Shanghai",
+            "a3": "Macau",
+            "a4": "Qingdao",
+            "ans": "a4",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Qingdao"
+        },
+        {
+            "qu": "Who shot Archduke Franz Ferdinand and his wife Sophie on 28 June 1914?",
+            "a1": "Gavrilo Princip",
+            "a2": "Vaso Čubrilović",
+            "a3": "Muhamed Mehmedbašić",
+            "a4": "William George Barker",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Gavrilo Princip"
+        },
+        {
+            "qu": "Who was in charge of the British Expeditionary Force (BEF) in 1916?",
+            "a1": "Lord Mountbatten",
+            "a2": "Arthur Currie",
+            "a3": "Sir Douglas Haig",
+            "a4": "Sir John French",
+            "ans": "a3",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Sir Douglas Haig"
+        },
+        {
+            "qu": "Which general led the American Expeditionary Force on the western front?",
+            "a1": "John J Pershing",
+            "a2": "George S Patton",
+            "a3": "George C Marshall",
+            "a4": "William George Barker",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "John J Pershing"
+        },
+        {
+            "qu": "On which continent was World War I mostly fought?",
+            "a1": "Europe",
+            "a2": "Asia",
+            "a3": "Africa",
+            "a4": "North America",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Europe"
+        },
+        {
+            "qu": "Which of these people was convicted of spying in World War I?",
+            "a1": "Billy Bishop",
+            "a2": "James Bond",
+            "a3": "Mata Hari",
+            "a4": "Benedict Arnold",
+            "ans": "a3",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Mata Hari"
+        },
+        {
+            "qu": "Which of these was not a result of Germany’s surrender?",
+            "a1": "the execution of Kaiser Wilhelm II",
+            "a2": "restrictions on the German army’s size",
+            "a3": "payment of reparations",
+            "a4": "giving land to France",
+            "ans": "a4",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The Kaiser abdicated instead"
+        },
+        {
+            "qu": "There was a temporary truce on what day in 1914?",
+            "a1": "Christmas",
+            "a2": "Thanksgiving",
+            "a3": "Easter",
+            "a4": "New Year",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Christmas"
+        },
+        {
+            "qu": "What country lost the most lives in World War I?",
+            "a1": "Germany",
+            "a2": "Russia",
+            "a3": "France",
+            "a4": "Britain",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Germany"
+        },
+        {
+            "qu": "What was the deadliest chemical weapon used during WWI?",
+            "a1": "Phosgene",
+            "a2": "Chlorine",
+            "a3": "Mustard Gas",
+            "a4": "Tear Gas",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Phosgene"
         }
-
 
 
 
