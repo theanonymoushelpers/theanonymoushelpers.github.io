@@ -69,8 +69,13 @@ var ansName = nameQ;
 var isContinue = false;
 var isDone = false;
 
-var selection = document.getElementById("multiplechoice");
-var selectedValue = selection.value;
+//which value was actually selected
+var selectedValue;
+
+//possible values for options
+var opValue = document.getElementsByName("radio");
+
+//answer key
 var ansValue;
 
 //controls which question is loaded
@@ -120,12 +125,11 @@ fetch(directQ)
         i = Math.floor(Math.random() * (dataTotalQuestions-1));
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
-
         questionDisplay.textContent = dataQA[i]["qu"]
-        o1.textContent = dataQA[i]["a1"]
-        o2.textContent = dataQA[i]["a2"]
-        o3.textContent = dataQA[i]["a3"]
-        o4.textContent = dataQA[i]["a4"]
+        o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
+        o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
+        o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
+        o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
         ansValue = dataQA[i]["ans"]
         speedUpper = dataQA[i]["timeUpper"]
         speedMidRange = dataQA[i]["timeMid"]
@@ -146,8 +150,16 @@ continueButton.addEventListener('click', loadNextQuestion);
 setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
 
 
-function checkAnswer() {
-    selectedValue = selection.value;
+function checkAnswer() {       
+    for(op = 0; op < opValue.length; op++) {
+        console.log("quOp:" + op);
+        if(opValue[op].checked) {
+        selectedValue = (op - 1);
+        console.log("true");
+        }
+        else {console.log("true")}
+    }
+
     checkButton.style.visibility = 'hidden';
     continueButton.style.visibility = 'visible';
     continueDiv.style.visibility = 'visible';
@@ -157,8 +169,8 @@ function checkAnswer() {
 
     if (selectedValue == ansValue) {
         console.log("correct")
-        console.log(ansValue)
-        console.log(selectedValue)
+        console.log("correct answer: " + ansValue)
+        console.log("selected answer: " + selectedValue)
         console.log("Speed Upper Req:" + speedUpper)
 
         continueDiv.style.backgroundColor = '#d5ffd5';
@@ -221,10 +233,10 @@ function loadNextQuestion() {
     randomQ();
     console.log("Questionbank: " + i);
     questionDisplay.textContent = dataQA[i]["qu"]
-    o1.textContent = dataQA[i]["a1"]
-    o2.textContent = dataQA[i]["a2"]
-    o3.textContent = dataQA[i]["a3"]
-    o4.textContent = dataQA[i]["a4"]
+    o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
+    o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
+    o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
+    o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
     ansValue = dataQA[i]["ans"];
     speedUpper = dataQA[i]["timeUpper"]
     speedMidRange = dataQA[i]["timeMid"]

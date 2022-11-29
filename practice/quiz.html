@@ -4,41 +4,6 @@
 
 <style>
 
-
-
-
-
-#multiplechoice{
-  min-height: 300px;
-  max-height: 70%;
-  border: none;
-  overflow-y: auto;
-  background-color: rgb(47, 41, 41);
-}
-
-#multiplechoice::-moz-focus-inner {
-  border: 0;
-}
-
-#multiplechoice:focus {
-  outline: none;
-}
-
-#multiplechoice option{
-  min-width: 200px;
-  max-width: 90%;
-  padding: 10px 0;
-  white-space: normal;
-  text-align: center;
-  margin-right: 20px;
-  display: list-item;
-  cursor: pointer;
-  color: #8a5d16;
-    background-color: #ffdba1;
-  font-size: 20px;
-    border-radius: 25px;
-}
-
 .feedbackPlacement {
   text-align: center;
   visibility: hidden; 
@@ -78,6 +43,68 @@
 }
 
 
+.container {
+  display: block;
+  position: relative;
+  padding: 10px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-style: solid;
+  width: 70%;
+  margin: auto;
+  border-color: rgb(117, 111, 100);
+  border-radius: 10px;
+}
+
+/* Inspired by w3schools */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkmark {
+  position: absolute;
+  top: 25%;
+  left: 2%;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+.container:hover input ~ .checkmark {
+  background-color: rgb(207, 182, 162);
+}
+
+.container input:checked ~ .checkmark {
+  background-color: #f38321;
+}
+
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+.container .checkmark:after {
+ 	top: 9px;
+	left: 9px;
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+	background: white;
+}
+
 </style>
 
 <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../globalstyle.css">
@@ -110,12 +137,28 @@ MathJax = {
         <div><h1 id="quDisplay" style="margin: auto; text-align: center; margin-bottom: 30px;">Question</h1></div>
         <div><body style="margin: auto; text-align: center; margin-bottom: 70px;"></body></div>
 
-        <select required name="options" id="multiplechoice" multiple>
-        <div><option value="1" id="a1Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 1</option></div>
-        <div><option value="2" id="a2Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 2</option></div>
-        <div><option value="3" id="a3Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 3</option></div>
-        <div><option value="4" id="a4Display"  style="margin: auto; text-align: center; margin-bottom: 30px;" >Option 4</option></div>
-        </select>
+
+        <label class="container" id="a1Display">One
+          <input type="radio" checked="checked" name="radio" value="1">
+          <span class="checkmark"></span>
+        </label>
+        <div style="height:20px"></div>
+        <label class="container" id="a2Display">Two
+          <input type="radio" name="radio" value="2">
+          <span class="checkmark"></span>
+        </label>
+        <div style="height:20px"></div>
+        <label class="container" id="a3Display">Three
+          <input type="radio" name="radio" value="3">
+          <span class="checkmark"></span>
+        </label>
+        <div style="height:20px"></div>
+        <label class="container" id="a4Display">Four
+          <input type="radio" name="radio" value="4">
+          <span class="checkmark"></span>
+        </label>
+        <div style="height:20px"></div>
+
 
 
         <div><button id="checkButton" class="buttonStGr" style="margin: auto; text-align: center;">Check</button></div>
