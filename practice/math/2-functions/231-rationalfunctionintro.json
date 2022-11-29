@@ -53,7 +53,7 @@
             "solution": "Due to a restriction in the domain, as that causes a gap since x cannot be the listed number (`x = 0` in this case)."
         },
         {
-            "qu": "Calculate the y-intercept of `y = 1/(x-3)(x+2)`",
+            "qu": "Calculate the y-intercept of `y = 1/((x-3)(x+2))`",
             "a1": "(0,-6)",
             "a2": "(0,-1/6)",
             "a3": "(0,1/6)",
