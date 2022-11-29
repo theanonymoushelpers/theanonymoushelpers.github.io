@@ -1,0 +1,118 @@
+{
+    "quizID": 1000,
+    "title": "Transformations Inside Functions",
+    "totalQuCount": 9, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "For the function `f(3(x-3))+1`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 1,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `a=1`, there is no vertical stretch."
+        },
+        {
+            "qu": "For the function `2f(x+4)+9`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `b=1`, there is no horizontal stretch."
+        },
+        {
+            "qu": "For the function `2f(3x)+1`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 4,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `c=0`, there is no horizontal translation."
+        },
+        {
+            "qu": "For the function `4f(3(x-8)`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 3,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `d=0`, there is no vertical translation."
+        },
+        {
+            "qu": "For the function `f(2(x-6))+5`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 1,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `a=1`, there is no vertical stretch."
+        },
+        {
+            "qu": "For the function `3f(x+2)+7`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `b=1`, there is no horizontal stretch."
+        },
+        {
+            "qu": "For the function `4f(5x)+7`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 4,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `c=0`, there is no horizontal translation."
+        },
+        {
+            "qu": "For the function `-4f(2(x-6)`, which type of transformation is NOT present?",
+            "a1": "Vertical Stretch",
+            "a2": "Horizontal Stretch",
+            "a3": "Vertical Translation",
+            "a4": "Horizontal Translation",
+            "ans": 3,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "This transformation is in the form `af(b(x-c)+d`. Since `d=0`, there is no vertical translation."
+        },
+        {
+            "qu": "What is the factor of the vertical stretch for the function `f(x)=2(x-3)^2+2`",
+            "a1": "0",
+            "a2": "2",
+            "a3": "3",
+            "a4": "6",
+            "ans": 2,
+            "timeUpper": 16,
+            "timeMid": 24,
+            "timeLower": 32,
+            "solution": "As `a` represents the vertical stretch, and `a=2`, the vertical stretch is by a factor of 2."
+        }
+
+
+    ]
+}
