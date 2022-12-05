@@ -1,0 +1,316 @@
+{
+    "quizID": 1000,
+    "title": "Physical activity",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "El fútbol",
+            "a1": "Football",
+            "a2": "Tennis",
+            "a3": "Chess",
+            "a4": "Golf",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Football"
+        },
+        {
+            "qu": "Baloncesto",
+            "a1": "Hockey",
+            "a2": "Baseball",
+            "a3": "Badminton",
+            "a4": "Basketball",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Basketball"
+        },
+        {
+            "qu": "Ajedrez",
+            "a1": "Pool",
+            "a2": "Chess",
+            "a3": "Bowling",
+            "a4": "Golf",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Chess"
+        },
+        {
+            "qu": "Billar",
+            "a1": "Running",
+            "a2": "Cricket",
+            "a3": "Boxing",
+            "a4": "Pool",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Pool"
+        },
+        {
+            "qu": "Ciclismo",
+            "a1": "Horse racing",
+            "a2": "Tennis",
+            "a3": "Cycling",
+            "a4": "Golf",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Cycling"
+        },
+        {
+            "qu": "Escalada",
+            "a1": "Rock climbing",
+            "a2": "Mountain biking",
+            "a3": "Fencing",
+            "a4": "Ski",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Rock climbing"
+        },
+        {
+            "qu": "Esgrima",
+            "a1": "Gymnastics",
+            "a2": "Kayaking",
+            "a3": "Fencing",
+            "a4": "Swimming",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Fencing"
+        },
+        {
+            "qu": "Clavadismo",
+            "a1": "Ice skating",
+            "a2": "Snowboarding",
+            "a3": "Diving",
+            "a4": "Softball",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Diving"
+        },
+        {
+            "qu": "Voleibol",
+            "a1": "Jogging",
+            "a2": "Volleyball",
+            "a3": "Waterpolo",
+            "a4": "Rafting",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Volleyball"
+        },
+        {
+            "qu": "Tenis de mesa",
+            "a1": "Ski jumping",
+            "a2": "Surfing",
+            "a3": "Archery",
+            "a4": "Table tennis",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Table tennis"
+        },
+        {
+            "qu": "Tiro con arco",
+            "a1": "Archery",
+            "a2": "Shooting",
+            "a3": "Tennis",
+            "a4": "Trampoline",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Archery"
+        },
+        {
+            "qu": "Campamento",
+            "a1": "Racing",
+            "a2": "Camping",
+            "a3": "Fishing",
+            "a4": "Handball",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Camping"
+        },
+        {
+            "qu": "Pesca",
+            "a1": "Karate",
+            "a2": "Fishing",
+            "a3": "Martial arts",
+            "a4": "Wrestling",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Fishing"
+        },
+        {
+            "qu": "La natación",
+            "a1": "Hiking",
+            "a2": "Hunting",
+            "a3": "Scuba diving",
+            "a4": "Swimming",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Swimming"
+        },
+        {
+            "qu": "Patinaje",
+            "a1": "Skating",
+            "a2": "Rowing",
+            "a3": "Dancing",
+            "a4": "Singing",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Skating"
+        },
+        {
+            "qu": "La lucha",
+            "a1": "Judo",
+            "a2": "Taekwondo",
+            "a3": "Wrestling",
+            "a4": "Golf",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Wrestling"
+        },
+        {
+            "qu": "Paracaidismo",
+            "a1": "Parachuting",
+            "a2": "Climbing",
+            "a3": "Bungee jumping",
+            "a4": "Longboarding",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Parachuting"
+        },
+        {
+            "qu": "La piscina",
+            "a1": "Arena",
+            "a2": "Golf course",
+            "a3": "Pool",
+            "a4": "Park",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Pool"
+        },
+        {
+            "qu": "El estadio",
+            "a1": "Stadium",
+            "a2": "Track",
+            "a3": "Ring",
+            "a4": "Soccer field",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Stadium"
+        },
+        {
+            "qu": "Los guantes",
+            "a1": "Bandages",
+            "a2": "Gloves",
+            "a3": "Goggles",
+            "a4": "Helmet",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Gloves"
+        },
+        {
+            "qu": "El casco",
+            "a1": "Racket",
+            "a2": "Headband",
+            "a3": "Sword",
+            "a4": "Helmet",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Helmet"
+        },
+        {
+            "qu": "La canoa",
+            "a1": "Tennis shoes",
+            "a2": "Kit",
+            "a3": "Bicycle",
+            "a4": "Canoe",
+            "ans": 4,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Canoe"
+        },
+        {
+            "qu": "El esquí",
+            "a1": "Reading",
+            "a2": "Television",
+            "a3": "Skiing",
+            "a4": "Gardening",
+            "ans": 3,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Skiing"
+        },
+        {
+            "qu": "Remo",
+            "a1": "Rowing",
+            "a2": "Walking",
+            "a3": "Sailing",
+            "a4": "Jogging",
+            "ans": 1,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Rowing"
+        },
+        {
+            "qu": "Boxeo",
+            "a1": "Hockey",
+            "a2": "Boxing",
+            "a3": "Canoeing",
+            "a4": "Rugby",
+            "ans": 2,
+            "timeUpper": 3,
+            "timeMid": 5,
+            "timeLower": 10,
+            "solution": "Boxing"
+        }
+
+
+
+
+
+
+
+    ]
+}
+
