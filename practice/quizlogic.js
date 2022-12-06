@@ -141,7 +141,7 @@ fetch(directQ)
        } )
 
 
-
+MathJax.typesetPromise();
 
 
 checkButton.addEventListener('click', checkAnswer);
