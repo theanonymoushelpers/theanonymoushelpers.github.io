@@ -141,13 +141,13 @@ fetch(directQ)
        } )
 
 
-MathJax.typesetPromise();
-
-
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
+
+
 setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
+
 
 
 function checkAnswer() {       
