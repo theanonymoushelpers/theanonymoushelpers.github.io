@@ -484,3 +484,17 @@ img {
     filter: blur(30px); 
     opacity: 1;
 }
+
+
+.footerLearn {
+    background-color:#3b3244;
+    }
+
+    
+.menuStyleLearn {
+    background-color: #3b3244;
+    }
+
+.menuStyleReview TxLink.active {
+    background-color: #18151b;
+    }

@@ -28,7 +28,7 @@
         
         <div class="pageHt">
             <div class="pageContentCont">
-                <div class="menuStyle">
+                <div class="menuStyle menuStyleLearn">
                     <ImgLink onClick="location.href='../../../../index.html'">
                         <img src="../../../../lib/images/3.svg">
                     </ImgLink>
@@ -41,20 +41,43 @@
                 </div>
                 
 <div style="background-color:#211d27;">
+    <div style="height: 100px;"></div>
     <h1>2.1 - X and Y Intercepts</h1>
     <div style="height: 50px;"></div>
     <h2 >Topic Video</h1>
     <div style="height: 20px;"></div>
     <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
-    <h2 >So what are quadratics?</h1>
+    <h2 >So what are quadratics?</h2>
     <p>Quadratic functions have a degree of 2, meaning one term with x in it will be raised to the power of two. Displayed graphically, this forms a bowl shape. There are many ways to write a quadratic function, but for the purpose of this lesson, we are going to use something called standard form, which is written as: `y = ax^2 + bx + c`</p>
     <p>The main idea of our functions is that when we plug in a value for x, we get the corresponding y value. All the other numbers (a, b, and c) will modify the equation to make it look like a parabola. To find specific points along our graph, we can plug in either x or y, and we'll get the corresponding y or x value.</p>
+  
+  
+  
+    <h2 >Finding Y-Intercepts</h2>
     <p>To find our y-intercept, let's first look at a graph with a quadratic function:</p>
     <div style="height: 20px;"></div>
-    <div id="calculator1" style="width: 40%; height: 40%; margin: auto;"></div>
-    <p>You can see that the y-axis is a vertical line that crosses the x axis when x is 0. Therefore, when x is 0, we get the value at which our function intercepts, or crosses the y axis. Let's see an example of this:</p>
-    <p>To find our x-intercept, let's look back at our first graph</p>
-    <p>As you can see, the x-axis is horizontal, and it crosses the y axis when y is 0. Therefore, when y is 0, we can find the x-intercept(s). Now, there are a few ways you can do this. You can watch the following videos to do this:</p>
+    <div id="calculator1" style="width: 60%; height: 40%; margin: auto;"></div>
+    <p>You can see that the y-axis is a vertical line that crosses the x axis when `x=0`. Therefore, when x is 0, we get the value at which our function intercepts, or crosses the y axis.</p>
+    <p>For the graph above, the parabola is created by the equation `y=x^2+2x-8`. To find its y-intercept,  we can substitute 0 for x, to find the corresponding y-value when x is 0.</p>
+    <p>`y=x^2+2x-8`</p>
+    <p>`y=(0)^2+2(0)-8`</p>
+    <p>`y=0+0-8`</p>
+    <p>`y=-8`</p>
+    <p>Therefore, our y-intercept is at the point `(0, -8)`.</p>
+    <details class="purpleExample">
+        <summary>Find the y intercept of `y=x^2+3x+5`. Finished? Click to reveal answer.</summary>
+        <div><p>As the c component of this quadratic function is `c=5`, the y-intercept of this function is 5.</p></div>
+    </details>
+    <details class="purpleExample">
+        <summary>Find the y intercept of `y=(x+3)(x-5)`.</summary>
+        <div><p>We can apply distributive law, by multiplying each term by every other term, and collecting like terms. This gives us `y=x^2-2x-15`. From this state you can easily tell that the y-intercept is -15. However, you could also substitute 0 for x in the original equation, and also get the same answer, as `(3)*(-5)=-15`</p></div>
+    </details>
+
+
+    <h2 >Finding X-Intercepts</h2>
+    <p>To find our x-intercept, let's look at our previous graph, with a few modifications:</p>
+    <div id="calculator2" style="width: 60%; height: 40%; margin: auto;"></div>
+    <p>As you can see, the x-axis is horizontal, and it crosses the y axis when y is 0. Therefore, when y is 0, we can find the x-intercept(s). Now, there are a few ways you can do this. Each section below will explain a specific way of approaching the same problem, using the example `y=x^2+2x-8`.</p>
     <div style="height: 50px;"></div>
 
     <h2>Quadratic Formula</h2>
@@ -70,10 +93,7 @@
 
     <p>Finished reading? Try the following examples below. Each question is collapisble, so when you would like to see the answers, you can expand each collapsible.</p>
 
-    <details class="purpleExample">
-        <summary>Find the y intercept of `y=x^2+3x+5`. Finished? Click to reveal answer.</summary>
-        <div><p>As the c component of this quadratic function is `c=5`, the y-intercept of this function is 5.</p></div>
-    </details>
+
 
     <span>
         <button class="ButtonStPr" style="width: 300px; margin-top: 20px;">Go to the Previous Page</button>
@@ -81,7 +101,7 @@
     </span>
 
     <div style="height: 150px;"></div>
-    <div class="footer">
+    <div class="footer footerLearn">
         <ImgLink onClick="location.href='../../../../index.html'">
             <img src="../../../../lib/images/2.svg">
         </ImgLink>
@@ -104,7 +124,15 @@
 
 
 <script>
-    var elt = document.getElementById('calculator1');
-    var calculator = Desmos.GraphingCalculator(elt);
-    calculator.setExpression({ id: 'graph1', latex: 'y=x^2+2x-8' })
+    var calc1 = document.getElementById('calculator1');
+    var calculator1 = Desmos.GraphingCalculator(calc1);
+    calculator1.setExpression({ id: 'graph1', latex: 'y=x^2+2x-8' })
+
+
+    var calc2 = document.getElementById('calculator2');
+    var calculator2 = Desmos.GraphingCalculator(calc2);
+    calculator2.setExpression({ id: 'graph1', latex: 'y=x^2+2x-8' })
+    calculator2.setExpression({ id: 'graph2', latex: '(0, -8)', showLabel: true, label: 'Y-Intercept' })
+    calculator2.setExpression({ id: 'graph3', latex: '(-4, 0)', showLabel: true, label: 'X-Intercept 1' })
+    calculator2.setExpression({ id: 'graph4', latex: '(2, 0)', showLabel: true, label: 'X-Intercept 2' })
 </script>
