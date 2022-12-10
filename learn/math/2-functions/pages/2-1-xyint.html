@@ -6,14 +6,9 @@
         <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../basefeaturestyle.css">
        
        <script>
-            MathJax = {
-              tex: {
-                inlineMath: [['`', '`']]
-              },
-              svg: {
-                fontCache: 'global'
-              }
-            };
+MathJax = {
+  loader: {load: ['input/asciimath', 'output/chtml']}
+}
             </script>
 
         <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
@@ -21,6 +16,8 @@
 
         <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
 
+        <title>TAH | 2.2.1 - Quadratic Functions</title>
+        <link rel="icon" type="image/x-icon" href="../../../../lib/images/favicon.ico">
     </head>
 
     <body>
@@ -48,9 +45,15 @@
     <div style="height: 20px;"></div>
     <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
     <h2 >So what are quadratics?</h2>
-    <p>Quadratic functions have a degree of 2, meaning one term with x in it will be raised to the power of two. Displayed graphically, this forms a bowl shape. There are many ways to write a quadratic function, but for the purpose of this lesson, we are going to use something called standard form, which is written as: `y = ax^2 + bx + c`</p>
+    <p>Quadratic functions have a degree of 2, meaning one term with x in it will be raised to the power of two. Displayed graphically, this forms a bowl shape, which we call a <b>parabola</b>.</p> 
+    <p>The base function of any quadratic is `y=x^2`.</p>
+    <p>There are many ways to write a quadratic function, but for the purpose of this lesson, we are going to use something called standard form, which is written as: `y = ax^2 + bx + c`.</p>
     <p>The main idea of our functions is that when we plug in a value for x, we get the corresponding y value. All the other numbers (a, b, and c) will modify the equation to make it look like a parabola. To find specific points along our graph, we can plug in either x or y, and we'll get the corresponding y or x value.</p>
+    <p>You can use the interactive graph below to see how the a, b, and c values can change the base function.</p>
+    <div style="height: 20px;"></div>
   
+    <div id="calculator3" style="width: 60%; height: 60%; margin: auto;"></div>
+
   
   
     <h2 >Finding Y-Intercepts</h2>
@@ -82,6 +85,7 @@
 
     <h2>Quadratic Formula</h2>
     <div style="height: 20px;"></div>
+    <p>The quadratic formula is famous, and is one of the easiest way to solve for the roots of a quadratic function. Certain parts of this formula will become important later. The formula is `x=(-b+-sqrt(b^2-4ac))/(2a)`</p>
     <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
     <h2>Completing the Square</h2>
     <div style="height: 20px;"></div>
@@ -91,8 +95,7 @@
     <div align="center"><iframe width="640" height="360" src="https://youtube.com/embed/FvCz29oXk1M"></iframe></div>
     <div style="height: 50px;"></div>
 
-    <p>Finished reading? Try the following examples below. Each question is collapisble, so when you would like to see the answers, you can expand each collapsible.</p>
-
+    
 
 
     <span>
@@ -135,4 +138,11 @@
     calculator2.setExpression({ id: 'graph2', latex: '(0, -8)', showLabel: true, label: 'Y-Intercept' })
     calculator2.setExpression({ id: 'graph3', latex: '(-4, 0)', showLabel: true, label: 'X-Intercept 1' })
     calculator2.setExpression({ id: 'graph4', latex: '(2, 0)', showLabel: true, label: 'X-Intercept 2' })
+
+    var calc3 = document.getElementById('calculator3');
+    var calculator3 = Desmos.GraphingCalculator(calc3);
+    calculator3.setExpression({ id: 'graph1', latex: 'y=ax^2+bx+c' })
+    calculator3.setExpression({id:'slider1', latex:'a=1', sliderBounds: {min: -10, max: 10}})
+    calculator3.setExpression({id:'slider2', latex:'b=1', sliderBounds: {min: -10, max: 10}})
+    calculator3.setExpression({id:'slider3', latex:'c=1', sliderBounds: {min: -10, max: 10}})
 </script>
