@@ -1,0 +1,118 @@
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../globalstyle.css">
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../basefeaturestyle.css">
+   
+   <script>
+MathJax = {
+loader: {load: ['input/asciimath', 'output/chtml']}
+}
+        </script>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
+
+    <title>TAH | 2.0.2 - Graphing Functions</title>
+    <link rel="icon" type="image/x-icon" href="../../../../lib/images/favicon.ico">
+</head>
+
+<body>
+
+    
+    <div class="pageHt">
+        <div class="pageContentCont">
+            <div class="menuStyle menuStyleLearn">
+                <ImgLink onClick="location.href='../../../../index.html'">
+                    <img src="../../../../lib/images/3.svg">
+                </ImgLink>
+                <Txlink class="active" onClick="location.href='../../../../learn/index.html'">Learn</Txlink>
+                <Txlink  onClick="location.href='../../../../review/index.html'">Review</Txlink>
+                <Txlink  onClick="location.href='../../../../practice/index.html'">Practice</Txlink>
+                <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                    <img src="../../../../lib/images/4.svg">
+                </ImgLink>
+            </div>
+            
+<div style="background-color:#211d27;">
+<div class="topSpacer"></div>
+<span><div class="titleBackground1"><h1>Graphing Functions</h1></div></span>
+<p>Now that we know where functions come from, we need a way to visualy represent them, so we can more easily find information. One thing we can do is graph our function, which will show us <b>the relationship between both variables.</b></p>
+<p>If you remember from the previous page, we named our variables `x` and `y`. You'll also notice that on our coordinate plane, we have an x-axis, and a y-axis. Usually, we graph the input along the x-axis, and the output along the y-axis.</p>
+<p>Coordinates have an x-component, which tells us how far the point is moved from 0 in the horizontal direction, and a y-component, which tells us how far the point is moved from 0 in the vertical direction. </p>
+<p>If we make an input the x-component, and the output a y-component, you'll see that we start to produce a line.</p>
+<p>Let's look at the following graph below. As you'll notice this function is `y=ax`. The `a` can be adjusted by using the slider, to represent any number between -10 and 10 that `x` can be multiplied by to retrieve `y`. <b>Try and move the a slider to get the line to pass through the point `(1,6)` on the graph:</b></p>
+<div style="height: 30px;"></div>
+<div id="calculator1" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>Now, replace a in our function `y=ax` with the number you set your slider to on the graph above to pass through the point.</p>
+<p>Try plugging in the value 1 for `x` from the coordinate on the graph into your function. You'll notice that you will get 6 as `y` (if your a value is correct), which matches the point on your coordinate plane! Isn't that neat?</p>
+<p>This works with every coordinate along the line, meaning that by looking at the graph, you can tell what the other points will be, and what output each input would produce!</p>
+<p class="important">This means that for every function, as long as there is 1 unknown variable on each side, you can try different inputs to produce different outputs.</p>
+<p>Now let's look at a second graph below. But now, there's a second variable (b)! Try and find 4 different values of `a` and `b` that will allow the line to pass through the point on the graph `(1, 6)`:</p>
+<div style="height: 30px;"></div>
+<div id="calculator2" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>Again, if you create a function `y=ax+b`, and substitute those values of a and b that allowed the line to pass through the point, if you substitute 1 for `x` (from the point on the graph), you'll get 6 for `y`!</p>
+<p>However, with each of your different a and b values, if you put them onto your graph, you'll notice that the lines don't pass through the same points. Some lines will have a lower slope (think of this like adding less to each input in your pattern). This results in a lower output, which is why the slope is smaller.</p>
+<p>Now that we've shifted our thinking away from simple patterns and towards functions, try some examples before you move on to learning about different types of functions!</p>
+<details class="purpleExample">
+    <summary>If we have the function `y=2x+3`, and `x=2`, what is `y`?</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>Since we know `x` is equal to 2, we can substitute `x` for 2 in our function. Therefore `2(2)+3=7`, and `y=7`.</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+<details class="purpleExample">
+    <summary>If the points `(0,0)`, `(1,2)`, and `(2,4)` are on the graph, what function would create a line that would pass through all 3? (You can use one of the interactive graphs above to help you).</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>We can see the x-coordinates of our points as inputs (0, 1, and 2), and the y-coordinates as outputs (0, 2, 4). If you notice, each input can be multiplied by 2 to get each output.</p><p>Therefore, the function that will pass through all 3 points is `y=2x`.</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+<details class="purpleExample">
+    <summary>If the points `(0,0)`, `(1,3)`, `(2,5)`, and `(3,7)` are on the graph, what function would create a line that would pass through all 4? (You can use one of the interactive graphs above to help you).</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>Again, we can see the x-coordinates of our points as inputs (0, 1, 2, and 3), and the y-coordinates as outputs (0, 3, 5, and 7). If you notice, each input can be multiplied by 2 and added to 1 to get each output.</p><p>Therefore, the function that will pass through all 4 points is `y=2x+1`.</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+
+</div>
+
+<span>
+    <button class="ButtonStPr" style="width: 300px; margin-top: 20px;" onclick="location.href='0-1-io.html'">Go to the Previous Page</button>
+    <button class="ButtonStGrey" style="width: 300px; margin-top: 20px;" onclick="location.href='/*1-1-linearfunction.html8*/'">Go to the Next Page</button>
+</span>
+
+<div style="height: 150px;"></div>
+<div class="footer footerLearn">
+    <ImgLink onClick="location.href='../../../../index.html'">
+        <img src="../../../../lib/images/2.svg">
+    </ImgLink>
+    <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2023.</p>
+    
+    <div style=" margin: auto;">
+        <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+            <img width="32" height="22" src="../../../../lib/images/logo_yt.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+            <img width="22" height="22" src="../../../../lib/images/logo_insta.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='../../../../about/index.html'">
+            <img width="22" height="22" src="../../../../lib/images/logo_aboutus.png">
+        </ImgLink>
+    </div>
+
+</div>
+
+        </div>
+    </div>
+
+    <script>
+        var calc1 = document.getElementById('calculator1');
+        var calculator1 = Desmos.GraphingCalculator(calc1);
+        calculator1.setExpression({ id: 'graph1', latex: 'y=ax' })
+        calculator1.setExpression({ id: 'graph2', latex: '(1,6)' })
+        calculator1.setExpression({id:'slider1', latex:'a=1', sliderBounds: {min: -10, max: 10, step: 1 }})
+    
+    
+        var calc2 = document.getElementById('calculator2');
+        var calculator2 = Desmos.GraphingCalculator(calc2);
+        calculator2.setExpression({ id: 'graph1', latex: 'y=ax+b' })
+        calculator2.setExpression({ id: 'graph2', latex: '(1,6)' })
+        calculator2.setExpression({id:'slider1', latex:'a=1', sliderBounds: {min: -10, max: 10, step: 1 }})
+        calculator2.setExpression({id:'slider2', latex:'b=0', sliderBounds: {min: -10, max: 10, step: 1 } })
+    </script>

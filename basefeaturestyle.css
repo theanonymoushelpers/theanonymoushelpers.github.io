@@ -65,11 +65,11 @@ text-align: center;
 }
 
 .purpleExample {
-background-color: rgb(117, 81, 117);
+    background: linear-gradient(250.54deg, rgba(195, 0, 255, 0.8) 0%, rgba(80, 0, 91, 0.8) 100%);
 }
 
 .purpleExample div {
-background-color: rgb(144, 114, 144);
+    background: linear-gradient(250.54deg, rgba(193, 148, 199, 0.8) 0%, rgba(217, 155, 236, 0.8) 100%);
 }
 
 .greenExample {
@@ -81,7 +81,7 @@ background-color: rgb(114, 144, 115);
 }
 
 .important {
-    background-color: rgb(177, 165, 112);
+    background: linear-gradient(250.54deg, rgba(255, 228, 0, 0.8) 0%, rgba(193, 147, 0, 0.9) 100%);
     border-radius: 15px;
     padding: 15px;
     font-size: 22px;
@@ -93,4 +93,42 @@ background-color: rgb(114, 144, 115);
 
 .spacer {
     height: 80px;
+}
+
+.titleBackground1 {
+    background: linear-gradient(0deg, #FFFFFF 0%, #5C0000 100%), radial-gradient(100% 246.94% at 0% 100%, #E4FFCF 0%, #00B43D 100%), linear-gradient(238.72deg, #0065FC 0%, #61FF00 100%), radial-gradient(100% 188.01% at 76.14% 0%, #80FF00 0%, #00FFF0 100%), linear-gradient(0deg, #00C2FF 0%, #FFC700 100%), linear-gradient(121.28deg, #8000FF 0%, #0085FF 100%), radial-gradient(100% 148.07% at 0% 0%, #FC8800 0%, #00FF94 100%);
+background-blend-mode: overlay, multiply, color-dodge, difference, hue, color-dodge, normal;
+    border-radius: 20px;
+    margin: auto;
+    height: fit-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+.titleBackground2 {
+    background: radial-gradient(50% 123.47% at 50% 50%, #02c372 0%, #720059 100%), linear-gradient(121.28deg, #669600 0%, #FF0000 100%), linear-gradient(360deg, #0029FF 0%, #72c604 100%), radial-gradient(100% 164.72% at 100% 100%, #6100FF 0%, #04d64a 100%), radial-gradient(100% 148.07% at 0% 0%, #c4be04 0%, #47b404 100%);
+    background-blend-mode: screen, color-dodge, overlay, difference, normal;
+    border-radius: 20px;
+    margin: auto;
+    height: fit-content;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+
+
+.topSpacer {
+    height: 100px;
+}
+
+@media screen and (max-width: 1400px) {
+    .topSpacer {
+height: 400px;
+    }
+    }
+
+.exampleSpacer {
+    height: 10px; 
+    background: rgba(0,0,0,0);
 }
