@@ -1,7 +1,15 @@
-th, td {
-    border:1px solid white;
+
+table {
+    border-collapse: collapse;
   }
 
+
+td, th {
+    border: 1px solid #aeaeae;
+    text-align: left;
+    padding: 8px;
+  }
+  
 h1 {
 width: 90%;
 margin: auto;
