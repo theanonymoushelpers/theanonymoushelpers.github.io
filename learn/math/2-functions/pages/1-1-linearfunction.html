@@ -1,0 +1,157 @@
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../globalstyle.css">
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../basefeaturestyle.css">
+   
+   <script>
+MathJax = {
+loader: {load: ['input/asciimath', 'output/chtml']}
+}
+        </script>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
+
+    <title>TAH | 2.1.1 - Linear Functions</title>
+    <link rel="icon" type="image/x-icon" href="../../../../lib/images/favicon.ico">
+</head>
+
+<body>
+
+    
+    <div class="pageHt">
+        <div class="pageContentCont">
+            <div class="menuStyle menuStyleLearn">
+                <ImgLink onClick="location.href='../../../../index.html'">
+                    <img src="../../../../lib/images/3.svg">
+                </ImgLink>
+                <Txlink class="active" onClick="location.href='../../../../learn/index.html'">Learn</Txlink>
+                <Txlink  onClick="location.href='../../../../review/index.html'">Review</Txlink>
+                <Txlink  onClick="location.href='../../../../practice/index.html'">Practice</Txlink>
+                <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                    <img src="../../../../lib/images/4.svg">
+                </ImgLink>
+            </div>
+            
+<div style="background-color:#211d27;">
+<div class="topSpacer"></div>
+<span><div class="titleBackground1"><h1>What are Linear Functions?</h1></div></span>
+<p>From the name itself, you can tell that a linear function produces a line. In the previous section, we looked at some examples of linear functions. But what does it mean to be linear?</p>
+<p><b>Linear functions have a constant slope</b> (one that doesn't change).</p>
+<p>Let's look at the base function of a linear function.</p>
+<div style="height: 30px;"></div>
+<div id="calculator1" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>This is produced by the equation `color(fuchsia)(y)=color(lawngreen)(x)`, which means that for every increase in `color(fuchsia)(y)`, there will be an equal increase in `color(lawngreen)(x)`, as both sides of the equation must be equal.</p>
+<p><b>We can modify this base function to produce a line anywhere we want on the page.</b></p>
+<h2>Modifying the Slope</h2>
+<p>First, let's multiply `color(lawngreen)(x)` by the variable `color(cyan)(m)`.</p>
+<p>If we change our new variable `color(cyan)(m)`, we can change the <b>slope</b> of the line, as we're multiplying `color(lawngreen)(x)` by `color(cyan)(m)` to produce `color(fuchsia)(y)`.</p>
+<p><i>Move the m slider to change the slope of the line.</i></p>
+<div style="height: 30px;"></div>
+<div id="calculator2" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>In our new equation `color(fuchsia)(y)=color(cyan)(m)color(lawngreen)(x)`, if `color(cyan)(m)` is positive (bigger than 0), the slope is positive, which means that as `color(lawngreen)(x)` increases, `color(fuchsia)(y)` increases. If `color(cyan)(m)` is negative (smaller than 0), the slope is negative, meaning that as `color(lawngreen)(x)` increases, `color(fuchsia)(y)` decreases. </p>
+<p>As our slope (`color(cyan)(m)`) gets closer to 0, the angle the slope makes with the x-axis decreases. As `color(cyan)(m)`'s absolute value gets smaller, `color(lawngreen)(x)` will be multiplied by a smaller number, resulting in smaller `color(fuchsia)(y)` values.</p>
+<h2>Modifying the Y-Intercept</h2>
+<p>Now that we know how to modify the slope, how do we move the line up and down? Look at the following table of `color(lawngreen)(x)` and `color(fuchsia)(y)` values below:</p>
+<table style="margin: auto;">
+    <tr><th>x-values</th><th>y-values</th></tr>
+    <tr><td>`1`</td><td>`1`</td></tr>
+    <tr><td>`2`</td><td>`2`</td></tr>
+    <tr><td>`3`</td><td>`3`</td></tr>
+    <tr><td>`4`</td><td>`4`</td></tr>
+    <tr><td>`5`</td><td>`5`</td></tr>
+    <tr><td>`6`</td><td>`6`</td></tr>
+    <tr><td>`7`</td><td>`7`</td></tr>
+    <tr><td>`8`</td><td>`8`</td></tr>
+</table>
+<p>The table above represents the line `color(fuchsia)(y)=color(lawngreen)(x)`, meaning there are no modifications. But let's see what happens if we add 1 to every x value, using the equation `color(fuchsia)(y)=color(lawngreen)(x)+color(yellow)(1)` instead:</p>
+<table style="margin: auto;">
+    <tr><th>x-values</th><th>y-values</th></tr>
+    <tr><td>`1`</td><td>`2`</td></tr>
+    <tr><td>`2`</td><td>`3`</td></tr>
+    <tr><td>`3`</td><td>`4`</td></tr>
+    <tr><td>`4`</td><td>`5`</td></tr>
+    <tr><td>`5`</td><td>`6`</td></tr>
+    <tr><td>`6`</td><td>`7`</td></tr>
+    <tr><td>`7`</td><td>`8`</td></tr>
+    <tr><td>`8`</td><td>`9`</td></tr>
+</table>
+<p>If we look at this new line on a graph next to the old line, you'll notice that all the points have been translated up by 1 unit.</p>
+<div style="height: 30px;"></div>
+<div id="calculator3" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>You may also notice that the number we added to `color(lawngreen)(x)`, is the same as the y-coordinate of the y-intercept, which is the point at which the line crosses the y-axis. </p>
+<p>Let's call this new variable to change the y-intercept `color(yellow)(c)`. This gives us the equation:</p>
+<h2>`color(fuchsia)(y)=color(cyan)(m)color(lawngreen)(x)+color(yellow)(c)`</h2>
+<p>You may notice that this function looks similar to the one from the previous page, but now you know what `color(cyan)(m)` and `color(yellow)(c)` do!</p>
+<div style="height: 30px;"></div>
+<div id="calculator4" style="width: 60%; height: 60%; margin: auto;"></div>
+<p>Now, let's try some questions to apply our knowledge.</p>
+<details class="purpleExample">
+    <summary>For the line `y=2x+7`, when `x=3`, what will `y` equal?</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>If we substitute `x=3` into the equation, we get `y=2(3)+7`, which simplifies to `y=13` (using our order of operations rules). Therefore, the point `(3, 13)` is on our graph.</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+
+<details class="purpleExample">
+    <summary>`Car A` costs $4000, and $400 to maintain per month. `Car B` costs $6000, but costs $200 to maintain every month. After a year, which car will be cheaper?</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>Let's represent each car as an equation. If we think about time (the number of months) as the x-axis, then we can multiply the monthly cost by the number of months in a year to get the cost of the car for a year. Therefore, our monthly cost is the slope (`m`), and our number of months is `x`.</p><p>Our additional upfront cost can be added onto this number, so we can think of the upfront cost as our y-intercept (the cost for the car when `x=0`, or when the number of months is 0).</p><p>This gives us the equations `y=400x+4000` for Car A, and `y=200x+6000` for Car B.</p><p>If we substiute 12 (the number of months in a year) for `x` in each equation, we find that Car A costs `$9200`, and Car B costs `$8400`. Therefore, <b>Car B</b> is cheaper</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+
+
+</div>
+
+<span>
+    <button class="ButtonStPr" style="width: 300px; margin-top: 20px;" onclick="location.href='0-2-graphingfunction.html'">Go to the Previous Page</button>
+    <button class="ButtonStGrey" style="width: 300px; margin-top: 20px;" onClick="">Go to the Next Page</button>
+</span>
+
+<div style="height: 150px;"></div>
+<div class="footer footerLearn">
+    <ImgLink onClick="location.href='../../../../index.html'">
+        <img src="../../../../lib/images/2.svg">
+    </ImgLink>
+    <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2023.</p>
+    
+    <div style=" margin: auto;">
+        <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+            <img width="32" height="22" src="../../../../lib/images/logo_yt.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+            <img width="22" height="22" src="../../../../lib/images/logo_insta.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='../../../../about/index.html'">
+            <img width="22" height="22" src="../../../../lib/images/logo_aboutus.png">
+        </ImgLink>
+    </div>
+
+</div>
+
+        </div>
+    </div>
+
+    <script>
+        var calc1 = document.getElementById('calculator1');
+        var calculator1 = Desmos.GraphingCalculator(calc1);
+        calculator1.setExpression({ id: 'graph1', latex: 'y=x' })
+    
+        var calc2 = document.getElementById('calculator2');
+        var calculator2 = Desmos.GraphingCalculator(calc2);
+        calculator2.setExpression({ id: 'graph1', latex: 'y=mx' })
+        calculator2.setExpression({id:'slider1', latex:'m=1'})
+
+
+        var calc3 = document.getElementById('calculator3');
+        var calculator3 = Desmos.GraphingCalculator(calc3);
+        calculator3.setExpression({ id: 'graph1', latex: 'y=x' })
+        calculator3.setExpression({ id: 'graph2', latex: 'y=x+1' })
+
+
+        var calc4 = document.getElementById('calculator4');
+        var calculator4 = Desmos.GraphingCalculator(calc4);
+        calculator4.setExpression({ id: 'graph1', latex: 'y=mx+c' })
+        calculator4.setExpression({id:'slider1', latex:'m=1'})
+        calculator4.setExpression({id:'slider2', latex:'c=0'})
+    </script>

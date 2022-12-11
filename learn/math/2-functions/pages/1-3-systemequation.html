@@ -1,0 +1,103 @@
+
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../globalstyle.css">
+    <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../../basefeaturestyle.css">
+   
+   <script>
+MathJax = {
+loader: {load: ['input/asciimath', 'output/chtml']}
+}
+        </script>
+
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
+
+    <title>TAH | 2.1.3 - Systems of Equations</title>
+    <link rel="icon" type="image/x-icon" href="../../../../lib/images/favicon.ico">
+</head>
+
+<body>
+
+    
+    <div class="pageHt">
+        <div class="pageContentCont">
+            <div class="menuStyle menuStyleLearn">
+                <ImgLink onClick="location.href='../../../../index.html'">
+                    <img src="../../../../lib/images/3.svg">
+                </ImgLink>
+                <Txlink class="active" onClick="location.href='../../../../learn/index.html'">Learn</Txlink>
+                <Txlink  onClick="location.href='../../../../review/index.html'">Review</Txlink>
+                <Txlink  onClick="location.href='../../../../practice/index.html'">Practice</Txlink>
+                <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                    <img src="../../../../lib/images/4.svg">
+                </ImgLink>
+            </div>
+            
+<div style="background-color:#211d27;">
+<div class="topSpacer"></div>
+<span><div class="titleBackground1"><h1>Systems of Equations</h1></div></span>
+
+<details class="purpleExample">
+    <summary>`Car A` costs $4000, and $400 to maintain per month. `Car B` costs $6000, but costs $200 to maintain every month. How many months will it take for Car B to become cheaper than Car A?</summary>
+    <div><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div><p>Again, we can see the x-coordinates of our points as inputs (0, 1, 2, and 3), and the y-coordinates as outputs (0, 3, 5, and 7). If you notice, each input can be multiplied by 2 and added to 1 to get each output.</p><p>Therefore, the function that will pass through all 4 points is `y=2x+1`.</p><div class="exampleSpacer" style="background: rgba(0,0,0,0);"></div></div>
+</details>
+
+
+</div>
+
+<span>
+    <button class="ButtonStPr" style="width: 300px; margin-top: 20px;" onclick="location.href='0-2-graphingfunction.html'">Go to the Previous Page</button>
+    <button class="ButtonStGrey" style="width: 300px; margin-top: 20px;" onClick="">Go to the Next Page</button>
+</span>
+
+<div style="height: 150px;"></div>
+<div class="footer footerLearn">
+    <ImgLink onClick="location.href='../../../../index.html'">
+        <img src="../../../../lib/images/2.svg">
+    </ImgLink>
+    <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2023.</p>
+    
+    <div style=" margin: auto;">
+        <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+            <img width="32" height="22" src="../../../../lib/images/logo_yt.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+            <img width="22" height="22" src="../../../../lib/images/logo_insta.png">
+        </ImgLink>
+        <ImgLink width="16" height="16" onClick="location.href='../../../../about/index.html'">
+            <img width="22" height="22" src="../../../../lib/images/logo_aboutus.png">
+        </ImgLink>
+    </div>
+
+</div>
+
+        </div>
+    </div>
+
+    <script>
+        var calc1 = document.getElementById('calculator1');
+        var calculator1 = Desmos.GraphingCalculator(calc1);
+        calculator1.setExpression({ id: 'graph1', latex: 'y=x' })
+    
+        var calc2 = document.getElementById('calculator2');
+        var calculator2 = Desmos.GraphingCalculator(calc2);
+        calculator2.setExpression({ id: 'graph1', latex: 'y=mx' })
+        calculator2.setExpression({id:'slider1', latex:'m=1'})
+
+
+        var calc3 = document.getElementById('calculator3');
+        var calculator3 = Desmos.GraphingCalculator(calc3);
+        calculator3.setExpression({ id: 'graph1', latex: 'y=x' })
+        calculator3.setExpression({ id: 'graph2', latex: 'y=x+1' })
+
+
+        var calc4 = document.getElementById('calculator4');
+        var calculator4 = Desmos.GraphingCalculator(calc4);
+        calculator4.setExpression({ id: 'graph1', latex: 'y=mx+c' })
+        calculator4.setExpression({id:'slider1', latex:'m=1'})
+        calculator4.setExpression({id:'slider2', latex:'c=0'})
+    </script>

@@ -25,10 +25,11 @@ p {
 width: 70%;
 margin: auto;
 text-align: center;
-margin-top: 25px;
+margin-top: 40px;
 font-size: 22px;
 font-weight: normal;
 color: white;
+
 }
 
 
@@ -40,6 +41,8 @@ width: 60%;
 margin: auto;
 margin-top: 50px;
 }
+
+
 
 summary {
 font-size: 24px;
@@ -60,6 +63,7 @@ border-radius: 5px;
 
 details div p {
 margin: auto;
+margin-top: 10px;
 width: 90%;
 text-align: center;
 }
