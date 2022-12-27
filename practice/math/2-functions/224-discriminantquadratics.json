@@ -1,0 +1,249 @@
+{
+    "quizID": 1000,
+    "title": "Discriminant of Quadratics",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Find the discriminant of `6p^2-2p-3`.",
+            "a1": "`76`",
+            "a2": "`37`",
+            "a3": "`21`",
+            "a4": "`90`",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `76`." 
+        },
+        { 
+            "qu": "Find the discriminant of `-2x^2-x-1`.",
+            "a1": "`-1`",
+            "a2": "`-44`",
+            "a3": "`8`",
+            "a4": "`-7`",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `-7`." 
+        },
+         {
+            "qu": "Find the discriminant of `5b^2+b-2`.",
+            "a1": "`22.5`",
+            "a2": "`34.3`",
+            "a3": "`41`",
+            "a4": "There is no discriminant",
+            "ans": 3,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `41`." 
+        },
+        {
+            "qu": "Find the discriminant of `-4m^2-4m+5`.",
+            "a1": "`99`",
+            "a2": "`98`",
+            "a3": "`49`",
+            "a4": "96",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `96`." 
+        },
+        {
+            "qu": "Find the discriminant of `r^2+5r+2`.",
+            "a1": "`17",
+            "a2": "`-17`",
+            "a3": "`36`",
+            "a4": "`19`",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "The discriminant is `17`." 
+        },
+        {
+            "qu": "Find the discriminant of `2p^2+5p-4`.",
+            "a1": "`37`",
+            "a2": "`57`",
+            "a3": "`32`",
+            "a4": "0",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `57`." 
+        },
+        {
+            "qu": "Find the discriminant of `9n^2-3n-8=10`.",
+            "a1": "`-9`",
+            "a2": "`45`",
+            "a3": "`33`",
+            "a4": "`-63`",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `-63`." 
+        },
+        {
+            "qu": "Find the discriminant of `-2x^2-8x-14=-6`.",
+            "a1": "`0`",
+            "a2": "`3`",
+            "a3": "`5`",
+            "a4": "There is no discriminant",
+            "ans": 1,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `0`." 
+        },
+        {
+            "qu": "Find the discriminant of `4a^2=8a-4`.",
+            "a1": "`84`",
+            "a2": "`29`",
+            "a3": "`-3`",
+            "a4": "`0`",
+            "ans": 4,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `0`." 
+        },
+        {
+            "qu": "Find the discriminant of `-9b^2=-8b+8`.",
+            "a1": "`-222`",
+            "a2": "`-224`",
+            "a3": "`598`",
+            "a4": "`409`",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 20,
+            "timeLower": 30,
+            "solution": "The discriminant is `-224`." 
+        },
+
+
+
+        {
+            "qu": "How many zeros does `-6x^2-6=-7x-9` have?",
+            "a1": "1 rational solution",
+            "a2": "2 rational solutions",
+            "a3": "2 irrational solutions",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "There are 2 rational solutions." 
+        },
+        {
+            "qu": "How many zeros does `4k^2+5k+4=-3k` have?",
+            "a1": "1 rational solution",
+            "a2": "2 rational solutions",
+            "a3": "2 irrational solutions",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "There is 1 rational solution." 
+        },
+        {
+            "qu": "How many zeros does `-7n^2+16n=8n` have?",
+            "a1": "1 rational solution",
+            "a2": "2 rational solutions",
+            "a3": "2 irrational solutions",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "There are 2 rational solutions." 
+        },
+        {
+            "qu": "How many zeros does `-10n^2-3n-9=-2n` have?",
+            "a1": "1 rational solution",
+            "a2": "2 rational solutions",
+            "a3": "2 irrational solutions",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "There are 2 irrational solutions." 
+        },
+        {
+            "qu": "How many zeros does `-9r^2-8r-1=r-r^2-9` have?",
+            "a1": "1 rational solution",
+            "a2": "2 rational solutions",
+            "a3": "2 irrational solutions",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "There are 2 irrational solutions." 
+        },
+
+
+
+        {
+            "qu": "Find the range of values of the constant `k` so that the equation `x^2+kx+16=0` has no real roots.",
+            "a1": "`-12<k<0`",
+            "a2": "`-8<k<8`",
+            "a3": "`-2<k<3`",
+            "a4": "`-1<k<5`",
+            "ans": 2,
+            "timeUpper": 25,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": "`k` must be `-8<k<8`." 
+        },
+        {
+            "qu": "Find the range of values of the constant `k` so that the graph of the curve with equation `y=x^2+5x+k` does not cross the x-axis.",
+            "a1": "`k>4`",
+            "a2": "`k≥25/4`",
+            "a3": "`k=1`",
+            "a4": "`k≤-4`",
+            "ans": 2,
+            "timeUpper": 25,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": "`k` must be `k≥25/4`." 
+        }, 
+        {
+            "qu": "Find the range of values of the constant `m` so that the graph of the curve with equation `y=2x^2+mx+2` does not cross the x-axis.",
+            "a1": "`m<4`",
+            "a2": "`m>4`",
+            "a3": "`-4≤m≤4`",
+            "a4": "`m>5`",
+            "ans": 3,
+            "timeUpper": 25,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": "`m` must be `-4≤m≤4`." 
+        },
+        {
+            "qu": "Find the range of values of the constant `m` so that the equation `x^2+(m+2)x+3m=2` has two distinct real roots.",
+            "a1": "`m>-2`",
+            "a2": "`m<-6`",
+            "a3": "`m<2 or m>6`",
+            "a4": "`m<2 and m>6`",
+            "ans": 3,
+            "timeUpper": 25,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": "`m` must be `m<2 or m>6`." 
+        },
+        {
+            "qu": "Find the possible solutions of the quadratic equation `x^2+(k-1)x+k+2=0` where `k` is a constant, given that the equation has repeated roots.",
+            "a1": "`k>-2 and k<8`",
+            "a2": "There is no solution for k",
+            "a3": "`k=1 or k=-3`",
+            "a4": "`k=-3 and k=2`",
+            "ans": 3,
+            "timeUpper": 25,
+            "timeMid": 45,
+            "timeLower": 60,
+            "solution": "`k` must be `k=1 or k=-3`." 
+        }
+    ]
+}

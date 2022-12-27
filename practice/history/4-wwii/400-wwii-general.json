@@ -1,0 +1,257 @@
+{
+    "quizID": 1000,
+    "title": "History WW2",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Who did Germany attack first?",
+            "a1": "Poland",
+            "a2": "France",
+            "a3": "Britain",
+            "a4": "USSR",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "They attacked Poland first"
+        },
+        {
+            "qu": "Which two countries were the first to declare war on Germany?",
+            "a1": "Britain and France",
+            "a2": "France and USSR",
+            "a3": "Poland and Britain",
+            "a4": "US and Britain",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Britain and France was the first countries to declare war on Germany"
+        },
+        {
+            "qu": "Which nation did the Soviet union attack during the winter of 1939",
+            "a1": "Finland",
+            "a2": "Norway",
+            "a3": "Estonia",
+            "a4": "Poland",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "During the winter war, USSR attacked Finalnd"
+        },
+        {
+            "qu": "Who was the mastermind behind German tank tactics",
+            "a1": "Heinz Guderian",
+            "a2": "Wilhelm Keitel",
+            "a3": "Walter Model",
+            "a4": "Franz Halder",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Heinz Guderian was the mastermind behind Germany's excellent use of tanks during the early stages of war."
+        },
+        {
+            "qu": "Whcih countries were invaded on the Western front",
+            "a1": "France, Belgium, Netherlands",
+            "a2": "France and British",
+            "a3": "Italy",
+            "a4": "Switzerland",
+            "ans": "",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Germany invaded France through Belgium and Netherland"
+        },
+        {
+            "qu": "What was the German army tactic called using speed and overwhelming force",
+            "a1": "Blitzkrieg",
+            "a2": "outflanking",
+            "a3": "overload",
+            "a4": "spearhead",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Blitzkrieg"
+        },
+        {
+            "qu": "Who was the German general that created the attacking plan on France",
+            "a1": "Von Manstein",
+            "a2": "Wilhelm Keitel",
+            "a3": "Von Blomberg",
+            "a4": "Goring",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "It was made by Erich Von Manstein"
+        },
+        {
+            "qu": "What happened at Dunkirk in May 1940?",
+            "a1": "British forces retreated across the English Channel",
+            "a2": "French lost a major battle",
+            "a3": "German forces were defeated in a large naval battle",
+            "a4": "The U.K. suffered a huge navy blow",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The British, French and Belgian forces are retreated from Dunkirk in order to avoid being encircled"
+        },
+        {
+            "qu": "Where was the French surrender to Germany signed?",
+            "a1": "Paris",
+            "a2": "In a railway car",
+            "a3": "Berlin",
+            "a4": "On a boat",
+            "ans": "a2",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The treaty was signed in the same railway car that Germany surrendered in for WW1"
+        },
+        {
+            "qu": "What was Germany's initial strategy for conquering Britain?",
+            "a1": "First establish air superiority, then send in ground forces",
+            "a2": "First destroy the British navy, then send in ground forces",
+            "a3": "First send in ground forces, then attack the country with aircraft",
+            "a4": "Immobilize London with poison gas attacks",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "They wanted to first bomb U.K. into submission, the use ground forces"
+        },
+        {
+            "qu": "Overall, the Battle of Britain is considered to be",
+            "a1": "Germany Victory",
+            "a2": "British Victory",
+            "a3": "no Victory",
+            "a4": "stalemate",
+            "ans": "a2",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The British was able to fend off the German attacks from the air"
+        },
+        {
+            "qu": "What was the code name given to Germany's plan to invade the USSR?",
+            "a1": "Operation sea lion",
+            "a2": "Operation Mince meat",
+            "a3": "Operation Barbarossa",
+            "a4": "Operation overlord",
+            "ans": "a3",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "It was called Operation Barbarossa"
+        },
+        {
+            "qu": "Which USSR city was undersiege",
+            "a1": "Leningrad",
+            "a2": "Moscow",
+            "a3": "Stalingrad",
+            "a4": "Minsk",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Leningrad was undersiege for almost 3 years"
+        },
+        {
+            "qu": "Where did the German army cut through to surpise the French",
+            "a1": "Ardennes",
+            "a2": "Luxembourg",
+            "a3": "Belgium",
+            "a4": "Spain",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The Tank divisons of Germany sliced through the forest to surpise and encircle the French"
+        },
+        {
+            "qu": "Which country was the site of most of the Nazi extermination camps?",
+            "a1": "USSA",
+            "a2": "Poland",
+            "a3": "Ukraine",
+            "a4": "Hungary",
+            "ans": "a2",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Poland"
+        },
+        {
+            "qu": "The Battle of Stalingrad was",
+            "a1": "bloody and hard fought",
+            "a2": "Easy victory for Germany",
+            "a3": "a tank battle",
+            "a4": "aerial battle",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The battle was the deadlist and harshest in terms of conditions and casualities"
+        },
+        {
+            "qu": "Who was elected G.B. P.M. after Chamberlin resigned",
+            "a1": "Winston Churchill",
+            "a2": "Boris Johnson",
+            "a3": "Theresa May",
+            "a4": "Lord Halifax",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Winston Churchill was elected to lead Britain"
+        },
+        {
+            "qu": "What was the amphibious raid in 1942 on France",
+            "a1": "Dieppe Raid",
+            "a2": "Normandy",
+            "a3": "Monaco",
+            "a4": "Cherbourg",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "The Deippe raid was carried out by Canadain and Polish army."
+        },
+        {
+            "qu": "What was the German air force called",
+            "a1": "Luftwaffe",
+            "a2": "RKA",
+            "a3": "RAF",
+            "a4": "Royal German air force",
+            "ans": "a1",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Luftwaffe"
+        },
+        {
+            "qu": "What were the V1 and V2?",
+            "a1": "Italian army battalions",
+            "a2": "German Rockets",
+            "a3": "Atomic bombs",
+            "a4": "German Panzer divisons",
+            "ans": "a2",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "They are the name for German Rockets"
+        }
+        
+        
+
+
+
+
+
+
+    ]
+}
+

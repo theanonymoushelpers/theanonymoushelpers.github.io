@@ -1,0 +1,256 @@
+{
+    "quizID": 1000,
+    "title": "Organizational Structure",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "What word Defines: the number of subordinates overseen by a manager.",
+            "a1": "Decentralization",
+            "a2": "Levels of Hierarcchy",
+            "a3": "Span of Control",
+            "a4": "Matrix Structure",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "SPAN OF CONTROL:the number of subordinates overseen by a manager.."
+        },
+        { 
+        "qu": "Who is the person whos is directly above an employee in the organizational structure",
+        "a1": "BOD",
+        "a2": "Line Manager",
+        "a3": "Manager",
+        "a4": "Shareholders",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "LINE MANAGERS: the person whos is directly above an employee in the organizational structure."
+    },
+    {
+        "qu": " Which type of Organizational Structure has : many layers in the hierarchy (which means managers have a narrow span of control) ",
+        "a1": "Narrow Organizational Structure",
+        "a2": "Wide Organizational Structure",
+        "a3": "Short Organizational Structure",
+        "a4": "Tall Organizational Structure",
+        "ans": 4,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "TALL ORGANIZATIONAL STRUCTURE: has many layers in the hierarchy (which means managers have a narrow span of control) "
+    },
+    {
+        "qu": "What word defines: this occurs when the responsibility of decision making is spread out amongst others in the organization.",
+        "a1": "Decentralization",
+        "a2": "Delegation",
+        "a3": "Centralization",
+        "a4": "Centralized Structures",
+        "ans": 1,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "DECENTRALIZATION: occurs when the responsibility of decision making is spread out amongst others in the organization. "
+    },
+    {
+        "qu": " What word defines: is when the responsibility of decision making is spread out amonst a small group of people (most likely a senior management team)",
+        "a1": "Chain of Command",
+        "a2": "Centralized Structure",
+        "a3": "Accountability",
+        "a4": "Decentralization",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "CENTRALIZED STRUCTURE: is when the responsibility of decision making is spread out amonst a small group of people (most likely a senior management team)"
+    },
+    {
+        "qu": " What are Peripheral Workers? ",
+        "a1": "Workers who work part-time and/or temporary staff. ",
+        "a2": "Full time workers",
+        "a3": "Flexitime workers",
+        "a4": "Primary workers",
+        "ans": 1,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "PERIPHERAL WORKERS : contingent workers consisting of part-time and temporary staff hired by the organization."
+    },
+    {
+        "qu": " What word defines : Flexible organization of representatives from different department within the organization temporarily working together on a particular project.",
+        "a1": "Innovation",
+        "a2": "Organization by function",
+        "a3": "Levels of Hierarchy",
+        "a4": "Matrix Structure",
+        "ans": 4,
+        "timeUpper": 15,
+        "timeMid": 20,
+        "timeLower": 30,
+        "solution": "MATRIX STRUCUTURE: Flexible organization of representatives from different department within the organization temporarily working together on a particular project. "
+    },
+    {
+        "qu": " What word defines : Formal line of authority, the way formal orders are passed down ",
+        "a1": "Organizational chart",
+        "a2": "Chain of Command",
+        "a3": "Communication",
+        "a4": "Culture",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "CHAIN OF COMMAND: refers to the formal chain of authority, shown in an organization chart through which formal orders are passed through."
+    },
+    {
+        "qu": " How many parts are there to a Shamrock Organization? ",
+        "a1": "2",
+        "a2": "3",
+        "a3": "4",
+        "a4": "5",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "3 parts : a good way to remember is that a shamrock is basically just a 3 leaf clover. The three parts consist of - Peripheral workers, Consultants, and outsourced staff/contractors."
+    },
+    {
+        "qu": "What is it called when human resources are organized around particular projects.",
+        "a1": "Function based organizations",
+        "a2": "Section based working",
+        "a3": "Management based organization",
+        "a4": "Project based organization",
+        "ans": 4,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "PROJECT BASED ORGANIZATION: Human resources are organized around particular projects "
+    },
+    {
+        "qu": " Why would an organization have their organizational structure by product. ",
+        "a1": "They have many of the same products",
+        "a2": "They are a small business",
+        "a3": "They have borad variety of products",
+        "a4": "They felt like it",
+        "ans": 3,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "If a company organizes their structure by product they most likely have a broad variety of products and feel the need to organize it by product."
+    },
+    {
+        "qu": "What does it mean to have an organizational structure by function",
+        "a1": "Is organized by HR, marketing, production, and finance",
+        "a2": "It is organized by what the products functions are",
+        "a3": "It is organized by where in the world you are",
+        "a4": "Organized by size of sections",
+        "ans": 1,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower":25,
+        "solution": "ORGANIZATIONAL STRUCTURE BY FINANCE : organized by the four main business functions - HR, Finance, Production, and Marketing"
+    },
+    {
+        "qu": " Why is it beneficial for MNCs to organize their structure by region ",
+        "a1": "allows for better work culture",
+        "a2": "Allows business to target the local community and consider cultural differences",
+        "a3": "so the business doesnt fail",
+        "a4": "the best option",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "Allows business to target the local community and consider cultural differences"
+    },
+    {
+        "qu": " True or False - A tall hierarchical structure mean that the managers have wider span of control? ",
+        "a1": "True",
+        "a2": "False",
+        "a3": "Dont answer this",
+        "a4": "Dont answer this",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "False because a tall hierarchical means that managers have a narrower span of control"
+    },
+    {
+        "qu": " True or False - A flat hierarchical structure mean that the managers have wider span of control? ",
+        "a1": "True",
+        "a2": "False",
+        "a3": "Dont answer this",
+        "a4": "Dont answer this",
+        "ans": 1,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "True because a flat hierarchical structure means that managers have a wider span of control"
+    },
+    {
+        "qu": " True or False - a Centralized structure means that decision making is done by a large number of people ",
+        "a1": "True",
+        "a2": "False",
+        "a3": "Dont answer this",
+        "a4": "Dont answer this",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "False because a centralized structure means that decision making is done by a small number of people "
+    },
+    {
+        "qu": " True or False - a Decentralized structure means that decision making is done by a small number of people ",
+        "a1": "True",
+        "a2": "False",
+        "a3": "Dont answer this",
+        "a4": "Dont answer this",
+        "ans": 2,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "False because a centralized structure means that decision making is done by a large number of people "
+    },
+    {
+        "qu": " What is the execution of tasks that are governed by official administrative and formal rules of an organizaiton ",
+        "a1": "Democracy",
+        "a2": "Diplomacy",
+        "a3": "Bureaucracy",
+        "a4": "Advocacy",
+        "ans": 3,
+        "timeUpper": 10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "BUREAUCRACY: The execution of tasks that are governed by official administrative and formal rules of an organizaiton  "
+    },
+    {
+        "qu": " Bureaucracy includes all of these EXCEPT ",
+        "a1": "Paternal Leadership Style",
+        "a2": "Excessive paperwork",
+        "a3": "long official chains of command",
+        "a4": "staff needing to report to muliple managers",
+        "ans": 1,
+        "timeUpper":10,
+        "timeMid": 15,
+        "timeLower": 25,
+        "solution": "paternal leadership is not apart of bureaucracy as it involves treating your staff like family and guidinng like one."
+    },
+        {
+            "qu": " What is it called when a business removes on or more levels in the hierarchy to flatten the organizational structure. ",
+            "a1": "Levels of hierarchy",
+            "a2": "Relayering",
+            "a3": "Downsizing",
+            "a4": "Delayering",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 25,
+            "solution": "DELAYERING - when a business removes on or more levels in the hierarchy to flatten the organizational structure. "
+        }
+
+
+
+
+
+
+
+    ]
+}
+

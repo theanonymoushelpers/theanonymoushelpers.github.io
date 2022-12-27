@@ -1,0 +1,316 @@
+{
+    "quizID": 1000,
+    "title": "Christmas Vocab",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 8,
+    "questionList": [
+        {
+            "qu": "La Navidad",
+            "a1": "Christmas",
+            "a2": "Christmas Eve",
+            "a3": "December",
+            "a4": "Winter",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Christmas"
+        },
+        {
+            "qu": "La Nochebuena",
+            "a1": "Christmas party",
+            "a2": "Angel",
+            "a3": "Candle",
+            "a4": "Christmas Eve",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Christmas Eve"
+        },
+        {
+            "qu": "Una vela",
+            "a1": "Game",
+            "a2": "Gingerbread man",
+            "a3": "Candle",
+            "a4": "Ornament",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Candle"
+        },
+        {
+            "qu": "Un bastón de caramelo",
+            "a1": "Christmas card",
+            "a2": "Christmas carol",
+            "a3": "Candy cane",
+            "a4": "Christmas tree",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Candy cane"
+        },
+        {
+            "qu": "La tarjeta de Navidad",
+            "a1": "Christmas card",
+            "a2": "Santa Claus",
+            "a3": "Sleigh",
+            "a4": "Gingerbread man",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Christmas card"
+        },
+        {
+            "qu": "Un villancico",
+            "a1": "Wrapping paper",
+            "a2": "Toy",
+            "a3": "Snowman",
+            "a4": "Christmas carol",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Christmas carol"
+        },
+        {
+            "qu": "Una bola de Navidad",
+            "a1": "Ornament",
+            "a2": "String of lights",
+            "a3": "Stuffed animal",
+            "a4": "Wreath",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Ornament"
+        },
+        {
+            "qu": "Un trineo",
+            "a1": "Christmas cake",
+            "a2": "Fish",
+            "a3": "Sleigh",
+            "a4": "Winter",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Sleigh"
+        },
+        {
+            "qu": "La nieve",
+            "a1": "Rice pudding",
+            "a2": "Snow",
+            "a3": "Soup",
+            "a4": "Nougat",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Snow"
+        },
+        {
+            "qu": "Un juguete",
+            "a1": "Lamb",
+            "a2": "Potatoes",
+            "a3": "Seafood",
+            "a4": "Toy",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Toy"
+        },
+        {
+            "qu": "Una guirnalda",
+            "a1": "Christmas tree",
+            "a2": "Snowman",
+            "a3": "Wreath",
+            "a4": "Winter",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Wreath"
+        },
+        {
+            "qu": "La estrella",
+            "a1": "Star",
+            "a2": "Ribbon",
+            "a3": "Stocking",
+            "a4": "Garland",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Star"
+        },
+        {
+            "qu": "El oropel",
+            "a1": "Mistletoe",
+            "a2": "Tinsel",
+            "a3": "Christmas lights",
+            "a4": "Elf",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Tinsel"
+        },
+        {
+            "qu": "El elfo",
+            "a1": "Baby Jesus",
+            "a2": "Nutcracker",
+            "a3": "Elf",
+            "a4": "Reindeer",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Elf"
+        },
+        {
+            "qu": "El hombre de jengibre",
+            "a1": "Santa Claus",
+            "a2": "Reindeer",
+            "a3": "Chestnuts",
+            "a4": "Gingerbread man",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Gingerbread man"
+        },
+        {
+            "qu": "Los renos",
+            "a1": "Santa's helper",
+            "a2": "Reindeer",
+            "a3": "Cider",
+            "a4": "Cookies",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Reindeer"
+        },
+        {
+            "qu": "La sidra",
+            "a1": "Turkey",
+            "a2": "Nuts",
+            "a3": "Hot chocolate",
+            "a4": "Cider",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Cider"
+        },
+        {
+            "qu": "Las campanas",
+            "a1": "North pole",
+            "a2": "Wrapping paper",
+            "a3": "Bells",
+            "a4": "Chimney",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Bells"
+        },
+        {
+            "qu": "Acebo",
+            "a1": "Holly",
+            "a2": "Midnight",
+            "a3": "Countdown",
+            "a4": "New Year",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Holly"
+        },
+        {
+            "qu": "Fuegos artificiales",
+            "a1": "Fireplace",
+            "a2": "Fireworks",
+            "a3": "Gifts",
+            "a4": "Holly",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Fireworks"
+        },
+        {
+            "qu": "Listón",
+            "a1": "Snowflakes",
+            "a2": "Ribbon",
+            "a3": "the Three Wise Men",
+            "a4": "Silent Night",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Ribbon"
+        },
+        {
+            "qu": "Desear",
+            "a1": "To sing",
+            "a2": "To dance",
+            "a3": "To wish",
+            "a4": "To decorate",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "To wish"
+        },
+        {
+            "qu": "Papá Noel",
+            "a1": "Santa Claus",
+            "a2": "Nutcracker",
+            "a3": "Joseph",
+            "a4": "Snowman",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Santa Claus"
+        },
+        {
+            "qu": "Un burro",
+            "a1": "Crib",
+            "a2": "Gold",
+            "a3": "Donkey",
+            "a4": "Jerusalem",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Donkey"
+        },
+        {
+            "qu": "La misa del gallo",
+            "a1": "Midnight Mass",
+            "a2": "Nativity scene",
+            "a3": "Shepherds",
+            "a4": "Sleigh bell",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 10,
+            "timeLower": 12,
+            "solution": "Midnight Mass"
+        }
+
+
+
+
+
+
+
+    ]
+}
+
