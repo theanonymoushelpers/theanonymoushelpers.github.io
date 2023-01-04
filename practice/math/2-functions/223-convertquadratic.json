@@ -62,7 +62,7 @@
             "timeUpper": 20,
             "timeMid": 30,
             "timeLower": 40,
-            "solution": "The standard form is `y=144x^2+240x+91`." 
+            "solution": "The standard form is `y=x^2-6x+17`." 
         },
         {
             "qu": "Convert `y=2(x-13)^2-5` to standard form.",
@@ -152,7 +152,7 @@
             "solution": "The vertex form is `y=(x-1)^2`." 
         },
         {
-            "qu": "Convert `y=x^2+6x-8` to vertex form.",
+            "qu": "Convert `y=x^2+26x-152` to vertex form.",
             "a1": "`y=(x+13)^2-17`",
             "a2": "`y=(x-13)^2-8`",
             "a3": "`y=2(x+6)^2-8`",
