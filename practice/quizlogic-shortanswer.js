@@ -36,7 +36,7 @@ var dataQA;
 
 //all info to display
 var questionDisplay = document.getElementById("quDisplay");
-var userAnswer = document.getElementById("userAnswer");
+var userAnswer = document.getElementById("userAnswer").value;
 var ansNumber;
 var ansExplain;
 var checkButton = document.getElementById("checkButton")
@@ -66,8 +66,7 @@ var ansName = nameQ;
 var isContinue = false;
 var isDone = false;
 
-//which value was actually selected
-var selectedValue;
+
 
 //possible values for options
 var opValue = document.getElementsByName("radio");
@@ -155,7 +154,7 @@ function checkAnswer() {
     if (userAnswer == ansValue) {
         console.log("correct")
         console.log("correct answer: " + ansValue)
-        console.log("selected answer: " + selectedValue)
+        console.log("Typed answer: " + userAnswer)
         console.log("Speed Upper Req:" + speedUpper)
 
         continueDiv.style.backgroundColor = '#d5ffd5';
@@ -194,7 +193,7 @@ function checkAnswer() {
     }
     else {console.log("wrong")
     console.log("correct answer: " + ansValue)
-    console.log("selected answer: " + selectedValue)
+    console.log("typed answer: " + userAnswer)
         
         continueDiv.style.backgroundColor = '#ffeed0';
         solutionDiv.style.backgroundColor = '#ffeed0';
@@ -218,10 +217,6 @@ function loadNextQuestion() {
     randomQ();
     console.log("Questionbank: " + i);
     questionDisplay.textContent = dataQA[i]["qu"]
-    o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
-    o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
-    o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
-    o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
     ansValue = dataQA[i]["ans"];
     speedUpper = dataQA[i]["timeUpper"]
     speedMidRange = dataQA[i]["timeMid"]

@@ -60,7 +60,7 @@
     
                     <p></p>
     
-                    <button class="buttonStGrey">Not Available Yet</button>
+                    <button class="buttonStOr" onclick="redirectPageShortAns('212-xintlinear')">Practice (Beta)</button>
                 </div>
             </div>
         </div>
@@ -697,8 +697,6 @@
 
 <script>
     let redirectPage = (quizNameRedirect) => {
-
-
         
         var url = "../../quiz.html" +
             "?subject=" + 'math'  + 
@@ -707,4 +705,15 @@
     
         window.location.href = url;
     }
+
+    let redirectPageShortAns = (quizNameRedirect) => {
+        
+        var url = "../../quiz-shortanswer.html" +
+            "?subject=" + 'math'  + 
+            "&ident=" + '2-functions' +
+            "&quizName=" + quizNameRedirect;
+    
+        window.location.href = url;
+    }
+
     </script>

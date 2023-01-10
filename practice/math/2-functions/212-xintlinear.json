@@ -1,33 +1,61 @@
 {
     "quizID": 1000,
-    "title": "Quiz Title Goes Here",
-    "totalQuCount": The number of questions in total in the question bank goes here, 
-    "quCountToDisplay": The number of questions that a user will see each time they try the quiz goes here,
+    "title": "Finding X Intercepts of Linear Functions",
+    "totalQuCount": 6, 
+    "quCountToDisplay": 4,
     "questionList": [
         {
-            "qu": "Question 1 goes here",
-            "a1": "The first option goes here",
-            "a2": "The second option goes here",
-            "a3": "The third option goes here",
-            "a4": "The fourth option goes here",
-            "ans": The number of the correct option goes here,
-            "timeUpper": The number of seconds to score maximum speed points goes here,
-            "timeMid": The number of seconds to score some speed points goes here,,
-            "timeLower": The number of seconds to score minimum speed points goes here,,
-            "solution": "The solution to your question goes here"
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
         },
         {
-            "qu": "Question 1 goes here",
-            "a1": "The first option goes here",
-            "a2": "The second option goes here",
-            "a3": "The third option goes here",
-            "a4": "The fourth option goes here",
-            "ans": The number of the correct option goes here,
-            "timeUpper": The number of seconds to score maximum speed points goes here,
-            "timeMid": The number of seconds to score some speed points goes here,,
-            "timeLower": The number of seconds to score minimum speed points goes here,,
-            "solution": "The solution to your question goes here"
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
+        },
+        {
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
+        },
+        {
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
+        },
+        {
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
+        },
+        {
+            "qu": "What is the x-intercept of `y=x+3`",
+            "ans": "-3",
+            "timeUpper": 5,
+            "timeMid": 8,
+            "timeLower": 10,
+            "solution": "If we replace `y` with `0`, `x=-3`"
         }
+
+
+
+
 
 
 
@@ -37,3 +65,4 @@
 
     ]
 }
+
