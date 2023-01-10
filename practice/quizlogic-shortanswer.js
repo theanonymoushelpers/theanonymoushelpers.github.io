@@ -68,9 +68,6 @@ var isDone = false;
 
 
 
-//possible values for options
-var opValue = document.getElementsByName("radio");
-
 //answer key
 var ansValue;
 
@@ -151,6 +148,8 @@ function checkAnswer() {
     clearInterval();
     console.log(speedTimer);
 
+    userAnswer = document.getElementById("userAnswer").value;
+    
     if (userAnswer == ansValue) {
         console.log("correct")
         console.log("correct answer: " + ansValue)
@@ -209,6 +208,7 @@ function checkAnswer() {
 
 function loadNextQuestion() {
 
+    userAnswer.value = 0;
     //if question count is less than 7, load next question, otherwise go to results page with context
     if (n < (dataQuizLength-1)) {
     n++;
