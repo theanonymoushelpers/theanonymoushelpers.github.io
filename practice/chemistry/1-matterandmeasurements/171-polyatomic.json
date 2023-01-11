@@ -1,0 +1,162 @@
+{
+    "quizID": 1000,
+    "title": "Polyatomic Ions",
+    "totalQuCount": 12, 
+    "quCountToDisplay":  11,
+    "questionList": [
+        {
+            "qu": "How do you write carbonate using symbols?",
+            "a1": "`CO_2`",
+            "a2": "`CO_3`",
+            "a3": "`C_2O_4`",
+            "a4": "`Cr_2O_7`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`CO_3` is carbonate."
+        },
+        {
+            "qu": "How do you write dichromate using symbols?",
+            "a1": "`CO_2`",
+            "a2": "`CO_3`",
+            "a3": "`C_2O_4`",
+            "a4": "`Cr_2O_7`",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`Cr_2O_7` is dichromate."
+        },
+        {
+            "qu": "How do you write ammonium using symbols?",
+            "a1": "`NH_3`",
+            "a2": "`NH_4`",
+            "a3": "`N_3`",
+            "a4": "`N_4`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`NH_4` is ammonium."
+        },
+        {
+            "qu": "How do you write chromate using symbols?",
+            "a1": "`CrO_4`",
+            "a2": "`C_2O_4`",
+            "a3": "`Cr_2O_7`",
+            "a4": "`C_2H_3O_2`",
+            "ans": 1,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`CrO_4` is chromate."
+        },
+        {
+            "qu": "How do you write phosphite using symbols?",
+            "a1": "`PO_2`",
+            "a2": "`PO_3`",
+            "a3": "`PO_4`",
+            "a4": "`PO_5`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`PO_3` is phosphite."
+        },
+        {
+            "qu": "How do you write phosphate using symbols?",
+            "a1": "`PO_2`",
+            "a2": "`PO_3`",
+            "a3": "`PO_4`",
+            "a4": "`PO_5`",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`PO_4` is phosphate."
+        },
+        {
+            "qu": "How do you write nitrite using symbols?",
+            "a1": "`NO_2`",
+            "a2": "`NO_3`",
+            "a3": "`NO_4`",
+            "a4": "`NO_5`",
+            "ans": 1,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`NO_2` is nitrite."
+        },
+        {
+            "qu": "How do you write nitrate using symbols?",
+            "a1": "`NO_2`",
+            "a2": "`NO_3`",
+            "a3": "`NO_4`",
+            "a4": "`NO_5`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`NO_3` is nitrate."
+        },
+        {
+            "qu": "How do you write sulfite using symbols?",
+            "a1": "`SO_2`",
+            "a2": "`SO_3`",
+            "a3": "`SO_4`",
+            "a4": "`SO_5`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`SO_3` is sulfite."
+        },
+        {
+            "qu": "How do you write sulfate using symbols?",
+            "a1": "`SO_2`",
+            "a2": "`SO_3`",
+            "a3": "`SO_4`",
+            "a4": "`SO_5`",
+            "ans": 3,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`SO_4` is sulfate."
+        },
+        {
+            "qu": "How do you write hydroxide using symbols?",
+            "a1": "`H_2O`",
+            "a2": "`OH`",
+            "a3": "`2H_2O`",
+            "a4": "`HO_2`",
+            "ans": 2,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`OH` is hydroxide."
+        },
+        {
+            "qu": "How do you write permanganate using symbols?",
+            "a1": "`PMn_4`",
+            "a2": "`NO_4`",
+            "a3": "`PNO_4`",
+            "a4": "`MnO_4`",
+            "ans": 4,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`MnO_4` is permanganate."
+        }
+       
+
+
+
+
+
+
+
+
+    ]
+}
+

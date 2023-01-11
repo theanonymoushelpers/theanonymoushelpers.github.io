@@ -1,0 +1,258 @@
+{
+    "quizID": 1000,
+    "title": "SI Units and Conversions",
+    "totalQuCount": 20, 
+    "quCountToDisplay":  6,
+    "questionList": [
+        {
+            "qu": "Which of the following is less than a centimeter?",
+            "a1": "Meter",
+            "a2": "Kilometer",
+            "a3": "Millimeter",
+            "a4": "Decimeter",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 centimeter = 10 millimeters"
+        },
+        {
+            "qu": "What is 3 millimeters to decimeters ",
+            "a1": "3",
+            "a2": "0.03",
+            "a3": "0.3",
+            "a4": "300",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 millimeter = 0.01 decimeters"
+        },
+        {
+            "qu": "What is 56 kilometers to meters",
+            "a1": "0.0056",
+            "a2": "56000",
+            "a3": "5600",
+            "a4": "5.6",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 kilometer = 1000 meters (Keyword Kilo = 1000)"
+        },
+        {
+            "qu": "What is 32 millimeters to meters?",
+            "a1": "32000",
+            "a2": "32",
+            "a3": "0.032",
+            "a4": "0.32",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 millimeter = 0.001 meters"
+        },
+        {
+            "qu": "How much is 32 celsius in Kelvin?",
+            "a1": "64.30",
+            "a2": "12.15",
+            "a3": "305.15",
+            "a4": "438.30",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "Degree's Celsius + 273.15 = Kelvin"
+        },
+        {
+            "qu": "What is 400 Kelvin to Celsius",
+            "a1": "623.15",
+            "a2": "126.85",
+            "a3": "300.55",
+            "a4": "34.30",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "400 Kelvin - 273.15 = 126.85 Celsius"
+        },
+        {
+            "qu": "How much is -273.15 Celsius to Kelvin",
+            "a1": "273.15",
+            "a2": "130.30",
+            "a3": "-529.30",
+            "a4": "0",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "-273.15 Celsius + 273.15 = 0 Kelvin"
+        },
+        {
+            "qu": "Which of the following SI Units measures amount of a substance?",
+            "a1": "Kelvin",
+            "a2": "Moles",
+            "a3": "Celsius",
+            "a4": "Ampere",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "Moles are the unit of measurement in sciences, Kelvin and Celsius measures temperature, and Ampere is a unit of electric current"
+        },
+        {
+            "qu": "How many grams in 43 kilograms",
+            "a1": "430",
+            "a2": "4.3",
+            "a3": "43000",
+            "a4": "0.043",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 kilogram = 1000 grams"
+        },
+        {
+            "qu": "How many grams in 378 milligrams",
+            "a1": "0.378",
+            "a2": "37.8",
+            "a3": "37800",
+            "a4": "0.000378",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 gram = 0.001 milligrams"
+        },
+        {
+            "qu": "What does the word kilo imply (Example. Kilogram)",
+            "a1": "1",
+            "a2": "10",
+            "a3": "1000",
+            "a4": "0.001",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "Kilo = 1000"
+        },
+        {
+            "qu": "What does the word milli imply (Example. Millimeter)?",
+            "a1": "Thousand",
+            "a2": "Thousandth",
+            "a3": "Hundred",
+            "a4": "Tenth",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "Milli = Thousandth, One thousandth of"
+        },
+        {
+            "qu": "How many meters in 1 centimeter?",
+            "a1": "0.01",
+            "a2": "10",
+            "a3": "1",
+            "a4": "100",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 meter = 100 centimeters "
+        },
+        {
+            "qu": "If a glass holds 100 milliliters, how many liters can it hold?",
+            "a1": "1",
+            "a2": "0.1",
+            "a3": "0.01",
+            "a4": "10",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 Liter = 1000 Milliliters"
+        },
+        {
+            "qu": "If a box has an area of 4 square meters, how many square kilometers does it have?",
+            "a1": "400",
+            "a2": "0.04",
+            "a3": "0.000004",
+            "a4": "0.004",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 Square Meter = 0.000001 Square Kilometers"
+        },
+        {
+            "qu": "If a battery has an energy capacity of 130 joules, how many kilojoules can it contain?",
+            "a1": "0.0000013",
+            "a2": "13000",
+            "a3": "13",
+            "a4": "0.13",
+            "ans": 4,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 Joule = 0.001 Kilojoules"
+        },
+        {
+            "qu": "A computer has 0.24 kilohertz, how many hertz does it have?",
+            "a1": "24",
+            "a2": "24000",
+            "a3": "240",
+            "a4": "0.24",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 kilohertz = 1000 hertz"
+        },
+        {
+            "qu": "If an object weighs 0.738 kilograms, how many grams does it weigh?",
+            "a1": "738",
+            "a2": "73.8",
+            "a3": "0.738",
+            "a4": "7380",
+            "ans": 1,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "0.001 kilograms = 1 gram"
+        },
+        {
+            "qu": "How many kilograms in 4380 grams?",
+            "a1": "438",
+            "a2": "0.438",
+            "a3": "4.38",
+            "a4": "0.00438",
+            "ans": 3,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 kilogram = 1000 grams"
+        },
+        {
+            "qu": "If a pie weighs `pi` amount of grams, how many killograms does it weigh approximately?",
+            "a1": "314000",
+            "a2": "0.00314",
+            "a3": "0.314",
+            "a4": "314",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 16,
+            "solution": "1 gram = 0.001 kilograms"
+        }
+       
+
+
+
+
+
+
+
+
+    ]
+}
+
