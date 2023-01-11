@@ -1,8 +1,8 @@
 {
     "quizID": 1000,
     "title": "Polyatomic Ions",
-    "totalQuCount": 12, 
-    "quCountToDisplay":  11,
+    "totalQuCount": 26, 
+    "quCountToDisplay": 10,
     "questionList": [
         {
             "qu": "How do you write carbonate using symbols?",
@@ -137,6 +137,18 @@
             "solution": "`OH` is hydroxide."
         },
         {
+            "qu": "How do you write oxalate using symbols?",
+            "a1": "`C_2O_4`",
+            "a2": "`O_6`",
+            "a3": "`Cl_3O`",
+            "a4": "`O_3`",
+            "ans": 1,
+            "timeUpper": 8,
+            "timeMid": 11,
+            "timeLower": 15,
+            "solution": "`C_2O_4` is oxalate."
+        },
+        {
             "qu": "How do you write permanganate using symbols?",
             "a1": "`PMn_4`",
             "a2": "`NO_4`",
@@ -147,7 +159,164 @@
             "timeMid": 11,
             "timeLower": 15,
             "solution": "`MnO_4` is permanganate."
-        }
+        },
+        {
+        "qu": "What is the charge of carbonate?",
+        "a1": "`1+`",
+        "a2": "`2+`",
+        "a3": "`2-`",
+        "a4": "`1-`",
+        "ans": 3,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`CO_3` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of dichromate?",
+        "a1": "`1+`",
+        "a2": "`1-`",
+        "a3": "`2+`",
+        "a4": "`2-`",
+        "ans": 4,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`Cr_2O_7` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of ammonium?",
+        "a1": "`1+`",
+        "a2": "`1-`",
+        "a3": "`2+`",
+        "a4": "`3-`",
+        "ans": 1,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`NH_4` has a charge of `1+`."
+    },
+    {
+        "qu": "What is the charge of chromate?",
+        "a1": "`1-`",
+        "a2": "`2-`",
+        "a3": "`3-`",
+        "a4": "`4-`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`CrO_4` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of phosphite?",
+        "a1": "`1-`",
+        "a2": "`2+`",
+        "a3": "`2-`",
+        "a4": "`3-`",
+        "ans": 4,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`PO_3` has a charge of `3-`."
+    },
+    {
+        "qu": "What is the charge of phosphate?",
+        "a1": "`1+`",
+        "a2": "`2+`",
+        "a3": "`3-`",
+        "a4": "`4-`",
+        "ans": 3,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`PO_4` has a charge of `3-`."
+    },
+    {
+        "qu": "What is the charge of nitrite?",
+        "a1": "`1+`",
+        "a2": "`1-`",
+        "a3": "`2-`",
+        "a4": "`3+`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`NO_2` has a charge of `1-`."
+    },
+    {
+        "qu": "What is the charge of nitrate?",
+        "a1": "`2+`",
+        "a2": "`3-`",
+        "a3": "`1-`",
+        "a4": "`2-`",
+        "ans": 3,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`NO_3` has a charge of `1-`."
+    },
+    {
+        "qu": "What is the charge of sulfite?",
+        "a1": "`1-`",
+        "a2": "`2-`",
+        "a3": "`4-`",
+        "a4": "`3+`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`SO_3` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of sulfate?",
+        "a1": "`2-`",
+        "a2": "`2+`",
+        "a3": "`3-`",
+        "a4": "`3+`",
+        "ans": 1,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`SO_4` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of hydroxide?",
+        "a1": "`1+`",
+        "a2": "`1-`",
+        "a3": "`2+`",
+        "a4": "`No Charge`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`OH` has a charge of `1-`."
+    },
+    {
+        "qu": "What is the charge of oxalate?",
+        "a1": "`1-`",
+        "a2": "`2-`",
+        "a3": "`1+`",
+        "a4": "`2-`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`C_2O_4` has a charge of `2-`."
+    },
+    {
+        "qu": "What is the charge of permanganate?",
+        "a1": "`1+`",
+        "a2": "`1-`",
+        "a3": "`2-`",
+        "a4": "`3-`",
+        "ans": 2,
+        "timeUpper": 8,
+        "timeMid": 11,
+        "timeLower": 15,
+        "solution": "`MnO_4` has a charge of `1-`."
+    }
+
        
 
 
