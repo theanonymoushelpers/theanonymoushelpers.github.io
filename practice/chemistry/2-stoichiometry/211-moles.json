@@ -6,7 +6,7 @@
     "questionList": [
 
         {
-            "qu": "A compound has a molar mass of `60g/mol.` If `210g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
+            "qu": "A compound has a molar mass of `60g/(mol).` If `210g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
             "ans": "3.5",
             "timeUpper": 14,
             "timeMid": 20,
@@ -14,7 +14,7 @@
             "solution": "By using the conversion factor given, we can convert to moles. `210g*(1mol)/(60g)=3.5mol`"
         },
         {
-            "qu": "A compound has a molar mass of `15g/mol.` If `120g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
+            "qu": "A compound has a molar mass of `15g/(mol).` If `120g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
             "ans": "8",
             "timeUpper": 10,
             "timeMid": 15,
@@ -22,7 +22,7 @@
             "solution": "By using the conversion factor given, we can convert to moles. `120g*(1mol)/(15g)=8mol`"
         },
         {
-            "qu": "A compound has a molar mass of `36g/mol.` If `0.5mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
+            "qu": "A compound has a molar mass of `36g/(mol).` If `0.5mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
             "ans": "18",
             "timeUpper": 10,
             "timeMid": 15,
@@ -30,7 +30,7 @@
             "solution": "By using the conversion factor given, we can convert to grams. `0.5mol*(36g)/(1mol)=18g`"
         },
         {
-            "qu": "A compound has a molar mass of `72g/mol.` If `0.125mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
+            "qu": "A compound has a molar mass of `72g/(mol).` If `0.125mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
             "ans": "9",
             "timeUpper": 10,
             "timeMid": 15,
