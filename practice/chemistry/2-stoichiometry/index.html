@@ -43,7 +43,7 @@
 
   
 
-            <button class="buttonStOr" onclick="redirectPage('211-moles')">Practice</button>
+            <button class="buttonStOr" onclick="redirectPageShortAns('211-moles')">Practice</button>
         </div>
     </div>
     </div>
@@ -88,8 +88,6 @@
 <script>
 let redirectPage = (quizNameRedirect) => {
 
-
-    
     var url = "../../quiz.html" +
         "?subject=" + 'chemistry'  + 
         "&ident=" + '2-stoichiometry' +
@@ -97,4 +95,15 @@ let redirectPage = (quizNameRedirect) => {
 
     window.location.href = url;
 }
+
+let redirectPageShortAns = (quizNameRedirect) => {
+        
+    var url = "../../quiz.html" +
+        "?subject=" + 'chemistry'  + 
+        "&ident=" + '2-stoichiometry' +
+        "&quizName=" + quizNameRedirect;
+    
+        window.location.href = url;
+    }
+
 </script>
