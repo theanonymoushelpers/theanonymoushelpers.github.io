@@ -1,0 +1,62 @@
+{
+    "quizID": 1000,
+    "title": "Moles and Molar Mass",
+    "totalQuCount": 5, 
+    "quCountToDisplay":  4,
+    "questionList": [
+
+        {
+            "qu": "A compound has a molar mass of `60g/mol.` If `210g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
+            "ans": "3.5",
+            "timeUpper": 14,
+            "timeMid": 20,
+            "timeLower": 26,
+            "solution": "By using the conversion factor given, we can convert to moles. `210g*(1mol)/(60g)=3.5mol`"
+        },
+        {
+            "qu": "A compound has a molar mass of `15g/mol.` If `120g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
+            "ans": "8",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "By using the conversion factor given, we can convert to moles. `120g*(1mol)/(15g)=8mol`"
+        },
+        {
+            "qu": "A compound has a molar mass of `36g/mol.` If `0.5mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
+            "ans": "18",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "By using the conversion factor given, we can convert to grams. `0.5mol*(36g)/(1mol)=18g`"
+        },
+        {
+            "qu": "A compound has a molar mass of `72g/mol.` If `0.125mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
+            "ans": "9",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "By using the conversion factor given, we can convert to grams. `0.125mol*(72g)/(1mol)=9g`"
+        },
+
+
+
+        {
+            "qu": "How many moles are there in 176g of `CO_2`? (do not include units in your answer, round your answer to the nearest whole number)",
+            "ans": "4",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "First, we need to find the molar mass of `CO_2`, which is around 44g using the periodic table. Then, we can use the conversion factor to convert to moles `176g*(1mol)/(44g)=4mol`"
+        }
+
+
+
+
+
+
+
+
+
+    ]
+}
+

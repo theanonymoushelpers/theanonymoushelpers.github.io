@@ -1,0 +1,139 @@
+{
+    "quizID": 1000,
+    "title": "Ionic Compounds",
+    "totalQuCount": 10, 
+    "quCountToDisplay": 5,
+    "questionList": [
+
+        {
+            "qu": "Which of the following is not an ionic compound?",
+            "a1": "`NaCl`",
+            "a2": "`KF`",
+            "a3": "`Ca_2O`",
+            "a4": "`MgCl_2`",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`Ca_2O` is not balanced correctly, therefore, it cannot be an ionic compound."
+        },
+        {
+            "qu": "Which of the following is not an ionic compound?",
+            "a1": "`MgN`",
+            "a2": "`KCl`",
+            "a3": "`Rb_2O`",
+            "a4": "`BaO`",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`MgN` is not balanced correctly, therefore, it cannot be an ionic compound."
+        },
+        {
+            "qu": "Which of the following is not an ionic compound?",
+            "a1": "`Mg_3P_2`",
+            "a2": "`NaBr`",
+            "a3": "`Rb_2F`",
+            "a4": "`BeCl_2`",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`Rb_2F` is not balanced correctly, therefore, it cannot be an ionic compound."
+        },
+
+
+        {
+            "qu": "How many Hydrogen atoms are required to form an ionic compound with Oxygen?",
+            "a1": "`1`",
+            "a2": "`2`",
+            "a3": "`3`",
+            "a4": "`4`",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`H_2O` is the ionic compound that forms between H and O."
+        },
+        {
+            "qu": "How many Sodium atoms are required to form an ionic compound with Phosphorous?",
+            "a1": "`1`",
+            "a2": "`2`",
+            "a3": "`3`",
+            "a4": "`4`",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`Na_3P` is the ionic compound that forms between Na and P."
+        },
+        {
+            "qu": "How many Magnesium atoms are required to form an ionic compound with Phosphorous?",
+            "a1": "`1`",
+            "a2": "`2`",
+            "a3": "`3`",
+            "a4": "`4`",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`Mg_3P_2` is the ionic compound that forms between Mg and P."
+        },
+        {
+            "qu": "How many Lithium atoms are required to form an ionic compound with Flouride?",
+            "a1": "`1`",
+            "a2": "`2`",
+            "a3": "`3`",
+            "a4": "`4`",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "`LiF` is the ionic compound that forms between Li and F."
+        },
+
+
+
+
+
+        {
+            "qu": "What is the correct name of `NaF`?",
+            "a1": "Sodium Flourine",
+            "a2": "Sodium Flouride",
+            "a3": "Sodium Monoflourine",
+            "a4": "Monosodium Monoflouride",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "Sodium Flouride is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
+        },
+        {
+            "qu": "What is the correct name of `K_2O`?",
+            "a1": "Strontium Oxide",
+            "a2": "Caesium Dioxide",
+            "a3": "Potassium Dioxide",
+            "a4": "Potassium Oxide",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "Potassium Oxide is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
+        },
+        {
+            "qu": "What is the correct name of `Li_2O`?",
+            "a1": "Oxygen Lithide",
+            "a2": "Lithium Oxide",
+            "a3": "Lithium Trioxide",
+            "a4": "Lithium Dioxide",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 14,
+            "timeLower": 18,
+            "solution": "Lithium Oxide is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
+        }
+        
+
+
+    ]
+}
