@@ -149,8 +149,11 @@ function checkAnswer() {
     console.log(speedTimer);
 
     userAnswer = document.getElementById("userAnswer").value;
+
+    userAnswerLC = userAnswer.toLowerCase();
+    ansValueLC = ansValue.toLowerCase();
     
-    if (userAnswer == ansValue) {
+    if (userAnswerLC == ansValueLC) {
         console.log("correct")
         console.log("correct answer: " + ansValue)
         console.log("Typed answer: " + userAnswer)
