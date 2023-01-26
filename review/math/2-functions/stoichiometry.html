@@ -1,0 +1,144 @@
+
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../basefeaturestyle.css">
+        
+        <script defer src="../../../animate.js"></script>
+        <title>TAH | Unit 2 - Stoichiometry</title>
+        <link rel="icon" type="image/x-icon" href="../../../lib/images/favicon.ico">
+
+        <script>
+            MathJax = {
+              loader: {load: ['input/asciimath', 'output/chtml']}
+            };
+            </script>
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+    </head>
+
+    <body>
+
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle menuStyleReview">
+                    <ImgLink onClick="location.href='../../../index.html'">
+                        <img src="../../../lib/images/3.svg">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../../learn/index.html'">Learn</Txlink>
+                    <Txlink  class="active" onClick="location.href='../../../review/index.html'">Review</Txlink>
+                    <Txlink  onClick="location.href='../../../practice/index.html'">Practice</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../../lib/images/4.svg">
+                    </ImgLink>
+                </div>
+                
+<div>
+
+    <div class="reviewContent" style="background-color:#1d2720;">
+        <div style="height: 100px;"></div>
+
+        <h1 class="hiddenAnimate">Stoichiometry</h1>
+        <p class="hiddenAnimate">This review page is a work in progress. Come back soon!</p>
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">2.1: Moles and Molar Mass</h2>
+        <p class="hiddenAnimate"><b>Moles</b> are an important unit of measurement in chemistry, that represents the amount of a substance. A mole is around `6.02*10^(23)` atoms of a substance. That number is known as <b>Avogadro's number.</b></p>
+        <p class="hiddenAnimate">The molar mass of any element can be found on the top right of each element on your periodic table, expressed in grams per mole (`g/(mol)`). This can be used to find the molar mass. For example, say we are trying to find the how many moles are in 6g of Carbon:</p>
+        <p class="hiddenAnimate">`(6g C)/1 * (1mol)/(12.01g C) = 0.5 mol` </p>
+        <p class="hiddenAnimate">As you can see, the units cancel out and leave us with moles. Now, if we want to find the number of atoms in 0.5mol of Carbon, we can use Avogadro's number:</p>
+        <p class="hiddenAnimate">`(0.5mol)/1 * (6.02*10^(23))/(1 mol) = 3.01*10^(23) text(atoms)`</p>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: How many atoms are in 12g of Magnesium?</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">We can use the molar mass of Magnesium (24.305g/mol) and Avogadro's number to calculate the number of atoms.</p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">`(12g Mg)/1 * (1mol)/(24.305g) * (6.02*10^(23)text( atoms))/(1 mol)=2.97*10^(23)text( atoms of Mg)`</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: How many grams does `3.01*10^(23)` atoms of `Li_2O` weigh?</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">We can use Avogadro's number to get to moles, and then use the molar mass of `Li_2O`, which is the molar mass of Li multiplied by 2, added to the molar mass of Oxygen. This is 29.881g/mol.</p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">`(3.01*10^(23)text( atoms))/1 * (1mol)/(6.02*10^(23)text( atoms)) * (29.881g text( O))/(1mol) = 14.94g`</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">2.2: Percentage Composition</h2>
+        <p class="hiddenAnimate">Percentage composition tells you how much of an element/compound is in a formula (as percentages are parts of a whole).</p>
+        <p class="hiddenAnimate">To find the percentage composition of an element in a simple formula, like `H_2O`, we can use the element's molar mass and divide it by the total mass. For example, to find the percentage composition of hydrogen in `H_2O`, you would take the molar mass of hydrogen and multiply it by 2, since you have 2 hydrogen. This would then be divided by your total molar mass:</p>
+        <p class="hiddenAnimate">`(2*1g)/(mol)*(1mol)/((2*1)+16g) * 100% = (2text(g/mol))/(18text(g/mol)) * 100% = 11.1%`</p>
+        <p class="important hiddenAnimate">Important: Remember to multiply the molar mass if there are more than 1 of the element/compound you are trying to find the percentage of. For example, if you are trying to find the percentage of Hydrogen in `CH_4`, you need to multiply the molar mass of H by 4 since there are 4 hydrogens to account for. </p>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: Find the percentage composition of each element in `CH_3COO_4`.</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">First, we must find our total mass, which for simplicity, we'll assume we have a mole of the acetic acid. Using a relative mass of `C=12`, `H=1`, and `O=16`, we get a total mass of `(2*12g)+(3*1g)+(5*16g)=107g`.</p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">Now, for each element, we can divide it's mass by the total (still assuming 1 mole of each element). `% H = (3*1g)/(107g) * 100% = 2.80%, % C = (2*12g)/(107g) * 100% = 22.43%,`` % O = (5*16g)/(107g) * 100% = 74.77%`</p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">If you did it right, your percentages for all the elements should add up to 100% (depending on rounding this may be slightly off, but not for this example).</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">2.3: Concentrations of Solutions</h2>
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">2.4: Empirical and Molecular Formulae</h2>
+        <p class="hiddenAnimate">Think of an empirical formula like the simplest form of an equation, where the coefficients are not divisible by the same number. E.g. `C_2H_5` or `CH_4`</p>
+        <p class="hiddenAnimate">Molecular formulae are how each molecule is in the real world, and they do not have to be empirical. E.g. `C_6H_(14)`</p>
+        <p class="hiddenAnimate">Say we have a certain percentage of 2 elements. In order to find their empirical formula, you need to find how many moles of each you have. Remember with percentages that you can use any number of grams you want, however, it is easier to use a power of 10, like 100g total, as percents are out of 100.</p>
+        <p class="hiddenAnimate">Once you have a number of moles for both elements, you need to divide by your smallest number of moles, and multiply those values until you get a whole number for both. Those are your coefficients for your empirical formula.</p>
+        <details class="greenExample hiddenAnimate">
+            <summary class="hiddenAnimate" style="transition-delay: 100ms;">Check your understanding: If a formula is made of 52.17% carbon, 13.04% hydrogen, and 34.78% oxygen, what is its empirical formula? (assume C has a molar mass of 12g/mol, H is 1g/mol and O is 16g/mol)</summary>
+            <div class="hiddenAnimate" style="border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; height: 10px;"></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">Firstly, we can convert these percentages into grams by assuming we have 100g of this unknown formula, meaning we would have 52.17g of carbon, 13.04g of hydrogen, and 34.78g of oxygen. Now, we can use the molar mass to get to moles. `52.17g text(C) * (1mol)/(12g) = 4.3475mol`, `13.04g text(H) * (1mol)/(1g) = 13.04mol`, `34.78g text(O) * (1mol)/(16g) = 2.17375mol` </p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">Next, we divide by the smallest number of moles, which is oxygen: `C = (4.3475mol)/(2.17375mol) = 2`, `H = (13.04)/(2.17375mol) = 6`, `O = (2.17375mol)/(2.17375mol) = 1` (If you're within a certain amount of a whole number you can round up usually, which was the case with hydrogen this time.)</p></div>
+            <div class="hiddenAnimate" style="border-radius: 0px;"><p class="hiddenAnimate">This leaves us with the coefficients 2, 6, and 1, giving us the empirical formula `C_2H_6O`.</p></div>
+            <div class="hiddenAnimate" style="border-top-left-radius: 0px; border-top-right-radius: 0px; height: 10px;"></div>
+        </details>
+
+
+        <div class="spacer"></div>
+
+        <h2 class="hiddenAnimate">2.5: Ideal Gas Law</h2>
+        <p class="important hiddenAnimate">Important: Make sure you remember the formula `PV = nRT`, where P is the pressure in Pascals (Pa), V is the volume in `m^3`, n is the number of moles, R is the constant 8.314 J/mol/K, and T is the temperature in Kelvin (K). </p>
+
+        <div class="spacer"></div>
+
+<span>
+    <button class="ButtonStGr hiddenAnimate" style="width: 300px; margin-top: 20px; transition-delay: 200ms;" onClick="location.href='../../index.html'">Close Review Page</button>
+</span>
+
+
+    <div style="height: 150px;"></div>
+</div>
+    <div class="footer footerReview">
+        <ImgLink onClick="location.href='../../../index.html'">
+            <img src="../../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2023.</p>
+        
+        <div style=" margin: auto;">
+            <ImgLink width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../../../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../../../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink width="16" height="16" onClick="location.href='../../../about/index.html'">
+                <img width="22" height="22" src="../../../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+
+</div>
+
