@@ -1,0 +1,115 @@
+{
+    "quizID": 1000,
+    "title": "Logarithm Laws",
+    "totalQuCount": 8, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "`log_2 32 = s log t`, where `s` and `t` are whole numbers.  What is `s+t`?",
+            "a1": "2",
+            "a2": "4",
+            "a3": "7",
+            "a4": "10",
+            "ans": 3,
+            "timeUpper": 14,
+            "timeMid": 21,
+            "timeLower": 28,
+            "solution": "`log_2 32` can be written as `log_2 2^5`, which is in the form `log_a b^c`. Anything in this form can be rewritten as `c log_a b, therefore, it can be rewritten as `5 log_2 2`. Adding together `s` and `t`, `s+t=7`."
+        },
+        {
+            "qu": "`ln 81 = q ln r`, where `q` and `r` are whole numbers. What is `q-r`?",
+            "a1": "1",
+            "a2": "0",
+            "a3": "-1",
+            "a4": "7",
+            "ans": 1,
+            "timeUpper": 14,
+            "timeMid": 21,
+            "timeLower": 28,
+            "solution": "`ln 81` can be written as `ln 3^4`, which is in the form `log_a b^c`. Anything in this form can be rewritten as `c log_a b, therefore, it can be rewritten as `4 ln 3`. Subtracting `q` from `r`, `q-r=1`."
+        },
+        {
+            "qu": "`ln 32 + ln 2 = a ln b`, where `b>2`. What is `a`?",
+            "a1": "2",
+            "a2": "3",
+            "a3": "4",
+            "a4": "6",
+            "ans": 3,
+            "timeUpper": 15,
+            "timeMid": 22,
+            "timeLower": 30,
+            "solution": "Using log laws, `ln 2 + ln 32 = ln (2*32) = ln 64`, which can be written as `ln 2^6` or `ln 4^3`. Since `ln b^a` can be written as `a ln b`, we can write `ln 4^3` as `3 ln 4` (since `b>2`). So `a=4`. "
+        },
+        {
+            "qu": "`ln 9 + ln 9 = a ln b`, where `b>3`. What is `a`?",
+            "a1": "1",
+            "a2": "2",
+            "a3": "3",
+            "a4": "4",
+            "ans": 2,
+            "timeUpper": 7,
+            "timeMid": 11,
+            "timeLower": 14,
+            "solution": "Using log laws, `ln 9 + ln 9 = ln (9*9) = ln 81`, which can be written as `ln 9^2` or `ln 3^4`. Since `ln b^a` can be written as `a ln b`, we can write `ln 9^2` as `2 ln 9` (since `b>3`). So `a=2`."
+        },
+        {
+            "qu": "`ln 4 + ln 7 = a ln b`, where `b>0`, a and b must be whole numbers. What is `a+b`?",
+            "a1": "28",
+            "a2": "11",
+            "a3": "23",
+            "a4": "7",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Using log laws, `ln 7 + ln 4 = ln (7*4) = ln 28`, which cannot be written as `ln b^a`. Therefore, `b=28`. "
+        },
+        {
+            "qu": "`ln 7 + ln 6 = a ln b`, where `b>0`, a and b must be whole numbers. What is `b`?",
+            "a1": "1",
+            "a2": "13",
+            "a3": "26",
+            "a4": "42",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Using log laws, `ln 7 + ln 6 = ln (7*6) = ln 42`, which cannot be written as `ln b^a`. Therefore, `b=42`. "
+        },
+        {
+            "qu": "`ln 12 + ln 4 = a ln b`, where `b>0`, a and b must be whole numbers. What is `a*b`?",
+            "a1": "0",
+            "a2": "12",
+            "a3": "16",
+            "a4": "48",
+            "ans": 4,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "Using log laws, `ln 12 + ln 4 = ln (12*4) = ln 48`, which cannot be written as `ln b^a`. Therefore, `a*b=1*48=48`. "
+        },
+        {
+            "qu": "`ln 35 - ln 7 = a ln b`, where `b>0`, a and b must be whole numbers. What is `a-b`?",
+            "a1": "-5",
+            "a2": "-4",
+            "a3": "0",
+            "a4": "5",
+            "ans": 2,
+            "timeUpper": 15,
+            "timeMid": 22,
+            "timeLower": 30,
+            "solution": "Using log laws, `ln 35 + ln 7 = ln (35/7) = ln 5`, which cannot be written as `ln b^a`, therefore, `a = 1`. So, `a-b=1-5=-4`. "
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+
