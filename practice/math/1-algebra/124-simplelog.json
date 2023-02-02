@@ -1,0 +1,76 @@
+{
+    "quizID": 1000,
+    "title": "Evaluating Simple Logs",
+    "totalQuCount": 5, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "`log_5 5 = x`. What is `x`?",
+            "a1": "0",
+            "a2": "1",
+            "a3": "5",
+            "a4": "25",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `5^x=5`, so `x=1`."
+        },
+        {
+            "qu": "`log_3 27 = x`. What is `x`?",
+            "a1": "1",
+            "a2": "3",
+            "a3": "9",
+            "a4": "27",
+            "ans": 2,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `3^x=27`, so `x=3`."
+        },
+        {
+            "qu": "`log_4 64 = x`. What is `x`?",
+            "a1": "3",
+            "a2": "4",
+            "a3": "8",
+            "a4": "16",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `4^x=64`, so `x=3`."
+        },
+        {
+            "qu": "`log_5 25 = x`. What is `x`?",
+            "a1": "0",
+            "a2": "1",
+            "a3": "2",
+            "a4": "5",
+            "ans": 1,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `5^x=25`, so `x=2`."
+        },
+        {
+            "qu": "`log_3 81 = x`. What is `x`?",
+            "a1": "1",
+            "a2": "3",
+            "a3": "4",
+            "a4": "27",
+            "ans": 3,
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `3^x=81`, so `x=4`."
+        }
+
+
+
+
+
+
+
+    ]
+}
+

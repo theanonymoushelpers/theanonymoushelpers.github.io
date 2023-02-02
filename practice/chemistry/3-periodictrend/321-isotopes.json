@@ -1,0 +1,96 @@
+{
+    "quizID": 1000,
+    "title": "Atomic and Mass Number",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 8,
+    "questionList": [
+
+        {
+            "qu": "How many electrons does Carbon-14 have?",
+            "ans": "7",
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 14,
+            "solution": "Isotopes always have their number of protons and neutrons attached to the end. (14)"
+        },
+        {
+            "qu": "How many electrons does Technetium-99 have?",
+            "ans": "99",
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 14,
+            "solution": "Isotopes always have their number of protons and neutrons attached to the end. (99)"
+        },
+        {
+            "qu": "How many electrons does Boron-10 have?",
+            "ans": "10",
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 14,
+            "solution": "Isotopes always have their number of protons and neutrons attached to the end. (10)"
+        },
+        {
+            "qu": "How many electrons does Oxygen-17 have?",
+            "ans": "17",
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 14,
+            "solution": "Isotopes always have their number of protons and neutrons attached to the end. (17)"
+        },
+        {
+            "qu": "How many electrons does Chlorine-35 have?",
+            "ans": "35",
+            "timeUpper": 7,
+            "timeMid": 12,
+            "timeLower": 14,
+            "solution": "Isotopes always have their number of protons and neutrons attached to the end. (35)"
+        },
+        {
+            "qu": "Using the periodic table, how many neutrons does Boron-10 have?",
+            "ans": "5",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "To find the number of neutrons, subtract the number of protons (attached to the end of the name) from the mass number (10-5=5)."
+        },
+        {
+            "qu": "Using the periodic table, how many neutrons does Oxygen-17 have?",
+            "ans": "9",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "To find the number of neutrons, subtract the number of protons (attached to the end of the name) from the mass number (17-8=9)."
+        },
+        {
+            "qu": "Using the periodic table, how many neutrons does Chlorine-35 have?",
+            "ans": "18",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "To find the number of neutrons, subtract the number of protons (attached to the end of the name) from the mass number (35-17=18)."
+        },
+        {
+            "qu": "Using the periodic table, how many neutrons does Carbon-14 have?",
+            "ans": "8",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "To find the number of neutrons, subtract the number of protons (attached to the end of the name) from the mass number (14-6=8)."
+        },
+        {
+            "qu": "Using the periodic table, how many neutrons does Technetium-99 have?",
+            "ans": "56",
+            "timeUpper": 10,
+            "timeMid": 15,
+            "timeLower": 20,
+            "solution": "To find the number of neutrons, subtract the number of protons (attached to the end of the name) from the mass number (99-43=56)."
+        }
+       
+
+
+
+
+
+    ]
+}
+
