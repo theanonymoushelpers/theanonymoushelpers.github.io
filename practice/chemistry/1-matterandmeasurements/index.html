@@ -34,6 +34,7 @@
 <div class="column">
 <div id="container">
     <div class="card hiddenAnimate">
+        <p class="scoreElement" id="3101"></p>
         
         <div class="card_info">
             <span class="tag">Quiz</span>
@@ -43,7 +44,7 @@
 
   
 
-            <button class="buttonStOr" onclick="redirectPage('111-siunits')">Practice</button>
+            <button class="buttonStOr" onclick="redirectPage('101-siunits')">Practice</button>
         </div>
     </div>
     </div>
@@ -55,6 +56,7 @@
 <div class="column">
     <div id="container">
         <div class="card hiddenAnimate">
+            <p class="scoreElement" id="3102"></p>
             
             <div class="card_info">
                 <span class="tag">Quiz</span>
@@ -76,6 +78,7 @@
     <div class="column">
         <div id="container">
             <div class="card hiddenAnimate">
+                <p class="scoreElement" id="3103"></p>
                 
                 <div class="card_info">
                     <span class="tag">Quiz</span>
@@ -97,6 +100,7 @@
         <div class="column">
             <div id="container">
                 <div class="card hiddenAnimate">
+                    <p class="scoreElement" id="3104"></p>
                     
                     <div class="card_info">
                         <span class="tag">Quiz</span>
@@ -118,6 +122,7 @@
             <div class="column">
                 <div id="container">
                     <div class="card hiddenAnimate">
+                        <p class="scoreElement" id="3105"></p>
                         
                         <div class="card_info">
                             <span class="tag">Quiz</span>
@@ -127,7 +132,7 @@
                 
                   
                 
-                            <button class="buttonStOr" onclick="redirectPage('151-ioniccompounds')">Practice</button>
+                            <button class="buttonStOr" onclick="redirectPage('105-ioniccompounds')">Practice</button>
                         </div>
                     </div>
                     </div>
@@ -139,6 +144,7 @@
                 <div class="column">
                     <div id="container">
                         <div class="card hiddenAnimate">
+                            <p class="scoreElement" id="3106"></p>
                             
                             <div class="card_info">
                                 <span class="tag">Quiz</span>
@@ -160,6 +166,7 @@
                     <div class="column">
                         <div id="container">
                             <div class="card hiddenAnimate">
+                                <p class="scoreElement" id="3107"></p>
                                 
                                 <div class="card_info">
                                     <span class="tag">Quiz</span>
@@ -169,7 +176,7 @@
                         
                           
                         
-                                    <button class="buttonStOr" onclick="redirectPage('171-polyatomic')">Practice</button>
+                                    <button class="buttonStOr" onclick="redirectPage('107-polyatomic')">Practice</button>
                                 </div>
                             </div>
                             </div>
@@ -181,6 +188,7 @@
                         <div class="column">
                             <div id="container">
                                 <div class="card hiddenAnimate">
+                                    <p class="scoreElement" id="3108"></p>
                                     
                                     <div class="card_info">
                                         <span class="tag">Quiz</span>
@@ -240,4 +248,15 @@ let redirectPage = (quizNameRedirect) => {
 
     window.location.href = url;
 }
+
+document.getElementById("3101").innerHTML = "Last Score: " + localStorage.getItem("3101");
+document.getElementById("3102").innerHTML = "Last Score: " + localStorage.getItem("3102");
+document.getElementById("3103").innerHTML = "Last Score: " + localStorage.getItem("3103");
+document.getElementById("3104").innerHTML = "Last Score: " + localStorage.getItem("3104");
+document.getElementById("3105").innerHTML = "Last Score: " + localStorage.getItem("3105");
+document.getElementById("3106").innerHTML = "Last Score: " + localStorage.getItem("3106");
+document.getElementById("3107").innerHTML = "Last Score: " + localStorage.getItem("3107");
+document.getElementById("3108").innerHTML = "Last Score: " + localStorage.getItem("3108");
+
+
 </script>

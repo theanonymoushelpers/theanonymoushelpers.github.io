@@ -27,6 +27,8 @@ var questionN = getQuizParameter('questionNo')
 var directQ = subjectQ + "/" + identQ + "/" + nameQ + ".json"
 console.log(directQ);
 
+//ID linked to score
+var quizID;
 
 //this includes data for quiz length
 var dataQuizLength = 7;
@@ -116,6 +118,8 @@ var inco = 0;
 fetch(directQ)
     .then(response => response.json())
     .then(data => {
+        quizID = data["quizID"]
+        console.log(quizID)
         dataQA = data["questionList"]
         dataTotalQuestions = data["totalQuCount"]
         dataQuizLength = data["quCountToDisplay"]
@@ -255,7 +259,7 @@ function loadNextQuestion() {
         let redirectPage = (corrWrong, speedPointsAvg, ansSubject, ansIdent, ansName) => {
 
             var url = "results.html" +
-                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName;
+                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName + "&quizID=" + quizID;
 
             window.location.href = url;
         }

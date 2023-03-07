@@ -36,7 +36,8 @@
     <div class="column">
     <div id="container">
         <div class="card hiddenAnimate">
-            
+            <p class="scoreElement" id="2101"></p>
+
             <div class="card_info">
                 <span class="tag">Quiz</span>
                 <span class="tag">Easy</span>
@@ -45,7 +46,7 @@
 
                 <p>Take this practice test to test your general knowledge on this topic so far.</p>
 
-                <button class="buttonStOr" onclick="redirectPage('111-introtobusiness')">Practice</button>
+                <button class="buttonStOr" onclick="redirectPage('101-introtobusiness')">Practice</button>
             </div>
         </div>
         </div>
@@ -59,6 +60,7 @@
         <div class="column">
         <div id="container">
             <div class="card hiddenAnimate">
+                <p class="scoreElement" id="2102"></p>
                 
                 <div class="card_info">
                     <span class="tag">Quiz</span>
@@ -68,7 +70,7 @@
     
                     <p>Take this practice test to review your understanding of this topic's vocab.</p>
     
-                    <button class="buttonStOr" onclick="redirectPage('121-organizationtypesvocab')">Practice</button>
+                    <button class="buttonStOr" onclick="redirectPage('102-organizationtypesvocab')">Practice</button>
                 </div>
             </div>
             </div>
@@ -130,4 +132,7 @@
     
         window.location.href = url;
     }
+
+    document.getElementById("2101").innerHTML = "Last Score: " + localStorage.getItem("2101");
+    document.getElementById("2102").innerHTML = "Last Score: " + localStorage.getItem("2102");
     </script>

@@ -72,7 +72,9 @@ var speedP = getQuizParameter('speedScore')
 var subjectA = getQuizParameter('ansSubject')
 var identA = getQuizParameter('ansIdent')
 var nameA = getQuizParameter('ansName')
+var quizID = getQuizParameter('quizID')
 
+localStorage.setItem(quizID, scoreP)
 
 var sc = document.getElementById("score");
 var sp = document.getElementById("speed");

@@ -34,6 +34,9 @@ var dataQuizLength = 7;
 //this array stores info of json file
 var dataQA;
 
+//ID linked to score
+var quizID;
+
 //all info to display
 var questionDisplay = document.getElementById("quDisplay");
 var userAnswer = document.getElementById("userAnswer").value;
@@ -109,6 +112,8 @@ var inco = 0;
 fetch(directQ)
     .then(response => response.json())
     .then(data => {
+        quizID = data["quizID"]
+        console.log(quizID)
         dataQA = data["questionList"]
         dataTotalQuestions = data["totalQuCount"]
         dataQuizLength = data["quCountToDisplay"]
@@ -238,7 +243,7 @@ function loadNextQuestion() {
         let redirectPage = (corrWrong, speedPointsAvg, ansSubject, ansIdent, ansName) => {
 
             var url = "results.html" +
-                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName;
+                "?quizPercent=" + corrWrong + "&speedScore=" + speedPointsAvg + "&ansSubject=" + ansSubject + "&ansIdent=" + ansIdent + "&ansName=" + ansName + "&quizID=" + quizID;
 
             window.location.href = url;
         }
