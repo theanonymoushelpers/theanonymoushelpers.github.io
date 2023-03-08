@@ -502,3 +502,12 @@ img {
 .menuStyleReview TxLink.active {
     background-color: #18151b;
     }
+
+.barChart {
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom right, rgb(72, 82, 197), rgb(213, 51, 208));
+}
+
+.barChartBacking {
+border-radius: 10px; background-image: linear-gradient(to bottom right, rgb(161, 161, 161), rgb(239, 239, 239));
+}
