@@ -521,14 +521,3 @@ border-radius: 10px; background-image: linear-gradient(to bottom right, rgb(161,
     border-style: hidden;
 
 }
-
-p {
-    width: 70%;
-    margin: auto;
-    text-align: center;
-    margin-top: 40px;
-    font-size: 22px;
-    font-weight: normal;
-    color: white;
-    
-    }

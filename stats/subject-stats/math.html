@@ -8,6 +8,19 @@
         <script defer src="../../animate.js"></script>       
         <title>TAH | Your Math Stats</title>
         <link rel="icon" type="image/x-icon" href="../../lib/images/favicon.ico">
+
+        <style>
+            p {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 22px;
+    font-weight: normal;
+    color: white;
+    
+    }
+        </style>
     </head>
 
     <body>
@@ -43,25 +56,25 @@
     <h2 style="margin: auto; font-size: 36px; text-align: center;">Score by Topic</h2>
     <p>Click on each bar to see a detailed breakdown of each subject.</p>
 
-    <p>Topic 1 - Algebra</p>
+    <p><b>Topic 1 - Algebra</b></p>
     <details>
         <summary style="list-style: none;"><div class="barChartBacking" style="width:80%; height: 40px; margin: auto;"><div class="barChart" style="width:42%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">42%</h5></div></div></summary>
         <div><div style="height: 20px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Sequences</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Counting Principles</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Binomial Theorem</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:49%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">49%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Logarithms</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:98%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">98%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Exponents</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:68%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">68%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Systems of Equations</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:52%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">52%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Proofs</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:57%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">57%</h5></div></div></td></tr></table><div style="height: 10px"></div>   
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Complex Numbers</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:57%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">57%</h5></div></div></td></tr></table><div style="height: 10px"></div>   
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Sequences</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 id="text11" style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Counting Principles</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 id="text12" style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Binomial Theorem</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:49%; height: 20px; margin: left;"><h5 id="text13"style="text-align: center; font-size: 12px;">49%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Logarithms</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:98%; height: 20px; margin: left;"><h5 id="text14" style="text-align: center; font-size: 12px;">98%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Exponents</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:68%; height: 20px; margin: left;"><h5 id="text15" style="text-align: center; font-size: 12px;">68%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Systems of Equations</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:52%; height: 20px; margin: left;"><h5 id="text16" style="text-align: center; font-size: 12px;">52%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Proofs</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:57%; height: 20px; margin: left;"><h5 id="text17" style="text-align: center; font-size: 12px;">57%</h5></div></div></td></tr></table><div style="height: 10px"></div>   
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Complex Numbers</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:57%; height: 20px; margin: left;"><h5 id="text18" style="text-align: center; font-size: 12px;">57%</h5></div></div></td></tr></table><div style="height: 10px"></div>   
         </div>
     </details>
-    <p>Topic 2 - Functions</p>
+    <p><b>Topic 2 - Functions</b></p>
     <details>
         <summary style="list-style: none;"><div class="barChartBacking" style="width:80%; height: 40px; margin: auto;"><div class="barChart" style="width:58%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">58%</h5></div></div></summary>
         <div><div style="height: 20px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Linear Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Linear Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div id="width21" class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 id="text21" style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Quadratic Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Rational Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:49%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">49%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Exponential Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:98%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">98%</h5></div></div></td></tr></table><div style="height: 10px"></div>
@@ -73,11 +86,11 @@
 
 
 
-    <p>Topic 3 - Geometry and Trigonometry</p>
+    <p><b>Topic 3 - Geometry and Trigonometry</b></p>
     <div style="height: 20px;"></div><div class="barChartBacking" style="width:80%; height: 40px; margin: auto; "><div class="barChart" style="width:76%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">76%</h5></div></div>
-    <p>Topic 4 - Statistics and Probability</p>
+    <p><b>Topic 4 - Statistics and Probability</b></p>
     <div style="height: 20px;"></div><div class="barChartBacking" style="width:80%; height: 40px; margin: auto; "><div class="barChart" style="width:17%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">17%</h5></div></div>
-    <p>Topic 5 - Calculus</p>
+    <p><b>Topic 5 - Calculus</b></p>
     <div style="height: 20px;"></div><div class="barChartBacking" style="width:80%; height: 40px; margin: auto; "><div class="barChart" style="width:64%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">64%</h5></div></div>
 
     <div></div>
@@ -128,3 +141,16 @@
 
 </div>
 </div>
+
+<script>
+    var topic1;
+    var topic2;
+    var topic3;
+    var topic4;
+    var topic5; 
+
+    topic2[0] = average(localStorage.getItem("6211"), localStorage.getItem("6212"), localStorage.getItem("6213"),);
+    document.getElementById("21text").innerHTML = topic2[0] + "%"
+    document.getElementById("21width").style.width = topic2[0] + "%"
+
+</script>
