@@ -75,7 +75,7 @@
         <summary style="list-style: none;"><div class="barChartBacking" style="width:80%; height: 40px; margin: auto;"><div class="barChart" style="width:58%; height: 40px; margin: left;"><h5 style="text-align: center; font-size: 24px;">58%</h5></div></div></summary>
         <div><div style="height: 20px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Linear Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div id="width21" class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 id="text21" style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
-        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Quadratic Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
+        <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Quadratic Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div id="width22" class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 id="text22" style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Rational Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:49%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">49%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Exponential Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:98%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">98%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Logarithmic Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div class="barChart2" style="width:68%; height: 20px; margin: left;"><h5 style="text-align: center; font-size: 12px;">68%</h5></div></div></td></tr></table><div style="height: 10px"></div>
@@ -143,17 +143,26 @@
 </div>
 
 <script>
+
+function parse(num) {
+  var parsed = parseInt(localStorage.getItem(num));
+  if (isNaN(parsed)) { return 0; }
+  else return parsed;
+}
+
     var topic1 = [];
     var topic2 = [];
     var topic3 = [];
     var topic4 = [];
     var topic5 = []; 
 
-    topic2[0] = localStorage.getItem("6211") + localStorage.getItem("6212");
-    document.getElementById("text21").innerHTML = toString(topic2[0]/2) + "%";
-    document.getElementById("width21").style.width = toString(topic2[0]/2) + "%";
-    topic2[1] = localStorage.getItem("6222") + localStorage.getItem("6223") + localStorage.getItem("6224");
-    document.getElementById("22text").innerHTML = topic2[1]/3 + "%";
-    document.getElementById("22width").style.width = topic2[1]/3 + "%";
+    topic2[0] = parse("6211") + parse("6212");
+    document.getElementById("text21").innerHTML = topic2[0]/2 + "%";
+    document.getElementById("width21").style.width = topic2[0]/2 + "%";
+
+
+    topic2[1] = parse("6222") + parse("6223") + parse("6224");
+    document.getElementById("text22").innerHTML = topic2[1]/3 + "%";
+    document.getElementById("width22").style.width = topic2[1]/3 + "%";
 
 </script>

@@ -264,7 +264,7 @@ function loadNextQuestion() {
             window.location.href = url;
         }
 
-        redirectPage(Math.round(corr/(dataQuizLength)*100) + "%", Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
+        redirectPage(Math.round(corr/(dataQuizLength)*100), Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
     }
     
 }
