@@ -249,14 +249,21 @@ let redirectPage = (quizNameRedirect) => {
     window.location.href = url;
 }
 
-document.getElementById("3101").innerHTML = "Last Score: " + localStorage.getItem("3101");
-document.getElementById("3102").innerHTML = "Last Score: " + localStorage.getItem("3102");
-document.getElementById("3103").innerHTML = "Last Score: " + localStorage.getItem("3103");
-document.getElementById("3104").innerHTML = "Last Score: " + localStorage.getItem("3104");
-document.getElementById("3105").innerHTML = "Last Score: " + localStorage.getItem("3105");
-document.getElementById("3106").innerHTML = "Last Score: " + localStorage.getItem("3106");
-document.getElementById("3107").innerHTML = "Last Score: " + localStorage.getItem("3107");
-document.getElementById("3108").innerHTML = "Last Score: " + localStorage.getItem("3108");
+function scoreDisplay(scoreID) {
+    document.getElementById(scoreID).innerHTML = "Last Score: " + localStorage.getItem(scoreID);
+    return;
+}
+
+scoreDisplay("3101");
+scoreDisplay("3102");
+scoreDisplay("3103");
+scoreDisplay("3104");
+scoreDisplay("3105");
+scoreDisplay("3106");
+scoreDisplay("3107");
+scoreDisplay("3108");
+
+
 
 
 </script>
