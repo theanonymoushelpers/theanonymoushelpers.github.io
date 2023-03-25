@@ -151,8 +151,8 @@ function parse(num) {
 }
 
 function displayScore(locationPage, locationVar, count) {
-    document.getElementById("text" + locationPage).innerHTML = locationVar/count + "%";
-    document.getElementById("width" + locationPage).style.width = locationVar/count + "%";
+    document.getElementById("text" + locationPage).innerHTML = Math.round(locationVar/count) + "%";
+    document.getElementById("width" + locationPage).style.width = Math.round(locationVar/count) + "%";
 }
 
     var topic1 = [];
