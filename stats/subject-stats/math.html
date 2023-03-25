@@ -143,16 +143,23 @@
 </div>
 
 <script>
+var counter = 0;
 
 function parse(num) {
   var parsed = parseInt(localStorage.getItem(num));
-  if (isNaN(parsed)) { return 0; }
-  else return parsed;
+  if (isNaN(parsed)) { return 0;}
+  else {return parsed; counter = counter + 1;}
 }
 
 function displayScore(locationPage, locationVar, count) {
-    document.getElementById("text" + locationPage).innerHTML = locationVar/count + "%";
-    document.getElementById("width" + locationPage).style.width = locationVar/count + "%";
+    if (counter == 0) {    
+    document.getElementById("text" + locationPage).innerHTML = "0%";
+    document.getElementById("width" + locationPage).style.width = "0%";}
+
+    else {
+    document.getElementById("text" + locationPage).innerHTML = locationVar/counter + "%";
+    document.getElementById("width" + locationPage).style.width = locationVar/counter + "%";
+    counter = 0;}
 }
 
     var topic1 = [];
@@ -186,5 +193,5 @@ function displayScore(locationPage, locationVar, count) {
     topicTotal[2] = topic2.reduce(function(a, b){return a + b;});
     displayScore("2", topicTotal[2], 33)
 
-    
+
 </script>
