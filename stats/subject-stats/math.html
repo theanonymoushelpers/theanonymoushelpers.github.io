@@ -72,7 +72,7 @@
     </details>
     <p><b>Topic 2 - Functions</b></p>
     <details>
-        <summary style="list-style: none;"><div class="barChartBacking" style="width:80%; height: 40px; margin: auto;"><div id="width2" class="barChart" style="width:58%; height: 40px; margin: left;"><h5 id="text2" style="text-align: center; font-size: 24px;">58%</h5></div></div></summary>
+        <summary style="list-style: none;"><div class="barChartBacking" style="width:80%; height: 40px; margin: auto;"><div id="twidth2" class="barChart" style="width:58%; height: 40px; margin: left;"><h5 id="text2" style="text-align: center; font-size: 24px;">58%</h5></div></div></summary>
         <div><div style="height: 20px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Linear Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div id="width21" class="barChart2" style="width:58%; height: 20px; margin: left;"><h5 id="text21" style="text-align: center; font-size: 12px;">58%</h5></div></div></td></tr></table><div style="height: 10px"></div>
         <table class="tableHide" style="width: 80%; margin-left: auto; margin-right: auto;"><tr><td class="tableHide" style="width: 20%;">Quadratic Functions</td><td class="tableHide"><div class="barChartBacking" style="width:100%; height: 20px; margin: right;"><div id="width22" class="barChart2" style="width:79%; height: 20px; margin: left;"><h5 id="text22" style="text-align: center; font-size: 12px;">79%</h5></div></div></td></tr></table><div style="height: 10px"></div>
@@ -143,23 +143,16 @@
 </div>
 
 <script>
-var counter = 0;
 
 function parse(num) {
   var parsed = parseInt(localStorage.getItem(num));
-  if (isNaN(parsed)) { return 0;}
-  else {return parsed; counter = counter + 1;}
+  if (isNaN(parsed)) { return 0; }
+  else return parsed;
 }
 
 function displayScore(locationPage, locationVar, count) {
-    if (counter == 0) {    
-    document.getElementById("text" + locationPage).innerHTML = "0%";
-    document.getElementById("width" + locationPage).style.width = "0%";}
-
-    else {
-    document.getElementById("text" + locationPage).innerHTML = locationVar/counter + "%";
-    document.getElementById("width" + locationPage).style.width = locationVar/counter + "%";
-    counter = 0;}
+    document.getElementById("text" + locationPage).innerHTML = locationVar/count + "%";
+    document.getElementById("width" + locationPage).style.width = locationVar/count + "%";
 }
 
     var topic1 = [];
@@ -191,7 +184,5 @@ function displayScore(locationPage, locationVar, count) {
     displayScore("27", topic2[6], 8);
 
     topicTotal[2] = topic2.reduce(function(a, b){return a + b;});
-    displayScore("2", topicTotal[2], 33)
-
-
+    displayScore("2", topicTotal[2], 33);
 </script>
