@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 8211,
     "title": "Mediterranean Diet Vocab",
     "totalQuCount": 30, 
     "quCountToDisplay": 8,
@@ -11,9 +11,8 @@
             "a3": "Banana",
             "a4": "Lemon",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Banana"
         },
         {
@@ -23,9 +22,8 @@
             "a3": "Watermelon",
             "a4": "Tangerine",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Tangerine"
         },
         {
@@ -35,9 +33,8 @@
             "a3": "Watermelon",
             "a4": "Tangerine",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Plum"
         },
         {
@@ -47,9 +44,8 @@
             "a3": "Watermelon",
             "a4": "Blueberry",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Blueberry"
         },
         {
@@ -59,9 +55,8 @@
             "a3": "Hope",
             "a4": "Food",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Hope"
         },
         {
@@ -71,9 +66,8 @@
             "a3": "Ingredients",
             "a4": "Workshops",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Workshops"
         },
         {
@@ -83,9 +77,8 @@
             "a3": "Happy",
             "a4": "Stressful",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Healthy"
         },
         {
@@ -95,9 +88,8 @@
             "a3": "To play",
             "a4": "To exercise",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To exercise"
         },
         {
@@ -107,9 +99,8 @@
             "a3": "Sport",
             "a4": "Diet",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Sport"
         },
         {
@@ -119,9 +110,8 @@
             "a3": "Bread",
             "a4": "Hamburger",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Meat"
         },
         {
@@ -131,9 +121,8 @@
             "a3": "To manage",
             "a4": "To laugh",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To manage"
         },
         {
@@ -143,9 +132,8 @@
             "a3": "Tear",
             "a4": "Breath",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Stress"
         },
         {
@@ -155,9 +143,8 @@
             "a3": "Nap",
             "a4": "Support",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Nap"
         },
         {
@@ -167,9 +154,8 @@
             "a3": "Grains",
             "a4": "Seafood",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Vegetables"
         },
         {
@@ -179,9 +165,8 @@
             "a3": "Watermelon",
             "a4": "Butter",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Seafood"
         },
         {
@@ -191,9 +176,8 @@
             "a3": "Grains",
             "a4": "Garbage",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Grains"
         },
         {
@@ -203,9 +187,8 @@
             "a3": "Lobster",
             "a4": "Fish",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Wheat"
         },
         {
@@ -215,9 +198,8 @@
             "a3": "Apple pie",
             "a4": "Pizza",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Olives"
         },
         {
@@ -227,9 +209,8 @@
             "a3": "Nuts",
             "a4": "Fruit",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Nuts"
         },
         {
@@ -239,9 +220,8 @@
             "a3": "Style",
             "a4": "Benefit",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Style"
         },
         {
@@ -251,9 +231,8 @@
             "a3": "Disease",
             "a4": "Exposed",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Disease"
         },
         {
@@ -263,9 +242,8 @@
             "a3": "Cucumber",
             "a4": "Avocado",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Avocado"
         },
         {
@@ -275,9 +253,8 @@
             "a3": "Beans",
             "a4": "Peas",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Lentils"
         },
         {
@@ -287,9 +264,8 @@
             "a3": "Morning",
             "a4": "Lunch",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Breakfast"
         },
         {
@@ -299,9 +275,8 @@
             "a3": "Leg",
             "a4": "Heart",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Heart"
         },
         {
@@ -311,9 +286,8 @@
             "a3": "Process",
             "a4": "Result",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Philosophy"
         },
         {
@@ -323,9 +297,8 @@
             "a3": "To welcome",
             "a4": "To enjoy",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To enjoy"
         },
         {
@@ -335,9 +308,8 @@
             "a3": "Tradition",
             "a4": "Family tree",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Heritage"
         },
         {
@@ -347,9 +319,8 @@
             "a3": "Red meat",
             "a4": "Pasta",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Fish"
         },
         {
@@ -359,9 +330,8 @@
             "a3": "To surprise",
             "a4": "To develop",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To develop"
         }
 

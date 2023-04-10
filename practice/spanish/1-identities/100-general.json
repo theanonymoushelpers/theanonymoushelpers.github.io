@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 8100,
     "title": "Identities",
     "totalQuCount": 50, 
     "quCountToDisplay": 10,
@@ -11,9 +11,8 @@
             "a3": "To eat",
             "a4": "To go",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To have"
         },
         {
@@ -23,9 +22,8 @@
             "a3": "To think",
             "a4": "To be able",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To be able"
         },
         {
@@ -35,9 +33,8 @@
             "a3": "To know",
             "a4": "To go",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To know"
         },
         {
@@ -47,9 +44,8 @@
             "a3": "To call",
             "a4": "To seem",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To seem"
         },
         {
@@ -59,9 +55,8 @@
             "a3": "To stay",
             "a4": "To put",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To leave"
         },
         {
@@ -71,9 +66,8 @@
             "a3": "To begin",
             "a4": "To exist",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To take, drink"
         },
         {
@@ -83,9 +77,8 @@
             "a3": "To work",
             "a4": "To request",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To work"
         },
         {
@@ -95,9 +88,8 @@
             "a3": "To serve",
             "a4": "To need",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To need"
         },
         {
@@ -107,9 +99,8 @@
             "a3": "To finish",
             "a4": "To hear",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To change"
         },
         {
@@ -119,9 +110,8 @@
             "a3": "To win",
             "a4": "To convert",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To consider"
         },
         {
@@ -131,9 +121,8 @@
             "a3": "To touch",
             "a4": "To comprehend",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To comprehend"
         },
         {
@@ -143,9 +132,8 @@
             "a3": "To drink",
             "a4": "To go",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To play"
         },
         {
@@ -155,9 +143,8 @@
             "a3": "To fall",
             "a4": "To fit",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To walk"
         },
         {
@@ -167,9 +154,8 @@
             "a3": "To cut",
             "a4": "To teach",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To cut"
         },
         {
@@ -179,9 +165,8 @@
             "a3": "To pay",
             "a4": "To wash",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To wash"
         },
         {
@@ -191,9 +176,8 @@
             "a3": "To bring",
             "a4": "To break",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To break"
         },
         {
@@ -203,9 +187,8 @@
             "a3": "To dress",
             "a4": "To cough",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To cough"
         },
         {
@@ -215,9 +198,8 @@
             "a3": "To breathe",
             "a4": "To visit",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To sweat"
         },
         {
@@ -227,9 +209,8 @@
             "a3": "To see",
             "a4": "To return",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To travel"
         },
         {
@@ -239,9 +220,8 @@
             "a3": "To think",
             "a4": "To choose",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To choose"
         },
         {
@@ -251,9 +231,8 @@
             "a3": "To go to bed",
             "a4": "To bathe",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To go to bed"
         },
         {
@@ -263,9 +242,8 @@
             "a3": "To decide",
             "a4": "To bathe (oneself)",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To bathe (oneself)"
         },
         {
@@ -275,9 +253,8 @@
             "a3": "To discuss",
             "a4": "To detect",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To care for"
         },
         {
@@ -287,9 +264,8 @@
             "a3": "To extend",
             "a4": "To sign",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To shower"
         },
         {
@@ -299,9 +275,8 @@
             "a3": "To fear",
             "a4": "To swallow",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To prescribe"
         },
         {
@@ -311,9 +286,8 @@
             "a3": "the cultural identity",
             "a4": "the gender identity",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the ethnic identity"
         },
         {
@@ -323,9 +297,8 @@
             "a3": "the customs",
             "a4": "the race",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the race"
         },
         {
@@ -335,9 +308,8 @@
             "a3": "the discrimination",
             "a4": "the beliefs",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the beliefs"
         },
         {
@@ -347,9 +319,8 @@
             "a3": "the language",
             "a4": "the pride",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the self-esteem"
         },
         {
@@ -359,9 +330,8 @@
             "a3": "the self-image",
             "a4": "the values",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the homeland"
         },
         {
@@ -371,9 +341,8 @@
             "a3": "the membership",
             "a4": "the pride",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the pride"
         },
         {
@@ -383,9 +352,8 @@
             "a3": "Youth",
             "a4": "Childhood",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Youth"
         },
         {
@@ -395,9 +363,8 @@
             "a3": "the prejudice",
             "a4": "the minority",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the minority"
         },
         {
@@ -407,9 +374,8 @@
             "a3": "to judge",
             "a4": "to belong to",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "to be born"
         },
         {
@@ -419,9 +385,8 @@
             "a3": "to get used to",
             "a4": "to coexist",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "to move"
         },
         {
@@ -431,9 +396,8 @@
             "a3": "to judge",
             "a4": "to be aware of",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "to immigrate"
         },
         {
@@ -443,9 +407,8 @@
             "a3": "Bilingual",
             "a4": "Influential",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Influential"
         },
         {
@@ -455,9 +418,8 @@
             "a3": "Hispanic",
             "a4": "Nicaraguan",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Hispanic"
         },
         {
@@ -467,9 +429,8 @@
             "a3": "Spanish",
             "a4": "Chilean",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Costa Rican"
         },
         {
@@ -479,9 +440,8 @@
             "a3": "Panamanian",
             "a4": "Colombian",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Indigenous"
         },
         {
@@ -491,9 +451,8 @@
             "a3": "Self-assured",
             "a4": "Open-minded",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Open-minded"
         },
         {
@@ -503,9 +462,8 @@
             "a3": "to conserve",
             "a4": "to share",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "to alienate"
         },
         {
@@ -515,9 +473,8 @@
             "a3": "to translate",
             "a4": "to emigrate",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "to translate"
         },
         {
@@ -527,9 +484,8 @@
             "a3": "the ethnicity",
             "a4": "the dislikes",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the dislikes"
         },
         {
@@ -539,9 +495,8 @@
             "a3": "the self-esteem",
             "a4": "the interest",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the self-image"
         },
         {
@@ -551,9 +506,8 @@
             "a3": "the language",
             "a4": "the holidays",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "the holidays"
         },
         {
@@ -563,9 +517,8 @@
             "a3": "Guatemalan",
             "a4": "Bolivian",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Peruvian"
         },
         {
@@ -575,9 +528,8 @@
             "a3": "Ecuatorian",
             "a4": "Mexican",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Argentinian"
         },
         {
@@ -587,9 +539,8 @@
             "a3": "Latin",
             "a4": "Dominican",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Dominican"
         },
         {
@@ -599,9 +550,8 @@
             "a3": "Latin",
             "a4": "Cuban",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 15,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Latin"
         }
 

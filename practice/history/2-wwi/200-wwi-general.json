@@ -1,5 +1,5 @@
 {
-    "quizID": "WWI - General Review",
+    "quizID": 5200,
     "title": "History WW1",
     "totalQuCount": 30, 
     "quCountToDisplay": 7,
@@ -11,9 +11,8 @@
             "a3": "Tulip",
             "a4": "Sunflower",
             "ans": 1,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Poppy."
         },
         {
@@ -23,9 +22,8 @@
             "a3": "Communist revolution",
             "a4": "Achieved its objective",
             "ans": 3,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The bolshevik revolution overthrew the Tsar in 1917, thus Russia pulled out of the war."
         },
         {
@@ -35,9 +33,8 @@
             "a3": "Cannons",
             "a4": "Mustard gas",
             "ans": 4,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The mustard gas, a chemical weapon, was outlawed."
         },
         {
@@ -47,9 +44,8 @@
             "a3": "The Battle of Verdun",
             "a4": "The Battle of Vimy Ridge",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The second battle of Ypres was the first time Germans use poison gas."
         },
         {
@@ -59,9 +55,8 @@
             "a3": "Third Battle of Ypres",
             "a4": "The Fourth Battle of Antwerp ",
             "ans": 3,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Third Battle of Ypres."
         },{
             "qu": "In which year did the Battle of Verdun start?",
@@ -70,9 +65,8 @@
             "a3": "1915",
             "a4": "1918",
             "ans": 1,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "1916"
         },
         {
@@ -82,9 +76,8 @@
             "a3": "Neville Chamberlain",
             "a4": "Stanley Baldwin",
             "ans": 1,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "David Lloyd George."
         },
         {
@@ -94,9 +87,8 @@
             "a3": "Bicycles",
             "a4": "Taxicabs",
             "ans": 4,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "All must make way for the French Taxi!"
         },
         {
@@ -106,9 +98,8 @@
             "a3": "Charles de Gaulle",
             "a4": "Joseph Joffre",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Georges Clemenceau."
         },
         {
@@ -118,9 +109,8 @@
             "a3": "Tank",
             "a4": "Anti-tank guns",
             "ans": 3,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The tanks."
         },
         {
@@ -130,9 +120,8 @@
             "a3": "Duckies",
             "a4": "Yorks",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Doughboys."
         },
         {
@@ -142,9 +131,8 @@
             "a3": "1919",
             "a4": "1917",
             "ans": 4,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The US offically joined in 1917."
         },
         {
@@ -154,9 +142,8 @@
             "a3": "Dogfight",
             "a4": "Catfight",
             "ans": 3,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Dogfight is the option."
         },
         {
@@ -166,9 +153,8 @@
             "a3": "Machine gun",
             "a4": "Grenades",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The sharpnel from artillery caused the greatest amount of death."
         },
         {
@@ -178,9 +164,8 @@
             "a3": "Otto Kittel",
             "a4": "Wilhelm Batz",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Von Richthofen - Red Baron."
         },
         {
@@ -190,9 +175,8 @@
             "a3": "Planes",
             "a4": "Anti-tank guns",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The tanks."
         },
         {
@@ -202,9 +186,8 @@
             "a3": "Pigs",
             "a4": "Pigeons",
             "ans": 4,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The pigeons were commonly used on both sides."
         },
         {
@@ -214,9 +197,8 @@
             "a3": "Japan",
             "a4": "Spain",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Mexico"
         },
         {
@@ -226,9 +208,8 @@
             "a3": "Dogfight",
             "a4": "Air transport",
             "ans": 2,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Locating targets for artillery."
         },
         {
@@ -238,9 +219,8 @@
             "a3": "Wilfrid Reid May",
             "a4": "William George Barker",
             "ans": 1,
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Bily Bishop."
         },
         {
@@ -250,9 +230,8 @@
             "a3": "Macau",
             "a4": "Qingdao",
             "ans": "a4",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Qingdao"
         },
         {
@@ -262,9 +241,8 @@
             "a3": "Muhamed Mehmedbašić",
             "a4": "William George Barker",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Gavrilo Princip"
         },
         {
@@ -274,9 +252,8 @@
             "a3": "Sir Douglas Haig",
             "a4": "Sir John French",
             "ans": "a3",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Sir Douglas Haig"
         },
         {
@@ -286,9 +263,8 @@
             "a3": "George C Marshall",
             "a4": "William George Barker",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "John J Pershing"
         },
         {
@@ -298,9 +274,8 @@
             "a3": "Africa",
             "a4": "North America",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Europe"
         },
         {
@@ -310,9 +285,8 @@
             "a3": "Mata Hari",
             "a4": "Benedict Arnold",
             "ans": "a3",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Mata Hari"
         },
         {
@@ -322,9 +296,8 @@
             "a3": "payment of reparations",
             "a4": "giving land to France",
             "ans": "a4",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The Kaiser abdicated instead"
         },
         {
@@ -334,9 +307,8 @@
             "a3": "Easter",
             "a4": "New Year",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Christmas"
         },
         {
@@ -346,9 +318,8 @@
             "a3": "France",
             "a4": "Britain",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Germany"
         },
         {
@@ -358,9 +329,8 @@
             "a3": "Mustard Gas",
             "a4": "Tear Gas",
             "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Phosgene"
         }
 

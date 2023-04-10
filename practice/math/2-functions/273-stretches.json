@@ -12,8 +12,7 @@
             "a4": "21",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The point `(2,7)` lies on f(x). Therefore, if we multiply the y-value by the vertical stretch (3), we get 21."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "16",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The point `(2,12)` lies on f(x). Therefore, if we multiply the y-value by the vertical stretch (1/2), we get 6."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "4",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The vertical stretch component of this transformation is 4, as it is being multiplied by the rest of the function."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "-2",
             "ans": 1,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The vertical stretch component of this transformation is `1/2`, as it is being multiplied by the rest of the function. We also don't take the negative value, as that is a reflection in the x-axis."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "3",
             "ans": 4,
             "timeUpper": 25,
-            "timeMid": 40,
-            "timeLower": 55,
+            "marks": 1,
             "solution": "After substituting 16 for y and 0 for x, `a=3`, therefore, the function `x^2` is stretched vertically by a factor of 3."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "`-1/(12)`",
             "ans": 4,
             "timeUpper": 25,
-            "timeMid": 40,
-            "timeLower": 55,
+            "marks": 1,
             "solution": "After substituting 5 for y and 2 for x, `a=-3`, therefore, the function `x^2` is stretched vertically by a factor of 3, and is reflected in the x-axis (hence why we don't say that it is stretched by a factor of -3)."
         }
 

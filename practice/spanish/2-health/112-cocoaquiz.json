@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 8212,
     "title": "La Patrimonia de la Yerba Mate, el Café y el Cacao",
     "totalQuCount": 9, 
     "quCountToDisplay": 8,
@@ -11,9 +11,8 @@
             "a3": "El Atlántico (Australia y Nueva Zelanda)",
             "a4": "Sudáfrica y Madagascar",
             "ans": 1,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Sudamérica (Argentina, Brasil y Paraguay)"
         },
         {
@@ -23,9 +22,8 @@
             "a3": "El Atlántico",
             "a4": "Brasil",
             "ans": 2,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Meseta de Etiopía"
         },
         {
@@ -35,9 +33,8 @@
             "a3": "El Atlántico",
             "a4": "La Alta Amazonia (Perú, Colombia y Ecuador)",
             "ans": 4,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "La Alta Amazonia (Perú, Colombia y Ecuador)"
         },    
         {
@@ -47,9 +44,8 @@
             "a3": "Hay uno tip",
             "a4": "existen doce tipos de yerba mate",
             "ans": 2,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Hay dos tipos. Uno con palo y otro sin palo"
         },   
         {
@@ -59,9 +55,8 @@
             "a3": "Existen tres tipos de café. El arábica, el robusta y el liberica",
             "a4": "Existen cuatros tipos de café. El arábica, el robusta, el liberica y el café moderno",
             "ans": 3,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Existen tres tipos de café. El arábica, el robusta y el liberica"
         },    
         {
@@ -71,9 +66,8 @@
             "a3": "Existen tres tipos de cacao: Criollo, Forastero y Trinitario.",
             "a4": "Hay doce tipos de cacao con sus propias hebras",
             "ans": 3,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Existen tres tipos de cacao: Criollo, Forastero y Trinitario."
         }, 
         {
@@ -83,9 +77,8 @@
             "a3": "La yerba mate era consumida originalmente por los tigres",
             "a4": "La yerba mate se consumía originalmente para los buenos deseos",
             "ans": 1,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "La yerba mate se consumía originalmente para rituales especiales y hospitalidad."
         }, 
         {
@@ -95,9 +88,8 @@
             "a3": "El café se elaboraba originalmente para aumentar el sueño durante la noche .",
             "a4": "Originalmente, el café se elaboraba para aumentar la concentración durante las largas oraciones nocturnas.",
             "ans": 4,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "Originalmente, el café se elaboraba para aumentar la concentración durante las largas oraciones nocturnas"
         },
         {
@@ -107,9 +99,8 @@
             "a3": "El cacao se utilizaba como regalo de San Valentín",
             "a4": "El cacao se utilizaba para escalar montañas y era moneda de cambio",
             "ans": 2,
-            "timeUpper": 12,
-            "timeMid": 18,
-            "timeLower": 24,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "El cacao se utilizaba como moneda y era conocido como un regalo de los dioses."
         }    
 

@@ -1,0 +1,292 @@
+{
+    "quizID": 8413,
+    "title": "Irregular Verbs",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "alcanzar",
+            "a1": "to reach",
+            "a2": "to open",
+            "a3": "to show up",
+            "a4": "to start",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to reach"
+        },
+        {
+            "qu": "aparecer",
+            "a1": "to drive",
+            "a2": "to get",
+            "a3": "to show up",
+            "a4": "to build",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to show up"
+        },
+        {
+            "qu": "conducir",
+            "a1": "to give",
+            "a2": "to drive",
+            "a3": "to turn into",
+            "a4": "to fit",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to drive"
+        },
+        {
+            "qu": "dirigir",
+            "a1": "to say",
+            "a2": "to know",
+            "a3": "to find",
+            "a4": "to lead",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to lead"
+        },
+        {
+            "qu": "huir",
+            "a1": "to run away",
+            "a2": "to explain",
+            "a3": "to introduce",
+            "a4": "to understand",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to run away"
+        },
+        {
+            "qu": "mantener",
+            "a1": "to be born",
+            "a2": "to hear",
+            "a3": "to offer",
+            "a4": "to maintain",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to maintain"
+        },
+        {
+            "qu": "suponer",
+            "a1": "to remove",
+            "a2": "to suppose",
+            "a3": "to be useful",
+            "a4": "to come back",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to suppose"
+        },
+        {
+            "qu": "pedir",
+            "a1": "to read",
+            "a2": "to pay",
+            "a3": "to ask",
+            "a4": "to seem",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to ask"
+        },
+        {
+            "qu": "querer",
+            "a1": "to want",
+            "a2": "to believe",
+            "a3": "to be able",
+            "a4": "to have",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to want"
+        },
+        {
+            "qu": "llegar",
+            "a1": "to follow",
+            "a2": "to leave",
+            "a3": "to give",
+            "a4": "to arrive",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to arrive"
+        },
+        {
+            "qu": "parecer",
+            "a1": "to encounter",
+            "a2": "to seem",
+            "a3": "to regret",
+            "a4": "to count",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to seem"
+        },
+        {
+            "qu": "perder",
+            "a1": "to lose",
+            "a2": "to produce",
+            "a3": "to request",
+            "a4": "to remember",
+            "ans":1 ,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to lose"
+        },
+        {
+            "qu": "entender",
+            "a1": "to obtain",
+            "a2": "to serve",
+            "a3": "to research",
+            "a4": "to understand",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to understand"
+        },
+        {
+            "qu": "conseguir",
+            "a1": "to maintain",
+            "a2": "to get",
+            "a3": "to open",
+            "a4": "to fall",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to get"
+        },
+        {
+            "qu": "convertir",
+            "a1": "to die",
+            "a2": "to bring",
+            "a3": "to convert",
+            "a4": "to achieve",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to convert"
+        },
+        {
+            "qu": "reconocer",
+            "a1": "to direct",
+            "a2": "to recognize",
+            "a3": "to play",
+            "a4": "to discover",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to recognize"
+        },
+        {
+            "qu": "descubrir",
+            "a1": "to be worth",
+            "a2": "to catch up",
+            "a3": "to repeat",
+            "a4": "to discover",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to discover"
+        },
+        {
+            "qu": "mostrar",
+            "a1": "to show",
+            "a2": "to continue",
+            "a3": "to draw",
+            "a4": "to hike",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to show"
+        },
+        {
+            "qu": "referir",
+            "a1": "to bring near",
+            "a2": "to refer (to)",
+            "a3": "to move",
+            "a4": "to represent",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to refer (to)"
+        },
+        {
+            "qu": "valer",
+            "a1": "to dedicate",
+            "a2": "to close",
+            "a3": "to be worth",
+            "a4": "to hire",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to be worth"
+        },
+        {
+            "qu": "soler",
+            "a1": "to indicate",
+            "a2": "to propose",
+            "a3": "to stop",
+            "a4": "to be accustomed to",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to be accustomed to"
+        },
+        {
+            "qu": "elegir",
+            "a1": "to choose",
+            "a2": "to demonstrate",
+            "a3": "to apply",
+            "a4": "to take",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to choose"
+        },
+        {
+            "qu": "reunir",
+            "a1": "to prefer",
+            "a2": "to gather",
+            "a3": "to walk",
+            "a4": "to locate",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to gather"
+        },
+        {
+            "qu": "entregar",
+            "a1": "to arise",
+            "a2": "to act",
+            "a3": "to establish",
+            "a4": "to deliver",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to deliver"
+        },
+        {
+            "qu": "negar",
+            "a1": "to break",
+            "a2": "to clean",
+            "a3": "to advance",
+            "a4": "to deny",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to deny"
+        }
+        
+
+
+
+
+
+
+
+    ]
+}
+

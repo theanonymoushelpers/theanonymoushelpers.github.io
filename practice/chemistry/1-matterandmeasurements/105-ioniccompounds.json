@@ -15,6 +15,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`Ca_2O` is not balanced correctly, therefore, it cannot be an ionic compound."
         },
         {
@@ -27,6 +28,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`MgN` is not balanced correctly, therefore, it cannot be an ionic compound."
         },
         {
@@ -39,6 +41,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`Rb_2F` is not balanced correctly, therefore, it cannot be an ionic compound."
         },
 
@@ -53,6 +56,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`H_2O` is the ionic compound that forms between H and O."
         },
         {
@@ -65,6 +69,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`Na_3P` is the ionic compound that forms between Na and P."
         },
         {
@@ -77,6 +82,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`Mg_3P_2` is the ionic compound that forms between Mg and P."
         },
         {
@@ -89,6 +95,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "`LiF` is the ionic compound that forms between Li and F."
         },
 
@@ -106,6 +113,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "Sodium Flouride is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
         },
         {
@@ -118,6 +126,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "Potassium Oxide is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
         },
         {
@@ -130,6 +139,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "Lithium Oxide is the correct answer, as the anion in an ionic compound always ends in -ide, and no prefixes are used."
         }
         

@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 3311,
     "title": "Atomic and Mass Number",
     "totalQuCount": 20, 
     "quCountToDisplay": 8,
@@ -9,80 +9,70 @@
             "qu": "Using the periodic table, how many protons does carbon have?",
             "ans": "6",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (6) is equal to the number of protons in Carbon."
         },
         {
             "qu": "Using the periodic table, how many protons does sulfur have?",
             "ans": "16",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (16) is equal to the number of protons in Sulfur."
         },
         {
             "qu": "Using the periodic table, how many protons does potassium have?",
             "ans": "19",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (19) is equal to the number of protons in Potassium."
         },
         {
             "qu": "Using the periodic table, how many protons does helium have?",
             "ans": "2",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (2) is equal to the number of protons in Helium."
         },
         {
             "qu": "Using the periodic table, how many protons does lithium have?",
             "ans": "3",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (3) is equal to the number of protons in Lithium."
         },
         {
             "qu": "Using the periodic table, how many protons does beryllium have?",
             "ans": "4",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (4) is equal to the number of protons in Beryllium."
         },
         {
             "qu": "Using the periodic table, how many protons does nitrogen have?",
             "ans": "7",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (7) is equal to the number of protons in Nitrogen."
         },
         {
             "qu": "Using the periodic table, how many protons does oxygen have?",
             "ans": "8",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (8) is equal to the number of protons in Oxygen."
         },
         {
             "qu": "Using the periodic table, how many protons does flourine have?",
             "ans": "9",
             "timeUpper": 7,
-            "timeMid": 19,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (9) is equal to the number of protons in Flourine."
         },
         {
             "qu": "Using the periodic table, how many protons does sodium have?",
             "ans": "11",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The atomic number (11) is equal to the number of protons in Sodium."
         },
      
@@ -91,64 +81,56 @@
             "qu": "Using the periodic table, how many neutrons does carbon have?",
             "ans": "6",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (12-6) is equal to the number of neutrons in Carbon (6)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does sulfur have?",
             "ans": "16",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (32-16) is equal to the number of neutrons in Sulfur (16)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does potassium have?",
             "ans": "20",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (39-19) is equal to the number of neutrons in Potassium (20)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does helium have?",
             "ans": "2",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (4-2) is equal to the number of neutrons in Helium (2)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does lithium have?",
             "ans": "4",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (7-3) is equal to the number of neutrons in Lithium (4)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does beryllium have?",
             "ans": "5",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (9-4) is equal to the number of neutrons in Beryllium (5)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does nitrogen have?",
             "ans": "7",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (14-7) is equal to the number of neutrons in Nitrogen (7)."
         },
         {
             "qu": "Using the periodic table, how many neutrons does oxygen have?",
             "ans": "8",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (16-8) is equal to the number of neutrons in Oxygen (8)."
         },
         {
@@ -163,8 +145,7 @@
             "qu": "Using the periodic table, how many neutrons does sodium have?",
             "ans": "12",
             "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 14,
+            "marks": 1,
             "solution": "The mass number minus the atomic number (23-11) is equal to the number of neutrons in Sodium (12)."
         }
 

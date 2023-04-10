@@ -1,0 +1,461 @@
+{
+    "quizID": 2301,
+    "title": "3.1 - Sources of Finance",
+    "totalQuCount": 38, 
+    "quCountToDisplay": 10,
+    "questionList": [
+        {
+            "qu": "Choose the correct definition for debebtures.",
+            "a1": "long term loans issued by a business. Interest must be payed back before shareholders.",
+            "a2": "long term loans issued by a bank. Interest must be payed back before shareholders.",
+            "a3": "short term loans issued by a business. Interest must be payed back before shareholders.",
+            "a4": "short term loans issued by a bank. Interest must be payed back after shareholders.",
+            "ans": 1,
+            "timeUpper": 25,
+            "marks": 2,
+            "solution": "Debentures are: long term loans issued by a business, and interest must be payed back before shareholders."
+        },
+        {
+            "qu": "True or False: Do debentures involve interest?",
+            "a1": "True",
+            "a2": "False",
+            "a3": " ",
+            "a4": " ",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "True - Debentures do involve interest"
+        },
+        {
+            "qu": "Capital Expenditure is...",
+            "a1": "day-to-day expenses on fixed assets",
+            "a2": "investment spending on day-to-day expenses.",
+            "a3": "investment spending on fixed assets",
+            "a4": "day-to-day expenses on maintenance expenses",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Capital Expenditure is investment spending on fixed assets such as the purchase of land and buildings."
+        },
+        {
+            "qu": "Which is NOT an example of capital expenditure",
+            "a1": "Buildings",
+            "a2": "Company Vehicle",
+            "a3": "Worker Wages",
+            "a4": "Purchase of Land",
+            "ans": 3,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Paying employees their wages is NOT an example of capital expenditure but instead is an example of revenue expenditure."
+        },
+        {
+            "qu": "Revenue Expenditure is...",
+            "a1": "investment purchases",
+            "a2": "day-to-day running of business",
+            "a3": "spending excess of the amount in your bank account",
+            "a4": "loans",
+            "ans": 15,
+            "timeUpper": 10,
+            "marks": 1,
+
+            "solution": "Revenue expenditure is the day-to-day spending for running the business."
+        },
+        {
+            "qu": "What source of finance does not need to be repaid?",
+            "a1": "Debt Factoring",
+            "a2": "Loan Capital",
+            "a3": "Leasing",
+            "a4": "Grants",
+            "ans": 4,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Grants are government financial gifts to support business activities. They are not expected to be repaid by the recipient."
+        },
+        {
+            "qu": "What is a medium-longterm source of finance gained from commercial lenders that bear interest.ex: mortagage, debentures.",
+            "a1": "Debt Factoring",
+            "a2": "Loan Capital",
+            "a3": "Leasing",
+            "a4": "Grants",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+
+            "solution": "Loan Capital is a medium to longterm sources of interest-bearing finance obtained from commercial lenders."
+        },
+        {
+            "qu": "What is a form of hiring whereby a contract is agreed between a ___ company and the customer. The customer pays rental income to hire assets from the legal owner of the asset.",
+            "a1": "Debt Factoring",
+            "a2": "Loan Capital",
+            "a3": "Leasing",
+            "a4": "Grants",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+
+            "solution": "Leasing is a form of hiring whereby a contract is agreed between a leasing company and the customer. The leesee pays rental income to hire assets from the lessor, or the legal owner of the asset. "
+        },
+
+        {
+            "qu": "what is a financial service where a factor (like a bank) collects debts on behalf of other businesses in return for a fee?",
+            "a1": "Debt Factoring",
+            "a2": "Loan Capital",
+            "a3": "Leasing",
+            "a4": "Grants",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+
+            "solution": "Debt Factoring is financial service where a factor (like a bank) collects debts on behalf of other businesses in return for a fee. "
+        },
+
+        {
+            "qu": "Which is NOT an example of internal sources of finance?",
+            "a1": "Grant",
+            "a2": "Retained Profits",
+            "a3": "Personal Funds",
+            "a4": "Sale of Assets",
+            "ans": 1,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Grants are an example of external sources of finance while all the others are internal sources of finance."
+        },
+
+        {
+            "qu": "Which is NOT an example of external sources of finance",
+            "a1": "Debentures",
+            "a2": "Grants",
+            "a3": "Leasing",
+            "a4": "Sales of Assets",
+            "ans": 4,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Sales of Assets are selling your own assets in hopes to make money, this is a source of internal finance not external."
+        },
+
+        {
+            "qu": "What are wealthy entrepreneurs who risk their own money by investing in small to medium sized businesses that have high growth potential.",
+            "a1": "Venture Capitals",
+            "a2": "Business Angels",
+            "a3": "IPO (inital public offering)",
+            "a4": "Trade Credit",
+            "ans": 2,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Business Angels are wealthy entrepreneurs who risk their own money by investing in small to medium sized businesses that have high growth potential. "
+        },
+
+        {
+            "qu": "What are high risk capital invested by a ____ firm usually at the start of someones business idea.",
+            "a1": "Venture Capitals",
+            "a2": "Business Angels",
+            "a3": "IPO (inital public offering)",
+            "a4": "Trade Credit",
+            "ans": 1,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Venture Capital is high risk capital invested by a venture capital firms usually at the start of someones business idea. "
+        },
+
+        {
+            "qu": "What is the difference between business angels (BA) and venture capital (VC)?",
+            "a1": "BA's invest at the creating of the business idea while VC's invest in already existing small to medium businesses.",
+            "a2": "VC's have a better credit score.",
+            "a3": "BA's have more money than VC's",
+            "a4": "VC's invest at the creating of the business idea while BA's invest in already existing small to medium businesses.",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+
+            "solution": "VC's invest at the creating of the business idea while BA's invest in already existing small to medium businesses."
+        },
+
+        {
+            "qu": "What term decribes the situation where a business 'buys now and pays later' and the credit provider does't recieve cash from the buys untill a later date (between 30-60 days)",
+            "a1": "Sale-and-leaseback",
+            "a2": "Overdrafts",
+            "a3": "Share Capital",
+            "a4": "Trade Credit",
+            "ans": 4,
+            "timeUpper": 7,
+            "marks": 1,
+
+            "solution": "Trae Cedit is where a business 'buys now and pays later' and the credit provider does't recieve cash from the buys untill a later date (between 30-60 days)"
+        },
+
+        {
+            "qu": "What term decribes a source of external finance where a business sells a fixed assets but immediately leasses that asset again, so it doesnt actually leave the physical building. ",
+            "a1": "Sale-and-leaseback",
+            "a2": "Overdrafts",
+            "a3": "Share Capital",
+            "a4": "Trade Credit",
+            "ans": 1,
+            "timeUpper": 7,
+            "marks": 1,
+            "solution": "Sale and Leaseback is a source of external finance where a business sells a fixed assets but immediately leasses that asset again, so it doesnt actually leave the physical building. "
+        },
+        
+        {
+            "qu": "What term decribes the ability for a business to spend in excess of the amount in its bank account, up to a predetermined limit. They are the most flexible for borrowing in the short term.",
+            "a1": "Sale-and-leaseback",
+            "a2": "Overdrafts",
+            "a3": "Share Capital",
+            "a4": "Trade Credit",
+            "ans": 2,
+            "timeUpper": 7,
+            "marks": 1,
+            "solution": "Overdrafts is the ability for a business to spend in excess of the amount in its bank account, up to a predetermined limit. They are the most flexible for borrowing in the short term. "
+        },
+        {
+            "qu": "What term decribes the money raised from selling shares in a limited liability company from its IPO and any subsequent share issues. ",
+            "a1": "Sale-and-leaseback",
+            "a2": "Overdrafts",
+            "a3": "Share Capital",
+            "a4": "Trade Credit",
+            "ans": 3,
+            "timeUpper": 7,
+            "marks": 1,
+            "solution": "Overdrafts is the money raised from selling shares in a limited liability company from its IPO and any subsequent share issues. "
+        },
+        {
+            "qu": "Wealthy entrepreneurs who risk their own money to invest in small to medium sized businesses",
+            "a1": "Shark",
+            "a2": "Business angel",
+            "a3": "Capital investor",
+            "a4": "High risk investor",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Business angles invest in small businesses with high potential"
+        },
+        {
+            "qu": "Capital expenditure",
+            "a1": "Investment on low risk capital",
+            "a2": "Investment on routine assets",
+            "a3": "Investment on fixed assets",
+            "a4": "Investment on employees",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Capital expenditure is investments on fixed assets like buildings and land"
+        },
+        {
+            "qu": "Financial service where a factor collects debt on a businesses behalf for a fee",
+            "a1": "Debt collector",
+            "a2": "Debt investment",
+            "a3": "Debt sharing",
+            "a4": "Debt factoring",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Debt factoring is when a factor collects debt on your behalf for a fee"
+        },
+        {
+            "qu": "Funds from outisde the organization",
+            "a1": "Internal funds",
+            "a2": "External funds",
+            "a3": "External sources of finance",
+            "a4": "Interal sources of finance",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "External sources of finance are funds from outside the organization"
+        },
+        {
+            "qu": "Government financial support without need to repay",
+            "a1": "Grants",
+            "a2": "Loans",
+            "a3": "Debt factor",
+            "a4": "Lease",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Grants are government financial gifts without need to repay"
+        },
+        {
+            "qu": "IPO",
+            "a1": "When a business is on the market for puchase",
+            "a2": "Coverting to a public limited company with public stocks",
+            "a3": "Coverting to a private limited company with public stocks",
+            "a4": "Offering job openings",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "IPO (Initial public offering) is when a business converts to a public limited company with public stocks"
+        },
+        {
+            "qu": "Retained profit is a form of _____",
+            "a1": "External sources of finace ",
+            "a2": "Loans",
+            "a3": "Debt",
+            "a4": "Internal sources of finance",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Retained profit is a form of internal sources of finance"
+        },
+        {
+            "qu": "Finance of more than 5 years",
+            "a1": "Long term",
+            "a2": "Short term",
+            "a3": "Mid-long term",
+            "a4": "Mid term",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Long term finance is more than 5 years"
+        },
+        {
+            "qu": "Medium term finance",
+            "a1": "1-5 years",
+            "a2": "3 years",
+            "a3": "2-3 years",
+            "a4": "3-5 years",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Medium term finance is 1-5 years"
+        },
+        {
+            "qu": "Withdrawing more money than one owns",
+            "a1": "Debt withdraw",
+            "a2": "Exceeding draft",
+            "a3": "Overdraft",
+            "a4": "Draft",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Overdrafting is withdrawing more money than one has in their account"
+        },
+        {
+            "qu": "Personal funds is an example of?",
+            "a1": "Revenue",
+            "a2": "Net income",
+            "a3": "External source of finance",
+            "a4": "Internal source of finance",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Personal funds is a form of internal sources of finance"
+        },
+        {
+            "qu": "Share capital",
+            "a1": "Money raised from selling shares",
+            "a2": "Money from floatation in an IPO",
+            "a3": "Money from investors",
+            "a4": "Money from capital expenditures",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Share capital is money that is raised from selling shares"
+        },
+        {
+            "qu": "Sources of finance needed for day-to-day running of a business",
+            "a1": "Revenue expenditure",
+            "a2": "Short term finance",
+            "a3": "Capital expenditure",
+            "a4": "Mid-term finance",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Short term finance is money needed for day-to-day running of a business "
+        },
+        {
+            "qu": "Marketplace where shares are bought and sold",
+            "a1": "Marketplace",
+            "a2": "Share purchase",
+            "a3": "Stock market",
+            "a4": "Share market",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "The stock market is a regulated marketplace where individuals can buy or sell shares"
+        },
+        {
+            "qu": "____ are funded buy the governemnt to lower a firms production costs",
+            "a1": "Debt financers",
+            "a2": "Debt collectors ",
+            "a3": "Grants",
+            "a4": "Subsidies",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Subsidies are funded buy the governemnt to lower a firms production cost"
+        },
+        {
+            "qu": "Sources of finance",
+            "a1": "How a business obtain their funds",
+            "a2": "How a business keep their funds",
+            "a3": "How a business retained customers",
+            "a4": "How a business stays on the market",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Sources of finance is the general term for sources of funds for a business"
+        },
+        {
+            "qu": "Buying new machinery is an example of?",
+            "a1": "Revenue expenditure",
+            "a2": "Income expenditure",
+            "a3": "Capital expenditure",
+            "a4": "Day to day expenditure",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "New machinery counts as capital expeniture"
+        },
+        {
+            "qu": "Paying the salary of employees is an example of?",
+            "a1": "Revenue expenditure",
+            "a2": "Day to day expenditure",
+            "a3": "Capital expenditure",
+            "a4": "Income expenditure",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Paying the salary of employees is an example of revenue expenditure"
+        },
+        {
+            "qu": "___ ___ is high risk capital invested by venture capital firms",
+            "a1": "Debt collecting",
+            "a2": "Venture capital",
+            "a3": "Angel investing",
+            "a4": "Debt financing",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Venture capital is high risk capital invested by venture capital firms"
+        },        {
+            "qu": "A method that allows businesses to buy now and pay later",
+            "a1": "Grants",
+            "a2": "Trade union",
+            "a3": "Lease",
+            "a4": "Trade credit",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Trade credit allows a business to 'buy now and pay later'"
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+

@@ -1,0 +1,291 @@
+{
+    "quizID": 8312,
+    "title": "Social Organization Vocab",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 8,
+    "questionList": [
+        {
+            "qu": "desempleo juvenil",
+            "a1": "because of",
+            "a2": "youth unemployment",
+            "a3": "career prospects",
+            "a4": "university fees",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "youth unemployment"
+        },
+        {
+            "qu": "inestabilidad",
+            "a1": "Instability",
+            "a2": "Insecurity",
+            "a3": "Aspirations",
+            "a4": "work experience",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Instability"
+        },
+        {
+            "qu": "tasas universitarias",
+            "a1": "Exploitation",
+            "a2": "Independence",
+            "a3": "university fees",
+            "a4": "employment contract",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "university fees"
+        },
+        {
+            "qu": "requistos",
+            "a1": "university degree",
+            "a2": "private company",
+            "a3": "unemployment rate",
+            "a4": "Requirements",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Requirements"
+        },
+        {
+            "qu": "experiencia laboral",
+            "a1": "vocational training",
+            "a2": "work experience",
+            "a3": "job insecurity",
+            "a4": "to get a degree",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "work experience"
+        },
+        {
+            "qu": "autoestima",
+            "a1": "academic year",
+            "a2": "Occupations",
+            "a3": "self-esteem",
+            "a4": "Employment",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "self-esteem"
+        },
+        {
+            "qu": "el mercado laboral",
+            "a1": "the job market",
+            "a2": "opportunities abroad",
+            "a3": "gain new skills",
+            "a4": "charitable organization",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "the job market"
+        },
+        {
+            "qu": "encontrar un trabajo bien renumerado",
+            "a1": "receive a good academic training",
+            "a2": "find a well-paid job",
+            "a3": "to do some online courses",
+            "a4": "to begin to work",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "find a well-paid job"
+        },
+        {
+            "qu": "convertirse en empresario",
+            "a1": "to take a gap year",
+            "a2": "to become an athlete",
+            "a3": "choose vocational training",
+            "a4": "to become an entrepreneur",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to become an entrepreneur"
+        },
+        {
+            "qu": "ser despedido",
+            "a1": "to settle for",
+            "a2": "to be fired",
+            "a3": "to fend for oneself",
+            "a4": "to be hired",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to be fired"
+        },
+        {
+            "qu": "se aprovechan",
+            "a1": "to pass",
+            "a2": "to encourage",
+            "a3": "to take advantage of",
+            "a4": "to put up with",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to take advantage of"
+        },
+        {
+            "qu": "confiar en",
+            "a1": "to go abroad",
+            "a2": "to affect",
+            "a3": "to influence",
+            "a4": "to trust",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to trust"
+        },
+        {
+            "qu": "ofrecerse como voluntario",
+            "a1": "to offer to be a volunteer",
+            "a2": "non-profit organizations",
+            "a3": "to do charity",
+            "a4": "the program contributes to improve",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to offer to be a volunteer"
+        },
+        {
+            "qu": "organizaciones sin fines de lucro",
+            "a1": "to give back to the community",
+            "a2": "it enhances the employment opportunities",
+            "a3": "non-profit organizations",
+            "a4": "to do charity",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "non-profit organizations"
+        },
+        {
+            "qu": "ya que te ayuda a",
+            "a1": "as it helps you to",
+            "a2": "it increases your confidence",
+            "a3": "it opens your mind",
+            "a4": "it improves your job prospects",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "as it helps you to"
+        },
+        {
+            "qu": "te ayuda a conocer nuevos sitios",
+            "a1": "to get into university",
+            "a2": "to become more independent",
+            "a3": "it helps you to get to know new places",
+            "a4": "develop a professional career",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "it helps you to get to know new places"
+        },
+        {
+            "qu": "empresa",
+            "a1": "Company",
+            "a2": "Boss",
+            "a3": "Meeting",
+            "a4": "business plan",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Company"
+        },
+        {
+            "qu": "negocios",
+            "a1": "Market",
+            "a2": "Director",
+            "a3": "Operation",
+            "a4": "business deals",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "business deals"
+        },
+        {
+            "qu": "personal",
+            "a1": "work contract",
+            "a2": "company staff",
+            "a3": "Office",
+            "a4": "Internship",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "company staff"
+        },
+        {
+            "qu": "jornada completa",
+            "a1": "full-time schedule",
+            "a2": "Marketing",
+            "a3": "Profit",
+            "a4": "Purchase",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "full-time schedule"
+        },
+        {
+            "qu": "exportador",
+            "a1": "Manufacturer",
+            "a2": "Demand",
+            "a3": "Share",
+            "a4": "Exporter",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Exporter"
+        },
+        {
+            "qu": "academia de idiomas",
+            "a1": "school year",
+            "a2": "language school",
+            "a3": "Classroom",
+            "a4": "Subject",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "language school"
+        },
+        {
+            "qu": "ministerio de educación",
+            "a1": "Tutoring",
+            "a2": "private language classes",
+            "a3": "ministry of education",
+            "a4": "Lesson",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "ministry of education"
+        },
+        {
+            "qu": "democracia",
+            "a1": "Referendum",
+            "a2": "Coalition",
+            "a3": "Monarchy",
+            "a4": "Democracy",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Democracy"
+        },
+        {
+            "qu": "posgrado",
+            "a1": "postgraduate degree",
+            "a2": "PhD",
+            "a3": "University degree",
+            "a4": "ba degree",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "postgraduate degree"
+        }
+
+
+
+
+
+
+
+    ]
+}
+

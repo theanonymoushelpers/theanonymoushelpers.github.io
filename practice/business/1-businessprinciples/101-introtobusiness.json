@@ -14,6 +14,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Human resource management or HRM."
         },
         {
@@ -26,6 +27,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Production process is part of operations management."
         },
         {
@@ -38,6 +40,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Labour turnover rate = number of staff leaving / total number of staff `*` 100."
         },
         {
@@ -50,6 +53,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "CRAMPS - acronym for main reasons for leaving jobs."
         },
         {
@@ -62,6 +66,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Technological advancement doesn't have to do with the ageing population."
         },
         {
@@ -74,6 +79,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Net migration rate = immigrants - emmigrants (people leaving)."
         },
         {
@@ -86,6 +92,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Retirement age is caused by demographic changes."
         },
         {
@@ -98,6 +105,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "TRAPS is the acronym for designing effective job advertisements."
         },
         {
@@ -110,6 +118,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Interviews are part of the selection process."
         },
         {
@@ -122,6 +131,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Types of testing: psychometric, aptitude, intelligence, trade."
         },
         {
@@ -134,6 +144,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Interviews are the most common type."
         },
         {
@@ -146,6 +157,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Quicker adaptation to the business if it's coming from someone already working there."
         },
         {
@@ -158,6 +170,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "External recruitment tends to be more expensive."
         },
         {
@@ -170,6 +183,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Financial costs is the major drawback of training."
         },
         {
@@ -182,6 +196,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Induction training allows workers to settle in quickly."
         },
         {
@@ -194,6 +209,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Cognitive training helps develop mental skills to improve work performance."
         },
         {
@@ -206,6 +222,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "3 types of appraisals (formal assessments)."
         },
         {
@@ -218,6 +235,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Memory practice is part of cognitive training."
         },
         {
@@ -230,6 +248,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "Mentoring hels achieve synergy (1+1 > 2)."
         },
         {
@@ -242,6 +261,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "360-degree feedback: collects appraisal evidence from peers/subordinates/line managers that have direct contact with the employee."
         }
         

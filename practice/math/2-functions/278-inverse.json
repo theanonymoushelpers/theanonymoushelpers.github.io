@@ -10,8 +10,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
         { 
@@ -20,8 +19,7 @@
             "a2": "No",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+        "marks": 1,
             "solution": "No, they are not inverse functions." 
         },
          {
@@ -30,8 +28,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
         {
@@ -40,8 +37,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
         {
@@ -50,8 +46,7 @@
             "a2": "No",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "No, they are not inverse functions." 
         },
         {
@@ -60,8 +55,7 @@
             "a2": "No",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "No, they are not inverse functions." 
         },
         {
@@ -70,8 +64,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
         {
@@ -80,8 +73,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
         {
@@ -90,8 +82,7 @@
             "a2": "No",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "No, they are not inverse functions." 
         },
         {
@@ -100,8 +91,7 @@
             "a2": "No",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "Yes, they are inverse functions." 
         },
 
@@ -115,8 +105,7 @@
             "a4": "`(x+4)/(x^5-5)`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `root(5)((x-3)+2)`." 
         },
         {
@@ -127,8 +116,7 @@
             "a4": "There is no inverse.",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `(4-2x)/x`." 
         },
         {
@@ -139,8 +127,7 @@
             "a4": "`x=4`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `(-2x-2)/(x+2)`." 
         },
         {
@@ -151,8 +138,7 @@
             "a4": "`-5x-10`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `-5x+10`." 
         },
         {
@@ -163,8 +149,7 @@
             "a4": "`x^3-2`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `-root(3)(x)+3`." 
         },
         {
@@ -175,8 +160,7 @@
             "a4": "`-3root(3)(x-10)`",
             "ans": 3,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `root(3)(x)+3`." 
         },
         {
@@ -187,8 +171,7 @@
             "a4": "`sqrt(x-1)`",
             "ans": 3,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `x/(x-1)`." 
         }, 
         {
@@ -199,8 +182,7 @@
             "a4": "`(-x-1)/(x-1)`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `(-x-1)/(x-1)`." 
         },
         {
@@ -211,8 +193,7 @@
             "a4": "`(-4x+8)/5`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `(-4x+8)/5`." 
         },
         {
@@ -223,8 +204,7 @@
             "a4": "`(-x+1)/5`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 50,
+            "marks": 2,
             "solution": "The inverse is `(-x+1)/5`." 
         }
     ]

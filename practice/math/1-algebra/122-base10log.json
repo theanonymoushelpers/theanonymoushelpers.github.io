@@ -11,9 +11,8 @@
             "a3": "2",
             "a4": "3",
             "ans": 1,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1`, so `x=0`."
         },
         {
@@ -23,9 +22,8 @@
             "a3": "2",
             "a4": "3",
             "ans": 2,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10`, so `x=1`."
         },
         {
@@ -35,9 +33,8 @@
             "a3": "2",
             "a4": "3",
             "ans": 3,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=100`, so `x=2`."
         },
         {
@@ -47,9 +44,8 @@
             "a3": "2",
             "a4": "3",
             "ans": 4,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1000`, so `x=3`."
         },
         {
@@ -59,9 +55,8 @@
             "a3": "6",
             "a4": "7",
             "ans": 1,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10000`, so `x=4`."
         },
         {
@@ -71,9 +66,8 @@
             "a3": "6",
             "a4": "7",
             "ans": 2,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=100000`, so `x=5`."
         },
         {
@@ -83,9 +77,8 @@
             "a3": "6",
             "a4": "7",
             "ans": 3,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1000000`, so `x=6`."
         },
         {
@@ -95,9 +88,8 @@
             "a3": "6",
             "a4": "7",
             "ans": 4,
-            "timeUpper": 8,
-            "timeMid": 12,
-            "timeLower": 16,
+            "timeUpper": 20,
+            "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10000000`, so `x=7`."
         }
       

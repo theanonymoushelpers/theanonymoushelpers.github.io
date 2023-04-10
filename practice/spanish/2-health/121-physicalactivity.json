@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 8221,
     "title": "Physical activity",
     "totalQuCount": 25, 
     "quCountToDisplay": 5,
@@ -11,9 +11,8 @@
             "a3": "Chess",
             "a4": "Golf",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Football"
         },
         {
@@ -23,9 +22,8 @@
             "a3": "Badminton",
             "a4": "Basketball",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Basketball"
         },
         {
@@ -35,9 +33,8 @@
             "a3": "Bowling",
             "a4": "Golf",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Chess"
         },
         {
@@ -47,9 +44,8 @@
             "a3": "Boxing",
             "a4": "Pool",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Pool"
         },
         {
@@ -59,9 +55,8 @@
             "a3": "Cycling",
             "a4": "Golf",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Cycling"
         },
         {
@@ -71,9 +66,8 @@
             "a3": "Fencing",
             "a4": "Ski",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Rock climbing"
         },
         {
@@ -83,9 +77,8 @@
             "a3": "Fencing",
             "a4": "Swimming",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Fencing"
         },
         {
@@ -95,9 +88,8 @@
             "a3": "Diving",
             "a4": "Softball",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Diving"
         },
         {
@@ -107,9 +99,8 @@
             "a3": "Waterpolo",
             "a4": "Rafting",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Volleyball"
         },
         {
@@ -119,9 +110,8 @@
             "a3": "Archery",
             "a4": "Table tennis",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Table tennis"
         },
         {
@@ -131,9 +121,8 @@
             "a3": "Tennis",
             "a4": "Trampoline",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Archery"
         },
         {
@@ -143,9 +132,8 @@
             "a3": "Fishing",
             "a4": "Handball",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Camping"
         },
         {
@@ -155,9 +143,8 @@
             "a3": "Martial arts",
             "a4": "Wrestling",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Fishing"
         },
         {
@@ -167,9 +154,8 @@
             "a3": "Scuba diving",
             "a4": "Swimming",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Swimming"
         },
         {
@@ -179,9 +165,8 @@
             "a3": "Dancing",
             "a4": "Singing",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Skating"
         },
         {
@@ -191,9 +176,8 @@
             "a3": "Wrestling",
             "a4": "Golf",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Wrestling"
         },
         {
@@ -203,9 +187,8 @@
             "a3": "Bungee jumping",
             "a4": "Longboarding",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Parachuting"
         },
         {
@@ -215,9 +198,8 @@
             "a3": "Pool",
             "a4": "Park",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Pool"
         },
         {
@@ -227,9 +209,8 @@
             "a3": "Ring",
             "a4": "Soccer field",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Stadium"
         },
         {
@@ -239,9 +220,8 @@
             "a3": "Goggles",
             "a4": "Helmet",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Gloves"
         },
         {
@@ -251,9 +231,8 @@
             "a3": "Sword",
             "a4": "Helmet",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Helmet"
         },
         {
@@ -263,9 +242,8 @@
             "a3": "Bicycle",
             "a4": "Canoe",
             "ans": 4,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Canoe"
         },
         {
@@ -275,9 +253,8 @@
             "a3": "Skiing",
             "a4": "Gardening",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Skiing"
         },
         {
@@ -287,9 +264,8 @@
             "a3": "Sailing",
             "a4": "Jogging",
             "ans": 1,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Rowing"
         },
         {
@@ -299,9 +275,8 @@
             "a3": "Canoeing",
             "a4": "Rugby",
             "ans": 2,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 10,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Boxing"
         }
 

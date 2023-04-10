@@ -11,9 +11,8 @@
             "a3": "y = x",
             "a4": "y = 1",
             "ans": 2,
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "`y = 1/x`, as its the simplest form of a rational function."
         },
         {
@@ -23,9 +22,8 @@
             "a3": "A line in a graph where a function gets farther but never touches",
             "a4": "A line in a graph where a function crosses",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "A line in a graph where a function gets closer but never touches."
         },
         {
@@ -35,9 +33,8 @@
             "a3": "x tends to `infty^{+}`",
             "a4": "y tends to `infty^{-}`",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "y tends to `infty^{+}`, as x is coming to the asymptote from the negative side."
         },
         {
@@ -47,9 +44,8 @@
             "a3": "Has no x or y intercepts",
             "a4": "Restriction in the domain",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Due to a restriction in the domain, as that causes a gap since x cannot be the listed number (`x = 0` in this case)."
         },
         {
@@ -59,9 +55,8 @@
             "a3": "(0,1/6)",
             "a4": "(1/6,0)",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0,-1/6), by equating the x value in the function to zero."
         },
         {
@@ -71,9 +66,8 @@
             "a3": "Not enough information",
             "a4": "(3,0) and (-2,0)",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "N/A, as equating the y value to zero results in 0 = 1, which is a math error."
         },
         {
@@ -83,9 +77,8 @@
             "a3": "N/A",
             "a4": "(7, 0)",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "N/A, as equating the y value to zero results in 0 = 1, which is a math error." 
         },
         {
@@ -95,9 +88,8 @@
             "a3": "(0,0)",
             "a4": "y = 1",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "y = 0, as denominator has higher power, meaning that the horizontal asymptote would be zero (explained later in course)."
         },
         {
@@ -107,9 +99,8 @@
             "a3": "y = 1/x+2",
             "a4": "y = 1/x + 2",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "`y = 1/x + 2`."
         },
         {
@@ -119,9 +110,8 @@
             "a3": "Gap in the y axis",
             "a4": "Restriciton in the range",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Restriction in the domain, which causes a gap in the function."
         },
         {
@@ -131,9 +121,8 @@
             "a3": "y = -1/3",
             "a4": "y = 1/2",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "y= 3, as base function's HA is 0, and entire function is translated by 3 units up, thus resultuing in `y = 3`."
         },
         {
@@ -143,9 +132,8 @@
             "a3": "(-2,0), (7,0)",
             "a4": "(-2,0), (-3,0)",
             "ans": 4,
-            "timeUpper": 12,
-            "timeMid":15,
-            "timeLower": 17,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(-2,0), (-3,0), after substituting y = 0 into the function."
         },
         {
@@ -155,9 +143,8 @@
             "a3": "(0, -6/7)",
             "a4": "(0, 6/7)",
             "ans": 3,
-            "timeUpper": 12,
-            "timeMid": 15,
-            "timeLower": 17,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0, -6/7), after substituting x = into the function."
         },
         {
@@ -167,9 +154,8 @@
             "a3": "(0, 3)",
             "a4": "(0, 1/3)",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0, 1/3) after substituting x = 0 into the equation."
         },
         {
@@ -179,9 +165,8 @@
             "a3": "(0, 1/3)",
             "a4": "(-3, 0)",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "N/A, as equating the y value to zero results in 0 = 1, which is a math error."
         },
         {
@@ -192,8 +177,7 @@
             "a4": "N/A",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 16,
-            "timeLower": 17,
+            "marks": 1,
             "solution": "(1,0), (3,0),(-2,0) after equating y to 0 and solving."
         },
         {
@@ -203,9 +187,8 @@
             "a3": "y = 4",
             "a4": "(0, 1/4)",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0, 1/2) after equating x to 0."
         },
         {
@@ -215,9 +198,8 @@
             "a3": "N/A",
             "a4": "(0,0)",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "N/A, as equating the y value to zero results in 0 = 1, which is a math error."
         },
         {
@@ -227,9 +209,8 @@
             "a3": "(0, 4)",
             "a4": "(-1/2,0)",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0, -1/2) after equating x = 0 and solving."
         },
         {
@@ -239,9 +220,8 @@
             "a3": "x = -2",
             "a4": "x = 2",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "After solving for the denominator, the answer becones x = 2."
         },
         {
@@ -251,9 +231,8 @@
             "a3": "N/A",
             "a4": "y = 1/2",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Since the denominator is larger in power than the numerator, the horizontal asymptote automatically becomes y = 0 (explained later in the course)."
         },
         {
@@ -263,9 +242,8 @@
             "a3": "(0, 3)",
             "a4": "N/A",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(`14/3`, 0) after equating `y = 0` and solving."
         },
         {
@@ -275,9 +253,8 @@
             "a3": "(0, 3)",
             "a4": "(0, -14/5)",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "(0, 14/5) after equating `x = 0` and solving."
         },
         {
@@ -287,9 +264,8 @@
             "a3": "x = 5",
             "a4": "x = 8",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "After solving for the denominator for zero, the answer becones `x = 5`."
         },
         {
@@ -299,9 +275,8 @@
             "a3": "y = 3",
             "a4": "y = 8",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "The denominator is larger in power than the numerator and is the whole function is skewed up by 3, thus making `y = 3` (explained later in the course)."
         },
         {
@@ -311,9 +286,8 @@
             "a3": "(9, 0)",
             "a4": "(-5, 0), (-9, 0)",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "After equating y to zero, we get (5, 0) as the x intercept."
         },
         {
@@ -323,9 +297,8 @@
             "a3": "(0, 5)",
             "a4": "(0, -5/9)",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "After equating x to zero, we get (0, -5/9) as the y intercept."
         },
         {
@@ -335,9 +308,8 @@
             "a3": "x = 5",
             "a4": "x = 9",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "After solving for the denominator, the answer becones `x = -9`."
         },
         {
@@ -347,9 +319,8 @@
             "a3": "y = 1",
             "a4": "y = 0",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 9,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "since the powers between the numerator and the denominator are equal, dividing their coefficients gets `y = 1` (explained later in course)."
         },
         {
@@ -359,10 +330,8 @@
             "a3": "1/2",
             "a4": "4",
             "ans": 3,
-            "timeUpper": 3,
-            "timeMid": 5,
-            "timeLower": 7,
-            "solution": "By substituting the value of x in the function with 2, we get `y = 1/2`."
+            "timeUpper": 15,
+            "marks": 1,            "solution": "By substituting the value of x in the function with 2, we get `y = 1/2`."
         }
 
         

@@ -1,0 +1,135 @@
+{
+    "quizID": 2203,
+    "title": "2.4 Motivation",
+    "totalQuCount": 10, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Who had the scientific management theory",
+            "a1": "Adam",
+            "a2": "Taylor",
+            "a3": "Maslow",
+            "a4": "Pink",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Taylors theory was scientific management"
+        },
+        {
+            "qu": "Who had the Equity Theory",
+            "a1": "Adam",
+            "a2": "Taylor",
+            "a3": "Maslow",
+            "a4": "Herzeberg",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Adams theory was the Equity Theory"
+        },
+        {
+            "qu": "Who had the two factor theory",
+            "a1": "Adam",
+            "a2": "Taylor",
+            "a3": "Herzeberg",
+            "a4": "Pink",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "3"
+        },
+        {
+            "qu": "Who had the hierarchy of needs theory",
+            "a1": "Maslow",
+            "a2": "Herzeberg",
+            "a3": "Pink",
+            "a4": "Adam",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Maslows theory was the hierarchy of needs"
+        },
+        {
+            "qu": "Who had the drive theory",
+            "a1": "Maslow",
+            "a2": "Herzeberg",
+            "a3": "Pink",
+            "a4": "Adam",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Pinks theory was the drive theory"
+        },
+        {
+            "qu": "Who is Performance vs Profit Related Pay based on",
+            "a1": "Employee's Performance and Employee's Profit",
+            "a2": "Employee's Performance Companies Profit",
+            "a3": "Companies Perforamance and Employees Profit",
+            "a4": "Companies Performance and Companies Profit",
+            "ans": 2,
+            "timeUpper": 20,
+            "marks": 2,
+            "solution": ""
+        },
+        {
+            "qu": "What are wages",
+            "a1": "a type of financial reward",
+            "a2": "piece rate",
+            "a3": "time rate",
+            "a4": "all of the above",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "WAGES : a type of financial reward payment system based on time or output. Wages are paif as time rate (hours) or piece rate (output)."
+        },
+        {
+            "qu": "Who's theory is the term Self-Actualisation apart of",
+            "a1": "Adam",
+            "a2": "Herzeberg",
+            "a3": "Pink ",
+            "a4": "Maslow",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Self-Actualisation: in Maslow's hierarchy of needs refers to the highest level of needs, which occurs when people become the very best that they can be and fulfill their potential"
+        },
+        {
+            "qu": "Which of the following describes Job enrichment",
+            "a1": "increasing the number of tasks an employee performs",
+            "a2": "increasing the difficulty of tasks or giving workers more responsibility",
+            "a3": "increasing the variety of tasks on same level of difficulty",
+            "a4": "assurance that employees will keep their current job for the forseeable future",
+            "ans": 2,
+            "timeUpper": 20,
+            "marks": 2,
+            "solution": "JOB ENRICHMENT : involves giving workers more responsivilities and more challenging jobs."
+        },
+        {
+            "qu": "Which of the following describes Job rotation",
+            "a1": "increasing the number of tasks an employee performs",
+            "a2": "increasing the difficulty of tasks or giving workers more responsibility",
+            "a3": "increasing the variety of tasks on same level of difficulty",
+            "a4": "assurance that employees will keep their current job for the forseeable future",
+            "ans": 3,
+            "timeUpper": 20,
+            "marks": 2,
+            "solution": "JOB ROTATION :a form of job enlargement whervy workers are given different taks but of the same level of complexity, to help reduce the problems caused by performing repetitive taks."
+        },
+        {
+            "qu": "Which of the following describes Job enlargement",
+            "a1": "increasing the number of tasks an employee performs",
+            "a2": "increasing the difficulty of tasks or giving workers more responsibility",
+            "a3": "increasing the variety of tasks on same level of difficulty",
+            "a4": "assurance that employees will keep their current job for the forseeable future",
+            "ans": 1,
+            "timeUpper": 20,
+            "marks": 2,
+            "solution": "JOB ENLARGEMENT : refers to increasing the number of tasks that an employee perforns, thereby reducing or eliminating the monotony of repetitive tasks"
+        }
+
+      
+        
+
+
+    ]
+}
+

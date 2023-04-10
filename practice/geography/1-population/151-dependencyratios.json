@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 4151,
     "title": "Migration",
     "totalQuCount": 11, 
     "quCountToDisplay": 4,
@@ -13,8 +13,7 @@
     "a4": "Roads",
     "ans": 1,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "Elderly require good access to healthcare in order to extend their lifespan."
 },
 {
@@ -25,8 +24,7 @@
     "a4": "Urbanizing further",
     "ans": 3,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "The other factors make it less attractive to start a family, therefore, pro-natalist policies increase birth rates by incentivizing starting a family."
 },
 {
@@ -37,8 +35,7 @@
     "a4": "Wide base, wider middle, narrow top ",
     "ans": 3,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "A wide base indicates many children being born, and a narrow base indicates that many of those children are not able to live long lifespans due to low life expectancy."
 },
 {
@@ -49,8 +46,7 @@
     "a4": "Wide base, wider middle, narrow top ",
     "ans": 1,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "A wide base indicates many children being born, and a wide top indicates many of those children are growing old."
 },
 {
@@ -61,8 +57,7 @@
     "a4": "The number of healthy people in a society",
     "ans": 1,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "While elderly people may be dependent, and healthy people may be independent, not all that fall into one of these categories can be categorized as supporting the economy. The ratio determines how many people are supporting the economy in the workforce, versus the number of people dependent on the workforce."
 },
 {
@@ -73,8 +68,7 @@
     "a4": "People are living shorter lifespans",
     "ans": 2,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "While older people are dependent, longer lifespans are not always correlated, since countries can have a very young population with short lifespans, whom are dependent. The opposite may also be true. Therefore, countries with dependent populations have a smaller workforce to sustain the economy."
 },
 {
@@ -85,8 +79,7 @@
     "a4": "There is no lack of assistance for elderly",
     "ans": 3,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "Using technology."
 },
 {
@@ -97,8 +90,7 @@
     "a4": "One Death Route, found in HICs",
     "ans": 2,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "Old Dependancy Ratio, found in HICs."
 },
 {
@@ -109,8 +101,7 @@
     "a4": "Less crime, less hunger, less war, less racism",
     "ans": 2,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "Labour supply, savings, human capital, economic growth."
 },
 {
@@ -121,8 +112,7 @@
     "a4": "Not enough time",
     "ans": 2,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "Too expensive."
 },
 {
@@ -133,8 +123,7 @@
     "a4": "China",
     "ans": 4,
     "timeUpper": 15,
-    "timeMid": 23,
-    "timeLower": 30,
+    "marks": 1,
     "solution": "China"
 }
 

@@ -11,9 +11,9 @@
             "a3": "On membranes of the rough endoplasmic reticulum",
             "a4": "In nuclei",
             "ans": 2,
-            "timeUpper": 5,
-            "timeMid": 10,
-            "timeLower": 30,
+            "timeUpper": 10,
+
+            "marks": 1,
             "solution": "70S ribosomes are found in prokaryotic cells and the chloroplast"
         },
         {
@@ -24,8 +24,7 @@
             "a4": "×1000",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 20,
-            "timeLower": 60,
+            "marks": 1,
             "solution": "1 m = 1000 mm. Magnification = size of real object / size of image. 100/100000 = 0.001"
         },
         {
@@ -36,8 +35,7 @@
             "a4": "I, II and III",
             "ans": 2,
             "timeUpper": 10,
-            "timeMid": 20,
-            "timeLower": 50,
+            "marks": 1,
             "solution": "Bacteria do not contain membrane-bound organelles such as mitochondria or chloroplasts, as eukaryotes do. As ribosome is not membrane bound, E. coil as a prokaryotic cell, have ribosome and pili and free floating DNA"
         },
         {
@@ -48,8 +46,7 @@
             "a4": "Rate of oxygen consumption",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid":  15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The rate of exchange of materials"
         },
         {
@@ -60,8 +57,7 @@
             "a4": "Binding of hormones",
             "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Facilitated diffusion is the diffusion of solutes through transport proteins in the plasma membrane. Channel proteins, gated channel proteins, and carrier proteins are three types of transport proteins that are involved in facilitated diffusion."
         },
         {
@@ -71,9 +67,8 @@
             "a3": "They are specialized for movement.",
             "a4": "They do not carry out mitosis.",
             "ans": 2,
-            "timeUpper": 5,
-            "timeMid": 10,
-            "timeLower": 15,
+            "timeUpper": 10,
+            "marks": 1,
             "solution": "Having two nuclei is like having two sets of blueprints, so the cells can build two proteins at the same time. The muscle cells attached to your skeleton and that help you move your body have multiple nuclei. Skeletal muscle is composed of long, fiber-like cells, which fuse together as they're made. The more nuclei, the more protein can be produced, which leads to a stronger skeletal muscle. This is important because protein synthesis is essential for muscle hypertrophy, or growth, due to increased protein synthesis rates leading to increased protein deposition."
         },
         {
@@ -84,8 +79,7 @@
             "a4": "They divide by binary fission so provide sufficient cells.",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 20,
-            "timeLower": 50,
+            "marks": 1,
             "solution": "They can differentiate along different pathways in embryonic development which makes stem cells useful for therapeutic uses (e.g. Stargardt's disease) because they can be grown into many different tissues."
         },
         {
@@ -96,8 +90,7 @@
             "a4": "Prokaryotic cells (Escherichia coli) in the large intestine digest proteins",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "Bacteria, a prokaryote, has circular DNA, as do mitochondria and chloroplasts. This provides support for the Endosymbiotic Theory, which states that the mitochondria and chloroplast in eukaryotic cells were once aerobic bacteria (prokaryote) that were ingested by a large anaerobic bacteria (prokaryote)."
         },
         {
@@ -110,6 +103,7 @@
             "timeUpper": 10,
             "timeMid": 16,
             "timeLower": 30,
+            "marks": 1,
             "solution": "Since proteins usually appear dark and phospholipids white, the micrographs were interpreted as a phospholipid bilayer sandwiched between two protein layers. The model proposed an explanation for why certain substances were not able to pass through cell membranes, while also accounting for the thinness of membranes."
         },
         {
@@ -120,8 +114,7 @@
             "a4": "It lacks subdivision into separate cells.",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "It lacks subdivision into separate cells."
         },
         {
@@ -132,8 +125,7 @@
             "a4": "Transmembrane proteins",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Transmembrane proteins"
         },
         {
@@ -144,8 +136,7 @@
             "a4": "A bacterium",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 20,
-            "timeLower": 60,
+            "marks": 1,
             "solution": "DNA can be found in three organelles: the nucleus, mitochondrion, and chloroplast. Only eukaryotes have a nucleus"
         },
         {
@@ -156,8 +147,7 @@
             "a4": "The cell will shrink from loss of water.",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The cell will shrink from loss of water because of osmosis"
         },
         {
@@ -170,6 +160,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 50,
+            "marks": 1,
             "solution": "Homologous chromosomes pair up."
         },
         {
@@ -180,8 +171,7 @@
             "a4": "50 µm",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Plasma membrane or cell membrane is the outer covering of all the cells and made up of phospholipid bilayer structure with embedded proteins. The thickness of the plasma membrane ranges from 7.0nm to 10nm"
         },
         {
@@ -192,8 +182,7 @@
             "a4": "They can differentiate into specialized cells.",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "They can differentiate into specialized cells."
         },
         {
@@ -204,8 +193,7 @@
             "a4": "Cell recognition",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Endocytosis"
         },
         {
@@ -216,8 +204,7 @@
             "a4": "By binary fission",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 25,
+            "marks": 1,
             "solution": "Binary fission occur in prokaryotes. Mitosis only occur in eukaryotes. Budding occurs in yeasts, Amoeba, etc. Fragmentation occurs in fungi, jellyfish, starfish, lichens etc. Meiosis only occurs in reproductive cells, as the goal is to create haploid gametes that will be used in fertilization"
         },
         {
@@ -228,8 +215,7 @@
             "a4": "Mitosis",
             "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "in the S phase"
         },
         {
@@ -240,8 +226,7 @@
             "a4": "DNA replication occurs in the G1 phase but not in the G2 phase.",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 20,
-            "timeLower": 60,
+            "marks": 1,
             "solution": "During the G1 phase, the cell shows first growth by copying organelles and making the molecular building blocks which are necessary for later steps. During the G2 phase, the cell shows the second growth by making proteins and organelles and beginning to reorganize its contents in preparation for mitosis."
         }
     ]

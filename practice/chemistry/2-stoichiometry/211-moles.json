@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 3211,
     "title": "Moles and Molar Mass",
     "totalQuCount": 14, 
     "quCountToDisplay": 5,
@@ -9,117 +9,98 @@
             "qu": "A compound has a molar mass of `(60g)/(mol).` If `210g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
             "ans": "3.5",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "By using the conversion factor given, we can convert to moles. `210g*(1mol)/(60g)=3.5mol`"
         },
         {
             "qu": "A compound has a molar mass of `(15g)/(mol).` If `120g` of this compound is obtained, how many moles were obtained? (do not include units in your answer)",
             "ans": "8",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "By using the conversion factor given, we can convert to moles. `120g*(1mol)/(15g)=8mol`"
         },
         {
             "qu": "A compound has a molar mass of `(36g)/(mol).` If `0.5mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
             "ans": "18",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "By using the conversion factor given, we can convert to grams. `0.5mol*(36g)/(1mol)=18g`"
         },
         {
             "qu": "A compound has a molar mass of `(72g)/(mol).` If `0.125mol` of this compound is obtained, how many grams were obtained? (do not include units in your answer)",
             "ans": "9",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "By using the conversion factor given, we can convert to grams. `0.125mol*(72g)/(1mol)=9g`"
         },
-
-
         {
             "qu": "How many moles are in `1.24*10^(24)` atoms?",
             "ans": "2",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "By using Avogadro's number, we can convert between atoms and moles. `1.24*10^(24) * 1mol/(6.02*10^(23) atoms)=2mol"
         },
-
-
-
         {
             "qu": "How many moles are there in 176g of `CO_2`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "4",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `CO_2`, which is around 44g using the periodic table. Then, we can use the conversion factor to convert to moles `176g*(1mol)/(44g)=4mol`"
         },
         {
             "qu": "How many moles are there in 144g of `LiOH`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "6",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `LiOH`, which is around 24g using the periodic table. Then, we can use the conversion factor to convert to moles `144g*(1mol)/(24g)=6mol`"
         },
         {
             "qu": "How many moles are there in 1.6kg of `CaCO_3`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "16",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `CaCO_3`, which is around 100g using the periodic table. Then, we can use the conversion factor to convert to moles `1.6kg*(1000g)/(1kg)*(1mol)/(100g)=16mol`"
         },
         {
             "qu": "How many moles are there in 168g of `NaF`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "4",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `NaF`, which is around 42g using the periodic table. Then, we can use the conversion factor to convert to moles `168g*(1mol)/(42g)=4mol`"
         },
         {
             "qu": "How many moles are there in 310g of `Na_2O`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "5",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `Na_2O`, which is around 62g using the periodic table. Then, we can use the conversion factor to convert to moles `310g*(1mol)/(62g)=4mol`"
         },
         {
             "qu": "How many moles are there in 162g of `H_2O`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "9",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `H_2O`, which is around 18g using the periodic table. Then, we can use the conversion factor to convert to moles `162g*(1mol)/(18g)=9mol`"
         },
         {
             "qu": "How many moles are there in 312g of `CaF_2`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "4",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `CaF_2`, which is around 78g using the periodic table. Then, we can use the conversion factor to convert to moles `312g*(1mol)/(78g)=4mol`"
         },
         {
             "qu": "How many moles are there in 125g of `BeO`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "5",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `BeO`, which is around 25g using the periodic table. Then, we can use the conversion factor to convert to moles `125g*(1mol)/(25g)=5mol`"
         },
         {
             "qu": "How many moles are there in 318g of `Na_2CO_3`? (do not include units in your answer, round your answer to the nearest whole number)",
             "ans": "3",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "First, we need to find the molar mass of `Na_2CO_3`, which is around 106g using the periodic table. Then, we can use the conversion factor to convert to moles `318g*(1mol)/(106g)=3mol`"
         }
 

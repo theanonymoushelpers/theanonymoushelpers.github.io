@@ -74,6 +74,10 @@ var isDone = false;
 //answer key
 var ansValue;
 
+//mark award
+var marksQ;
+var marksTot;
+
 //controls which question is loaded
 var i = 0;
 
@@ -125,9 +129,8 @@ fetch(directQ)
         console.log("Questionbank: " + completedQuestions[n]);
         questionDisplay.textContent = dataQA[i]["qu"]
         ansValue = dataQA[i]["ans"]
+        marksQ = dataQA[i]["marks"]
         speedUpper = dataQA[i]["timeUpper"]
-        speedMidRange = dataQA[i]["timeMid"]
-        speedLower = dataQA[i]["timeLower"]
         solutionText.textContent = dataQA[i]["solution"]
         questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
         titleofQuiz.innerHTML = data["title"]
@@ -172,14 +175,14 @@ function checkAnswer() {
         continueButton.classList.remove('buttonStOr')
         continueButton.classList.add('buttonStGr')
 
-        if (speedTimer < speedLower)
+        if (speedTimer < (speedUpper * 2))
         {
             speedPointsCount +=3;
         }
         else {
         console.log("Not achieved")
         }
-        if (speedTimer < speedMidRange)
+        if (speedTimer < (speedUpper * 1.5))
         {
             speedPointsCount +=3;
         }
@@ -193,7 +196,8 @@ function checkAnswer() {
         else {
             console.log("Not achieved")
             }
-        corr++;
+        corr = corr + marksQ;
+        marksTot = marksTot + marksQ;
         console.log("Speed timer:" + speedTimer);
         console.log("Total speed points:" + speedPointsCount);
         
@@ -210,6 +214,7 @@ function checkAnswer() {
         continueButton.classList.remove('buttonStGr')
         continueButton.classList.add('buttonStOr')
         inco++;
+        marksTot = marksTot + marksQ;
         
     }
 }
@@ -227,8 +232,7 @@ function loadNextQuestion() {
     questionDisplay.textContent = dataQA[i]["qu"]
     ansValue = dataQA[i]["ans"];
     speedUpper = dataQA[i]["timeUpper"]
-    speedMidRange = dataQA[i]["timeMid"]
-    speedLower = dataQA[i]["timeLower"]
+    marksQ = dataQA[i]["marks"]
     solutionText.textContent = dataQA[i]["solution"]
     console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';
@@ -248,7 +252,7 @@ function loadNextQuestion() {
             window.location.href = url;
         }
 
-        redirectPage(Math.round(corr/(dataQuizLength)*100), Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
+        redirectPage(Math.round((corr/marksTot)*100), Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
     }
     
 }

@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 4161,
     "title": "Migration",
     "totalQuCount": 6, 
     "quCountToDisplay": 5,
@@ -12,8 +12,7 @@
             "a4": "Movement of people from one place to another",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Movement of people from one place to another."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "Moving from Langley to Maple Ridge",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "The Rohingya people of Myanmar."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "A significant population decrease",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Better social services."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "A significant population decrease",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Someone who is forced to flee their home due to a genuine fear of death or persecution."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "Canada, Germany, Mali",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "South Korea, France, China."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "China",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "China"
         }
 

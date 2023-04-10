@@ -14,6 +14,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 18,
+            "marks": 1,
             "solution": "A charity is a non-profit organization that provides support for good causes such as environmental protection"
         },
         {
@@ -26,6 +27,7 @@
             "timeUpper": 10,
             "timeMid": 14,
             "timeLower": 18,
+            "marks": 1,
             "solution": "A company (or corporation) is a business that is owned by shareholders"
         },
         {
@@ -38,6 +40,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 15,
+            "marks": 1,
             "solution": "The private sector is the part of the economy that is run by private individuals and businesses instead of the governemnt"
         },
         {
@@ -50,6 +53,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 15,
+            "marks": 1,
             "solution": "The public sector is the part of the economy that is run by the government instead of private individuals and businesses"
         },
         {
@@ -62,6 +66,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 20,
+            "marks": 1,
             "solution": "A sole trader is a self-employed person who runs and controls the business and responsiable for its success or failure"
         },
         {
@@ -74,6 +79,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Cooperatives are for-profit social enterprises that are set up, owned and run by their members who can be employees and/or customers."
         },
         {
@@ -86,6 +92,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Microfiancing is a type of financial service aimed at small business entrepreneurs especially females and low incomes"
         },
         {
@@ -98,6 +105,7 @@
             "timeUpper": 6,
             "timeMid": 8,
             "timeLower": 10,
+            "marks": 1,
             "solution": "A partnership is a type of business in the private sector owned by 2-20 people who share the responsibilities of the business"
         },
         {
@@ -110,6 +118,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "The stock exchange is a marketplace for trading stocks and shares of public limited companies"
         },
         {
@@ -122,6 +131,7 @@
             "timeUpper": 6,
             "timeMid": 8,
             "timeLower": 10,
+            "marks": 1,
             "solution": "Organizations fully owned by the gorvenment are known as state-owned enterprises"
         },
         {
@@ -134,6 +144,7 @@
             "timeUpper": 5,
             "timeMid": 8,
             "timeLower": 10,
+            "marks": 1,
             "solution": "Public limited companies are incorporated businesses that allows the public to buy and sell shares in the company via a stock exchange"
         },
         {
@@ -146,6 +157,7 @@
             "timeUpper": 8,
             "timeMid": 12,
             "timeLower": 15,
+            "marks": 1,
             "solution": "A Public-private partnership occurs when the governenment works together with the private sector"
         },
         {
@@ -158,6 +170,7 @@
             "timeUpper": 6,
             "timeMid": 8,
             "timeLower": 10,
+            "marks": 1,
             "solution": "Social enterprises are revenue-generating business with social objectives at the core of their operations"
         },
         {
@@ -170,6 +183,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Limited Liability is a restriction on the amount of money that owners can lose is their business goes bankrupt"
         },
         {
@@ -182,6 +196,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "A private limited company is a business owned by shareholders with limited liability and shares that cannot be sold or bought by the general public"
         },
         {
@@ -194,6 +209,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Initial Public Offering (IPO) occurs when a business sells all or part of the business to shareholders on the stock market"
         },
         {
@@ -206,6 +222,7 @@
             "timeUpper": 6,
             "timeMid": 8,
             "timeLower": 10,
+            "marks": 1,
             "solution": "A deep of partnership is a legal contract signed by owners of a partnership"
         },
         {
@@ -218,6 +235,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "A non-governmental organizations (NGO) are private sector not-for-profit social enterprises operating for the benefit of others rather than to make profit"
         },
         {
@@ -230,6 +248,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Incorporation means that there is a legal difference between the owners of the company and the business itself"
         },
         {
@@ -242,6 +261,7 @@
             "timeUpper": 8,
             "timeMid": 10,
             "timeLower": 12,
+            "marks": 1,
             "solution": "Unlimited liability is a feature of sole traders and ordinary partnerships who are legally liable for all for all money owed even if it means selling personal possessions to pay for their debts"
         }
 

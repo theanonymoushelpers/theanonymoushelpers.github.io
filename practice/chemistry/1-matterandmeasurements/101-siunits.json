@@ -13,7 +13,8 @@
             "ans": 3,
             "timeUpper": 7,
             "timeMid": 12,
-            "timeLower": 16,
+            "timeLower": 16, 
+            "marks": 1,
             "solution": "1 centimeter = 10 millimeters"
         },
         {
@@ -26,6 +27,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 millimeter = 0.01 decimeters"
         },
         {
@@ -38,6 +40,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 kilometer = 1000 meters (Keyword Kilo = 1000)"
         },
         {
@@ -50,6 +53,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 millimeter = 0.001 meters"
         },
         {
@@ -62,6 +66,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "Degree's Celsius + 273.15 = Kelvin"
         },
         {
@@ -74,6 +79,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "400 Kelvin - 273.15 = 126.85 Celsius"
         },
         {
@@ -86,6 +92,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "-273.15 Celsius + 273.15 = 0 Kelvin"
         },
         {
@@ -98,6 +105,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "Moles are the unit of measurement in sciences, Kelvin and Celsius measures temperature, and Ampere is a unit of electric current"
         },
         {
@@ -110,6 +118,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 kilogram = 1000 grams"
         },
         {
@@ -122,6 +131,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 gram = 0.001 milligrams"
         },
         {
@@ -134,6 +144,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "Kilo = 1000"
         },
         {
@@ -146,6 +157,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "Milli = Thousandth, One thousandth of"
         },
         {
@@ -158,6 +170,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 meter = 100 centimeters "
         },
         {
@@ -170,6 +183,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 Liter = 1000 Milliliters"
         },
         {
@@ -182,6 +196,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 Square Meter = 0.000001 Square Kilometers"
         },
         {
@@ -194,6 +209,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 Joule = 0.001 Kilojoules"
         },
         {
@@ -206,6 +222,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 kilohertz = 1000 hertz"
         },
         {
@@ -218,6 +235,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "0.001 kilograms = 1 gram"
         },
         {
@@ -230,6 +248,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 kilogram = 1000 grams"
         },
         {
@@ -242,6 +261,7 @@
             "timeUpper": 7,
             "timeMid": 12,
             "timeLower": 16,
+            "marks": 1,
             "solution": "1 gram = 0.001 kilograms"
         }
        

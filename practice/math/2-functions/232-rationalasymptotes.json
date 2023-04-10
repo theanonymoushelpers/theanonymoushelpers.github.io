@@ -12,8 +12,7 @@
             "a4": "`y=1`",
             "ans": 4,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=1`." 
         },
         { 
@@ -24,8 +23,7 @@
             "a4": "`y=6`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+        "marks": 1,
             "solution": "The horizontal asymptote is `y=2`." 
         },
          {
@@ -35,8 +33,7 @@
             "a3": "`y=-1`",
             "a4": "There is not horizontal asymptote",
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "This function does not have a horizontal asymptote." 
         },
         {
@@ -47,8 +44,7 @@
             "a4": "There is not horizontal asymptote",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=0`." 
         },
         {
@@ -59,8 +55,7 @@
             "a4": "`y=4`",
             "ans": 4,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=4`." 
         },
         {
@@ -71,8 +66,7 @@
             "a4": "There is no horizontal asymptote",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "This function does not have a horizontal asymptote." 
         },
         {
@@ -83,8 +77,7 @@
             "a4": "`y=5/6`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=5/2`." 
         },
         {
@@ -95,8 +88,7 @@
             "a4": "There is no horizontal asymptote",
             "ans": 4,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "This function does not have a horizontal asymptote." 
         },
         {
@@ -107,8 +99,7 @@
             "a4": "`y=5/2`",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=1/2`." 
         },
         {
@@ -119,8 +110,7 @@
             "a4": "`y=-10`",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The horizontal asymptote is `y=0`." 
         },
 
@@ -134,8 +124,7 @@
             "a4": "`x=1/4`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=-1, 1`." 
         },
         {
@@ -146,8 +135,7 @@
             "a4": "There is no vertical asymptote",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=0`." 
         },
         {
@@ -158,8 +146,7 @@
             "a4": "`x=2/3`",
             "ans": 2,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=-100/3`." 
         },
         {
@@ -170,8 +157,7 @@
             "a4": "`x=sqrt 2, -sqrt 2",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "This function does not have a vertical asymptote." 
         },
         {
@@ -182,8 +168,7 @@
             "a4": "`y=5542`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptotes are `x=-15, 15`." 
         },
         {
@@ -194,8 +179,7 @@
             "a4": "`x=216`",
             "ans": 1,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=-6`." 
         },
         {
@@ -206,8 +190,7 @@
             "a4": "`y=-1, 4`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptotes are `x=-4, 1`." 
         }, 
         {
@@ -218,8 +201,7 @@
             "a4": "There is no vertical asymptote",
             "ans": 4,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "This function does not have a vertical asymptote." 
         },
         {
@@ -230,8 +212,7 @@
             "a4": "`x=1`",
             "ans": 2,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=-17, 17`." 
         },
         {
@@ -242,8 +223,7 @@
             "a4": "`x=-3, -5`",
             "ans": 3,
             "timeUpper": 18,
-            "timeMid": 30,
-            "timeLower": 45,
+            "marks": 1,
             "solution": "The vertical asymptote is `x=-8, -1, 1`." 
         }
     ]

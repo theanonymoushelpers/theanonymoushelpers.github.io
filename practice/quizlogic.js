@@ -80,6 +80,10 @@ var opValue = document.getElementsByName("radio");
 //answer key
 var ansValue;
 
+//how many marks are awarded per question
+var marksQ;
+var marksTot;
+
 //controls which question is loaded
 var i = 0;
 
@@ -135,9 +139,8 @@ fetch(directQ)
         o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
         o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
         ansValue = dataQA[i]["ans"]
+        marksQ = dataQA[i]["marks"]
         speedUpper = dataQA[i]["timeUpper"]
-        speedMidRange = dataQA[i]["timeMid"]
-        speedLower = dataQA[i]["timeLower"]
         solutionText.textContent = dataQA[i]["solution"]
         questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
         titleofQuiz.innerHTML = data["title"]
@@ -185,14 +188,14 @@ function checkAnswer() {
         continueButton.classList.remove('buttonStOr')
         continueButton.classList.add('buttonStGr')
 
-        if (speedTimer < speedLower)
+        if (speedTimer < (speedUpper * 2))
         {
             speedPointsCount +=3;
         }
         else {
         console.log("Not achieved")
         }
-        if (speedTimer < speedMidRange)
+        if (speedTimer < (speedUpper * 1.5))
         {
             speedPointsCount +=3;
         }
@@ -206,7 +209,8 @@ function checkAnswer() {
         else {
             console.log("Not achieved")
             }
-        corr++;
+        corr = corr + marksQ;
+        marksTot = marksTot + marksQ;
         console.log("Speed timer:" + speedTimer);
         console.log("Total speed points:" + speedPointsCount);
         
@@ -222,6 +226,7 @@ function checkAnswer() {
         feedbackText.innerHTML = '&#33; Not quite.';
         continueButton.classList.remove('buttonStGr')
         continueButton.classList.add('buttonStOr')
+        marksTot = marksTot + marksQ;
         inco++;
         
     }
@@ -242,9 +247,8 @@ function loadNextQuestion() {
     o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
     o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
     ansValue = dataQA[i]["ans"];
+    marksQ = dataQA[i]["marks"];
     speedUpper = dataQA[i]["timeUpper"]
-    speedMidRange = dataQA[i]["timeMid"]
-    speedLower = dataQA[i]["timeLower"]
     solutionText.textContent = dataQA[i]["solution"]
     console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';
@@ -264,7 +268,7 @@ function loadNextQuestion() {
             window.location.href = url;
         }
 
-        redirectPage(Math.round(corr/(dataQuizLength)*100), Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
+        redirectPage(Math.round((corr/marksTot)*100), Math.round(speedPointsCount/(dataQuizLength)*10) + "%", subjectQ, identQ, nameQ)
     }
     
 }

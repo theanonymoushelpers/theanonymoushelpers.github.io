@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 5400,
     "title": "History WW2",
     "totalQuCount": 20, 
     "quCountToDisplay": 5,
@@ -10,10 +10,8 @@
             "a2": "France",
             "a3": "Britain",
             "a4": "USSR",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "They attacked Poland first"
         },
         {
@@ -22,10 +20,8 @@
             "a2": "France and USSR",
             "a3": "Poland and Britain",
             "a4": "US and Britain",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Britain and France was the first countries to declare war on Germany"
         },
         {
@@ -34,10 +30,8 @@
             "a2": "Norway",
             "a3": "Estonia",
             "a4": "Poland",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "During the winter war, USSR attacked Finalnd"
         },
         {
@@ -46,10 +40,8 @@
             "a2": "Wilhelm Keitel",
             "a3": "Walter Model",
             "a4": "Franz Halder",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Heinz Guderian was the mastermind behind Germany's excellent use of tanks during the early stages of war."
         },
         {
@@ -58,10 +50,8 @@
             "a2": "France and British",
             "a3": "Italy",
             "a4": "Switzerland",
-            "ans": "",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Germany invaded France through Belgium and Netherland"
         },
         {
@@ -70,10 +60,8 @@
             "a2": "outflanking",
             "a3": "overload",
             "a4": "spearhead",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Blitzkrieg"
         },
         {
@@ -82,10 +70,8 @@
             "a2": "Wilhelm Keitel",
             "a3": "Von Blomberg",
             "a4": "Goring",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "It was made by Erich Von Manstein"
         },
         {
@@ -94,10 +80,8 @@
             "a2": "French lost a major battle",
             "a3": "German forces were defeated in a large naval battle",
             "a4": "The U.K. suffered a huge navy blow",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "The British, French and Belgian forces are retreated from Dunkirk in order to avoid being encircled"
         },
         {
@@ -106,10 +90,8 @@
             "a2": "In a railway car",
             "a3": "Berlin",
             "a4": "On a boat",
-            "ans": "a2",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 2,
+            "timeUpper": 15,
             "solution": "The treaty was signed in the same railway car that Germany surrendered in for WW1"
         },
         {
@@ -118,10 +100,8 @@
             "a2": "First destroy the British navy, then send in ground forces",
             "a3": "First send in ground forces, then attack the country with aircraft",
             "a4": "Immobilize London with poison gas attacks",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "They wanted to first bomb U.K. into submission, the use ground forces"
         },
         {
@@ -130,10 +110,8 @@
             "a2": "British Victory",
             "a3": "no Victory",
             "a4": "stalemate",
-            "ans": "a2",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 2,
+            "timeUpper": 15,
             "solution": "The British was able to fend off the German attacks from the air"
         },
         {
@@ -143,9 +121,7 @@
             "a3": "Operation Barbarossa",
             "a4": "Operation overlord",
             "ans": "a3",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "timeUpper": 15,
             "solution": "It was called Operation Barbarossa"
         },
         {
@@ -154,10 +130,8 @@
             "a2": "Moscow",
             "a3": "Stalingrad",
             "a4": "Minsk",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Leningrad was undersiege for almost 3 years"
         },
         {
@@ -166,10 +140,8 @@
             "a2": "Luxembourg",
             "a3": "Belgium",
             "a4": "Spain",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "The Tank divisons of Germany sliced through the forest to surpise and encircle the French"
         },
         {
@@ -178,10 +150,8 @@
             "a2": "Poland",
             "a3": "Ukraine",
             "a4": "Hungary",
-            "ans": "a2",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 2,
+            "timeUpper": 15,
             "solution": "Poland"
         },
         {
@@ -190,10 +160,8 @@
             "a2": "Easy victory for Germany",
             "a3": "a tank battle",
             "a4": "aerial battle",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "The battle was the deadlist and harshest in terms of conditions and casualities"
         },
         {
@@ -202,10 +170,8 @@
             "a2": "Boris Johnson",
             "a3": "Theresa May",
             "a4": "Lord Halifax",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Winston Churchill was elected to lead Britain"
         },
         {
@@ -214,10 +180,8 @@
             "a2": "Normandy",
             "a3": "Monaco",
             "a4": "Cherbourg",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "The Deippe raid was carried out by Canadain and Polish army."
         },
         {
@@ -226,10 +190,8 @@
             "a2": "RKA",
             "a3": "RAF",
             "a4": "Royal German air force",
-            "ans": "a1",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 1,
+            "timeUpper": 15,
             "solution": "Luftwaffe"
         },
         {
@@ -238,10 +200,8 @@
             "a2": "German Rockets",
             "a3": "Atomic bombs",
             "a4": "German Panzer divisons",
-            "ans": "a2",
-            "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "ans": 2,
+            "timeUpper": 15,
             "solution": "They are the name for German Rockets"
         }
         

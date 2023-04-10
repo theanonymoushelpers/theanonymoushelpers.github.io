@@ -1,0 +1,207 @@
+{
+    "quizID": 3511,
+    "title": "Energy",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Which statement about bonding is correct?",
+            "a1": "Bond breaking is endothermic and requires energy.",
+            "a2": "Bond breaking is endothermic and releases energy.",
+            "a3": "Bond making is exothermic and requires energy.",
+            "a4": "Bond making is endothermic and releases energy.",
+            "ans": 1,
+            "marks": 1,  
+            "solution": "Bond breaking is endothermic and requires energy because it involves breaking the attractive forces holding the atoms in a molecule together. In order to break a bond, energy must be supplied to overcome the attractive forces holding the atoms together. "
+        },
+        {
+            "qu": "How much energy, in joules, is required to increase the temperature of 2.0 g of aluminium from 25 to 30 °C? (Specific heat of Al = 0.90 J g–1 K–1)",
+            "a1": "0.36",
+            "a2": "4.5",
+            "a3": "9.0",
+            "a4": "54",
+            "ans": 3,
+         "marks": 1,
+            "solution": "use q=mcT"
+        },
+        {
+            "qu": "The specific heat of iron is 0.450 J g–1 K–1. What is the energy, in J, needed to increase the temperature of 50.0 g of iron by 20.0 K?",
+            "a1": "9.00",
+            "a2": "22.5",
+            "a3": "45.0",
+            "a4": "450",
+            "ans": 4,
+         "marks": 1,
+            "solution": "use q=mcT"
+        },
+        {
+            "qu": "Which equation represents the average bond enthalpy of the Si−H bond in SiH4?",
+            "a1": "SiH4(g) → SiH3(g)+H(g)",
+            "a2": "1/4SiH4 (g) → 1/4Si(g) + H(g)",
+            "a3": "SiH4(g) → SiH3(g) + 1/2H2(g)",
+            "a4": "SiH4 (g) → Si(g) + 4H(g)",
+            "ans": 2,
+         "marks": 1,
+            "solution": "1/4SiH4 (g) → 1/4Si(g) + H(g)"
+        },
+        {
+            "qu": "Which change of state is exothermic?",
+            "a1": "CO2(s) → CO2(g)",
+            "a2": "H2O(l) → H2O(g)",
+            "a3": "NH3(g) → NH3(l)",
+            "a4": "Fe(s) → Fe(l)",
+            "ans": 3,
+         "marks": 1,
+            "solution": "When a gas condenses into a liquid, the process is exothermic because energy is released. In this case, NH3(g) → NH3(l) involves a decrease in the entropy of the system, as the gas molecules become more ordered in the liquid phase. As a result, energy is released in the form of heat."
+        },
+        {
+            "qu": "In which reaction do the reactants have a lower potential energy than the products? ",
+            "a1": "CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)",
+            "a2": "HBr(g) → H(g) + Br(g) ",
+            "a3": "Na+(g) + Cl-(g) → NaCl(s) ",
+            "a4": "NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)",
+            "ans": 2,
+         "marks": 1,            "solution": "N/A"
+        },
+        {
+            "qu": "In which order does the oxygen–oxygen bond enthalpy increase?",
+            "a1": "H2O2 < O2 < O3",
+            "a2": "H2O2 < O3 < O2",
+            "a3": "O2 < O3 < H2O2",
+            "a4": "O3 < H2O2 < O2",
+            "ans": 2,
+         "marks": 1,
+            "solution": "The oxygen-oxygen bond enthalpy increases as the number of bonds between oxygen atoms increases. In H2O2, there is a single O-O bond, while in O3 there are two O-O bonds, and in O2 there is a double O-O bond. "
+        },
+        {
+            "qu": "Why is the value of the enthalpy change of this reaction calculated from bond enthalpy data less accurate than that calculated from standard enthalpies of formation? 2C2H6(g) + 7O2(g) → 4CO2(g) + 6H2O(g)",
+            "a1": "All the reactants and products are gases.",
+            "a2": "Bond enthalpy data are average values for many compounds.",
+            "a3": "Elements do not have standard enthalpy of formation.",
+            "a4": "Standard enthalpies of formation are per mole.",
+            "ans": 2,
+         "marks": 1,
+            "solution": "Bond enthalpy data are average values obtained from a large number of different compounds, which can vary in their molecular environment, functional groups, and other factors that can affect bond strengths. Therefore, the values obtained from bond enthalpies are not always as accurate as those obtained from standard enthalpies of formation."
+        },
+        {
+            "qu": "What can be deduced from the facts that ozone absorbs UV radiation in the region of 340 nm and molecular oxygen in the region of 242 nm?",
+            "a1": "The bond between atoms in molecular oxygen is a double bond.",
+            "a2": "The bonds in ozone are delocalized.",
+            "a3": "The bonds between atoms in ozone are stronger than those in molecular oxygen.",
+            "a4": "The bonds between atoms in molecular oxygen need more energy to break.",
+            "ans": 4,
+         "marks": 1,
+            "solution": "The bonds between atoms in molecular oxygen need more energy to break."
+        },
+        {
+            "qu": "Which statement is correct?",
+            "a1": "In an exothermic reaction, the products have more energy than the reactants.",
+            "a2": "In an exothermic reversible reaction, the activation energy of the forward reaction is greater than that of the reverse reaction.",
+            "a3": "In an endothermic reaction, the products are more stable than the reactants.",
+            "a4": " In an endothermic reversible reaction, the activation energy of the forward reaction is greater than that of the reverse reaction.",
+            "ans": 4,
+         "marks": 1,
+            "solution": "An exothermic reaction is one that releases heat, resulting in a decrease in the enthalpy of the system. Therefore, option (A) is incorrect, as the products have less energy than the reactants."
+        },
+        {
+            "qu": "The enthalpy change for the reaction between zinc metal and copper(II) sulfate solution is -217 KJ mol-1. Which statement about this reaction is correct?",
+            "a1": "The reaction is endothermic and the temperature of the reaction mixture initially rises.",
+            "a2": "The reaction is endothermic and the temperature of the reaction mixture initially drops.",
+            "a3": "The reaction is exothermic and the temperature of the reaction mixture initially rises.",
+            "a4": "The reaction is exothermic and the temperature of the reaction mixture initially drops.",
+            "ans": 3,
+         "marks": 1,
+            "solution": "The negative enthalpy change (-217 KJ mol-1) indicates that the reaction is exothermic, meaning that heat is released to the surroundings. When heat is released, the temperature of the reaction mixture increases. Therefore, option (3) is correct."
+        },
+        {
+            "qu": "Which ionic compound has the most endothermic lattice enthalpy?",
+            "a1": "Sodium chloride",
+            "a2": "Sodium oxide",
+            "a3": "Magnesium chloride",
+            "a4": "Magnesium oxide",
+            "ans": 4,
+         "marks": 1,
+            "solution": "Lattice enthalpy is the energy required to separate one mole of a solid ionic compound into its gaseous ions. It is a measure of the strength of the ionic bonds in the compound. The magnitude of the lattice enthalpy depends on the charge on the ions and the size of the ions. Smaller ions with higher charges will have stronger ionic bonds and therefore larger lattice enthalpies."
+        },
+        {
+            "qu": "The reaction between methane and oxygen is exothermic. CH4(g) + 2O2(g) -> CO2(g) + 2H2O(g). Which statement is correct?",
+            "a1": "The total bond enthalpies of the reactants are less than the total bond enthalpies of the products.",
+            "a2": "The total bond enthalpies of the reactants are greater than the total bond enthalpies of the products.",
+            "a3": "The total energy released during bond formation is less than the total energy absorbed during bond breaking.",
+            "a4": "The activation energy is the difference between the total bond enthalpies of the products and the total bond enthalpies of the reactants.",
+            "ans": 1,
+         "marks": 1,
+            "solution": "The given chemical equation represents the combustion of methane (CH4) in the presence of oxygen (O2) to form carbon dioxide (CO2) and water (H2O). This reaction is exothermic, which means it releases energy in the form of heat."
+        },
+        {
+            "qu": "Which processes are exothermic? I.Ice melting II.Neutralization III.Combustion",
+            "a1": "I and II only",
+            "a2": "I and III only",
+            "a3": "II and III only",
+            "a4": "I, II and III",
+            "ans": 3,
+         "marks": 1,
+            "solution": "Neutralization + combustion only"
+        },
+        {
+            "qu": "Some water is heated using the heat produced by the combustion of magnesium metal. Which values are needed to calculate the enthalpy change of reaction? I.The mass of magnesium II.The mass of the water III.The change in temperature of the water",
+            "a1": "I and II only",
+            "a2": "I and III only",
+            "a3": "II and III only",
+            "a4": "I, II and III",
+            "ans":4,
+         "marks": 1,
+            "solution": "I, II and III are all needed to calculate the enthalpy change of the reaction. The enthalpy change can be calculated using the formula: Enthalpy change = (mass of water) x (specific heat capacity of water) x (change in temperature of water) / (moles of magnesium) x (enthalpy change per mole of magnesium) To calculate the moles of magnesium, the mass of magnesium needs to be divided by its molar mass. Therefore, all three values - mass of magnesium, mass of water and change in temperature of water - are needed to calculate the enthalpy change of reaction."
+        },
+        {
+            "qu": "Which property makes stem cells suitable for therapeutic use?",
+            "a1": "They can divide by meiosis to form gametes.",
+            "a2": "They contain chemicals that can kill bacteria.",
+            "a3": "Their chromosomes are suitable for gene transfer and cloning.",
+            "a4": "They can differentiate into specialized cells.",
+            "ans": 4,
+         "marks": 1,
+            "solution": "They can differentiate into specialized cells."
+        },
+        {
+            "qu": "The specific heat of iron is 0.450 J g-1 K-1. What is the energy, in J, needed to increase the temperature of 50.0 g of iron by 20.0 K?",
+            "a1": "9.00",
+            "a2": "22.5",
+            "a3": "45.0",
+            "a4": "450",
+            "ans": 4,
+         "marks": 1,
+            "solution": "Use Q = mcΔT"
+        },
+        {
+            "qu": "Which of the following reactions are exothermic? I. CH4 + 2O2 -> CO2 + 2H2O II.NaOH + HCI -> NaCI + H2O III. Br2 -> 2Br ",
+            "a1": "I and II only",
+            "a2": "I and III only",
+            "a3": "II and III only",
+            "a4": "I, II and III",
+            "ans": 1,
+         "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "Which equation represents the electron affinity of calcium?",
+            "a1": "Ca(g) → Ca+(g) + e–",
+            "a2": "Ca(g) → Ca–(g) + e–",
+            "a3": "Ca(g) + e– → Ca–(g)",
+            "a4": "Ca+(g) + e– → Ca(g)",
+            "ans": 3,
+         "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "Which ionic compound has the most endothermic lattice enthalpy?",
+            "a1": "NaCl",
+            "a2": "KCl",
+            "a3": "NaF",
+            "a4": "KF",
+            "ans": 3,
+         "marks": 1,
+            "solution": "N/A"
+        }]
+
+        }

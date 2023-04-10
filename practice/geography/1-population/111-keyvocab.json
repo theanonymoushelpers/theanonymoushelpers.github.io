@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 4111,
     "title": "Key Vocab - Population Unit",
     "totalQuCount": 8, 
     "quCountToDisplay": 5,
@@ -12,8 +12,7 @@
             "a4": "A significant population decrease",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "A bulge or increase in the amount of people in the working population"
         },
         {
@@ -24,8 +23,7 @@
             "a4": "Yang Description Result",
             "ans": 3,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Youthful Dependency Ratio."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "A significant population decrease",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "It describes birth and death rate changes over time."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "Movement of people from one place to another",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Movement of people from one place to another."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "A significant population decrease",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Someone who is forced to flee their home due to a genuine fear of death or persecution."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "One Death Route, found in HICs",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Old Dependancy Ratio, found in HICs."
         },
         {
@@ -84,8 +78,7 @@
             "a4": "Services and businesses for elderly",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Services and businesses for elderly."
         },
         {
@@ -96,8 +89,7 @@
             "a4": "Trained Finance Reductions",
             "ans": 3,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Total Fertility Rate."
         }
 

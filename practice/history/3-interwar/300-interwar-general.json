@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 5300,
     "title": "History Interwar Years",
     "totalQuCount": 20, 
     "quCountToDisplay": 5,
@@ -10,10 +10,9 @@
             "a2": "Germany",
             "a3": "U.S.",
             "a4": "China",
-            "ans": "a3",
+            "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "Due to the massive amount of debt owned by both sides of the war, the U.S. benefited greatly in the economic area."
         },
         {
@@ -22,10 +21,9 @@
             "a2": "Black Death",
             "a3": "COVID-19",
             "a4": "SARS",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The Spanish Flu"
         },
         {
@@ -34,10 +32,9 @@
             "a2": "British Empire",
             "a3": "Belgium",
             "a4": "France",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The U.S. did not "
         },
         {
@@ -46,10 +43,9 @@
             "a2": "U.S.",
             "a3": "Germany",
             "a4": "Britain",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The soviets were the last to join"
         },
         {
@@ -58,10 +54,9 @@
             "a2": "Second Reich",
             "a3": "Weimar republic",
             "a4": "First Reich",
-            "ans": "a3",
+            "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "it is called the Weimar republic since its government was set up in the town of Weimar"
         },
         {
@@ -70,10 +65,9 @@
             "a2": "1921",
             "a3": "1922",
             "a4": "1924",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "1920"
         },
         {
@@ -82,10 +76,9 @@
             "a2": "25",
             "a3": "36",
             "a4": "42",
-            "ans": "a4",
+            "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "42"
         },
         {
@@ -94,10 +87,9 @@
             "a2": "Czech",
             "a3": "Austria",
             "a4": "Serbia",
-            "ans": "a3",
+            "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "Austria"
         },
         {
@@ -106,10 +98,9 @@
             "a2": "1925-1929",
             "a3": "1930-1935",
             "a4": "1936-1939",
-            "ans": "a2",
+            "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "From 1925-1929 Europe was in economic prosperity"
         },
         {
@@ -118,10 +109,9 @@
             "a2": "Stalin",
             "a3": "Lenin",
             "a4": "U.S.A",
-            "ans": "a3",
+            "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "Lenin led the bolshevik revolution against the Russian tsars "
         },
         {
@@ -130,10 +120,9 @@
             "a2": "Depleted oil reserve",
             "a3": "The Spanish Flu",
             "a4": "Arms race",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The day that the stock market crashed on Wall Street marked the beginning of the great depression"
         },
         {
@@ -142,10 +131,9 @@
             "a2": "alcohol",
             "a3": "plane",
             "a4": "smoking",
-            "ans": "a2",
+            "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "during the prohibition, the U.S. government banned alcohol"
         },
         {
@@ -154,10 +142,9 @@
             "a2": "Trudeau",
             "a3": "Harper",
             "a4": "Bennett",
-            "ans": "a4",
+            "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "It was part of Bennett's new deal"
         },
         {
@@ -166,10 +153,9 @@
             "a2": "Justin Trudeau",
             "a3": "Paul Martin",
             "a4": "Pierre Trudeau",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "Mackenzie King was the leader of the Liberal party "
         },
         {
@@ -178,10 +164,9 @@
             "a2": "rain",
             "a3": "snow",
             "a4": "rich soil",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "prolonged drought caused the farmers to be unable to grow anything"
         },
         {
@@ -190,10 +175,9 @@
             "a2": "Toronto",
             "a3": "Ottawa",
             "a4": "Winnipeg",
-            "ans": "a4",
+            "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The Winnipeg General strike happened during 1919"
         },
         {
@@ -202,10 +186,9 @@
             "a2": "Activist",
             "a3": "Feminist",
             "a4": "Idealist",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "They were called suffragists"
         },
 
@@ -215,10 +198,9 @@
             "a2": "Union",
             "a3": "Camp ground",
             "a4": "Camp for war criminals",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "The camp was built to give the unemployed chance to work and be alive"
         },
         {
@@ -227,10 +209,9 @@
             "a2": "Dough",
             "a3": "Crystal",
             "a4": "welfare",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "It was called the pogey"
         },
         {
@@ -239,10 +220,9 @@
             "a2": "Steven Harper",
             "a3": "Boris Johnson",
             "a4": "Mackenzie King",
-            "ans": "a1",
+            "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "R.B.Bennett"
         }
         

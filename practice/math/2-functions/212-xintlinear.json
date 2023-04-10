@@ -6,52 +6,46 @@
     "quCountToDisplay": 4,
     "questionList": [
         {
-            "qu": "What is the x-intercept of `y=x+3`",
+            "qu": "What is the x-intercept of `y=x+3?`",
             "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
+            "timeUpper": 12,
+            "marks": 1,
             "solution": "If we replace `y` with `0`, `x=-3`"
         },
         {
-            "qu": "What is the x-intercept of `y=x+3`",
-            "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
-            "solution": "If we replace `y` with `0`, `x=-3`"
+            "qu": "What is the x-intercept of `y=x+5?`",
+            "ans": "-5",
+            "timeUpper": 12,
+            "marks": 1,
+            "solution": "If we replace `y` with `0`, `x=-5`"
         },
         {
-            "qu": "What is the x-intercept of `y=x+3`",
-            "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
-            "solution": "If we replace `y` with `0`, `x=-3`"
+            "qu": "What is the x-intercept of `y=3x+6?`",
+            "ans": "-2",
+            "timeUpper": 12,
+            "marks": 1,
+            "solution": "If we replace `y` with `0`, `x=-2`"
         },
         {
-            "qu": "What is the x-intercept of `y=x+3`",
-            "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
-            "solution": "If we replace `y` with `0`, `x=-3`"
+            "qu": "What is the x-intercept of `y=2x+8?`",
+            "ans": "-4",
+            "timeUpper": 12,
+            "marks": 1,
+            "solution": "If we replace `y` with `0`, `x=-4`"
         },
         {
-            "qu": "What is the x-intercept of `y=x+3`",
-            "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
-            "solution": "If we replace `y` with `0`, `x=-3`"
+            "qu": "What is the x-intercept of `y=x-7?`",
+            "ans": "7",
+            "timeUpper": 12,
+            "marks": 1,
+            "solution": "If we replace `y` with `0`, `x=7`"
         },
         {
-            "qu": "What is the x-intercept of `y=x+3`",
-            "ans": "-3",
-            "timeUpper": 5,
-            "timeMid": 8,
-            "timeLower": 10,
-            "solution": "If we replace `y` with `0`, `x=-3`"
+            "qu": "What is the x-intercept of `y=x+12?`",
+            "ans": "-12",
+            "timeUpper": 12,
+            "marks": 1,
+            "solution": "If we replace `y` with `0`, `x=-12`"
         }
 
 

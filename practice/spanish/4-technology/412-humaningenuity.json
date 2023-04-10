@@ -1,0 +1,303 @@
+{
+    "quizID": 8412,
+    "title": "Human Ingenuity",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "una fuente de placer",
+            "a1": "to fight against boredom",
+            "a2": "enjoyable leisure activity",
+            "a3": "source of pleasure",
+            "a4": "to encourage laziness",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "source of pleasure"
+        },
+        {
+            "qu": "escapar de la realidad",
+            "a1": "escape from reality",
+            "a2": "lack of mental effort",
+            "a3": "to discover the outside world",
+            "a4": "to stimulate your imagination",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "escape from reality"
+        },
+        {
+            "qu": "la arquitectura",
+            "a1": "Drawing",
+            "a2": "Painting",
+            "a3": "Sculpture",
+            "a4": "Architecture",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Architecture"
+        },
+        {
+            "qu": "la danza moderna",
+            "a1": "Music",
+            "a2": "Literature",
+            "a3": "modern dance",
+            "a4": "Theatre",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "modern dance"
+        },
+        {
+            "qu": "las Bellas Artes",
+            "a1": "operatic art",
+            "a2": "fine arts",
+            "a3": "Storytelling",
+            "a4": "Mime",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "fine arts"
+        },
+        {
+            "qu": "el arte callejero",
+            "a1": "classical art",
+            "a2": "urban art",
+            "a3": "contemporary art",
+            "a4": "street art",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "street art"
+        },
+        {
+            "qu": "apreciar",
+            "a1": "to be part of a genre",
+            "a2": "to appreciate",
+            "a3": "to fund",
+            "a4": "to represent",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to appreciate"
+        },
+        {
+            "qu": "la obra maestra",
+            "a1": "choice of shapes",
+            "a2": "historical context",
+            "a3": "meaning of the work",
+            "a4": "Masterpiece",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Masterpiece"
+        },
+        {
+            "qu": "las referencias culturales",
+            "a1": "cultural references",
+            "a2": "reaction of the audience",
+            "a3": "impact of a work",
+            "a4": "artist's biography",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "cultural references"
+        },
+        {
+            "qu": "pertenecer a un movimiento",
+            "a1": "importance of a work in art history",
+            "a2": "to have a personal style",
+            "a3": "to belong to an artistic movement",
+            "a4": "to identify",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to belong to an artistic movement"
+        },
+        {
+            "qu": "un forma de mirar el mundo",
+            "a1": "unique feeling",
+            "a2": "way of looking at the world",
+            "a3": "to create beauty",
+            "a4": "to strengthen values",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "way of looking at the world"
+        },
+        {
+            "qu": "crear belleza",
+            "a1": "to create beauty",
+            "a2": "to enrich the country's culture",
+            "a3": "to contribute to the cultural heritage",
+            "a4": "to reflect",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to create beauty"
+        },
+        {
+            "qu": "transmitir un mensaje",
+            "a1": "to be the witness of an era",
+            "a2": "to convey a message",
+            "a3": "to provoke",
+            "a4": "to denounce",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to convey a message"
+        },
+        {
+            "qu": "los medios impresos",
+            "a1": "print media",
+            "a2": "sports magazine",
+            "a3": "weekly review",
+            "a4": "radio station",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "print media"
+        },
+        {
+            "qu": "el canal de información",
+            "a1": "special edition",
+            "a2": "TV listings",
+            "a3": "information channel",
+            "a4": "Column",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "information channel"
+        },
+        {
+            "qu": "la grilla de programas",
+            "a1": "TV listings",
+            "a2": "readers' letters",
+            "a3": "Journalist",
+            "a4": "to be broadcast",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "TV listings"
+        },
+        {
+            "qu": "mantenerse actualizado",
+            "a1": "to keep informed",
+            "a2": "to subscribe",
+            "a3": "to browse",
+            "a4": "to write an article",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to keep informed"
+        },
+        {
+            "qu": "hojear",
+            "a1": "to make the front page",
+            "a2": "to skim",
+            "a3": "to be published",
+            "a4": "to flip through",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to flip through"
+        },
+        {
+            "qu": "el cronograma",
+            "a1": "Streaming",
+            "a2": "Podcast",
+            "a3": "Timeline",
+            "a4": "blog post",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Timeline"
+        },
+        {
+            "qu": "volverse viral",
+            "a1": "smart TV",
+            "a2": "to go viral",
+            "a3": "to post a message",
+            "a4": "to check the source of information",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to go viral"
+        },
+        {
+            "qu": "la libertad de expresión",
+            "a1": "Misinformation",
+            "a2": "media bias",
+            "a3": "Propaganda",
+            "a4": "freedom of speech",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "freedom of speech"
+        },
+        {
+            "qu": "la censura",
+            "a1": "Censorship",
+            "a2": "Objectivity",
+            "a3": "Dictatorship",
+            "a4": "Validity",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Censorship"
+        },
+        {
+            "qu": "la herramienta",
+            "a1": "household appliance",
+            "a2": "3D printer",
+            "a3": "Tool",
+            "a4": "electric car",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Tool"
+        },
+        {
+            "qu": "el proveedor de servicio",
+            "a1": "Internet",
+            "a2": "wifi connection",
+            "a3": "service provider",
+            "a4": "web conference",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "service provider"
+        },
+        {
+            "qu": "las compras en línea",
+            "a1": "search engine",
+            "a2": "online shopping",
+            "a3": "e-commerce",
+            "a4": "online learning",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "online shopping"
+        },
+        {
+            "qu": "la estafa",
+            "a1": "Addiction",
+            "a2": "Spam",
+            "a3": "Scam",
+            "a4": "blue light",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Scam"
+        }
+       
+
+
+
+
+
+
+
+    ]
+}
+

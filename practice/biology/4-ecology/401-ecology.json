@@ -1,0 +1,356 @@
+{
+    "quizID": 1401,
+    "title": "Topic 4.1: Ecology Introductory Quiz",
+    "totalQuCount": 30, 
+    "quCountToDisplay": 8,
+    "questionList": [
+        {
+            "qu": "What is ecology?",
+            "a1": "The study of economics",
+            "a2": "The study of relationships between organisms and their environment, including biotic and abiotic factors",
+            "a3": "The complete study of environments and how we can control them",
+            "a4": "How abiotic factors have hindered biotic factors in a community",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "The study of relationships between organisms and their environment, including biotic and abiotic factors"
+        },
+        {
+            "qu": "What is a species?",
+            "a1": "Groups of organisms that can interbreed and produce fertile offspring",
+            "a2": "Animals that are the same size and similar phenotype",
+            "a3": "Similar abiotic creatures",
+            "a4": "A group of organisms that cannot interbreed but are similar",
+            "ans": 1,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Groups of organisms that can interbreed and produce fertile offspring"
+        },
+        {
+            "qu": "Why may species reproduce seperately in isolated populations?",
+            "a1": "Geographical barriers, behavioral differences, or niche partitioning",
+            "a2": "Mountains, human development, and weapons",
+            "a3": "Other organisms, abiotic factors, and unnatural means",
+            "a4": "Invasive species, behavioral differences, time",
+            "ans": 1,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Geographical barriers, behavioral differences, or niche partitioning"
+        },
+        {
+            "qu": "What is a population?",
+            "a1": "A group of multiple species in a biome",
+            "a2": "Canines",
+            "a3": "Members of the same species in the same setting",
+            "a4": "Members of a community in the same timezone",
+            "ans": 3,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Members of the same species in the same setting"
+        },
+        {
+            "qu": "What is an autotrophic organism?",
+            "a1": "An autotroph can make their own complex organic molecules",
+            "a2": "Autotrophs consume themselves",
+            "a3": "Autotrophs consume other autotrophs",
+            "a4": "They consume other organisms",
+            "ans": 1,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "An autotroph can make their own complex organic molecules"
+        },
+        {
+            "qu": "What is a chemoautotroph?",
+            "a1": "They consume radioactive waves",
+            "a2": "Autotrophs with certain capabilities above autotrophs",
+            "a3": "Another name for mixotrophs",
+            "a4": "Chemoautotrophs obtain energy through oxidation of inorganic molecules in their environments",
+            "ans": 4,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Chemoautotrophs obtain energy through oxidation of inorganic molecules in their environments"
+        },
+        {
+            "qu": "What is a heterotroph?",
+            "a1": "Organisms that breed with organisms of the opposite sex",
+            "a2": "Organisms that obtain their compounds through feeding on other organisms",
+            "a3": "Organisms that do not require organic compounds",
+            "a4": "Animals that consume their own organic materials",
+            "ans": 2,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Organisms that obtain their compounds through feeding on other organisms"
+        },
+        {
+            "qu": "What do primary consumers feed on?",
+            "a1": "Primary consumers feed on only autotrophs",
+            "a2": "They feed on meat",
+            "a3": "Primary consumers feed on other animals of their species",
+            "a4": "Are simple animals",
+            "ans": 1,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Primary consumers feed on only autotrophs"
+        },
+        {
+            "qu": "Which groups of heterotrophs consume the dead?",
+            "a1": "Carnivores and herbivores",
+            "a2": "Detritivores and saprotrophs",
+            "a3": "Detrivores and carnivores",
+            "a4": "Herbivores and saprotrophs",
+            "ans": 2,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "Detritivores and saprotrophs"
+        },
+
+        {
+            "qu": "How do saprotrophs obtain organic nutrients?",
+            "a1": "Saprotrophs obtain nutrients through herbivorization",
+            "a2": "Primary sources",
+            "a3": "They scavenge for them",
+            "a4": "External digestion",
+            "ans": 4,
+            "timeUpper": 10,
+"marks": 1,
+            "solution": "External digestion"
+        },
+        {
+            "qu": "Zoophobas morio is an insect. Its larvae feed on bat feces in caves in Guatemala. What type of organism is a Zoophobas morio larva?",
+            "a1": "Autotroph",
+            "a2": "Consumer",
+            "a3": "Detritivore",
+            "a4": "Saprotroph",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "A Zoophobas morio larva is a detritivore, which means it feeds on dead organic matter, such as bat feces. It is not an autotroph, which produces its own food through photosynthesis, nor a consumer, which feeds on living organisms. It is also not a saprotroph, which feeds on decaying organic matter."
+        },
+        {
+            "qu": "Which term best defines a group of populations living and interacting with each other in an area?",
+            "a1": "Ecology",
+            "a2": "Community",
+            "a3": "Species",
+            "a4": "Ecosystem",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Community. In ecology, a community refers to all the living organisms (i.e. populations) of different species that interact with each other in a particular area or habitat."
+        },
+        {
+            "qu": "What is a consequence of a global temperature rise on arctic ecosystems?",
+            "a1": "Decrease in CO2 released from decomposing detritus",
+            "a2": "Increase in the greenhouse effect",
+            "a3": "Decrease in ocean level",
+            "a4": "Increase in pest species",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "Which of the following trophic groups include fungi?",
+            "a1": "Detritivores",
+            "a2": "Autotrophs",
+            "a3": "Saprotrophs",
+            "a4": "Producers",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Fungi are decomposers that obtain nutrients by breaking down dead organic matter, such as leaves, wood, and other plant material. They play an important role in nutrient cycling by releasing nutrients back into the soil, which can then be taken up by plants or other organisms."
+        },
+        {
+            "qu": "What is the mode of nutrition of midge larva?",
+            "a1": "Autotroph",
+            "a2": "Detritivore",
+            "a3": "Heterotroph",
+            "a4": "Saprotroph",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Midge larvae are aquatic insects that feed on a variety of organic matter, including algae, bacteria, and small invertebrates. They are considered to be primary consumers in aquatic food webs, and are an important food source for many larger predators. While they may occasionally feed on detritus, they are primarily predators and thus obtain their nutrients by consuming other organisms."
+        },
+        {
+            "qu": "Which represents a correct food chain from this web?",
+            "a1": "stickleback → midge larva → unicellular algae",
+            "a2": "ciliates → Daphnia → stickleback → dragonfly nymph",
+            "a3": "diatom → midge larva → caddisfly larva → stickleback",
+            "a4": "filamentous algae → mayfly nymph → leech → stickleback",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Diatoms are unicellular algae that form the base of many aquatic food webs. Midge larvae are primary consumers that feed on the diatoms, and caddisfly larvae are secondary consumers that feed on the midge larvae. Sticklebacks are tertiary consumers that feed on the caddisfly larvae."
+        },
+        {
+            "qu": "What limits the length of food chains in an ecosystem?",
+            "a1": "The size of individual organisms",
+            "a2": "Competition between organisms",
+            "a3": "The loss of energy between trophic levels",
+            "a4": "Natural selection",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "What is the classification of an organism that is able to make organic compounds from inorganic nutrients?",
+            "a1": "Autotroph",
+            "a2": "Consumer",
+            "a3": "Detritivore",
+            "a4": "Saprotroph",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Autotrophs are organisms that are able to synthesize their own organic compounds from simple inorganic substances such as carbon dioxide and water, using energy from the sun or other sources. This ability to produce their own food makes autotrophs the basis of most food chains and ecosystems. Examples of autotrophs include green plants, algae, and some bacteria."
+        },
+        {
+            "qu": "How is peat formed?",
+            "a1": "From methanogenic archaeans under anaerobic and acidic conditions in deep sea vents",
+            "a2": "From partially decomposed organic matter under anaerobic and acidic conditions in waterlogged soils",
+            "a3": "From porous limestone under high pressure, aerobic and alkaline conditions in ocean beds",
+            "a4": "From bituminous coal under high pressure, anaerobic and acidic conditions below ground",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Peat is formed from partially decomposed organic matter under anaerobic and acidic conditions in waterlogged soils. "
+        },
+        {
+            "qu": "What contributes to rising atmospheric concentrations of carbon dioxide and increases in average global temperature?",
+            "a1": "An increase in the shorter wavelength radiation emitted by Earth",
+            "a2": "An increase in longer wavelength radiation emitted by Earth",
+            "a3": "An increase in the combustion of fossilized organic matter",
+            "a4": "The depletion of ozone in the stratosphere",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "An increase in the combustion of fossilized organic matter contributes to rising atmospheric concentrations of carbon dioxide and increases in average global temperature."
+        },
+        {
+            "qu": "Euglena is a unicellular organism that feeds on bacteria and uses CO2 as a carbon source. Which describes the nutrition of this organism?",
+            "a1": "Autotrophic only",
+            "a2": "Heterotrophic only",
+            "a3": "Saprotrophic only",
+            "a4": "Autotrophic and heterotrophic",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "is both autotrophic and heterotrophic. Euglena is a unicellular organism that can produce its own food using photosynthesis (autotrophic), but can also feed on bacteria when light is not available (heterotrophic). During photosynthesis, Euglena uses carbon dioxide (CO2) as a carbon source and produces oxygen (O2) as a byproduct. When light is not available, Euglena can switch to heterotrophic mode and obtain its nutrients by feeding on other organisms, such as bacteria. This unique ability to switch between different modes of nutrition allows Euglena to survive in a wide range of environments."
+        },
+        {
+            "qu": "Methanogens produce methane gas. What is this gas converted to in the atmosphere?",
+            "a1": "Carbon dioxide and oxygen",
+            "a2": "Ethanol and carbon dioxide",
+            "a3": "Carbon monoxide and ozone",
+            "a4": "Carbon dioxide and water",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "What is lost between trophic levels in ecosystems and cannot be recycled?",
+            "a1": "Heat",
+            "a2": "Nitrogen",
+            "a3": "Carbon compounds",
+            "a4": "Biomass",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Heat is lost between trophic levels in ecosystems and cannot be recycled."
+        },
+        {
+            "qu": "What favours the production of peat? I. Presence of organic matter II. Anaerobic conditions III. Acidic conditions",
+            "a1": "I and II only",
+            "a2": "I and III only",
+            "a3": "II and III only",
+            "a4": "I, II and III",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "What is the best definition of the greenhouse effect in the Earth’s atmosphere?",
+            "a1": "A naturally occurring effect by which shorter wavelength radiation is trapped",
+            "a2": "A naturally occurring effect by which longer wavelength radiation is trapped",
+            "a3": "An effect of pollution by which shorter wavelength radiation is trapped",
+            "a4": "An effect of pollution by which longer wavelength radiation is trapped",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Best definition: A naturally occurring effect by which longer wavelength radiation is trapped"
+        },
+        {
+            "qu": "Human activity leading to the emission of greenhouse gases may be a cause of global warming. According to the precautionary principle, what should be done about greenhouse gas emission?",
+            "a1": "Analyse historical records from monitoring stations to see the trends in carbon dioxide emissions",
+            "a2": "Obtain more evidence by carrying out research on greenhouse gas emission",
+            "a3": "Take measures to lower greenhouse gas emission without further evidence",
+            "a4": "Develop strategies for coping with higher global temperatures",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "Two populations of the same fish species were fed different diets to investigate the effect of differing nutrition on their growth. What is an appropriate method to determine the significance of a resulting difference?",
+            "a1": "Calculate the mean for each population",
+            "a2": "Calculate the standard deviation for each population",
+            "a3": "Graph the results",
+            "a4": "Perform a t-test",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Performing a t-test is an appropriate method to determine the significance of a resulting difference between two populations of the same fish species that were fed different diets. "
+        },
+        {
+            "qu": "In ecosystems the amount of energy that passes from one trophic level to the next is called the conversion efficiency. What is the average conversion efficiency from primary to secondary consumers in most ecosystems?",
+            "a1": "1 %",
+            "a2": "10 %",
+            "a3": "50 %",
+            "a4": "90 %",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The average conversion efficiency from primary to secondary consumers in most ecosystems is about 10%. Therefore, the correct option is B."
+        },
+        {
+            "qu": "What is an ecosystem?",
+            "a1": "An environment in which an organism normally lives",
+            "a2": "A group of organisms of the same species inhabiting an area",
+            "a3": "A group of populations living and interacting with each other in an area",
+            "a4": "A community and its abiotic environment",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "N/A"
+        },
+        {
+            "qu": "Which group of organisms in the carbon cycle converts carbon into a form that is available to primary consumers?",
+            "a1": "Decomposers",
+            "a2": "Saprotrophs",
+            "a3": "Detritus feeders",
+            "a4": "Producers",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Producers, such as plants, algae, and some bacteria, convert inorganic carbon (usually in the form of carbon dioxide) into organic compounds through photosynthesis. These organic compounds are then consumed by primary consumers, such as herbivores, which pass the carbon up the food chain."
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+

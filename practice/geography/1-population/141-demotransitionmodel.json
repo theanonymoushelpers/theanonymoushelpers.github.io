@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 4141,
     "title": "The Demographic Transition Model",
     "totalQuCount": 11, 
     "quCountToDisplay": 4,
@@ -12,8 +12,7 @@
             "a4": "A significant population decrease",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "It describes birth and death rate changes over time."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "Canada",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Nomadic Tribes."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "Few births, few deaths",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Many births and deaths are caused by poor infrastructure, making it difficult to grow a family with low life expectancies."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "Entire population is wiped",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "The population remains the same, as while there are many births, there are also many deaths."
         },  
         {
@@ -60,8 +56,7 @@
             "a4": "Rapid decline in births",
             "ans": 3,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Less people die due to improving sanitation and healthcare quality."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "Entire population is wiped",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "The population starts to rapidly grow with death rates falling quickly."
         },
         {
@@ -84,8 +78,7 @@
             "a4": "Rapid decline in births",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Births rapidly decline with contraceptives and new family planning methods."
         },
         {
@@ -96,8 +89,7 @@
             "a4": "Entire population is wiped",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "The birth rates still continue to be higher than the death rates, so the population increases."
         },
         {
@@ -108,8 +100,7 @@
             "a4": "Few births, few deaths",
             "ans": 4,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "Few births are caused by improved family planning, while robust healthcare and infrastructure gives long life spans to residents of Stage 4 countries."
         },
         {
@@ -120,8 +111,7 @@
             "a4": "Entire population is wiped",
             "ans": 2,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "The population does not change much, due to low birth and death rates."
         },
         {
@@ -132,8 +122,7 @@
             "a4": "A significant population increase",
             "ans": 1,
             "timeUpper": 15,
-            "timeMid": 23,
-            "timeLower": 30,
+            "marks": 1,
             "solution": "More deaths than births, and a declining population."
         }
 

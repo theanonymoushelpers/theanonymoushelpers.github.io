@@ -12,8 +12,7 @@
             "a4": "Vertical Translation",
             "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "a is multiplied by the rest of the function, therefore affecting the stretch vertically. Confused? Check out our page on transformations for interactive examples."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "Vertical Translation",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "b is multiplied by the rest of the function, therefore affecting the stretch horizontally. Confused? Check out our page on transformations for interactive examples."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "Vertical Translation",
             "ans": 3,
             "timeUpper": 10,
-            "timeMid": 16,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is subtracted from the x value directly, which directly affects the x value of the point, translating it horizontally. Confused? Check out our page on transformations for interactive examples."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "Vertical Translation",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 16,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "d is added onto the rest of the function, directly correlating with the change in the y value, translating it vertically. Confused? Check out our page on transformations for interactive examples."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "4",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 2,
             "solution": "There is a vertical stretch, horizontal translation, and vertical translation present in the function."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "4",
             "ans": 3,
             "timeUpper": 10,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 2,
             "solution": "There is a vertical reflection, horizontal translation, and vertical translation present in the function."
         },
         {
@@ -84,8 +78,7 @@
             "a4": "4",
             "ans": 4,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 32,
+            "marks": 2,
             "solution": "There is a vertical reflection, vertical stretch, horizontal translation, and vertical translation present in the function."
         },
         {
@@ -96,8 +89,7 @@
             "a4": "4",
             "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "There is a vertical reflection and vertical translation present in the function."
         },
         {
@@ -108,8 +100,7 @@
             "a4": "4",
             "ans": 3,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "There is a vertical reflection, horizontal translation, and vertical translation present in the function."
         },
         {
@@ -120,8 +111,7 @@
             "a4": "4",
             "ans": 2,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
+            "marks": 1,
             "solution": "There is a horizontal translation and vertical translation present in the function."
         }
         

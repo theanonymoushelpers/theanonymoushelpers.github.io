@@ -13,8 +13,7 @@
             "a4": "`y=x^2-x-10`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=x^2-6x+5`." 
         },
         {
@@ -25,8 +24,7 @@
             "a4": "`y=3x^2+6x`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=3x^2+6x`." 
         },
          {
@@ -37,8 +35,7 @@
             "a4": "`y=144x^2+240x+100`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=144x^2+240x+91`." 
         },
         {
@@ -61,8 +58,7 @@
             "a4": "`y=x^2+2`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=x^2-6x+17`." 
         },
         {
@@ -73,8 +69,7 @@
             "a4": "`y=4x^2-13x+5`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=2x^2-52x+333`." 
         },
         {
@@ -85,8 +80,7 @@
             "a4": "`y=4x^2-8x+4`",
             "ans": 3,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=4x^2-8x+5`." 
         },
         {
@@ -97,8 +91,7 @@
             "a4": "`y=2x^2+48x+285`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=2x^2+48x+285`." 
         },
         {
@@ -109,8 +102,7 @@
             "a4": "`y=10x^2+200x-1000`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=-10x^2+200x-1010`." 
         },
         {
@@ -121,8 +113,7 @@
             "a4": "`y=-16x^2+8x-16`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The standard form is `y=-x^2+8x-8`." 
         },
 
@@ -136,8 +127,7 @@
             "a4": "`y=(x-2)^2+4`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=-x^2+8x-8`." 
         },
         {
@@ -148,8 +138,7 @@
             "a4": "`y=(x-2)^2-1`",
             "ans": 3,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(x-1)^2`." 
         },
         {
@@ -160,8 +149,7 @@
             "a4": "`y=(x+6)^2-8`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(x+13)^2-17`." 
         },
         {
@@ -172,8 +160,7 @@
             "a4": "`y=(x+4)^2`-4",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(x-7)^2-44`." 
         },
         {
@@ -184,8 +171,7 @@
             "a4": "`y=(x-3)^2+2`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(2x-1)^2-3`." 
         },
         {
@@ -196,8 +182,7 @@
             "a4": "`y=(x+5)(x-4)`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(5x+2)^2-1`." 
         },
         {
@@ -208,8 +193,7 @@
             "a4": "`y=-(x-4)^2`",
             "ans": 2,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(x-4)^2-3`." 
         }, 
         {
@@ -220,8 +204,7 @@
             "a4": "`y=-9(x-1)^2+9`",
             "ans": 4,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=-9(x-1)^2+9`." 
         },
         {
@@ -232,8 +215,7 @@
             "a4": "`y=4(x+5)^2-1`",
             "ans": 3,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "The vertex form is `y=(4x+25)^2-7.25`." 
         },
         {
@@ -244,8 +226,7 @@
             "a4": "`y=(2x+5)^2-5`",
             "ans": 1,
             "timeUpper": 20,
-            "timeMid": 30,
-            "timeLower": 40,
+            "marks": 1,
             "solution": "`y=100x^2-25` is already in vertex form." 
         }
     ]

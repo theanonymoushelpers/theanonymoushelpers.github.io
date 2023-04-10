@@ -1,0 +1,294 @@
+{
+    "quizID": 8411,
+    "title": "Technology vocab",
+    "totalQuCount": 25, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "las redes sociales",
+            "a1": "Network",
+            "a2": "social networks",
+            "a3": "Online",
+            "a4": "Censorship",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "social networks"
+        },
+        {
+            "qu": "los riesgos",
+            "a1": "the risks",
+            "a2": "to chat",
+            "a3": "Forum",
+            "a4": "Dangerous",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "the risks"
+        },
+        {
+            "qu": "el foro",
+            "a1": "Bullying",
+            "a2": "to interact",
+            "a3": "Forum",
+            "a4": "Fraud",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Forum"
+        },
+        {
+            "qu": "celular",
+            "a1": "Phone",
+            "a2": "File",
+            "a3": "Data",
+            "a4": "Package",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Phone"
+        },
+        {
+            "qu": "datos personales",
+            "a1": "fake information",
+            "a2": "Tool",
+            "a3": "Device",
+            "a4": "personal data",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "personal data"
+        },
+        {
+            "qu": "encender",
+            "a1": "Send",
+            "a2": "turn on",
+            "a3": "Receive",
+            "a4": "Message",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "turn on"
+        },
+        {
+            "qu": "la impresora",
+            "a1": "the hardware",
+            "a2": "the software",
+            "a3": "the printer",
+            "a4": "the cable",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "the printer"
+        },
+        {
+            "qu": "la carpeta",
+            "a1": "to save",
+            "a2": "Offline",
+            "a3": "the folder",
+            "a4": "to drag",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "the folder"
+        },
+        {
+            "qu": "adjuntar",
+            "a1": "to attach",
+            "a2": "to delete",
+            "a3": "to upload",
+            "a4": "to share",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to attach"
+        },
+        {
+            "qu": "el correo basura",
+            "a1": "App",
+            "a2": "Camera",
+            "a3": "Screen",
+            "a4": "Spam",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Spam"
+        },
+        {
+            "qu": "adictivo/a",
+            "a1": "Expensive",
+            "a2": "Addictive",
+            "a3": "Essential",
+            "a4": "Interactive",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Addictive"
+        },
+        {
+            "qu": "inalámbrico/a",
+            "a1": "Wireless",
+            "a2": "Portable",
+            "a3": "Practical",
+            "a4": "Convenient",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Wireless"
+        },
+        {
+            "qu": "el buscador",
+            "a1": "mail box",
+            "a2": "Password",
+            "a3": "Bookmark",
+            "a4": "search engine",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "search engine"
+        },
+        {
+            "qu": "el marcador",
+            "a1": "Bookmark",
+            "a2": "Homepage",
+            "a3": "Programming",
+            "a4": "User",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Bookmark"
+        },
+        {
+            "qu": "la portada",
+            "a1": "Virus",
+            "a2": "Homepage",
+            "a3": "cyber attack",
+            "a4": "Scam",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Homepage"
+        },
+        {
+            "qu": "la cuenta",
+            "a1": "Cloud",
+            "a2": "Comment",
+            "a3": "Follower",
+            "a4": "Account",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Account"
+        },
+        {
+            "qu": "la contraseña",
+            "a1": "Password",
+            "a2": "Privacy",
+            "a3": "Notification",
+            "a4": "Post",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Password"
+        },
+        {
+            "qu": "la videollamada",
+            "a1": "Profile",
+            "a2": "Username",
+            "a3": "video call",
+            "a4": "Advertisement",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "video call"
+        },
+        {
+            "qu": "chatear",
+            "a1": "to edit",
+            "a2": "to chat",
+            "a3": "to share",
+            "a4": "to post",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to chat"
+        },
+        {
+            "qu": "tomar fotos",
+            "a1": "to send",
+            "a2": "to tweet",
+            "a3": "to download",
+            "a4": "to take pictures",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "to take pictures"
+        },
+        {
+            "qu": "el historial de navegador",
+            "a1": "browser history",
+            "a2": "Domain",
+            "a3": "Cookie",
+            "a4": "Blog",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "browser history"
+        },
+        {
+            "qu": "el enlace",
+            "a1": "Podcast",
+            "a2": "Link",
+            "a3": "Battery",
+            "a4": "Cable",
+            "ans": 2,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Link"
+        },
+        {
+            "qu": "el fallo",
+            "a1": "Processor",
+            "a2": "Software",
+            "a3": "Bug",
+            "a4": "Network",
+            "ans": 3,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Bug"
+        },
+        {
+            "qu": "la barra de herramientas",
+            "a1": "Toolbar",
+            "a2": "Desktop",
+            "a3": "Database",
+            "a4": "Digital",
+            "ans": 1,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Toolbar"
+        },
+        {
+            "qu": "las bocinas",
+            "a1": "Headphones",
+            "a2": "Microphone",
+            "a3": "Keyboard",
+            "a4": "Speakers",
+            "ans": 4,
+            "timeUpper": 10,
+            "marks": 1,
+            "solution": "Speakers"
+        }
+
+    
+        
+
+
+
+
+
+
+
+    ]
+}
+

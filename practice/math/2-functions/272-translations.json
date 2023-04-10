@@ -12,8 +12,7 @@
             "a4": "(c,d)",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "C represents horizontal translation, and D represents vertical translation."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "(-2,-3)",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -2, and d is equal to -3, therefore the vector (-2,-3) represents the translation."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "(-4,-8)",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to 4, and d is equal to -8, therefore the vector (4,-8) represents the translation."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "(-3,-7)",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "(-3,-7)",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "(-3,-7)",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -3, and d is equal to 7, therefore the vector (-3,7) represents the translation."
         },
         {
@@ -84,8 +78,7 @@
             "a4": "(-4,4)",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -2, and d is equal to 4, therefore the vector (-2,4) represents the translation."
         },
         {
@@ -96,8 +89,7 @@
             "a4": "(-3,2)",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to 3, and d is equal to 2, therefore the vector (3,2) represents the translation."
         },
         {
@@ -108,8 +100,7 @@
             "a4": "(-1,-3)",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -1, and d is equal to -3, therefore the vector (-1,-3) represents the translation."
         },
         {
@@ -120,8 +111,7 @@
             "a4": "(-6,7)",
             "ans": 1,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to 7, and d is equal to 6, therefore the vector (7,6) represents the translation."
         },
         {
@@ -132,8 +122,7 @@
             "a4": "(-3,-5)",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -5, and d is equal to -3, therefore the vector (-5,-3) represents the translation."
         },
         {
@@ -144,8 +133,7 @@
             "a4": "(-2,-2)",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "c is equal to -2, and d is equal to 2, therefore the vector (-2,2) represents the translation."
         },
         {
@@ -156,8 +144,7 @@
             "a4": "y=f(x+3)-4",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The function must have `c=3`, and `d=4`, in the form `af(b(x-c)+d`. a and b do not affect the translation, so you can ignore this."
         },
         {
@@ -168,8 +155,7 @@
             "a4": "y=2f(x+3)-4",
             "ans": 1,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "The function must have `c=2`, and `d=-4`, in the form `af(b(x-c)+d`. a and b do not affect the translation, so you can ignore this.."
         }
 

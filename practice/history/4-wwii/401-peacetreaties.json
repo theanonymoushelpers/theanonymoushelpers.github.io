@@ -1,0 +1,233 @@
+{
+    "quizID": 5401,
+    "title": "Facts about 5 peace treaties",
+    "totalQuCount": 20, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "Which country was the first to ask for a treaty after World War I?",
+            "a1": "Austria",
+            "a2": "Germany",
+            "a3": "Bulgaria",
+            "a4": "Turkey",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Bulgaria was the first, they asked in 1918"
+        },
+        {
+            "qu": "Which treaty was delayed because of 3 wars and revolutions",
+            "a1": "treaty of Trianon",
+            "a2": "treaty of Severs",
+            "a3": "treaty of Neuilly",
+            "a4": "treaty of St Germain",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "treaty of Trianon, was delayed"
+        },
+        {
+            "qu": "Which region did Germany give to France?",
+            "a1": "Saarland",
+            "a2": "Alsace-Lorraine",
+            "a3": "Ruhr",
+            "a4": "Hamburg",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Alsave Lorraine was returned in the treaty of Versailles."
+        },
+        {
+            "qu": "In which country stormed out of the treaty conference?",
+            "a1": "Italy",
+            "a2": "France",
+            "a3": "USA",
+            "a4": "Canada",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The Italian delegates stormed out."
+        },
+        {
+            "qu": "Which nation, once part of the Austro-Hungarian empire, declared its independence in November 1918?",
+            "a1": "Poland",
+            "a2": "Czechoslovakia",
+            "a3": "Romania",
+            "a4": "Belgium",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Czechoslovakia"
+        },{
+            "qu": "Once large and powerful, which nation was reduced in size by the 1919 treaty to just 84,000 square kilometres and six million people?",
+            "a1": "Germany",
+            "a2": "Austria",
+            "a3": "Russia",
+            "a4": "Ottoman",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Austria"
+        },
+        {
+            "qu": "In January 1919 a communist revolution led by a group called the Spartacists was defeated in which capital city?",
+            "a1": "Rome",
+            "a2": "Vienna",
+            "a3": "Moscow",
+            "a4": "Berlin",
+            "ans": 4,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Berlin"
+        },
+        {
+            "qu": "Opposition from which body prevented the United States from ratifying and joining the League of Nations?",
+            "a1": "The senate",
+            "a2": "Congress",
+            "a3": "Parliment",
+            "a4": "CIA",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The senate vetoed the bill to join."
+        },
+        {
+            "qu": "A source of contention and controversy, Article 231 of the Treaty of Versailles was concerned with which issue?",
+            "a1": "War guilt",
+            "a2": "Reparation",
+            "a3": "Colonies",
+            "a4": "War crimes",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "War guilt"
+        },
+        {
+            "qu": "What did the Germans do at Scapa Flow in June 1919?",
+            "a1": "Intentionally scuttled 52 of their ships",
+            "a2": "hand over their navy",
+            "a3": "Destory the british navy",
+            "a4": "deploy mines",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The Germans sank all of their ships. "
+        },
+        {
+            "qu": "Signed in September 1919, the Treaty of Saint Germain-en-Laye was mainly concerned with the dissolution of what?",
+            "a1": "The Austria",
+            "a2": "Germany Navy",
+            "a3": "Germany army",
+            "a4": "Ottoman empire",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Austria"
+        },
+        {
+            "qu": "Who was the author of All Quiet on the Western Front, an anti-war book released a decade after the end of World War I?",
+            "a1": "George Orwell",
+            "a2": "Bertrand Russell",
+            "a3": "Erich Remarque",
+            "a4": "Charles Sickens",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Erich Remarque"
+        },
+        {
+            "qu": "April 25th, the date of the ill fated Gallipoli landings, became a national day of remembrance in which country?",
+            "a1": "Canada",
+            "a2": "Germany",
+            "a3": "USA",
+            "a4": "Australia",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Dogfight is the option"
+        },
+        {
+            "qu": "Which country had a Bolshevik Coup",
+            "a1": "Austria",
+            "a2": "Germany",
+            "a3": "USA",
+            "a4": "Belgium",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Austria"
+        },
+        {
+            "qu": "Which countries' delegate broke the pen after signing a treaty?",
+            "a1": "Hungary",
+            "a2": "Bulgaria",
+            "a3": "Germany",
+            "a4": "Australia",
+            "ans": 2,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Bulgaria"
+        },
+        {
+            "qu": "Which treaty was never ratified?",
+            "a1": "Severs",
+            "a2": "Trianon",
+            "a3": "Neuilly",
+            "a4": "Versailles",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The treaty of Severs"
+        },
+        {
+            "qu": "Tanks, Submarines, aircraft, poison gas, and large warships were forbidden in which country",
+            "a1": "Germany",
+            "a2": "Austria",
+            "a3": "USA",
+            "a4": "Turkey",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The treaty of Versailles"
+        },
+        {
+            "qu": "which treaty was seen as a “Stab in the back”?",
+            "a1": "Severs",
+            "a2": "Neuilly",
+            "a3": "Versailles",
+            "a4": "St Germain",
+            "ans": 3,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "The treaty of Versailles"
+        },
+        {
+            "qu": "Which treaty was Often called the most controversial treaty?",
+            "a1": "treaty of Trianon",
+            "a2": "treaty of Severs",
+            "a3": "treaty of Versailles",
+            "a4": "treaty of St Germain",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "treaty of Trianon"
+        },
+        {
+            "qu": "Which country did the Allies supplied an emergency loan to stop a Bolshevik revolution ?",
+            "a1": "Austria",
+            "a2": "USA",
+            "a3": "Canada",
+            "a4": "Britain",
+            "ans": 1,
+            "timeUpper": 15,
+            "marks": 1,
+            "solution": "Austria"
+        }
+
+
+
+
+
+    ]
+}
+

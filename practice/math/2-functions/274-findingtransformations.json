@@ -12,8 +12,7 @@
             "a4": "Horizontal Translation",
             "ans": 1,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `a=1`, there is no vertical stretch."
         },
         {
@@ -24,8 +23,7 @@
             "a4": "Horizontal Translation",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `b=1`, there is no horizontal stretch."
         },
         {
@@ -36,8 +34,7 @@
             "a4": "Horizontal Translation",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `c=0`, there is no horizontal translation."
         },
         {
@@ -48,8 +45,7 @@
             "a4": "Horizontal Translation",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `d=0`, there is no vertical translation."
         },
         {
@@ -60,8 +56,7 @@
             "a4": "Horizontal Translation",
             "ans": 1,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `a=1`, there is no vertical stretch."
         },
         {
@@ -72,8 +67,7 @@
             "a4": "Horizontal Translation",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `b=1`, there is no horizontal stretch."
         },
         {
@@ -84,8 +78,7 @@
             "a4": "Horizontal Translation",
             "ans": 4,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `c=0`, there is no horizontal translation."
         },
         {
@@ -96,8 +89,7 @@
             "a4": "Horizontal Translation",
             "ans": 3,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "This transformation is in the form `af(b(x-c)+d`. Since `d=0`, there is no vertical translation."
         },
         {
@@ -108,8 +100,7 @@
             "a4": "6",
             "ans": 2,
             "timeUpper": 16,
-            "timeMid": 24,
-            "timeLower": 32,
+            "marks": 1,
             "solution": "As `a` represents the vertical stretch, and `a=2`, the vertical stretch is by a factor of 2."
         }
 

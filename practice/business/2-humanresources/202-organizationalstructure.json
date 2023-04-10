@@ -14,6 +14,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 25,
+            "marks": 1,
             "solution": "SPAN OF CONTROL:the number of subordinates overseen by a manager.."
         },
         { 
@@ -26,6 +27,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "LINE MANAGERS: the person whos is directly above an employee in the organizational structure."
     },
     {
@@ -38,6 +40,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "TALL ORGANIZATIONAL STRUCTURE: has many layers in the hierarchy (which means managers have a narrow span of control) "
     },
     {
@@ -50,6 +53,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "DECENTRALIZATION: occurs when the responsibility of decision making is spread out amongst others in the organization. "
     },
     {
@@ -62,6 +66,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "CENTRALIZED STRUCTURE: is when the responsibility of decision making is spread out amonst a small group of people (most likely a senior management team)"
     },
     {
@@ -74,6 +79,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "PERIPHERAL WORKERS : contingent workers consisting of part-time and temporary staff hired by the organization."
     },
     {
@@ -86,6 +92,7 @@
         "timeUpper": 15,
         "timeMid": 20,
         "timeLower": 30,
+        "marks": 1,
         "solution": "MATRIX STRUCUTURE: Flexible organization of representatives from different department within the organization temporarily working together on a particular project. "
     },
     {
@@ -98,6 +105,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "CHAIN OF COMMAND: refers to the formal chain of authority, shown in an organization chart through which formal orders are passed through."
     },
     {
@@ -110,6 +118,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "3 parts : a good way to remember is that a shamrock is basically just a 3 leaf clover. The three parts consist of - Peripheral workers, Consultants, and outsourced staff/contractors."
     },
     {
@@ -122,6 +131,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "PROJECT BASED ORGANIZATION: Human resources are organized around particular projects "
     },
     {
@@ -134,6 +144,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "If a company organizes their structure by product they most likely have a broad variety of products and feel the need to organize it by product."
     },
     {
@@ -146,6 +157,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower":25,
+        "marks": 1,
         "solution": "ORGANIZATIONAL STRUCTURE BY FINANCE : organized by the four main business functions - HR, Finance, Production, and Marketing"
     },
     {
@@ -158,6 +170,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "Allows business to target the local community and consider cultural differences"
     },
     {
@@ -170,6 +183,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "False because a tall hierarchical means that managers have a narrower span of control"
     },
     {
@@ -182,6 +196,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "True because a flat hierarchical structure means that managers have a wider span of control"
     },
     {
@@ -194,6 +209,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "False because a centralized structure means that decision making is done by a small number of people "
     },
     {
@@ -206,6 +222,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "False because a centralized structure means that decision making is done by a large number of people "
     },
     {
@@ -218,6 +235,7 @@
         "timeUpper": 10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "BUREAUCRACY: The execution of tasks that are governed by official administrative and formal rules of an organizaiton  "
     },
     {
@@ -230,6 +248,7 @@
         "timeUpper":10,
         "timeMid": 15,
         "timeLower": 25,
+        "marks": 1,
         "solution": "paternal leadership is not apart of bureaucracy as it involves treating your staff like family and guidinng like one."
     },
         {
@@ -242,6 +261,7 @@
             "timeUpper": 10,
             "timeMid": 15,
             "timeLower": 25,
+            "marks": 1,
             "solution": "DELAYERING - when a business removes on or more levels in the hierarchy to flatten the organizational structure. "
         }
 

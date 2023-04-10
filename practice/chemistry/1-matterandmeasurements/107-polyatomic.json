@@ -14,6 +14,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`CO_3` is carbonate."
         },
         {
@@ -26,6 +27,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`Cr_2O_7` is dichromate."
         },
         {
@@ -38,6 +40,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`NH_4` is ammonium."
         },
         {
@@ -50,6 +53,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`CrO_4` is chromate."
         },
         {
@@ -62,6 +66,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`PO_3` is phosphite."
         },
         {
@@ -74,6 +79,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`PO_4` is phosphate."
         },
         {
@@ -86,6 +92,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`NO_2` is nitrite."
         },
         {
@@ -98,6 +105,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`NO_3` is nitrate."
         },
         {
@@ -110,6 +118,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`SO_3` is sulfite."
         },
         {
@@ -122,6 +131,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`SO_4` is sulfate."
         },
         {
@@ -134,6 +144,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`OH` is hydroxide."
         },
         {
@@ -146,6 +157,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`C_2O_4` is oxalate."
         },
         {
@@ -158,6 +170,7 @@
             "timeUpper": 8,
             "timeMid": 11,
             "timeLower": 15,
+            "marks": 1,
             "solution": "`MnO_4` is permanganate."
         },
         {
@@ -170,6 +183,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`CO_3` has a charge of `2-`."
     },
     {
@@ -182,6 +196,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`Cr_2O_7` has a charge of `2-`."
     },
     {
@@ -194,6 +209,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`NH_4` has a charge of `1+`."
     },
     {
@@ -206,6 +222,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`CrO_4` has a charge of `2-`."
     },
     {
@@ -218,6 +235,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`PO_3` has a charge of `3-`."
     },
     {
@@ -230,6 +248,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`PO_4` has a charge of `3-`."
     },
     {
@@ -242,6 +261,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`NO_2` has a charge of `1-`."
     },
     {
@@ -254,6 +274,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`NO_3` has a charge of `1-`."
     },
     {
@@ -266,6 +287,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`SO_3` has a charge of `2-`."
     },
     {
@@ -278,6 +300,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`SO_4` has a charge of `2-`."
     },
     {
@@ -290,6 +313,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`OH` has a charge of `1-`."
     },
     {
@@ -302,6 +326,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`C_2O_4` has a charge of `2-`."
     },
     {
@@ -314,6 +339,7 @@
         "timeUpper": 8,
         "timeMid": 11,
         "timeLower": 15,
+        "marks": 1,
         "solution": "`MnO_4` has a charge of `1-`."
     }
 

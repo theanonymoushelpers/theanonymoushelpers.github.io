@@ -1,20 +1,19 @@
 {
-    "quizID": 1000,
+    "quizID": 7211,
     "title": "Mechanics",
     "totalQuCount": 15, 
     "quCountToDisplay": 5,
     "questionList": [
         {
-            "qu": "Which are conserved",
+            "qu": "Which are always conserved?",
             "a1": "Kinetic energy and momentum",
             "a2": "Acceleration and displacement",
             "a3": "Total energy and momentum",
             "a4": "momentum and acceleration",
             "ans": 1,
             "timeUpper": 2,
-            "timeMid": 5,
-            "timeLower": 10,
-            "solution": "Total energy and momentum"
+            "marks": 1,
+            "solution": 3
         },
         {
             "qu": "Object A and B collide each other. Then end up joined together and stationary. There's a force +F is exerted on object A by B. According to Newton's third law, there will be a force",
@@ -24,9 +23,8 @@
             "a4": "+F acting on object A",
             "ans": 1,
             "timeUpper": 2,
-            "timeMid": 5,
-            "timeLower": 10,
-            "solution": "-F acting on object B"
+            "marks": 1,
+            "solution": 1
         },
         {
             "qu": "A car travelling at a constant velocity of 10m/s for 10 minutes, what is the acceleration?",
@@ -36,9 +34,8 @@
             "a4": "3",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 15,
-            "timeLower": 20,
-            "solution": "0" 
+           "marks": 1,
+            "solution": 1
         },
         {
             "qu": "Two balls with different mass are dropped from a high building one after the other, the distance between the balls",
@@ -48,9 +45,8 @@
             "a4": "increases with time",
             "ans": 1,
             "timeUpper": 8,
-            "timeMid": 10,
-            "timeLower": 15,
-            "solution": "increases with time"
+           "marks": 1,
+            "solution": 4
         },
         {
             "qu": "What's Newton's second law about",
@@ -60,9 +56,8 @@
             "a4": "Fg=mg",
             "ans": 1,
             "timeUpper": 5,
-            "timeMid": 10,
-            "timeLower": 15,
-            "solution": "`Fnet=ma`"
+           "marks": 1,
+            "solution": 2
         },
         {
             "qu": "An object is projected vertically upward at t=0, the object passes the same point above it's starting position at t=2s & t=8s. If air resistance is neligible and g=10m/s^2, what's the initial speed of the object?",
@@ -72,9 +67,8 @@
             "a4": "4",
             "ans": 1,
             "timeUpper": 60,
-            "timeMid": 90,
-            "timeLower": 120,
-            "solution": "50"
+           "marks": 1,
+            "solution": 1
         },
         {
             "qu": "What the approximate number of gravitational constant g?",
@@ -84,9 +78,7 @@
             "a4": "11",
             "ans": 1,
             "timeUpper": 5,
-            "timeMid": 7,
-            "timeLower": 10,
-            "solution": "9.81"
+           "marks": 1,          "solution": 3
         },
         {
             "qu": "In the projectile motion, what is the velocity in y-axis when the object reachs it's maxium height?",
@@ -96,9 +88,8 @@
             "a4": "always depends on the angle",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 18,
-            "timeLower": 25,
-            "solution": "always = 0"
+           "marks": 1,
+            "solution": 3
         },
         {
             "qu": "What's total force of an object travelling at a constant velocity",
@@ -108,9 +99,8 @@
             "a4": "always depends on the friction force",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 18,
-            "timeLower": 25,
-            "solution": "always = 0"
+           "marks": 1,
+            "solution": 3
         },
         {
             "qu": "What is the existing force of an object when it's free-falling?",
@@ -120,9 +110,8 @@
             "a4": "FF",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 18,
-            "timeLower": 25,
-            "solution": "Fg"
+           "marks": 1,
+            "solution": 3
         },
         {
             "qu": "What does acceleration equal?",
@@ -132,9 +121,8 @@
             "a4": "time",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 18,
-            "timeLower": 25,
-            "solution": "(change in velocity)/(change in time)"
+           "marks": 1,
+            "solution": 1
         },
         {
             "qu": "An object, initially at rest, travels a distance d in a time t at a constant acceleration. What is the time taken for the object to travel 16d from the rest at the same acceleration",
@@ -144,9 +132,8 @@
             "a4": "2t",
             "ans": 1,
             "timeUpper": 60,
-            "timeMid": 90,
-            "timeLower": 120,
-            "solution": "4t"
+           "marks": 1,
+            "solution": 3
         },
         {
             "qu": "A force which increases uniformly from 0 to a maximum value of F is applied to an object. The object does not move until the force exceeds 0.5 F. As the force increases from 0.5 F to F the object moves a distance x in the direction of the force. What is the work done by this force?",
@@ -156,9 +143,8 @@
             "a4": "Fx",
             "ans": 1,
             "timeUpper": 60,
-            "timeMid": 90,
-            "timeLower": 120,
-            "solution": "0.75Fx"
+           "marks": 1,
+            "solution": 3
         },
         {
             "qu": "Which of the following is the condition for a body to be in translational equilibrium?",
@@ -168,9 +154,8 @@
             "a4": "No work is done on the body",
             "ans": 1,
             "timeUpper": 10,
-            "timeMid": 18,
-            "timeLower": 25,
-            "solution": "The resultant force on the body in any direction is zero"
+           "marks": 1,
+            "solution": 1
         },
         {
             "qu": "A ball is tossed vertically upwards with a speed of 5.0 m/s . After how many seconds will the ball return to its initial position?",
@@ -180,9 +165,8 @@
             "a4": "2.0s",
             "ans": 1,
             "timeUpper": 45,
-            "timeMid": 60,
-            "timeLower": 89,
-            "solution": "1.0s"
+           "marks": 1,
+            "solution": 2
         }
     ]
 }

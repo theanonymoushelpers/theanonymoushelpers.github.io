@@ -1,5 +1,5 @@
 {
-    "quizID": 1000,
+    "quizID": 8110,
     "title": "Christmas Vocab",
     "totalQuCount": 25, 
     "quCountToDisplay": 8,
@@ -11,9 +11,8 @@
             "a3": "December",
             "a4": "Winter",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Christmas"
         },
         {
@@ -23,9 +22,8 @@
             "a3": "Candle",
             "a4": "Christmas Eve",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Christmas Eve"
         },
         {
@@ -35,9 +33,8 @@
             "a3": "Candle",
             "a4": "Ornament",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Candle"
         },
         {
@@ -47,9 +44,8 @@
             "a3": "Candy cane",
             "a4": "Christmas tree",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Candy cane"
         },
         {
@@ -59,9 +55,8 @@
             "a3": "Sleigh",
             "a4": "Gingerbread man",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Christmas card"
         },
         {
@@ -71,9 +66,8 @@
             "a3": "Snowman",
             "a4": "Christmas carol",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Christmas carol"
         },
         {
@@ -83,9 +77,8 @@
             "a3": "Stuffed animal",
             "a4": "Wreath",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Ornament"
         },
         {
@@ -95,9 +88,8 @@
             "a3": "Sleigh",
             "a4": "Winter",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Sleigh"
         },
         {
@@ -107,9 +99,8 @@
             "a3": "Soup",
             "a4": "Nougat",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Snow"
         },
         {
@@ -119,9 +110,8 @@
             "a3": "Seafood",
             "a4": "Toy",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Toy"
         },
         {
@@ -131,9 +121,8 @@
             "a3": "Wreath",
             "a4": "Winter",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Wreath"
         },
         {
@@ -143,9 +132,8 @@
             "a3": "Stocking",
             "a4": "Garland",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Star"
         },
         {
@@ -155,9 +143,8 @@
             "a3": "Christmas lights",
             "a4": "Elf",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Tinsel"
         },
         {
@@ -167,9 +154,8 @@
             "a3": "Elf",
             "a4": "Reindeer",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Elf"
         },
         {
@@ -179,9 +165,8 @@
             "a3": "Chestnuts",
             "a4": "Gingerbread man",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Gingerbread man"
         },
         {
@@ -191,9 +176,8 @@
             "a3": "Cider",
             "a4": "Cookies",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Reindeer"
         },
         {
@@ -203,9 +187,8 @@
             "a3": "Hot chocolate",
             "a4": "Cider",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Cider"
         },
         {
@@ -215,9 +198,8 @@
             "a3": "Bells",
             "a4": "Chimney",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Bells"
         },
         {
@@ -227,9 +209,8 @@
             "a3": "Countdown",
             "a4": "New Year",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Holly"
         },
         {
@@ -239,9 +220,8 @@
             "a3": "Gifts",
             "a4": "Holly",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Fireworks"
         },
         {
@@ -251,9 +231,8 @@
             "a3": "the Three Wise Men",
             "a4": "Silent Night",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Ribbon"
         },
         {
@@ -263,9 +242,8 @@
             "a3": "To wish",
             "a4": "To decorate",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "To wish"
         },
         {
@@ -275,9 +253,8 @@
             "a3": "Joseph",
             "a4": "Snowman",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Santa Claus"
         },
         {
@@ -287,9 +264,8 @@
             "a3": "Donkey",
             "a4": "Jerusalem",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Donkey"
         },
         {
@@ -299,9 +275,8 @@
             "a3": "Shepherds",
             "a4": "Sleigh bell",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 10,
-            "timeLower": 12,
+            "timeUpper": 15,
+            "marks": 1,
             "solution": "Midnight Mass"
         }
 
