@@ -56,9 +56,6 @@ var solutionText = document.getElementById("sol-text")
 var titleofQuiz = document.getElementById("quizTitle") 
 
 //speedscore variable
-var speedUpper;
-var speedMidRange;
-var speedLower;
 var speedTimer = 0;
 var speedPointsCount = 0;
 
@@ -79,7 +76,7 @@ var ansValue;
 
 //mark award
 var marksQ;
-var marksTot;
+var marksTot = 0;
 
 //controls which question is loaded
 var i = 0;
@@ -95,7 +92,7 @@ var checkIfNew = false;
 function randomQ() {
     while (checkIfNew === false) {
     i = Math.floor(Math.random() * (dataTotalQuestions-1));
-    console.log("i is: " + i);
+
          for (let numCheck = 0; numCheck < completedQuestions.length; numCheck++) {
             if (i === completedQuestions[numCheck]) {
             checkIfNew = false;
@@ -120,25 +117,22 @@ fetch(directQ)
     .then(response => response.json())
     .then(data => {
         quizID = data["quizID"]
-        console.log(quizID)
+
         dataQA = data["questionList"]
         dataTotalQuestions = data["totalQuCount"]
         dataQuizLength = data["quCountToDisplay"]
         //console log validates data is loading correctly for debugging.
-        console.log(data)
-        console.log(data.quizID)
+
         i = Math.floor(Math.random() * (dataTotalQuestions-1));
         completedQuestions[n] = i;
-        console.log("Questionbank: " + completedQuestions[n]);
+
         questionDisplay.textContent = dataQA[i]["qu"]
         markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
         ansValue = dataQA[i]["ans"]
         marksQ = dataQA[i]["marks"]
-        speedUpper = dataQA[i]["timeUpper"]
         solutionText.textContent = dataQA[i]["solution"]
         questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
         titleofQuiz.innerHTML = data["title"]
-        console.log("Speed Upper Req:" + speedUpper)
        } )
 
 
@@ -148,7 +142,7 @@ fetch(directQ)
 checkButton.addEventListener('click', checkAnswer);
 continueButton.addEventListener('click', loadNextQuestion);
 
-setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
+setInterval(function() {speedTimer += 1;}, 1000);
 
 
 function checkAnswer() {       
@@ -158,7 +152,7 @@ function checkAnswer() {
     continueDiv.style.visibility = 'visible';
     solutionDiv.style.visibility = 'visible';
     clearInterval();
-    console.log(speedTimer);
+
 
     userAnswer = document.getElementById("userAnswer").value;
 
@@ -166,10 +160,7 @@ function checkAnswer() {
     ansValueLC = ansValue.toLowerCase();
     
     if (userAnswerLC == ansValueLC) {
-        console.log("correct")
-        console.log("correct answer: " + ansValue)
-        console.log("Typed answer: " + userAnswer)
-        console.log("Speed Upper Req:" + speedUpper)
+
 
         continueDiv.style.backgroundColor = '#d5ffd5';
         solutionDiv.style.backgroundColor = '#d5ffd5';
@@ -179,36 +170,25 @@ function checkAnswer() {
         continueButton.classList.remove('buttonStOr')
         continueButton.classList.add('buttonStGr')
 
-        if (speedTimer < (speedUpper * 2))
+        if (speedTimer < ((marksQ*60) * 2))
         {
             speedPointsCount +=3;
         }
-        else {
-        console.log("Not achieved")
-        }
-        if (speedTimer < (speedUpper * 1.5))
+        if (speedTimer < ((marksQ*60) * 1.5))
         {
             speedPointsCount +=3;
         }
-        else {
-            console.log("Not achieved")
-            }
-        if (speedTimer < speedUpper)
+
+        if (speedTimer < (marksQ*60))
         {
             speedPointsCount +=4;
         }
-        else {
-            console.log("Not achieved")
-            }
         corr = corr + marksQ;
         marksTot = marksTot + marksQ;
-        console.log("Speed timer:" + speedTimer);
-        console.log("Total speed points:" + speedPointsCount);
+
         
     }
-    else {console.log("wrong")
-    console.log("correct answer: " + ansValue)
-    console.log("typed answer: " + userAnswer)
+    else {
         
         continueDiv.style.backgroundColor = '#ffeed0';
         solutionDiv.style.backgroundColor = '#ffeed0';
@@ -229,17 +209,16 @@ function loadNextQuestion() {
     //if question count is less than 7, load next question, otherwise go to results page with context
     if (n < (dataQuizLength-1)) {
     n++;
-    console.log(n)
+
     questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
     randomQ();
-    console.log("Questionbank: " + i);
+
     questionDisplay.textContent = dataQA[i]["qu"]
     ansValue = dataQA[i]["ans"];
-    speedUpper = dataQA[i]["timeUpper"]
     marksQ = dataQA[i]["marks"]
     markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
     solutionText.textContent = dataQA[i]["solution"]
-    console.log("Speed Upper Req:" + speedUpper)
+
     continueButton.style.visibility = 'hidden';
     checkButton.style.visibility = 'visible';
     continueDiv.style.visibility = 'hidden';

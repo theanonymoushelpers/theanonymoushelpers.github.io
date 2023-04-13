@@ -56,9 +56,6 @@ var solutionText = document.getElementById("sol-text")
 var titleofQuiz = document.getElementById("quizTitle") 
 
 //speedscore variable
-var speedUpper;
-var speedMidRange;
-var speedLower;
 var speedTimer = 0;
 var speedPointsCount = 0;
 
@@ -142,7 +139,6 @@ fetch(directQ)
         o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
         ansValue = dataQA[i]["ans"]
         marksQ = dataQA[i]["marks"]
-        speedUpper = dataQA[i]["timeUpper"]
         solutionText.textContent = dataQA[i]["solution"]
         questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
         titleofQuiz.innerHTML = data["title"]
@@ -190,21 +186,21 @@ function checkAnswer() {
         continueButton.classList.remove('buttonStOr')
         continueButton.classList.add('buttonStGr')
 
-        if (speedTimer < (speedUpper * 2))
+        if (speedTimer < ((marksQ*60) * 2))
         {
             speedPointsCount +=3;
         }
         else {
             return;
         }
-        if (speedTimer < (speedUpper * 1.5))
+        if (speedTimer < ((marksQ*60) * 1.5))
         {
             speedPointsCount +=3;
         }
         else {
             return;
             }
-        if (speedTimer < speedUpper)
+        if (speedTimer < (marksQ*60))
         {
             speedPointsCount +=4;
         }
@@ -256,7 +252,6 @@ function loadNextQuestion() {
     o4.innerHTML = dataQA[i]["a4"] + '<input type="radio" name="radio" value="4"><span class="checkmark"></span>'
     ansValue = dataQA[i]["ans"];
     marksQ = dataQA[i]["marks"];
-    speedUpper = dataQA[i]["timeUpper"]
     solutionText.textContent = dataQA[i]["solution"]
     
     continueButton.style.visibility = 'hidden';

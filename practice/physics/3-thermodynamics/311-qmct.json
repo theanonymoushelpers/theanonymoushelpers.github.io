@@ -5,52 +5,48 @@
     "quCountToDisplay": 5,
     "questionList": [
         {
-            "qu": "A 20W heater heats a 200g sample of water for 30 minutes. Given `c=4.18kJ kg^(-1)K^(-1)`, how much does the temperature of the water increase?",
+            "qu": "A 20W heater heats a 200g sample of water for 30 minutes. Given `c=4.18kJ kg^(-1)K^(-1)`, around how much does the temperature of the water increase?",
             "a1": "0.01K",
             "a2": "0.8K",
             "a3": "43.1K",
             "a4": "1722K",
             "ans": 3,
-            "timeUpper": 40,
             "marks": 1,
             "solution": "Power is defined as energy over time `P=E/t`, therefore, `E=Pt`, and the amount of energy is `20W * 30m * 60sec = 36000J` or `36kJ`. We can then use `q=mcT` to solve, by rearranging it as `T=q/(mc)`, giving us `T=(36kJ)/((0.2kg)(4.18kJ kg^(-1)K^(-1)) = 43.1K "
 
         },
         {
-            "qu": "A 12W heater heats a 100g sample of water for 15 minutes. Given `c=4.18kJ kg^(-1)K^(-1)`, how much does the temperature of the water increase?",
+            "qu": "A 12W heater heats a 100g sample of water for 15 minutes. Given `c=4.18kJ kg^(-1)K^(-1)`, around how much does the temperature of the water increase?",
             "a1": "0.43K",
             "a2": "25.8K",
             "a3": "",
             "a4": "4306K",
             "ans": 2,
-            "timeUpper": 40,
             "marks": 1,
             "solution": "Power is defined as energy over time `P=E/t`, therefore, `E=Pt`, and the amount of energy is `12W * 15m * 60sec = 10800J` or `10.8kJ`. We can then use `q=mcT` to solve, by rearranging it as `T=q/(mc)`, giving us `T=(10.8kJ)/((0.1kg)(4.18kJ kg^(-1)K^(-1)) = 25.8K"
         },
         {
-            "qu": "A 5W heater heats a 10g sample of water by `5 K`. Given `c=4.18kJ kg^(-1)K^(-1)`, how long will it take for the water to increase by this temperature, assuming there is no phase change?",
+            "qu": "A 5W heater heats a 100g sample of water by `5 K`. Given `c=4.18kJ kg^(-1)K^(-1)`, around how long will it take for the water to increase by this temperature, assuming there is no phase change?",
+            "a1": "2.09 minutes",
+            "a2": "5 minutes",
+            "a3": "7 minutes",
+            "a4": "25.08 minutes",
+            "ans": 3,
+            "marks": 1,
+            "solution": 3
+        },
+        {
+            "qu": "A 15W heater heats a 250g sample of water by `12 K`. Given `c=4.18kJ kg^(-1)K^(-1)`, around how long will it take for the water to increase by this temperature, assuming there is no phase change?",
             "a1": "",
             "a2": "",
             "a3": "",
             "a4": "",
             "ans": 1,
-            "timeUpper": 40,
             "marks": 1,
             "solution": 3
         },
         {
-            "qu": "A 15W heater heats a 250g sample of water by `12 K`. Given `c=4.18kJ kg^(-1)K^(-1)`, how long will it take for the water to increase by this temperature, assuming there is no phase change?",
-            "a1": "",
-            "a2": "",
-            "a3": "",
-            "a4": "",
-            "ans": 1,
-            "timeUpper": 40,
-            "marks": 1,
-            "solution": 3
-        },
-        {
-            "qu": "A heater heats a 10g sample by `10 K`, with a heat capacity of `4.18kJ kg^(-1)K^(-1)`. If the heater takes 5 minutes to warm up the sample, how many watts does the heater use, given that the heater is 80% efficient?",
+            "qu": "A heater heats a 10g sample by `10 K`, with a heat capacity of `4.18kJ kg^(-1)K^(-1)`. If the heater takes 5 minutes to warm up the sample, around how many watts does the heater use, given that the heater is 80% efficient?",
             "a1": "",
             "a2": "",
             "a3": "",
@@ -61,7 +57,7 @@
             "solution": 3
         },
         {
-            "qu": "A heater heats a 400g sample by `4 K`, with a heat capacity of `2kJ kg^(-1)K^(-1)`. If the heater takes 2 minutes to warm up the sample, how many watts does the heater use?",
+            "qu": "A heater heats a 400g sample by `4 K`, with a heat capacity of `2kJ kg^(-1)K^(-1)`. If the heater takes 2 minutes to warm up the sample, around how many watts does the heater use?",
             "a1": "",
             "a2": "",
             "a3": "",
@@ -72,7 +68,7 @@
             "solution": 3
         },
         {
-            "qu": "A heater heats a 20g sample by `5 K`, with a heat capacity of `5kJ kg^(-1)K^(-1)`. If the heater uses 4 watts, how long will it take for the sample to warm up?",
+            "qu": "A heater heats a 20g sample by `5 K`, with a heat capacity of `5kJ kg^(-1)K^(-1)`. If the heater uses 4 watts, around how long will it take for the sample to warm up?",
             "a1": "",
             "a2": "",
             "a3": "",
@@ -83,7 +79,7 @@
             "solution": 3
         },
         {
-            "qu": "A heater heats a 40g sample by `12 K`, with a heat capacity of `7kJ kg^(-1)K^(-1)`. If the heater uses `x` watts, how long will it take for the sample to warm up?",
+            "qu": "A heater heats a 40g sample by `12 K`, with a heat capacity of `7kJ kg^(-1)K^(-1)`. If the heater uses `x` watts, around how long will it take for the sample to warm up?",
             "a1": "",
             "a2": "",
             "a3": "",
