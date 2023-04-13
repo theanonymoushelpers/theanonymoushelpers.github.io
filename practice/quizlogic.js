@@ -83,7 +83,7 @@ var ansValue;
 
 //how many marks are awarded per question
 var marksQ;
-var marksTot;
+var marksTot = 0;
 
 //controls which question is loaded
 var i = 0;
@@ -134,8 +134,8 @@ fetch(directQ)
         i = Math.floor(Math.random() * (dataTotalQuestions-1));
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
-        questionDisplay.textContent = "[" + dataQA[i]["qu"] + "]"
-        markDisplay.textContent = dataQA[i]["marks"]
+        questionDisplay.textContent = dataQA[i]["qu"]
+        markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
         o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
         o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
         o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
