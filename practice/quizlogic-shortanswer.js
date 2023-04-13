@@ -24,6 +24,7 @@ var identQ = getQuizParameter('ident')
 var nameQ = getQuizParameter('quizName')
 var questionN = getQuizParameter('questionNo')
 
+
 var directQ = subjectQ + "/" + identQ + "/" + nameQ + ".json"
 console.log(directQ);
 
@@ -42,6 +43,8 @@ var questionDisplay = document.getElementById("quDisplay");
 var userAnswer = document.getElementById("userAnswer").value;
 var ansNumber;
 var ansExplain;
+
+var markDisplay = document.getElementById("markDisplay")
 var checkButton = document.getElementById("checkButton")
 var continueButton = document.getElementById("continueButton")
 var continueDiv = document.getElementById("continueDiv")
@@ -128,6 +131,7 @@ fetch(directQ)
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
         questionDisplay.textContent = dataQA[i]["qu"]
+        markDisplay.textContent = dataQA[i]["marks"]
         ansValue = dataQA[i]["ans"]
         marksQ = dataQA[i]["marks"]
         speedUpper = dataQA[i]["timeUpper"]
@@ -233,6 +237,7 @@ function loadNextQuestion() {
     ansValue = dataQA[i]["ans"];
     speedUpper = dataQA[i]["timeUpper"]
     marksQ = dataQA[i]["marks"]
+    markDisplay.textContent = dataQA[i]["marks"]
     solutionText.textContent = dataQA[i]["solution"]
     console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';

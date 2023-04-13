@@ -45,6 +45,7 @@ var o4 = document.getElementById("a4Display");
 var ansNumber;
 var ansExplain;
 var checkButton = document.getElementById("checkButton")
+var markDisplay = document.getElementById("markDisplay")
 var continueButton = document.getElementById("continueButton")
 var continueDiv = document.getElementById("continueDiv")
 var solutionDiv = document.getElementById("solutionDiv")
@@ -134,6 +135,7 @@ fetch(directQ)
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
         questionDisplay.textContent = dataQA[i]["qu"]
+        markDisplay.textContent = dataQA[i]["marks"]
         o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
         o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
         o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
@@ -242,6 +244,7 @@ function loadNextQuestion() {
     randomQ();
     console.log("Questionbank: " + i);
     questionDisplay.textContent = dataQA[i]["qu"]
+    markDisplay.textContent = dataQA[i]["marks"]
     o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
     o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
     o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
