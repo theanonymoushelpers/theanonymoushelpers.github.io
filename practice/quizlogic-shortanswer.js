@@ -131,7 +131,7 @@ fetch(directQ)
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
         questionDisplay.textContent = dataQA[i]["qu"]
-        markDisplay.textContent = dataQA[i]["marks"]
+        markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
         ansValue = dataQA[i]["ans"]
         marksQ = dataQA[i]["marks"]
         speedUpper = dataQA[i]["timeUpper"]
@@ -237,7 +237,7 @@ function loadNextQuestion() {
     ansValue = dataQA[i]["ans"];
     speedUpper = dataQA[i]["timeUpper"]
     marksQ = dataQA[i]["marks"]
-    markDisplay.textContent = dataQA[i]["marks"]
+    markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
     solutionText.textContent = dataQA[i]["solution"]
     console.log("Speed Upper Req:" + speedUpper)
     continueButton.style.visibility = 'hidden';

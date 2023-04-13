@@ -134,7 +134,7 @@ fetch(directQ)
         i = Math.floor(Math.random() * (dataTotalQuestions-1));
         completedQuestions[n] = i;
         console.log("Questionbank: " + completedQuestions[n]);
-        questionDisplay.textContent = dataQA[i]["qu"]
+        questionDisplay.textContent = "[" + dataQA[i]["qu"] + "]"
         markDisplay.textContent = dataQA[i]["marks"]
         o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
         o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
@@ -146,7 +146,7 @@ fetch(directQ)
         solutionText.textContent = dataQA[i]["solution"]
         questionNumber.innerHTML = "Question " + (n+1) + " of " + (dataQuizLength);
         titleofQuiz.innerHTML = data["title"]
-        console.log("Speed Upper Req:" + speedUpper)
+
        } )
 
 
@@ -155,16 +155,16 @@ continueButton.addEventListener('click', loadNextQuestion);
 
 
 
-setInterval(function() {speedTimer += 1; console.log("Tick:" + speedTimer)}, 1000);
+setInterval(function() {speedTimer += 1;}, 1000);
 
 
 
 function checkAnswer() {       
     for(op = 0; op < opValue.length; op++) {
-        console.log("quOp:" + op);
+ 
         if(opValue[op].checked) {
         selectedValue = (op + 1);
-        console.log("true");
+        
         }
         else {console.log("false")}
     }
@@ -174,13 +174,13 @@ function checkAnswer() {
     continueDiv.style.visibility = 'visible';
     solutionDiv.style.visibility = 'visible';
     clearInterval();
-    console.log(speedTimer);
+ 
 
     if (selectedValue == ansValue) {
         console.log("correct")
         console.log("correct answer: " + ansValue)
         console.log("selected answer: " + selectedValue)
-        console.log("Speed Upper Req:" + speedUpper)
+
 
         continueDiv.style.backgroundColor = '#d5ffd5';
         solutionDiv.style.backgroundColor = '#d5ffd5';
@@ -195,26 +195,28 @@ function checkAnswer() {
             speedPointsCount +=3;
         }
         else {
-        console.log("Not achieved")
+            return;
         }
         if (speedTimer < (speedUpper * 1.5))
         {
             speedPointsCount +=3;
         }
         else {
-            console.log("Not achieved")
+            return;
             }
         if (speedTimer < speedUpper)
         {
             speedPointsCount +=4;
         }
         else {
-            console.log("Not achieved")
+            return;
             }
         corr = corr + marksQ;
         marksTot = marksTot + marksQ;
         console.log("Speed timer:" + speedTimer);
         console.log("Total speed points:" + speedPointsCount);
+        console.log("Corr:" + corr);
+        console.log("Total:" + marksTot);
         
     }
     else {console.log("wrong")
@@ -230,6 +232,9 @@ function checkAnswer() {
         continueButton.classList.add('buttonStOr')
         marksTot = marksTot + marksQ;
         inco++;
+
+        console.log("Corr:" + corr);
+        console.log("Total:" + marksTot);
         
     }
 }
@@ -244,7 +249,7 @@ function loadNextQuestion() {
     randomQ();
     console.log("Questionbank: " + i);
     questionDisplay.textContent = dataQA[i]["qu"]
-    markDisplay.textContent = dataQA[i]["marks"]
+    markDisplay.textContent = "[" + dataQA[i]["marks"] + "]"
     o1.innerHTML = dataQA[i]["a1"] + '<input type="radio" name="radio" value="1"><span class="checkmark"></span>'
     o2.innerHTML = dataQA[i]["a2"] + '<input type="radio" name="radio" value="2"><span class="checkmark"></span>'
     o3.innerHTML = dataQA[i]["a3"] + '<input type="radio" name="radio" value="3"><span class="checkmark"></span>'
@@ -253,7 +258,7 @@ function loadNextQuestion() {
     marksQ = dataQA[i]["marks"];
     speedUpper = dataQA[i]["timeUpper"]
     solutionText.textContent = dataQA[i]["solution"]
-    console.log("Speed Upper Req:" + speedUpper)
+    
     continueButton.style.visibility = 'hidden';
     checkButton.style.visibility = 'visible';
     continueDiv.style.visibility = 'hidden';
