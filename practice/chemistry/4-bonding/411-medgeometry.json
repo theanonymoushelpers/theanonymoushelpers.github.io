@@ -1,0 +1,123 @@
+{
+    "quizID": 3411,
+    "title": "Molecular and Electron Domain Geometry",
+    "totalQuCount": 11, 
+    "quCountToDisplay": 4,
+    "questionList": [
+        {
+            "qu": "What is the electron domain geometry of `H_2O`?",
+            "a1": "Linear",
+            "a2": "Bent",
+            "a3": "Trigonal Pyramidal",
+            "a4": "Tetrahedral",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms/lone pairs are attached to the central atom."
+        },
+        {
+            "qu": "What is the electron domain geometry of `CH_4`?",
+            "a1": "Trigonal Pyramidal",
+            "a2": "Trigonal Planar",
+            "a3": "Tetrahedral",
+            "a4": "Seesaw",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms/lone pairs are attached to the central atom."
+        },      
+        {
+            "qu": "What is the electron domain geometry of `O_2`?",
+            "a1": "Linear",
+            "a2": "Bent",
+            "a3": "Trigonal Planar",
+            "a4": "Trigonal Pyramidal",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms/lone pairs are attached to the central atom."
+        },
+        {
+            "qu": "What is the electron domain geometry of `NH_3`?",
+            "a1": "Trigonal Planar",
+            "a2": "Tetrahedral",
+            "a3": "Trigonal Bipyramidal",
+            "a4": "Trigonal Pyramidal",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms/lone pairs are attached to the central atom."
+        },
+        {
+            "qu": "What is the electron domain geometry of `NH_4^+`?",
+            "a1": "Tetrahedral",
+            "a2": "Seesaw",
+            "a3": "Trigonal Bipyramidal",
+            "a4": "Trigonal Pyramidal",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms/lone pairs are attached to the central atom."
+        },
+
+
+        {
+            "qu": "What is the molecular geometry of `PF_5`?",
+            "a1": "Tetrahedral",
+            "a2": "Seesaw",
+            "a3": "Trigonal Bipyramidal",
+            "a4": "Trigonal Pyramidal",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        },
+        {
+            "qu": "What is the molecular geometry of `H_2O`?",
+            "a1": "Linear",
+            "a2": "Bent",
+            "a3": "Trigonal Pyramidal",
+            "a4": "Tetrahedral",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        },
+        {
+            "qu": "What is the molecular geometry of `CH_4`?",
+            "a1": "Trigonal Pyramidal",
+            "a2": "Trigonal Planar",
+            "a3": "Tetrahedral",
+            "a4": "Square",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        },      
+        {
+            "qu": "What is the molecular geometry of `O_2`?",
+            "a1": "Linear",
+            "a2": "Bent",
+            "a3": "Trigonal Planar",
+            "a4": "Trigonal Pyramidal",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        },
+        {
+            "qu": "What is the molecular geometry of `NH_3`?",
+            "a1": "Trigonal Planar",
+            "a2": "Tetrahedral",
+            "a3": "Trigonal Bipyramidal",
+            "a4": "Trigonal Pyramidal",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        },
+        {
+            "qu": "What is the molecular geometry of `NH_4^+`?",
+            "a1": "Tetrahedral",
+            "a2": "Seesaw",
+            "a3": "Trigonal Bipyramidal",
+            "a4": "Trigonal Pyramidal",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Draw the structure of the molecule, including lone pairs and determine how many atoms are attached to the central atom, and whether the angle is affected by lone pairs."
+        }
+
+
+
+    ]
+}

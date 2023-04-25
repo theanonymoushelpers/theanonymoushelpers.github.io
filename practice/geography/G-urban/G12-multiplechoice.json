@@ -1,0 +1,82 @@
+{
+    "quizID": 4012,
+    "title": "Multiple Choice - Urban Environments",
+    "totalQuCount": 7, 
+    "quCountToDisplay": 5,
+    "questionList": [
+        {
+            "qu": "What is the primary land use of the central business district?",
+            "a1": "Residential/Parks",
+            "a2": "Commercial/Office",
+            "a3": "Factories/Industry",
+            "a4": "Parks/Recreation",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The central business district is where major commercial and office spaces can be found."
+        },
+        {
+            "qu": "How does land value change as you move away from the PLVI?",
+            "a1": "There is no change",
+            "a2": "There is a general increase",
+            "a3": "The density of zoning increases",
+            "a4": "There is a general decrease",
+            "ans": 4,
+            "marks": 1,
+            "solution": "The PLVI is the peak land value intersection, which means that the PLVI will be the most expensive land in the city per unit area. Therefore, it can only decrease as you move away from the city center. "
+        },
+        {
+            "qu": "What feature of an urban environment separates it from a rural environment?",
+            "a1": "Low population density with no infrastructure",
+            "a2": "High population density with no infrastructure ",
+            "a3": "Low population density with infrastructure",
+            "a4": "High population density with infrastructure",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Urban areas are settlements that usually have higher population desnities with supporting infrastrucutre."
+        },
+        {
+            "qu": "Which has the lowest population density?",
+            "a1": "Suburbs",
+            "a2": "Rural",
+            "a3": "Outer City",
+            "a4": "Inner City",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Rural areas have very low population densities."
+        },
+        {
+            "qu": "Which is a characteristic of informal settlements?",
+            "a1": "Welfare services are provided to the poor living here",
+            "a2": "Taxation rates are often slightly lower",
+            "a3": "Building is not government regulated",
+            "a4": "The buildings are safe, high-density, low-rise buildings",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Building is not goverment regulated in an informal settlement. While answers 1, 2, and 4 could be true in some informal settlements, they are not characteristics shared by all informal settlements."
+        },
+        {
+            "qu": "Which process represents gentrification best?",
+            "a1": "Poor populations driving the wealthy out of a neighborhood",
+            "a2": "High crime causing buildings to be abandoned",
+            "a3": "The provincial government allocating funding to a city",
+            "a4": "Wealthy immigrants moving into an area, causing more businesses to move to that area",
+            "ans": 4,
+            "marks": 2,
+            "solution": "Wealthy immigrants often gentrify a neighborhood, and as a result, the land value will increase and crime rate will decrease, attracting businesses."
+        },
+        {
+            "qu": "Which is not a characteristic of gentrification?",
+            "a1": "Land value increasing",
+            "a2": "Ethnic demographic changing",
+            "a3": "Businesses become cheaper to own",
+            "a4": "Crime rate decreases",
+            "ans": 3,
+            "marks": 1,
+            "solution": "As land value increases, the cost of owning a business increases, therefore, option 3 is the best answer."
+        }
+
+
+
+    ]
+}
+

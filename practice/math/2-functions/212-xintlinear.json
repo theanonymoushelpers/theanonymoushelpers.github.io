@@ -8,7 +8,6 @@
         {
             "qu": "What is the x-intercept of `y=x+3?`",
             "ans": "-3",
-            "timeUpper": 12,
             "marks": 1,
             "solution": "If we replace `y` with `0`, `x=-3`"
         },

@@ -1,0 +1,49 @@
+{
+    "quizID": 6321,
+    "title": "Solving Trigonometric Equations",
+    "totalQuCount": 4, 
+    "quCountToDisplay": 2,
+    "questionList": [
+        {
+            "qu": "What is the sum of solutions (in Radians) to the equation `2cosθ-sqrt(2)=0` where `-pi<=θ<=2pi`. Write your answer as `x`pi/`y`, where `x` and `y` are integers.",
+            "ans": "7pi/4",
+            "marks": 2,
+            "solution": "7pi/4"
+        },
+        {
+            "qu": "What is the solution to `4sin^2x+10sinx+6=0` that is closest to 0? Write your answer as `x`pi/`y`, where `x` and `y` are integers.",
+            "ans": "-1pi/2",
+            "marks": 2,
+            "solution": "-1pi/2 is the accepted answer. Please make sure to submit answers in the form quoted for each question."
+        },
+        {
+            "qu": "What is the sum of solutions (in Radians) to the equation `2cos^2x+6cosx=0` where `-pi<=x<=2pi`? Write your answer as `x`pi/`y`, where `x` and `y` are integers.",
+            "ans": "3pi/2",
+            "marks": 2,
+            "solution": "3pi/2"
+        },
+        {
+            "qu": "What is the smallest positive solution (in Radians) to the equation `2tan^2x-2=0`? Write your answer as `x`pi/`y`, where `x` and `y` are integers.",
+            "ans": "1pi/4",
+            "marks": 1,
+            "solution": "1pi/4"
+        },
+        {
+            "qu": "What is the smallest positive solution (in Radians) to the equation `cos^2(4x)=0`? Write your answer as `x`pi/`y`, where `x` and `y` are integers.",
+            "ans": "1pi/8",
+            "marks": 1,
+            "solution": "1pi/8"
+        }
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+
