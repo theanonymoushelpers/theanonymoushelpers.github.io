@@ -1,7 +1,7 @@
 {
     "quizID": 3511,
     "title": "Energy",
-    "totalQuCount": 20, 
+    "totalQuCount": 21, 
     "quCountToDisplay": 5,
     "questionList": [
         {
@@ -36,10 +36,10 @@
         },
         {
             "qu": "Which equation represents the average bond enthalpy of the Si−H bond in SiH4?",
-            "a1": "SiH4(g) → SiH3(g)+H(g)",
-            "a2": "1/4SiH4 (g) → 1/4Si(g) + H(g)",
-            "a3": "SiH4(g) → SiH3(g) + 1/2H2(g)",
-            "a4": "SiH4 (g) → Si(g) + 4H(g)",
+            "a1": "`SiH_4(g) → SiH_3(g)+H(g)`",
+            "a2": "`1/4SiH_4 (g) → 1/4Si(g) + H(g)`",
+            "a3": "`SiH_4(g) → SiH_3(g) + 1/2H_2(g)`",
+            "a4": "`SiH_4 (g) → Si(g) + 4H(g)`",
             "ans": 2,
          "marks": 1,
             "solution": "1/4SiH4 (g) → 1/4Si(g) + H(g)"
@@ -194,6 +194,16 @@
             "solution": "N/A"
         },
         {
+            "qu": "Which reaction has the greatest increase in entropy?",
+            "a1": "`2NH_3(g) → 3H_2(g) + N_2(g)`",
+            "a2": "`Na^(+)(aq) + Cl^(-)(aq) → NaCl (aq)",
+            "a3": "`CO(g) + H_2O(g) → CO_2(g) + H_2(g)`",
+            "a4": "`2H_2 (g) + CO(g) → CH_3OH(g)`",
+            "ans": 1,
+         "marks": 1,
+            "solution": "Option 1 goes from 2 moles of gas to 4 moles of gas, therefore having the biggest increase in entropy."
+        },
+        {
             "qu": "Which ionic compound has the most endothermic lattice enthalpy?",
             "a1": "NaCl",
             "a2": "KCl",
@@ -202,6 +212,18 @@
             "ans": 3,
          "marks": 1,
             "solution": "N/A"
-        }]
+        }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ]
 
         }

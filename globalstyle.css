@@ -370,6 +370,46 @@ line-height: 1.4;
     opacity: 1;
 }
 
+
+
+
+.buttonStBl {
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+    position: relative; 
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #16698a;
+    background-color: #a1e4ff;
+    margin: 0 auto;
+    display: block;
+}
+
+    .buttonStBl::before {
+        background: #42b3ff;
+    border-radius: inherit;
+    content: '';
+    opacity: 0;
+    position: absolute;
+    transition: all .2s ease-in-out;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: 0; 
+}
+
+    .buttonStBl:hover::before {
+    filter: blur(30px); 
+    opacity: 1;
+}
+
+
 .buttonStPr {
     border: none;
     border-radius: 25px;
