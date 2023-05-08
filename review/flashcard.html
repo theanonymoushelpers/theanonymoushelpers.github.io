@@ -48,24 +48,19 @@
         <h1>Flashcard Set</h1>
         <div style="height: 50px;"></div>
 
+
+        <div style="display:flex; flex-direction:row; height: 40%;">
       
-        <div style="margin: auto; width: 100%;">
-
-
-            <div id="container" style="margin:auto; width: 100%;">
-
+            <button class="buttonStGr" id="backwardButton" style="width: 5%; height: 100%; margin-left: 15%; font-size: 72px;">⟨</button> 
         
-
-                    <ul>
-
- <button class="buttonStGr" id="backwardButton" style="width: 2%; height: 40%">B</button> 
-
-   <div class="card hiddenAnimate" style="transition-delay: 100ms; width: 55%; height: 40%; margin: auto;">
+            <div style="margin: auto; width: 100%;">
+<div id="container" style="margin:auto; width: 100%;">
+   <div class="card hiddenAnimate" style="transition-delay: 100ms; width: 75%; height: 100%; margin: auto;">
 
             
                         <div class="card_info" >
             
-                            <h1 id="flashcardW" class="name" style="text-align: center; font-size: 48px; color: black;">Term</h1>
+                            <h1 id="flashcardW" class="name" style="text-align: center; font-size: 48px; color: black; ">Term</h1>
             
                             
                         </div>
@@ -75,22 +70,22 @@
 
 
         
-                 <button id="forwardButton" class="buttonStGr" style="width: 2%; height: 40%">F</button>
+                 <button id="forwardButton" class="buttonStGr" style="width: 5%; height: 100%; margin-right: 15%; font-size: 72px;">⟩</button>
   
-
+        </div>
             <div style="height: 50px;"></div>
 
-            <button class="buttonStGr" id="flipButton">Flip</button>
+            <button class="buttonStGr" id="flipButton" style="width: 20%; font-size: 36px;">Flip</button>
 
 
             <div class="spacer"></div>
             <h1>Get More Familiar</h1>
             <div style="height: 20px;"></div>
-    <button class="buttonStGr">Learn Set</button>
+    <button class="buttonStGrey">Learn Set</button>
     <div style="height: 20px;"></div>
-    <button class="buttonStGr">Timed Practice</button>
+    <button class="buttonStGrey">Timed Practice</button>
     <div class="spacer"></div>
-    <button class="buttonStGr">Close Set</button>
+    <button class="buttonStGr" onClick="location.href='index.html'">Close Set</button>
 
 
             <div style="height: 100px;"></div>
