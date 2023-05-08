@@ -1,8 +1,6 @@
 {
     "quizID": 3101,
     "title": "SI Units and Conversions",
-    "totalQuCount": 20, 
-    "quCountToDisplay":  6,
     "questionList": [
         {
             "qu": "Which of the following is less than a centimeter?",
@@ -10,10 +8,7 @@
             "a2": "Kilometer",
             "a3": "Millimeter",
             "a4": "Decimeter",
-            "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16, 
+            "ans": 3, 
             "marks": 1,
             "solution": "1 centimeter = 10 millimeters"
         },
@@ -24,9 +19,6 @@
             "a3": "0.3",
             "a4": "300",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 millimeter = 0.01 decimeters"
         },
@@ -37,9 +29,6 @@
             "a3": "5600",
             "a4": "5.6",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 kilometer = 1000 meters (Keyword Kilo = 1000)"
         },
@@ -50,9 +39,6 @@
             "a3": "0.032",
             "a4": "0.32",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 millimeter = 0.001 meters"
         },
@@ -63,9 +49,6 @@
             "a3": "305.15",
             "a4": "438.30",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "Degree's Celsius + 273.15 = Kelvin"
         },
@@ -76,9 +59,6 @@
             "a3": "300.55",
             "a4": "34.30",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "400 Kelvin - 273.15 = 126.85 Celsius"
         },
@@ -89,9 +69,6 @@
             "a3": "-529.30",
             "a4": "0",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "-273.15 Celsius + 273.15 = 0 Kelvin"
         },
@@ -102,9 +79,6 @@
             "a3": "Celsius",
             "a4": "Ampere",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "Moles are the unit of measurement in sciences, Kelvin and Celsius measures temperature, and Ampere is a unit of electric current"
         },
@@ -115,9 +89,6 @@
             "a3": "43000",
             "a4": "0.043",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 kilogram = 1000 grams"
         },
@@ -128,9 +99,6 @@
             "a3": "37800",
             "a4": "0.000378",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 gram = 0.001 milligrams"
         },
@@ -141,9 +109,6 @@
             "a3": "1000",
             "a4": "0.001",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "Kilo = 1000"
         },
@@ -154,9 +119,6 @@
             "a3": "Hundred",
             "a4": "Tenth",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "Milli = Thousandth, One thousandth of"
         },
@@ -167,9 +129,6 @@
             "a3": "1",
             "a4": "100",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 meter = 100 centimeters "
         },
@@ -180,9 +139,6 @@
             "a3": "0.01",
             "a4": "10",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 Liter = 1000 Milliliters"
         },
@@ -193,9 +149,6 @@
             "a3": "0.000004",
             "a4": "0.004",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 Square Meter = 0.000001 Square Kilometers"
         },
@@ -206,9 +159,6 @@
             "a3": "13",
             "a4": "0.13",
             "ans": 4,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 Joule = 0.001 Kilojoules"
         },
@@ -219,9 +169,6 @@
             "a3": "240",
             "a4": "0.24",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 kilohertz = 1000 hertz"
         },
@@ -232,9 +179,6 @@
             "a3": "0.738",
             "a4": "7380",
             "ans": 1,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "0.001 kilograms = 1 gram"
         },
@@ -245,9 +189,6 @@
             "a3": "4.38",
             "a4": "0.00438",
             "ans": 3,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 kilogram = 1000 grams"
         },
@@ -258,9 +199,6 @@
             "a3": "0.314",
             "a4": "314",
             "ans": 2,
-            "timeUpper": 7,
-            "timeMid": 12,
-            "timeLower": 16,
             "marks": 1,
             "solution": "1 gram = 0.001 kilograms"
         }

@@ -119,8 +119,8 @@ fetch(directQ)
         quizID = data["quizID"]
 
         dataQA = data["questionList"]
-        dataTotalQuestions = data["totalQuCount"]
-        dataQuizLength = data["quCountToDisplay"]
+        dataTotalQuestions = dataQA.length;
+        dataQuizLength = Math.round(dataTotalQuestions/3);
         //console log validates data is loading correctly for debugging.
 
         i = Math.floor(Math.random() * (dataTotalQuestions-1));

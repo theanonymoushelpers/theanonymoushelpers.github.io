@@ -5,7 +5,7 @@
     "quCountToDisplay": 4,
     "questionList": [
         {
-            "qu": "Methane reacts with oxygen to produce carbon dioxide and water vapour. Balance the reaction, and use the following enthalpy formation values to calculate the enthalpy of formation (`CH_4: -74`), (`CO_2: -394`), (`H_2O: -242`)",
+            "qu": "Methane reacts with oxygen to produce carbon dioxide and water vapour. Balance the reaction, and use the following (`DeltaH_f`)values to calculate the enthalpy of formation (`CH_4: -74`), (`CO_2: -394`), (`H_2O: -242`)",
             "ans": "-12",
             "marks": 4,
             "solution": "If we replace `y` with `0`, `x=-12`"

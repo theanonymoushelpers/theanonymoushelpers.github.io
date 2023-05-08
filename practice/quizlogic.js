@@ -123,8 +123,11 @@ fetch(directQ)
         quizID = data["quizID"]
         console.log(quizID)
         dataQA = data["questionList"]
-        dataTotalQuestions = data["totalQuCount"]
-        dataQuizLength = data["quCountToDisplay"]
+        dataTotalQuestions = dataQA.length;
+        dataQuizLength = Math.round(dataTotalQuestions/3);
+
+        console.log(dataTotalQuestions)
+        console.log(dataQuizLength)
         //console log validates data is loading correctly for debugging.
         console.log(data)
         console.log(data.quizID)

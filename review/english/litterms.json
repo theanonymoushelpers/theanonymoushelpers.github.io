@@ -1,0 +1,196 @@
+{
+    "setTitle": "Literary Terms",
+    "setID": 900001,
+    "cards": [
+        {
+            "term": "Allegory",
+            "definition": "Characters stand for abstract concepts"
+        },
+        {
+            "term": "Alliteration",
+            "definition": "Repetition at close intervals of consonant sounds"
+        },
+        {
+            "term": "Allusion",
+            "definition": "A reference to something in literature, mythology, etc. (something considered common knowledge)"
+        },
+        {
+            "term": "Ambiguity",
+            "definition": "Double or multiple meanings"
+        },
+        {
+            "term": "Appeals",
+            "definition": "Persuasive strategy to the audience"
+        },
+        {
+            "term": "Logos",
+            "definition": "Logical arguments"
+        },
+        {
+            "term": "Ethos",
+            "definition": "Shows speaker’s status or authority for credibility"
+        },
+        {
+            "term": "Pathos",
+            "definition": "Emotional side, making audience feel angry or sympathetic"
+        },
+        {
+            "term": "Apostrophe",
+            "definition": "Talking to an object as if it’s alive"
+        },
+        {
+            "term": "Aside",
+            "definition": "A passage in a play heard by the audience but not by other characters in the play"
+        },
+        {
+            "term": "Assonance",
+            "definition": "A resemblance of sounds of words or syllables between vowels or consonants"
+        },
+        {
+            "term": "Characterization",
+            "definition": "Techniques to develop characters"
+        },
+        {
+            "term": "Cliche",
+            "definition": "Overused element to losing its original meaning"
+        },
+        {
+            "term": "Colloquial",
+            "definition": "Informal way of speech"
+        },
+        {
+            "term": "Consonance",
+            "definition": "Repetition of same consonant in nearby words"
+        },
+        {
+            "term": "Flashback",
+            "definition": "A scene that happened earlier in the story"
+        },
+        {
+            "term": "Foil",
+            "definition": "A character who contrasts significantly to another character"
+        },
+        {
+            "term": "Foreshadowing",
+            "definition": "Using hints or clues to indicate events that will happen later"
+        },
+        {
+            "term": "Genre",
+            "definition": "Type of work with unique style, tone, elements, etc"
+        },
+        {
+            "term": "Hyperbole",
+            "definition": "Exaggerated elements for emphasis or humorous effect"
+        },
+        {
+            "term": "Imagery",
+            "definition": "Words and phrases that create vivid images for the reader"
+        },
+        {
+            "term": "Irony",
+            "definition": "Contrast between appearance and reality"
+        },
+        {
+            "term": "Verbal irony",
+            "definition": "Writer says something but means something entirely different"
+        },
+        {
+            "term": "Situational irony",
+            "definition": "Something happens that is completely different from what’s expected"
+        },
+        {
+            "term": "Dramatic irony",
+            "definition": "Reader knows something that the characters do not"
+        },
+        {
+            "term": "Jargon",
+            "definition": "Special words or expressions used by a specific group that is difficult for others to understand"
+        },
+        {
+            "term": "Juxtaposition",
+            "definition": "Putting 2 things next to each other to compare"
+        },
+        {
+            "term": "Metaphor",
+            "definition": "An analogy or comparison is made between 2 unlike things"
+        },
+        {
+            "term": "Mood",
+            "definition": "Feeling or atmosphere that the writer creates, using connotative words, sensory images, etc"
+        },
+        {
+            "term": "Motif",
+            "definition": "Unifying element in an artistic work, especially any recurring image, symbol, theme, character type, subject or narrative detail"
+        },
+        {
+            "term": "Onomatopoeia",
+            "definition": "Formation or use of words suggested by the sound of the word itself"
+        },
+        {
+            "term": "Oxymoron",
+            "definition": "2 contradictory words or phrases are combined in a single expression, effect of a condensed paradox"
+        },
+        {
+            "term": "Pathetic Fallacy",
+            "definition": "Human feelings are reflected in the things that occur in weather"
+        },
+        {
+            "term": "Paradox",
+            "definition": "A type of self-contradictory metaphor to attract attention and provoke fresh thought"
+        },
+        {
+            "term": "Personification",
+            "definition": "Human qualities or characteristics are given to an animal, object, or concept"
+        },
+        {
+            "term": "Pun",
+            "definition": "A form of wit, not necessarily funny, involving playing on a word with 2+ meanings"
+        },
+        {
+            "term": "Refrain",
+            "definition": "A phrase or line repeated at intervals within a poem, especially at the end of a stanza"
+        },
+        {
+            "term": "Rhetorical Question",
+            "definition": "A  question asked in order to create a dramatic effect to make a point rather than getting an answer"
+        },
+        {
+            "term": "Rhyme",
+            "definition": "Same syllables"
+        },
+        {
+            "term": "Satire",
+            "definition": "Foolish ideas or customs are ridiculed for the purpose of improving society"
+        },
+        {
+            "term": "Simile",
+            "definition": "2 unlike things are compared, using words such as like, as, than, similar to, etc."
+        },
+        {
+            "term": "Soliloquy",
+            "definition": "A dramatic convention in which a character speaks his/her thoughts aloud alone on stage"
+        },
+        {
+            "term": "Stream of Consciousness",
+            "definition": "Presents a flow of thoughts, responses, and sensations of 1+ characters"
+        },
+        {
+            "term": "Stanza",
+            "definition": "A poetic paragraph"
+        },
+        {
+            "term": "Symbolism",
+            "definition": "A person, object, idea or action that stands for something else"
+        },
+        {
+            "term": "Syntax",
+            "definition": "Sentence structure"
+        },
+        {
+            "term": "Tone",
+            "definition": "The writer or speaker’s attitude toward a subject"
+        }
+    ]
+
+
+}
