@@ -295,6 +295,17 @@ font-size: 16px;
 line-height: 1.4;
 }
 
+
+.buttonSt {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    position: relative; 
+    margin: 0 auto;
+    display: block;
+    
+}
+
 /*Card design on most pages inspired by https://www.freecodecamp.org/news/learn-css-basics-by-building-a-card-component/ */
 /*Button designs below inspired by https://blog.christopherianmurphy.com/2017/04/glowing-button/*/
 

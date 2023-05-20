@@ -1,0 +1,222 @@
+{
+    "setTitle": "Literary Terms",
+    "setID": 1000001,
+    "cards": [
+        {
+            "term": "Bouteille d'eau en plastique",
+            "definition": "Plastic Water Bottle"
+        },
+        {
+            "term": "Gaspillage",
+            "definition": "Waste"
+        },
+        {
+            "term": "Les microplastiques",
+            "definition": "Microplastics"
+        },
+        {
+            "term": "Le gaspillage electronique",
+            "definition": "E-waste"
+        },
+        {
+            "term": "Le gasipllage alimentaire",
+            "definition": "Food waste"
+        },
+        {
+            "term": "Les déchets toxiques",
+            "definition": "Toxic waste"
+        },
+        {
+            "term": "Jeter",
+            "definition": "To throw"
+        },
+        {
+            "term": "Reparer",
+            "definition": "To repair"
+        },
+        {
+            "term": "Composter",
+            "definition": "To compost"
+        },
+
+        
+        {
+            "term": "Le deforestation",
+            "definition": "Deforestation"
+        },
+        {
+            "term": "La desertification",
+            "definition": "Desertification"
+        },  
+        {
+            "term": "La fonte des glaciers",
+            "definition": "The melting of glaciers"
+        }, 
+        {
+            "term": "L'industrie chimique",
+            "definition": "Chemical industry"
+        },
+        {
+            "term": "L'agriculture industrielle",
+            "definition": "Industrial Agriculture"
+        },         
+        {
+            "term": "Les pesticides",
+            "definition": "Pesticides"
+        }, 
+        {
+            "term": "La pollution de l'air",
+            "definition": "Air pollution"
+        }, 
+        {
+            "term": "La pollution de l'eau",
+            "definition": "Water pollution"
+        }, 
+        {
+            "term": "La pollution du sol",
+            "definition": "Soil pollution"
+        },
+        {
+            "term": "Le rechauffement climatiuqe",
+            "definition": "Global warming"
+        }, 
+        {
+            "term": "La degradation de l'environment",
+            "definition": "Environmental degradation"
+        }, 
+        {
+            "term": "Reduire",
+            "definition": "To reduce"
+        },
+        {
+            "term": "Reutiliser",
+            "definition": "To reuse"
+        },
+        {
+            "term": "Recycler",
+            "definition": "To recycle"
+        },
+        {
+            "term": "Planter",
+            "definition": "To plant"
+        },
+
+
+        {
+            "term": "Empreinte carbone",
+            "definition": "Carbon footprint"
+        },
+        {
+            "term": "Transport public",
+            "definition": "Public trnasport"
+        },
+        {
+            "term": "L'avion",
+            "definition": "The plane"
+        },
+        {
+            "term": "Le bus",
+            "definition": "The bus"
+        },
+        {
+            "term": "Le metro",
+            "definition": "The subway"
+        },
+        {
+            "term": "Le train",
+            "definition": "The train"
+        },
+        {
+            "term": "Le voiture",
+            "definition": "The car"
+        },
+        {
+            "term": "Le velo",
+            "definition": "The bike"
+        },
+        {
+            "term": "Une voiture electrique",
+            "definition": "An electric car"
+        },
+        {
+            "term": "Une voiture essence",
+            "definition": "A petrol car"
+        },
+        {
+            "term": "Gaz a effet de serre",
+            "definition": "Greenhouse gas"
+        },
+        {
+            "term": "Gaz carbonique",
+            "definition": "Carbon dioxide"
+        },
+        {
+            "term": "Le méthane",
+            "definition": "Methane"
+        },
+        {
+            "term": "Se déplacer a pied",
+            "definition": "To walk"
+        },
+        {
+            "term": "Bannir les énergies fossiles",
+            "definition": "To ban fossil fuels"
+        },       
+
+
+        {
+            "term": "Limiter la consommation d'énergie",
+            "definition": "Limit energy usage"
+        },
+        {
+            "term": "Éteindre les lumières",
+            "definition": "Turn off the lights"
+        },
+        {
+            "term": "Les ampoules LED",
+            "definition": "LED lights"
+        },
+        {
+            "term": "Énergies renouvables",
+            "definition": "Renewable energy"
+        },
+        {
+            "term": "Des panneaux solaires",
+            "definition": "Solar panels"
+        },
+
+
+
+
+
+        {
+            "term": "Economiser d'eau",
+            "definition": "To save water"
+        },
+        {
+            "term": "Le douche",
+            "definition": "The shower"
+        },
+
+
+        {
+            "term": "Vegetarien",
+            "definition": "Vegetarian"
+        },
+        {
+            "term": "Vegane",
+            "definition": "Vegan"
+        },
+        {
+            "term": "Ecologiste",
+            "definition": "Ecologist"
+        },
+        {
+            "term": "Environmentaliste",
+            "definition": "Environmentalist"
+        }
+
+    ]
+
+
+}
