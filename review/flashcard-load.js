@@ -52,6 +52,7 @@ fetch(directS)
 
 
 
+
  
 
 
@@ -67,16 +68,18 @@ fetch(directS)
 
 
 
-
        window.addEventListener("DOMContentLoaded", (event) => {
         cardDisplay = document.getElementById("flashcardW");
+        noDisplay =  document.getElementById("flashcardNo");
         forwardButton = document.getElementById('forwardButton');
         backwardButton = document.getElementById("backwardButton");
         flipButton = document.getElementById("flipButton");
 
+        if (noDisplay) {
+            document.getElementById("flashcardNo").innerHTML = "1/" + dataTotalCards.toString();
+        }
         if (cardDisplay) {
             document.getElementById("flashcardW").innerHTML = dataSET[n]["term"];
-            document.getElementById('flaschardNo').innerHTML = (n+1).toString; + "/" + (dataTotalCards+1).toString;
         }
         if (forwardButton) {
             forwardButton.addEventListener('click', forward);
@@ -100,9 +103,10 @@ function forward() {
        else {n = 0}
        
        cardDisplay.textContent = dataSET[n]["term"];
+       noDisplay.innerHTML = (n+1).toString() + "/" + dataTotalCards.toString();
+
        flip = false;
 
-       document.getElementById('flaschardNo').innerHTML = (n+1).toString; + "/" + (dataTotalCards+1).toString;
     }
 
 //go backward button
@@ -113,9 +117,9 @@ function backward() {
     else {n = (dataTotalCards - 1)}
 
     cardDisplay.textContent = dataSET[n]["term"];
+    noDisplay.innerHTML = (n+1).toString() + "/" + dataTotalCards.toString();
     flip = false;
 
-    document.getElementById('flaschardNo').innerHTML = (n+1).toString; + "/" + (dataTotalCards+1).toString;
 
 }
 
