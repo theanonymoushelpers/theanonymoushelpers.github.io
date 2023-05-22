@@ -1,0 +1,186 @@
+{
+    "setTitle": "1 Identite",
+    "setID": 1000100,
+    "cards": [
+        {
+            "term": "Benevole",
+            "definition": "volunteer"
+        },
+        {
+            "term": "Sourire",
+            "definition": "smile"
+        },
+        {
+            "term": "Heureux",
+            "definition": "happy"
+        },
+        {
+            "term": "Bonheur",
+            "definition": "happiness"
+        },
+        {
+            "term": "Mon propre plaisir",
+            "definition": "my own pleasure"
+        },
+        {
+            "term": "Les ménagers",
+            "definition": "housework"
+        },
+        {
+            "term": "Randonnée",
+            "definition": "walk"
+        },
+        {
+            "term": "Chute",
+            "definition": "decrease"
+        },
+        {
+            "term": "Bâtiments",
+            "definition": "buildings"
+        },
+        {
+            "term": "Piste de vélo",
+            "definition": "bike path"
+        },
+        {
+            "term": "Pédalo",
+            "definition": "pedal boat"
+        },
+        {
+            "term": "Balade en pirogue",
+            "definition": "canoe"
+        },
+        {
+            "term": "Planche à voile",
+            "definition": "windsurfing"
+        },
+        {
+            "term": "Plongée sous marine",
+            "definition": "scuba diving"
+        },       
+        {
+            "term": "Dingue",
+            "definition": "crazy"
+        },
+        {
+            "term": "Bosser",
+            "definition": "to work"
+        },
+        {
+            "term": "Détendre",
+            "definition": "to relax"
+        },
+        {
+            "term": "Philatélie",
+            "definition": "stamp collecting"
+        },
+        {
+            "term": "Maigrissait",
+            "definition": "was losing weight"
+        },
+        {
+            "term": "Perdre du poids",
+            "definition": "losing weight"
+        },
+        {
+            "term": "Vagues",
+            "definition": "waves"
+        },
+        {
+            "term": "Maudits",
+            "definition": "cursed"
+        },
+        {
+            "term": "Gache",
+            "definition": "spoils"
+        },
+        {
+            "term": "Banal",
+            "definition": "boring"
+        },
+        {
+            "term": "Balnéaire",
+            "definition": "seaside"
+        },
+        {
+            "term": "Hébergement",
+            "definition": "accommodation"
+        },
+        {
+            "term": "Travaux",
+            "definition": "work"
+        },
+        {
+            "term": "L’accelliment",
+            "definition": "bullying"
+        },
+        {
+            "term": "Durant",
+            "definition": "throughout"
+        },
+        {
+            "term": "Epoque",
+            "definition": "time"
+        },
+        {
+            "term": "Nuire",
+            "definition": "harm"
+        },
+        {
+            "term": "Abordant",
+            "definition": "addressing"
+        },
+        {
+            "term": "Auberge de jeunesse",
+            "definition": "youth hostels"
+        },
+        {
+            "term": "En vrac",
+            "definition": "in bulk"
+        },
+        {
+            "term": "Croisière",
+            "definition": "cruise"
+        },        
+        {
+            "term": "Etonnant",
+            "definition": "amazing"
+        },
+        {
+            "term": "Pêcher",
+            "definition": "to fish"
+        },
+        {
+            "term": "Congés",
+            "definition": "holidays"
+        },
+        {
+            "term": "Faire de bricolage",
+            "definition": "DIY"
+        },
+        {
+            "term": "Quanta",
+            "definition": "to whom it may concern"
+        },
+        {
+            "term": "Bousculer",
+            "definition": "hustle/jostle"
+        },
+        {
+            "term": "étapes",
+            "definition": "levels"
+        },
+        {
+            "term": "Gestion",
+            "definition": "control"
+        },
+        {
+            "term": "A louer",
+            "definition": "for rent"
+        }
+        
+
+    ]
+
+
+}
