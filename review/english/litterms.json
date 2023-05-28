@@ -19,6 +19,34 @@
             "definition": "Double or multiple meanings"
         },
         {
+            "term": "Anachronism",
+            "definition": "Something out of its proper time; an error where something belongs to a different historical period"
+        },
+        {
+            "term": "Anaphora",
+            "definition": "Repetition of a word or phrase at the beginning of successive clauses or sentences for emphasis"
+        },
+        {
+            "term": "Anthropromorphism",
+            "definition": "Attribution of human characteristics or behavior to non-human entities, such as animals or objects"
+        },
+        {
+            "term": "Antithesis",
+            "definition": "Contrast or opposition between two ideas, expressed through parallelism, to highlight their differences"
+        },
+        {
+            "term": "Analogy",
+            "definition": "A comparison between two things to highlight their similarities and aid understanding"
+        },
+        {
+            "term": "Anecdotal Evidence",
+            "definition": "Personal stories or experiences used to support an argument or claim, often lacking statistical validity"
+        },
+        {
+            "term": "Archaic Language",
+            "definition": "Old-fashioned or outdated language no longer commonly used in contemporary communication"
+        },     
+        {
             "term": "Appeals",
             "definition": "Persuasive strategy to the audience"
         },
@@ -47,6 +75,46 @@
             "definition": "A resemblance of sounds of words or syllables between vowels or consonants"
         },
         {
+            "term": "Asyndeton",
+            "definition": "Old-fashioned or outdated language no longer commonly used in contemporary communication"
+        },
+        {
+            "term": "Ballad",
+            "definition": "Narrative poem or song, often telling a story with emotional or romantic themes"
+        },     
+        {
+            "term": "Cacophony",
+            "definition": "Harsh, discordant sounds or a jarring combination of words, creating an unpleasant auditory effect"
+        },     
+        {
+            "term": "Caption",
+            "definition": "A brief description or title accompanying an image or illustration to provide context or explanation"
+        },     
+        {
+            "term": "Catastrophe",
+            "definition": "A sudden, disastrous event or a turning point in a story where things take a disastrous turn"
+        },     
+        {
+            "term": "Climax",
+            "definition": "The highest point of tension or the most intense moment in a narrative or dramatic work"
+        },     
+        {
+            "term": "Comedy",
+            "definition": "A genre characterized by humorous or light-hearted content, often involving amusing situations and happy endings"
+        },     
+        {
+            "term": "Comic relief",
+            "definition": "Humorous or light-hearted elements in a serious or tragic work, providing temporary relief from tension"
+        },     
+        {
+            "term": "Connotation",
+            "definition": "The implied or associated meaning of a word, beyond its literal definition"
+        },     
+        {
+            "term": "Couplet",
+            "definition": "Two consecutive lines of poetry that often rhyme and form a complete thought or idea"
+        },     
+        {
             "term": "Characterization",
             "definition": "Techniques to develop characters"
         },
@@ -63,6 +131,90 @@
             "definition": "Repetition of same consonant in nearby words"
         },
         {
+            "term": "Denouement",
+            "definition": "The resolution or final outcome of a plot in a story or play."
+        },
+        {
+            "term": "Deus ex machina",
+            "definition": "A contrived or unexpected intervention that resolves a seemingly unsolvable problem."
+        },
+        {
+            "term": "Dialogue",
+            "definition": "Conversation between characters in a literary work or a dramatic performance."
+        },
+        {
+            "term": "Diction",
+            "definition": "The choice and use of words and phrases in speech or writing."
+        },
+        {
+            "term": "Dynamic character",
+            "definition": "A character in a story who undergoes significant internal change or development."
+        },
+        {
+            "term": "Editorial",
+            "definition": "An article expressing the opinion of the editor or publisher of a newspaper or magazine."
+        },
+        {
+            "term": "Elegy",
+            "definition": "A mournful poem or song expressing sorrow or lamentation, often for the dead."
+        },
+        {
+            "term": "Emanata",
+            "definition": "Visual symbols used in comics to represent emotions, actions, or other sensory experiences."
+        },
+        {
+            "term": "Emotional appeal",
+            "definition": "A persuasive technique that evokes strong emotions in order to sway an audience's opinion or decision."
+        },
+        {
+            "term": "Epic",
+            "definition": "A long narrative poem or story typically depicting heroic deeds, legendary events, or a grand journey."
+        },
+        {
+            "term": "Epilogue",
+            "definition": "A concluding section or chapter that provides a glimpse into the future or wraps up loose ends."
+        },
+        {
+            "term": "Epigram",
+            "definition": "A concise and witty statement or verse that often satirizes or surprises with a clever twist."
+        },
+        {
+            "term": "Epistrophe",
+            "definition": "Repetition of a word or phrase at the end of successive clauses or sentences for emphasis."
+        },
+        {
+            "term": "Epitaph",
+            "definition": "An inscription on a tombstone or a commemorative statement about a deceased person."
+        },
+        {
+            "term": "Escape literature",
+            "definition": "Fictional works that provide entertainment and offer a temporary escape from reality or everyday life."
+        },
+        {
+            "term": "Euphemism",
+            "definition": "A mild or indirect word or phrase used to substitute for a harsh, offensive, or unpleasant one."
+        },
+        {
+            "term": "Exposition",
+            "definition": "The introduction of background information or setting in a literary work."
+        },
+        {
+            "term": "Fable",
+            "definition": "A short fictional story often featuring animals or inanimate objects that conveys a moral lesson."
+        },
+        {
+            "term": "Figurative language",
+            "definition": "Language that uses figures of speech to go beyond the literal meaning, adding depth and imagery."
+        },
+        {
+            "term": "Free verse",
+            "definition": "Poetry that doesn't adhere to a specific rhyme scheme or meter, allowing for greater freedom of expression."
+        },
+        {
+            "term": "Full circle ending",
+            "definition": "A narrative ending that brings the story back to its beginning or resolves a central conflict."
+        },
+        {
             "term": "Flashback",
             "definition": "A scene that happened earlier in the story"
         },
@@ -77,6 +229,18 @@
         {
             "term": "Genre",
             "definition": "Type of work with unique style, tone, elements, etc"
+        },
+        {
+            "term": "Graphic text",
+            "definition": "Text combined with images or visual elements, often found in graphic novels or comics."
+        },
+        {
+            "term": "Gutter",
+            "definition": "The space between panels in a comic strip or graphic novel where no action or imagery is present."
+        },
+        {
+            "term": "Hypophora",
+            "definition": "A figure of speech where a speaker poses a question and immediately answers it."
         },
         {
             "term": "Hyperbole",
@@ -103,12 +267,32 @@
             "definition": "Reader knows something that the characters do not"
         },
         {
+            "term": "Iambic pentameter",
+            "definition": "A metrical pattern in poetry consisting of five iambs, with each iamb having an unstressed and a stressed syllable."
+        },
+        {
+            "term": "Idiom",
+            "definition": "A phrase or expression with a figurative meaning that is different from the literal interpretation."
+        },
+        {
+            "term": "Interior monologue",
+            "definition": "A narrative technique that presents the thoughts and inner workings of a character's mind."
+        },
+        {
             "term": "Jargon",
             "definition": "Special words or expressions used by a specific group that is difficult for others to understand"
         },
         {
             "term": "Juxtaposition",
             "definition": "Putting 2 things next to each other to compare"
+        },
+        {
+            "term": "Lexical field",
+            "definition": "A group of words or vocabulary related to a specific topic, theme, or subject."
+        },
+        {
+            "term": "Lyric",
+            "definition": "A short poem expressing personal emotions or feelings, often with musical qualities."
         },
         {
             "term": "Metaphor",
@@ -123,12 +307,72 @@
             "definition": "Unifying element in an artistic work, especially any recurring image, symbol, theme, character type, subject or narrative detail"
         },
         {
+            "term": "Melodrama",
+            "definition": "A genre characterized by exaggerated emotions, sensational events, and predictable plotlines."
+        },
+        {
+            "term": "Memoir",
+            "definition": "An autobiographical account or narrative that focuses on specific events or periods from the author's life."
+        },
+        {
+            "term": "Metonymy",
+            "definition": "A figure of speech where a word is replaced by something closely associated with it."
+        },
+        {
+            "term": "Metre",
+            "definition": "A rhythmic pattern or structure in poetry, determined by stressed and unstressed syllables."
+        },
+        {
+            "term": "Monologue",
+            "definition": "A long speech or verbal expression by a single character in a play, story, or performance."
+        },
+        {
+            "term": "Myth",
+            "definition": "A traditional story or legend that explains beliefs, customs, or natural phenomena of a culture."
+        },
+        {
+            "term": "Narration",
+            "definition": "The act of telling a story or recounting events, often through a narrator or point of view."
+        },
+        {
             "term": "Onomatopoeia",
             "definition": "Formation or use of words suggested by the sound of the word itself"
         },
         {
             "term": "Oxymoron",
             "definition": "2 contradictory words or phrases are combined in a single expression, effect of a condensed paradox"
+        },
+        {
+            "term": "Objective",
+            "definition": "Unbiased or impartial perspective that presents facts or information without personal opinions or emotions."
+        },
+        {
+            "term": "Ode",
+            "definition": "A lyrical poem expressing admiration, praise, or strong emotion towards a particular subject."
+        },
+        {
+            "term": "Parody",
+            "definition": "A humorous or mocking imitation of a specific work, style, or genre."
+        },
+        {
+            "term": "Perspective",
+            "definition": "A particular point of view or way of perceiving and interpreting events, characters, or situations."
+        },
+        {
+            "term": "Polysyndeton",
+            "definition": "The deliberate and excessive use of conjunctions within a sentence or series of sentences."
+        },
+        {
+            "term": "Prologue",
+            "definition": "An introductory section or opening of a literary work that provides background information or sets the stage."
+        },
+        {
+            "term": "Prose",
+            "definition": "Ordinary written or spoken language that lacks a formal rhythmic or metrical structure."
+        },
+        {
+            "term": "Proverb",
+            "definition": "A short, traditional saying that imparts wisdom, moral lessons, or practical advice."
         },
         {
             "term": "Pathetic Fallacy",
@@ -157,6 +401,26 @@
         {
             "term": "Rhyme",
             "definition": "Same syllables"
+        },
+        {
+            "term": "Repetition",
+            "definition": "The deliberate use of the same word, phrase, or sentence structure for emphasis or rhetorical effect."
+        },
+        {
+            "term": "Rhythm",
+            "definition": "The pattern of stressed and unstressed syllables in language, creating a musical quality in writing or speech."
+        },
+        {
+            "term": "Sonnet",
+            "definition": "A 14-line poetic form with a specific rhyme scheme, often expressing love, beauty, or deep emotions."
+        },
+        {
+            "term": "Suspense",
+            "definition": "A feeling of anticipation, uncertainty, or tension created in a narrative to keep the reader engaged."
+        },
+        {
+            "term": "Synecdoche",
+            "definition": "A figure of speech where a part of something is used to represent the whole or vice versa."
         },
         {
             "term": "Satire",
@@ -189,6 +453,34 @@
         {
             "term": "Tone",
             "definition": "The writer or speaker’s attitude toward a subject"
+        },
+        {
+            "term": "Tension",
+            "definition": "A state of heightened excitement, suspense, or unease that keeps the reader engaged in a story or narrative."
+        },
+        {
+            "term": "Theme",
+            "definition": "The central message, idea, or underlying meaning in a literary work."
+        },
+        {
+            "term": "Thesis",
+            "definition": "A statement or theory put forward as a premise to be proved or supported in an essay or academic work."
+        },
+        {
+            "term": "Tragedy",
+            "definition": "A genre characterized by serious or sorrowful events leading to the downfall or suffering of the protagonist."
+        },
+        {
+            "term": "Tricolon",
+            "definition": "A rhetorical device consisting of three parallel clauses, phrases, or words in close succession."
+        },
+        {
+            "term": "Verse",
+            "definition": "A line of poetry, typically characterized by metrical rhythm and often grouped into stanzas."
+        },
+        {
+            "term": "Zoomorphism",
+            "definition": "The attribution of animal characteristics or qualities to humans, objects, or abstract concepts."
         }
     ]
 
