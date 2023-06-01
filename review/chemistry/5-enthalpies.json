@@ -1,0 +1,74 @@
+{
+    "setTitle": "Enthalpy Definitions",
+    "setID": 300100,
+    "cards": [
+        {
+            "term": "Enthalpy of Hydration",
+            "definition": "The enthalpy change when 1 mole of gaseous ions dissolve in water such that the solution is infinitely dilute."
+        },
+        {
+            "term": "Enthalpy of Atomization",
+            "definition": "The enthalpy change when all atoms are separated in a chemical substance."
+        },
+        {
+            "term": "Enthalpy of Solution",
+            "definition": "The heat that is released/absorbed when solute dissolves in solvent at a constant pressure."
+        },
+        {
+            "term": "Enthalpy of Formation",
+            "definition": "The enthalpy change when one mole of a compound in its standard state is formed from its constituent elements in their standard states under standard conditions."
+        },
+        {
+            "term": "Enthalpy of Combustion",
+            "definition": "The enthalpy change when one mole of a compound is burned completely in oxygen under standard conditions, and with everything in their standard states."
+        },
+        {
+            "term": "Enthalpy of Neutralization",
+            "definition": "The enthalpy change when solutions of an acid and an alkali (base) react together under standard coditions to produce 1 mole of water."
+        },
+        {
+            "term": "Enthalpy of Vaporization",
+            "definition": "The enthalpy change whern a specific amount of substance changes from a liquid to gas at a constant temperature and pressure."
+        },
+        {
+            "term": "Enthalpy of Fusion",
+            "definition": "The heat that a solid absorbs when it changes state from a solid to a liquid."
+        },
+        {
+            "term": "Lattice Enthalpy",
+            "definition": "Measure of the strength of forces between ions in an ionic solid."
+        },
+        {
+            "term": "Bond Enthalpy",
+            "definition": "The enthalpy change when 1 mole of covalent bonds, in a gaseous molecule, are broken under standard conditions."
+        },
+        {
+            "term": "Specific Heat Capacity",
+            "definition": "The amount of energy (in Joules) it takes to raise the temperature of a substance by 1K."
+        },
+        {
+            "term": "What is `Delta G` in G=H-TS?",
+            "definition": "Spontaneity"
+        },
+        {
+            "term": "What is `H` in G=H-TS?",
+            "definition": "Enthalpy"
+        },
+        {
+            "term": "What is `T` in G=H-TS?",
+            "definition": "Temperature"
+        },
+        {
+            "term": "What is `Delta S` in G=H-TS?",
+            "definition": "Entropy"
+        }
+ 
+
+
+
+        
+
+    ]
+
+
+}
