@@ -1,8 +1,6 @@
 {
     "quizID": 3511,
     "title": "Energy",
-    "totalQuCount": 21, 
-    "quCountToDisplay": 5,
     "questionList": [
         {
             "qu": "Which statement about bonding is correct?",

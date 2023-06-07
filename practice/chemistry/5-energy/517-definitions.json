@@ -1,0 +1,204 @@
+{
+    "quizID": 3517,
+    "title": "SL Chapter 5 Review",
+    "questionList": [
+        {
+            "qu": "What is the definition for Enthalpy of Formation?",
+            "a1": "The Enthalpy change when a compound in its standard state is formed from its constituent elements in their standard states, under standard conditions.",
+            "a2": "The Enthalpy change when one mole of a compound is formed from its constituent elements in their standard states, under standard conditions.",
+            "a3": "The Enthalpy change when one mole of a compound in its standard state is formed from its constituent elements in their standard states.",
+            "a4": "The Enthalpy change when one mole of a compound in its standard state is formed from its constituent elements in their standard states, under standard conditions",
+            "ans": 4,
+            "marks": 1,
+            "solution": "The Enthalpy change when one mole of a compound in its standard state is formed from its constituent elements in their standard states, under standard conditions"
+        },
+        {
+            "qu": "What is the definition of enthalpy of combustion?",
+            "a1": "The enthalpy change when one mole of the compound is burned completely in oxygen, and with everything in its standard state.",
+            "a2": "The enthalpy change when one mole of the compound is burned completely in oxygen which is in standard state under standard conditions, and with everything in its standard state.",
+            "a3": "The enthalpy change when one mole of the compound is burned completely in oxygen under standard conditions, and with everything in its standard state.",
+            "a4": "The enthalpy change when one mole of the compound is burned completely in oxygen under standard conditions.",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The enthalpy change when one mole of the compound is burned completely in oxygen which is in standard state under standard conditions, and with everything in its standard state."
+        },
+        {
+            "qu": "What is the definition of Enthalpy of Neutralization?",
+            "a1": "The standard enthalpy change of neutralization is the enthalpy change when an acid and an alkali react together under standard conditions to produce on mole of water.",
+            "a2": "The standard enthalpy change of neutralization is the enthalpy change when solutions of an acid and an alkali react together under standard conditions to produce on mole of water.",
+            "a3": "The standard enthalpy change of neutralization is the enthalpy change when solutions of an acid and an alkali react together to produce on mole of water.",
+            "a4": "The standard enthalpy change of neutralization is the enthalpy change when solutions of an acid and an alkali react together under standard conditions to produce water.",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The standard enthalpy change of neutralization is the enthalpy change when solutions of an acid and an alkali react together under standard conditions to produce on mole of water."
+        },
+        {
+            "qu": "What is Specific Heat Capacity?",
+            "a1": "The amount of heat it takes to raise the temperature of a substance by 1 degree.",
+            "a2": "The amount of energy it takes to raise the temperature of a substance.",
+            "a3": "The amount of energy it takes to raise the temperature of a substance by 1 degree.",
+            "a4": "The amount of mechanical energy it takes to raise the temperature of a substance by 1 degree.",
+            "ans": 3,
+            "marks": 1,
+            "solution": "The amount of energy it takes to raise the temperature of a substance by 1 degree."
+        },
+        {
+            "qu": "What is the definition of bond enthalpy?",
+            "a1": "The enthalpy change when 1 mole of covalent bonds, in a sold molecule, are broken under standard conditions.",
+            "a2": "The enthalpy change when 1 mole of covalent bonds, in a aqueous molecule, are broken under standard conditions.",
+            "a3": "The enthalpy change when 1 mole of covalent bonds, in a gaseous molecule, are broken under standard conditions.",
+            "a4": "The enthalpy change when covalent bonds, in a gaseous molecule, are broken under standard conditions.",
+            "ans": 3,
+            "marks": 1,
+            "solution": "The enthalpy change when 1 mole of covalent bonds, in a gaseous molecule, are broken under standard conditions."
+        },
+        {
+            "qu": "What is bond breaking?",
+            "a1": "Exothermic",
+            "a2": "Endoothermic",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Endoothermic"
+        },
+        {
+            "qu": "What is bond forning",
+            "a1": "Endothermic",
+            "a2": "Exothermic",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Exothermic"
+        },
+        {
+            "qu": "What is the definition of average bond enthalpy?",
+            "a1": "The average amount of energy required to break 10 moles of covalent bonds, in a gaseous molecule under standard conditions. 'Average' refers to the fact that the bond enthalpy is different in the different molecules and so the value quoted is the average amount of energy to break a particular bond in a range on compounds.",
+            "a2": "The average amount of energy required to break 1 mole of covalent bonds, in a gaseous molecule under standard conditions. 'Average' refers to the fact that the bond enthalpy is different in the different molecules and so the value quoted is the average amount of energy to break a particular bond in a range on compounds.",
+            "a3": "The average amount of energy required to break 1 mole of covalent bonds, in a aqueous molecule under standard conditions. 'Average' refers to the fact that the bond enthalpy is different in the different molecules and so the value quoted is the average amount of energy to break a particular bond in a range on compounds.",
+            "a4": "The amount of energy required to break 1 mole of covalent bonds, in a aqueous molecule under standard conditions. 'Average' refers to the fact that the bond enthalpy is different in the different molecules and so the value quoted is the average amount of energy to break a particular bond in a range on compounds.",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The average amount of energy required to break 1 mole of covalent bonds, in a gaseous molecule under standard conditions. 'Average' refers to the fact that the bond enthalpy is different in the different molecules and so the value quoted is the average amount of energy to break a particular bond in a range on compounds."
+        },
+        {
+            "qu": "What is an open system?",
+            "a1": "Matter can enter or leave the system",
+            "a2": "Matter and/or energy can enter or leave the system",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Matter and/or energy can enter or leave the system"
+        },
+        {
+            "qu": "What is a closed system",
+            "a1": "Only energy can enter or leave the system.",
+            "a2": "Only matter can enter or leave the system.",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Only energy can enter or leave the system."
+        },
+        {
+            "qu": "How can you tell if a reaction is exothermic?",
+            "a1": "If Delta H is negative",
+            "a2": "If Delta H is positive",
+            "ans": 1,
+            "marks": 1,
+            "solution": "If Delta H is negative"
+        },
+        {
+            "qu": "How can you tell if a reaction is endothermic?",
+            "a1": "If Delta H is negative",
+            "a2": "If Delta H is positive",
+            "ans": 2,
+            "marks": 1,
+            "solution": "If Delta H is positive"
+        },
+        {
+            "qu": "Which is true about standard conditions?",
+            "a1": "Concentration of solutions: 1 mol/dm3",
+            "a2": "Concentration of solutions: 1 dm3",
+            "a3": "Concentration of gaseuous solutions: 1 mol/dm3",
+            "a4": "Concentration of aqueous solutions: 1 mol/dm3",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Concentration of solutions: 1 mol/dm3"
+        },
+        {
+            "qu": "Which is true about standard conditions?",
+            "a1": "Pressure = 100 kPa/dm3",
+            "a2": "Pressure = 100 kPa",
+            "a3": "Pressure = 10 kPa",
+            "a4": "Pressure = 1000 kPa",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Pressure = 100 kPa"
+        },
+        {
+            "qu": "Which is true about standard conditions?",
+            "a1": "Temperature = 0K",
+            "a2": "Temperature = 100K",
+            "a3": "Not defined but usually 298K",
+            "a4": "Not defined but usually 0K",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Not defined but usually 298K"
+        },
+        {
+            "qu": "Which is true about standard conditions?",
+            "a1": "Material is in most stable phase of a material.",
+            "a2": "Material is in most aeroodynamically stable version of a material.",
+            "a3": "Material is in most stable version of a material.",
+            "a4": "Material is in most thermodynamically stable version of a material.",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Material is in most thermodynamically stable version of a material."
+        },
+        {
+            "qu": "In q = mcT, which is correct?",
+            "a1": "q = Heat energy (J), m = molar mass (g), T = Change in temp (K)",
+            "a2": "q = Heat energy (J), m = moles (m), T = Change in temp (K)",
+            "a3": "q = Heat energy (J), m = mass (g), T = Change in temp (K)",
+            "a4": "q = Enthalpy energy (J), m = mass (g), T = Change in temp (K)",
+            "ans": 3,
+            "marks": 1,
+            "solution": "q = Heat energy (J), m = mass (g), T = Change in temp (K)"
+        },
+        {
+            "qu": "Which equation is correct?",
+            "a1": "H (Bonds broken) - H (Bonds formed) = H (Reaction)",
+            "a2": "H (Bonds broken) + H (Bonds formed) = H (Reaction)",
+            "a3": "H (Bonds formed) - H (Bonds broken) = H (Reaction)",
+            "a4": "H (Bonds formed) + H (Bonds broken) = H (Reaction)",
+            "ans": 1,
+            "marks": 1,
+            "solution": "H (Bonds broken) - H (Bonds formed) = H (Reaction)"
+        },
+        {
+            "qu": "How do you calculate enthalpy of formation?",
+            "a1": "Reactants - Products",
+            "a2": "Product + Reactants",
+            "a3": "Product - Reactants",
+            "a4": "Product * Reactants",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Product - Reactants"
+        },
+        {
+            "qu": "How do you calculate enthalpy of combustion?",
+            "a1": "Product - Reactants",
+            "a2": "Reactants - Products",
+            "a3": "Reactants + Products",
+            "a4": "Product / Reactants",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Reactants - Products"
+        }
+       
+
+
+
+
+
+
+
+
+    ]
+
+}
