@@ -1,0 +1,38 @@
+{
+    "setTitle": "SI Units and Derived Units",
+    "setID": 701100,
+    "cards": [
+        {
+            "term": "What is the SI unit for length?",
+            "definition": "Metre (m)"
+        },
+        {
+            "term": "What is the SI unit for time?",
+            "definition": "Second (s)"
+        },
+        {
+            "term": "What is the SI unit for mass?",
+            "definition": "Kilogram (kg)"
+        },
+        {
+            "term": "What is the SI unit for electric current?",
+            "definition": "Ampere (A)"
+        },
+        {
+            "term": "What is the SI unit for temperature?",
+            "definition": "Kelvin (K)"
+        },
+        {
+            "term": "What is the SI unit for the amount of a substance?",
+            "definition": "Mole (mol)"
+        },
+        {
+            "term": "What is the SI unit for luminous intensity?",
+            "definition": "Candela (cd)"
+        },
+        
+
+    ]
+
+
+}

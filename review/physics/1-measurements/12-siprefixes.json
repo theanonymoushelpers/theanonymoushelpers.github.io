@@ -1,0 +1,66 @@
+{
+    "setTitle": "1 Identite",
+    "setID": 701100,
+    "cards": [
+        {
+            "term": "Petta (P)",
+            "definition": "`10^(15)`"
+        },
+        {
+            "term": "Tera (T)",
+            "definition": "`10^(12)`"
+        },
+        {
+            "term": "Giga (G)",
+            "definition": "`10^(9)`"
+        },
+        {
+            "term": "Mega (M)",
+            "definition": "`10^(6)`"
+        },
+        {
+            "term": "Kilo (k)",
+            "definition": "`10^(3)`"
+        },
+        {
+            "term": "Hecto (h)",
+            "definition": "`10^(2)`"
+        },
+        {
+            "term": "Deca (d)",
+            "definition": "`10^(1)`"
+        },
+        {
+            "term": "Deci (d)",
+            "definition": "`10^(-1)`"
+        },
+        {
+            "term": "Centi (c)",
+            "definition": "`10^(-2)`"
+        },
+        {
+            "term": "Milli (m)",
+            "definition": "`10^(-3)`"
+        },
+        {
+            "term": "Micro (μ)",
+            "definition": "`10^(-6)`"
+        },
+        {
+            "term": "Nano (n)",
+            "definition": "`10^(-9)`"
+        },
+        {
+            "term": "Pico (p)",
+            "definition": "`10^(-12)`"
+        },
+        {
+            "term": "Femto (f)",
+            "definition": "`10^(-15)`"
+        }
+        
+
+    ]
+
+
+}
