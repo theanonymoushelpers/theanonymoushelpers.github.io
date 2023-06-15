@@ -1,8 +1,6 @@
 {
     "quizID": 6224,
     "title": "Discriminant of Quadratics",
-    "totalQuCount": 20, 
-    "quCountToDisplay": 5,
     "questionList": [
         {
             "qu": "Find the discriminant of `6p^2-2p-3`.",
@@ -177,9 +175,7 @@
             "a3": "`-2<k<3`",
             "a4": "`-1<k<5`",
             "ans": 2,
-            "timeUpper": 25,
-            "timeMid": 45,
-            "timeLower": 60,
+            "marks": 2,
             "solution": "`k` must be `-8<k<8`." 
         },
         {
@@ -189,9 +185,7 @@
             "a3": "`k=1`",
             "a4": "`k≤-4`",
             "ans": 2,
-            "timeUpper": 25,
-            "timeMid": 45,
-            "timeLower": 60,
+            "marks": 2,
             "solution": "`k` must be `k≥25/4`." 
         }, 
         {
@@ -201,9 +195,7 @@
             "a3": "`-4≤m≤4`",
             "a4": "`m>5`",
             "ans": 3,
-            "timeUpper": 25,
-            "timeMid": 45,
-            "timeLower": 60,
+            "marks": 2,
             "solution": "`m` must be `-4≤m≤4`." 
         },
         {
@@ -213,9 +205,7 @@
             "a3": "`m<2 or m>6`",
             "a4": "`m<2 and m>6`",
             "ans": 3,
-            "timeUpper": 25,
-            "timeMid": 45,
-            "timeLower": 60,
+            "marks": 2,
             "solution": "`m` must be `m<2 or m>6`." 
         },
         {
@@ -225,9 +215,7 @@
             "a3": "`k=1 or k=-3`",
             "a4": "`k=-3 and k=2`",
             "ans": 3,
-            "timeUpper": 25,
-            "timeMid": 45,
-            "timeLower": 60,
+            "marks": 2,
             "solution": "`k` must be `k=1 or k=-3`." 
         }
     ]

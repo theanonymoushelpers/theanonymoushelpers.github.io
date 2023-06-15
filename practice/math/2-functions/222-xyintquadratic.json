@@ -285,6 +285,7 @@
             "a4": "9",
             "ans": 3,
             "timeUpper": 10,
+            "marks": 1,
             "solution": "If you convert `f(x)=(x+13)^2-101` into its standard form, you will find that the y-intercept is 68."
         },
         {
@@ -295,6 +296,7 @@
             "a4": "21",
             "ans": 4,
             "timeUpper": 10,
+            "marks": 1,
             "solution": "If you convert `f(x)=(2x+3)(x+7)` into its standard form, you will find that the y-intercept is 21."
         },
         {
@@ -305,6 +307,7 @@
             "a4": "10",
             "ans": 1,
             "timeUpper": 10,
+            "marks": 1,
             "solution": "The y-intercept is `10-4c=10-12=-2`."
         },
         {
@@ -315,6 +318,7 @@
             "a4": "The y-intercept is always the constant of the function",
             "ans": 3,
             "timeUpper": 10,
+            "marks": 1,
             "solution": "You always find the y-intercept of a function by plugging x=0 into the function and solving for y."
         },
         {
@@ -325,6 +329,7 @@
             "a4": "Quadratic functions always have y-intercepts",
             "ans": 4,
             "timeUpper": 10,
+            "marks": 1,
             "solution": "Quadratic functions always have y-intercepts."
         }
     ]

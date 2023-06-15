@@ -30,6 +30,10 @@
             "term": "What is the SI unit for luminous intensity?",
             "definition": "Candela (cd)"
         },
+        {
+            "term": "What are the SI units for force?",
+            "definition": "`kg m/s^2`"
+        }
         
 
     ]

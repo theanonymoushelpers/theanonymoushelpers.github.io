@@ -142,7 +142,7 @@
             "a2": "y=3f(x)+4",
             "a3": "y=f(3x)-4",
             "a4": "y=f(x+3)-4",
-            "ans": 3,
+            "ans": 1,
             "timeUpper": 16,
             "marks": 1,
             "solution": "The function must have `c=3`, and `d=4`, in the form `af(b(x-c)+d`. a and b do not affect the translation, so you can ignore this."
