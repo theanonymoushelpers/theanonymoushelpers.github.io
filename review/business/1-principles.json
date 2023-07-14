@@ -1,0 +1,279 @@
+{
+    "setTitle": "1 - Principles of Business",
+    "setID": 210001,
+    "cards": [
+         {
+            "term": "what is a business",
+            "definition": "decision-making organizatin involved in using inputs (materials) to produce output (products)"
+        },
+         {
+            "term": "distinguish between good and services",
+            "definition": "good: (physical product)services: (intagible products)"
+        },
+         {
+            "term": "distinguish between customers and consumers of a business",
+            "definition": "customer= purchasing the goods consumer= the one who is the end user of any goods or services"
+        },
+         {
+            "term": "what are the four functional areas of business?",
+            "definition": "Human resources (HR): manageing the personnel of the organizationFinance and account: managing the organization's money Marketing: identify/satisying needs/ wants of customer (product, price, promotion, place)Operational: manufacturing"
+        },
+         {
+            "term": "describe the four business sectors of the economy",
+            "definition": "primary sector: extraction, harvesting, and conversion of natural resourcesecondary sector: manufacturing/constructing of productstertiary sector: providing services to the general public quaternary sector: subcategory of tertiary sector, involved in intellectual/knowledge based activities that enervate/share information"
+        },
+         {
+            "term": "what is meant by the chain of production",
+            "definition": "production-> manufacturing-? service (tertiary/quaternary output) -? consumers"
+        },
+         {
+            "term": "what is meant by sectoral change",
+            "definition": "shift in relative share of natural output/ employment to each business sector"
+        },
+         {
+            "term": "differentiate between entrepreneurs and intrapreneurs",
+            "definition": "Entrepreneur: someone who plans, organizes, and manages a business, taking on financial risks in doing so   Intrapreneur: employee who thinks and acts like an entrepreneur within a section of the organization (intrapreneurship)"
+        },
+         {
+            "term": "what are the main reasons for starting up a business",
+            "definition": "(GET CASH) growth earningstransferenceinheritancechallengeautonomysecurityhobbies"
+        },
+        {
+            "term": "what are the main steps in starting up a business",
+            "definition": "Write a business plan Obtain start-up capital Obtain business registration Open a business bank account Marketing"
+        },
+        {
+            "term": "what are the probelms that new businesses may face",
+            "definition": "lack of finance marketing problems unestablished customer base legalities high production costs poor location"
+        },
+        {
+            "term": "what is a business plan and what are the main elements that go into a business plan",
+            "definition": "Business plan: report detailing how a business sets out to achieve its goals/objectives Components: business, product, market, finance, personnel, marketing"
+        },
+        {
+            "term": "distinguish between the private sector and the public sector",
+            "definition": "Private Sector : part of economy run by private indivudals and businesses  Goal is to make profit Owned, financed and run by private individuals or entities   Public sector: under ownership/control of the government Goods and services provided by the government or local authority May be free or sometimes with a small fee"
+        },
+        {
+            "term": "compare and contrast the benefits of a partnership with those of a sole trader",
+            "definition": "Sole trader/sole proprietor: individual who runs/owns a personal business  Unincorporated: owner is same legal entity as the business (bears full responsibility) Advantages: few legal formalities, own boss, profit-taking Disadvantages: unlimited liability, limited sources of finance, high risks, workload/stress   Partnerships: business owned by 2+ people   Ordinary partnerships: max 20 owners  Silent/sleeping partners: investors that don’t actively run the partnership but have a financial stake Partnership deed: legal contract, including amount of finance each contributes, roles of each partner and how profits/losses will be shared Advantages: financial strength, specialization/division of labor, cost-effective Disadvantages: unlimited liability, lack of continuity, prolonged decision-making, lack of harmony"
+        },
+        {
+            "term": "why is the concept of limited liability important for investors?",
+            "definition": "shareholders do not lose their personal belonging if the company goes into debt"
+        },
+        {
+            "term": "what is the difference between a private limited company and a public limited company",
+            "definition": "private limited company  (Ltd): shares are sold to private members/friends  public limited company  (PLC): shares sold to general public via stock exchange"
+        },
+        {
+            "term": "distinguish between non-profit organizations and non-governmental organizations (what types of NGOs are there)",
+            "definition": "non-profit organizations using surplus revenues to achieve their social goals  non-governmental organizations  operates in the private sector, runs for the benefit of others in society  Operational NGOs: established from a given objective/purpose Advocacy NGOs: more aggressive approach to promote/defend a cause to raise awareness"
+        },
+        {
+            "term": "what are the social enterprises",
+            "definition": "using surplus revenues to achieve their social goals"
+        },
+        {
+            "term": "distinguish between coorperatives, microfinance providers and public-private partnerships",
+            "definition": "coorperatives  run by employees/customers with the common goal of creating value for their membersmicrofinance providers   financial service aimed at entrepreneurs of small businesses  Advantages: accessibility, job creation, social wellbeing Disadvantages: unethical, limited finance, limited eligibilitypublic-private partnerships (PPP)   government works together with the private sector to provide certain products together  Can benefit from finances/efficiencies of the private sector and the public sector’s funding/support"
+        },
+        {
+            "term": "outline the benefits of social enterprises from society's point of view",
+            "definition": "Advantages  Incentivized to be more efficient and productive Government can focus on other projects and infrastructure Enjoy the skills and talents of the private sector (can lead to increased efficiency and productivity)Disadvantages  Services provided would be more expensive Prices goes up, government has to subsidize (increase in taxes) Aim of profit may lead to cost cutting, lower quality, higher prices"
+        },
+        {
+            "term": "distinguish between non-governmental organizations (NGOs) and charities",
+            "definition": "Non-governmental organization (NGO)/private voluntary organization: operates in the private sector, runs for the benefit of others in society   Charities: provides voluntary support for good causes  Advantages: social benefits, tax exemptions, public recognition/trust Disadvantages: charity fraud, inefficiencies, limited sources of finance  (charity has a set requirment they must meet- funding wise- while NGOs dont)"
+        },
+        {
+            "term": "what is the difference between an operational NGO and an advocacy NGO",
+            "definition": "Operational NGOs: established from a given objective/purpose Advocacy NGOs: more aggressive approach to promote/defend a cause to raise awareness"
+        },
+        {
+            "term": "how do mission and vision statement differ from one another",
+            "definition": "Vision statement: an organization’s aspirations, shouldn’t be changed   Mission statement: underlying purpose of the organization’s existence/core values, clearly defined and realistic to guide decision-making"
+        },
+        {
+            "term": "why are aim and objectives important to business organizations",
+            "definition": "Aims: general/long-term goals of an organization, vague/abstract   Objectives: short-/medium-term specific time-bound and specific/measurable targets to achieve its aims"
+        },
+        {
+            "term": "differentiate between strategic objectives and tactical objectives, reason for changing objectives",
+            "definition": "Strategic objectives: long-term goals of a business (strategies) Ex. profit maximization, growth, image/reputation Reasons for changing objectives: corporate culture, business age, type/size of organization, etc.      Tactical objectives: short-term goals that affect a section of the organization (tactics) Ex. survival, maximizing sales revenue"
+        },
+        {
+            "term": "why is there a need for organizations to change objectives",
+            "definition": "Changing objectives and innovations (due to changes in environment) Companies change objectives when responding to internal and external changesContext of company must be considered Internal factors  Corporate culture – way the organization works (aggressive, chill, etc.) Type and size of organization – small or big businesses run differently Age of organization – change must be consistent with times Financial status – profit goals, how much money the business has to use Risk profile of shareholders – If investors are risk-averse or risk-loving Private/Public sector  Private = profit Public = serve     External  State of economy – strong or depressed economy affects the company too Government constraints – government telling you not to expand somewhere Presence and power of pressure groups – (e.g. not to expand in the endangered locations)"
+        },
+        {
+            "term": "what is meant by ethical objectives and corporate social responsibility (CRS)",
+            "definition": "Self-interest (non-compliance) attitude: profit motive Altruistic attitude: humanitarian/unselfish behavior Strategic attitude: socially responsible only if they are profitableAttitudes change over time; acceptable practices before are unacceptable today. CSR objectives adapt to changes in social norms/hot issues (i.e. tattoos, dyed hair, jeans, single parents, gender bias, child labor, smoking, obesity, global warming, etc.)"
+        },
+        {
+            "term": "what are the advantages and disadvantages of ethical behvaiour and CSR",
+            "definition": "Benefits:  Better employee recruitment and retention  Sense of value/purpose for employees   Boosts company’s image/reputation Risk management against scandals, accidents, etc.  Appeases pressure groups   Brand differentiation and smoother operations Customer loyalty & goodwill  Disincentives:  High compliance costs can lower profits Forced to use materials that are specialized and may reduce profit Ethics are not universal or unchanging anyway Lower profits may decrease personal bonuses which may lead to greediness"
+        },
+        {
+            "term": "how does the evolving role and nature of CSR impact on business aims and objectives",
+            "definition": "enhance stakeholder expectations reputation and branding risk mitigation Employee Engagement and Talent AttractionCompetitive Advantage Long-Term Sustainability"
+        },
+        {
+            "term": "what does it mean to set SMART objectives",
+            "definition": "S- Specific M- Measurable A- Achievable R- Relevant T- Time-bound"
+        },
+        {
+            "term": "explain the difference between internal and external stakeholders",
+            "definition": "Internal stakeholders: members of the organizationEmployees: staff of a business are likely to strive to improve their pay, working conditions, job security, and opportunities for advancement (Argued to be the organization’s best asset - demotivated workers can’t produce good quality products and won’t stay loyal) Managers and directors: people who oversee daily operations/senior executives elected by company’s shareholders to direct business operations on behalf of its owners (Likely to aim for profit maximization/long-term financial health of business) Shareholders (stockholders): purchases the company’s shares to have voting rights in how the company is ownAims to maximize dividends and achieve a capital gain in shares value   External stakeholders: not part of the business Customers: arguably the most important stakeholder, they can choose to spend their money elsewhere - threatens business survival (especially in competitive markets) Suppliers: provides a business with raw materials/components/finished goods needed for production, and can provide commercial services Pressure groups: individuals with a common interest who try to make a business act a certain way/influence a change in their behavior  Competitors: rival businesses, may benefit from some competition as rivalry (incentive to be innovative), need to be aware of their practices, and used to benchmark performance Government: significant influence on business activity, ex. Avoiding unfair practices, meeting health/safety standards, and may also have a financial stake in a business"
+        },
+        {
+            "term": "what is the difference between stakeholders and shareholders",
+            "definition": "stakeholder Stakeholder: any individual/group/organization with a direct interest in the activities/performance of a business  shareholder  Shareholders (stockholders): purchases the company’s shares to have voting rights in how the company is own Aims to maximize dividends and achieve a capital gain in shares value"
+        },
+        {
+            "term": "explain why employees are often considered to be the key stakeholders in an organization",
+            "definition": "Argued to be the organization’s best asset - demotivated workers can’t produce good quality products and won’t stay loyal"
+        },
+        {
+            "term": "distinguish between a director and a manager of a company",
+            "definition": "Director:Role: Part of the board of directors.Responsibility: Governance and strategic direction.Authority: Ultimate decision-making power.Accountability: Shareholders, stakeholders, and regulatory authorities.    Manager:Role: Responsible for day-to-day operations.Responsibility: Departmental management and execution.Authority: Decision-making within their area.Accountability: Operational results and departmental performance."
+        },
+        {
+            "term": "why are stockholders a potentially powerful stakeholder group",
+            "definition": "Aims to maximize dividends and achieve a capital gain in shares value"
+        },
+        {
+            "term": "why are customers, suppliers, and competitors considered to be external stakeholders",
+            "definition": "*not part of the business*   Customers: they can choose to spend their money elsewhere    Suppliers: provides a business with raw materials/components/finished goods needed for production, and can provide commercial services    Competitors: rival businesses, may benefit from some competition as rivalry (incentive to be innovative), need to be aware of their practices, and used to benchmark performance"
+        },
+        {
+            "term": "how might pressure groups affect the success of a business (5)",
+            "definition": "Influence of Pressure Groups: Pressure groups can exert influence on businesses through lobbying, public campaigns, and advocacy efforts.  Impact on Reputation: Negative campaigns or criticism from pressure groups can damage a business's reputation, leading to decreased customer trust and loyalty.  Legal and Regulatory Changes: Pressure groups can advocate for regulatory or legislative changes that can affect a business's operations, such as increased regulations or stricter industry standards.  Consumer Behavior: Pressure group campaigns can influence consumer behavior, leading to changes in demand for certain products or services, potentially impacting a business's sales and profitability.  Stakeholder Engagement: Pressure groups can push for increased transparency, ethical practices, and social responsibility, requiring businesses to respond and adapt their strategies to meet stakeholder expectations."
+        },
+        {
+            "term": "what is the role of the government as a stakeholder group in business activities",
+            "definition": "external stakeholder  Government: significant influence on business activity, ex. Avoiding unfair practices, meeting health/safety standards, and may also have a financial stake in a business"
+        },
+        {
+            "term": "outline the sources of stakeholder conflict in a business",
+            "definition": "Not possible to satisfy all stakeholders all the time Conflict will always arise from new developments, business activities, etc. Commen cause of stakeholder conflict is remuneration  (pay and benefit) of company directors"
+        },
+        {
+            "term": "how might businesses resolve stakeholder conflict in the workplace",
+            "definition": "Arbitration  To resolve industrial disputes between workers and managers Advantage  Both sides agree to an independent arbitrator who will decide th   Disadvantage  Neither stakeholder group will likely receive what they want Decision is binding       Workforce Participation  To improve communication, decision-making and reduce potential conflicts between employees and managers Advantage  Gain cooperation of workers – better motivated and involved   Disadvantage  Waste of time and resources to be able to get all information       Profit-sharing scheme  Reduce conflict between workers and shareholders over allocation of profits and benefits Advantage  Sharing profits can encourage workers to work in ways that will increase long-term profit   Disadvantage  Reduces retained profits and/or profits paid out to shareholders unless the scheme pays off       Share-ownership scheme  To reduce conflict between workers , manager and shareholders Advantage  Provides share options; employees and shareholders benefit and aligns their interests with one another   Disadvantage  Administration costs, decreased ownership, qualification constraints may limit motivation"
+        },
+        {
+            "term": "what does the acronym STEEPLE analysis stand for?",
+            "definition": "socialtechnologicaleconomicenvironmentalpoliticallegalethical opportunitiesthreats"
+        },
+        {
+            "term": "distinguish between opportunities and threats",
+            "definition": "opportunities Opportunities are favorable external factors or situations that a business can exploit to its advantage. They arise from market trends, technological advancements, changes in consumer behavior, or other external developments.    threats  Threats are external factors or situations that pose challenges or risks to a business. They can arise from competition, market dynamics, economic conditions, legal or regulatory changes, technological disruptions, or any other factors that can negatively impact the company's performance"
+        },
+        {
+            "term": "outline the purpose of a STEEPLE analysis",
+            "definition": "STEEPLE analysis: social, technological, economic, environmental, political, legal, and ethical opportunities and threats of the external business environment Each opportunity and threat can be weighted in a scientific way in a simplistic manner  Social: changing values/attitudes of society Ex. multiculturalism, societal pressures for ethical/social responsible behavior, growing support for environmental protection Technological: affects all aspects of business functions Opportunities: speed of access to info, reduced language/cultural/geographical barriers, reduced costs Threats: price transparency (easier to compare), online crime, higher production costs, job losses Economic:  Inflation: continual rise in general level of prices in an economy Over-inflation can lead to fall in export earnings, lower national output and higher unemployment Caused by excessive demand in the economy or higher costs of production Unemployment rate: proportion of a country’s workforce not in employment  Ex. frictional employment (time between job changes), seasonal unemployment, technological unemployment, structural unemployment (demand for particular industry falls), cyclical/demand deficient employment (lack of demand in entire economy) Economic growth: measured by change in GDP (value of economy’s total output) Business cycle: overall increasing trend over time Coping with a recession: cost reduction (improve cash flow), price reductions (increase sales), branding, outsourcing (overseas, to reduce impact in the domestic economy) Healthy international trade balance: government tries to avoid import expenditure > export earnings Exchange rate: value of the domestic currency in terms of foreign currencies - lower rate/currency depreciation = relatively price advantage to domestic firms (higher prices to import) Protectionist measures: government policy to safeguard domestic businesses from foreign competitors, ex. tariffs (taxes on imported products), quotas (quantitative limits on imports), subsidies (government support payments to domestic firms), embargoes (physical bans with a certain country) Environmental: modern society is increasingly concerned about negative impacts of business activity on the natural environment Political:  Laissez-faire government: free-market approach to managing the economy with rare interventions Fiscal policy: use of taxation and government expenditure policies to influence business activity Deflationary fiscal policy: high rates of economic growth/inflation that needs to be slowed down with higher taxes and reduced government expenditure policies Expansionary fiscal policy: tax cuts and increased public sector spending to create business opportunities Monetary policy: use of interest rate policy When the economy is growing, the interest rates will be risen to combat effects of inflation, which makes borrowing less attractive and reduces consumption/investment expenditure  Deregulation: removal of government rules/regulations (bureaucracy) that constrain business activity to encourage more competition within that industry Legal: protects general public from adverse business activity Common legislations: consumer protection legislation (illegal to provide false info), employee protection legislation (protects interest/safety of workers), competition legislation (anti-competitive practices are prohibited to prevent monopolizing firms) Legal employment rights: anti-discrimination laws, health and safety at work acts, statuary benefits, national minimum wage, etc. Ethical: acting in a socially responsible way  Has benefits but also compliance costs"
+        },
+        {
+            "term": "how does the technological environment present both opportunities and threats for businesses?",
+            "definition": "Opportunities: speed of access to info, reduced language/cultural/geographical barriers, reduced costs Threats: price transparency (easier to compare), online crime, higher production costs, job losses"
+        },
+        {
+            "term": "why are inflation and unemployment threats for most business",
+            "definition": "Inflation: continual rise in general level of prices in an economy Over-inflation can lead to fall in export earnings, lower national output and higher unemployment Caused by excessive demand in the economy or higher costs of production Unemployment rate: proportion of a country’s workforce not in employment  Ex. frictional employment (time between job changes), seasonal unemployment, technological unemployment, structural unemployment (demand for particular industry falls), cyclical/demand deficient employment (lack of demand in entire economy)"
+        },
+        {
+            "term": "how do fluctuations in the exchange rate affect the sales revenues and profits of a business",
+            "definition": "by changing the cost of supplies that are purchased from a different country, and by changing the attractiveness of their products to overseas customers"
+        },
+        {
+            "term": "what are the various stages of the business cycle",
+            "definition": "boom  level of economic activity rises with consumer expenditure, investment and export earnings all increasing  peak  economic activity is at highest level unemployment is low whilst consumer and business confidence levels are high  higher profit for businesses         recession  fall in GDP for 2 consecutive quarters (6 months) declining aggregate demand, lower investment, falling export sales and rising unemployment businesses with small range of products will most likely suffer   trough (slump)  bottom of recession, last stage of decline in business cycle  high unemployment alongside very low levels of consumer spending, investment and export earnings business suffer from poor cash flow and many have closed down to liquidity  (insufficient money to run the business)   consumers have little confidence in economy, workers suffer from lack of job security     recovery  occurs when level of GDP starts to rise after economy experienced slump  national output and income begin increasing again  level of consumption, investment, ecports and employment will gradually rise  create opportunities for businesses"
+        },
+        {
+            "term": "how does the government influence business activity",
+            "definition": "Laissez-faire government: free-market approach to managing the economy with rare interventions Fiscal policy: use of taxation and government expenditure policies to influence business activity Deflationary fiscal policy: high rates of economic growth/inflation that needs to be slowed down with higher taxes and reduced government expenditure policies Expansionary fiscal policy: tax cuts and increased public sector spending to create business opportunities Monetary policy: use of interest rate policy When the economy is growing, the interest rates will be risen to combat effects of inflation, which makes borrowing less attractive and reduces consumption/investment expenditure Deregulation: removal of government rules/regulations (bureaucracy) that constrain business activity to encourage more competition within that industry"
+        },
+        {
+            "term": "how does the legal environment provide both opporunities and threats to businesses",
+            "definition": "Legal: protects general public from adverse business activityOpportunities: protects interests and safety of workers, ensure anti-competitive practices are prohibited Threats: rights and laws impact, risk of damaging reputation"
+        },
+        {
+            "term": "state three ways in which ethical considerations affect business acitivty",
+            "definition": "Client confidentiality Bribery and other forms unethical (and possibly illegal) business transactions Fair competition    benefits  attract retain good quality workers attract new customers and retain existing ones social responsibility generates good publicity and public relations   prepared to have social audits conducted  reports ethical and social stance of business  firms involvement with community projects and level of pollution caused by firm (external ) efficiency of waste management process and ability to provide staff with safe working environment (internal)     disadvantages  not able to pursue cheapest/profitable options  supplier method"
+        },
+        {
+            "term": "using examples, distinguish between economies and diseconomies of scale",
+            "definition": "Economies of scale: lower average costs of production as the firm operates on a larger scale diseconomies of scale: occur when a business grows so large that the costs per unit increase"
+        },
+        {
+            "term": "what is meant by the optimal size of a business (5)",
+            "definition": "the pointwhere average costs are at their lowest  dependent on   growth in sales revenue growth in profit growth in market share growing impact growing a resilient business ecosystem"
+        },
+        {
+            "term": "what are the merits and limitations of small businesses?",
+            "definition": "Advantages  Small business  Easily managed & controlled by the owner Quicker to adapt to changing customer needs and feedback Offer personal service to customers Establishes better employer-worker relationships        Disadvantages  Small business  Can’t afford to employ specialist, professional managers Doesn’t benefit from more economies of scale Less access to varied sources of finance Can’t diversify in several markets, thus spread out the risks Can’t afford more formal research & development"
+        },
+        {
+            "term": "distinguish between internal and external growth",
+            "definition": "Internal/organic growth  Occurs when businesses grow using its own resources to increase the scale of its operations and sales revenue Methods used to achieve internal growth:  Change of pricing strategies Increase advertising and promotions Offer flexible financing schemes Improve and innovate the product or service Sell in different locations Increase capital expenditure on production and technologies Train and develop staff      External/inorganic growth  Occurs through dealings with outside organizations Vertical integration  The main business takes part in the primary, secondary, and tertiary aspect of business   Horizontal/lateral integration  Businesses unify under the same industry Between firms who have the same operations, but do not necessarily compete with one another e.g. Ford bought Jaguar, Ford is low to mid class while Jaguar is high class. They don’t compete and when they merge they now cater to a bigger market"
+        },
+        {
+            "term": "distinguish between joint ventures and strategic alliances",
+            "definition": "Joint venture (JV): 2+ businesses split the costs/risks/control and rewards of setting up a new business entity  Strategic alliance (SA): 2+ businesses cooperate in a business venture for mutual benefit but remains in independent organizations 4 key stages: feasibility study, partnership assessment, contract negotiation, implementation"
+        },
+        {
+            "term": "what are the benefits of mergers and acquisitions as forms of external growth",
+            "definition": "Mergers and acquisitions (M&As): the amalgamation (integration) of 2+ businesses to form a single company benefits= Greater market share, economies of scale, synergy, survival, diversificationlimitations= Redundancies, conflict, culture clash, loss of control, diseconomies of scale, regulatory problems MERGERS= when 2 firms agree to form a new companyACQUISITIONS=when a company buys controlling interest in another firm"
+        },
+        {
+            "term": "what are the advantages and disadvantages of franchising as a method of growth",
+            "definition": "Franchising: a person/business buys a license to trade using another firm’s name/logo/brand   ADV - (Franchisor) = Rapid growth with less risks, national/international presence with lower costs, receives royalty payments regularly - (Franchisee) = Relatively low risk & low start-up costs, greater awareness of local market conditions/needs  DIS - (Franchisor) = Huge risk in allowing others to use its name, hard to control daily operations, slower growth than M&As - (Franchisee) = Certain business actions are regulated by franchisor, can be expensive & have to pay a significant % of revenue to franchisor"
+        },
+        {
+            "term": "what is globalization and how does it impact on business growth and evolution",
+            "definition": "Globalization: growing integration/interdependence of the world’s economies Effects: increases competition, increased customer expectations, increased customer base, greater choice of location, more external growth opportunities, increased sources of finance"
+        },
+        {
+            "term": "what is a multinational company",
+            "definition": "Multinational company (MNC): organization that operates in 2+ countries"
+        },
+        {
+            "term": "what positive and negative impacts do multinational companies have on host countries",
+            "definition": "Host country: any nation that allows a MNC to set up in its country    Benefits Limitations Creates jobs, boosts GDP, introduces new skills/technology, intensifies competition Causes unemployment, degree of insecurity, social irresponsibility, competitive pressures Effects: increased customer base, cheaper production costs, economies of scale, avoiding protectionist policies, spread risks"
+        },
+        {
+            "term": "what are organizational planning tool?",
+            "definition": "Organizational planning tools: various methods that businesses use to aid their decision-making"
+        },
+        {
+            "term": "what is meant by a 'cause and effect' (fishbone) diagram",
+            "definition": "Fishbone diagram/cause and effect diagram: can use the 4Ms (management, manpower, machines, materials) to identify different categories"
+        },
+        {
+            "term": "what is a decision tree and why do businesses use this tool (ADV and DISADV)",
+            "definition": "Decision tree: quantitative decision-making tool, represents different options that are available to a business in the decision-making process/ possible outcomes Advantages: clear/logical manner setting out all options, considers risks/all likely costs of decisions, includes quantitative expected returns that assess risks/benefits of a decision with maximized objectivity Disadvantages: only estimated/subjective probabilities, doesn’t consider qualitative issues, doesn’t necessarily reduce amount of risk in decision-making"
+        },
+        {
+            "term": "distinguish between chance nodes and decision nodes when constructing decision trees",
+            "definition": "Decision nodes: squares, when there is a decision to be made Chance nodes: circles, when there are different outcomes of a decision Shows probability and actual value of each brand Each unwanted branch of the decision tree is cut-off by 2 parallel lines (rejected option)"
+        },
+        {
+            "term": "distinguish between driving forces and restraining forces in a force field analysis",
+            "definition": "DRIVING FORCES listing driving forces (push for change)   RESTRAINING FORCES  restraining forces (act against change)"
+        },
+        {
+            "term": "how are the weights in a force field analysis are assigned",
+            "definition": "subjective (issue)"
+        },
+        {
+            "term": "what are Gantt charts?",
+            "definition": "Gantt charts: visual representation of all the tasks in a particular project plotted against the timescale   Arrows carry over the tasks"
+        },
+        {
+            "term": "what are the differences between operational, tactical, and strategic decision",
+            "definition": "Operational (daily) – policies, practice, rules, set procedures, etc.Tactical (regular/short term issues) – handled by management regarding their respective departmentsStrategies (long term) – high level decisions made by top management on new directions, growth, and issues affecting the entire organization or with long term consequences"
+        }
+    
+    ]
+    }

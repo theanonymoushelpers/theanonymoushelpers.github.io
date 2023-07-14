@@ -1,0 +1,203 @@
+{
+    "quizID": "5100",
+    "title": "Japanese Expansion",
+    "questionList": [
+        {
+            "qu": "What was the name of the US commodore that opened Japan to the world?",
+            "a1": "Matthew Perry",
+            "a2": "Vaso Čubrilović",
+            "a3": "Dwight D Eisenhower",
+            "a4": "Chester Nimitz",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Matthew Perry"
+        },
+        {
+            "qu": "What was the Japanese government called during the period of isolation?",
+            "a1": "Meiji",
+            "a2": "Tokugawa",
+            "a3": "Yamato",
+            "a4": "Kofun",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The period was known as Tokugawa or Edo era."
+        },
+        {
+            "qu": "Which religion was seen asa threat towards the Japanese by the tokugawa shogunate ?",
+            "a1": "Catholic",
+            "a2": "Christianity",
+            "a3": "Islam",
+            "a4": "Buddism",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Christianity was seen as a threat."
+        },
+        {
+            "qu": "what was the treaty signed by Japan and US after opening its markets?",
+            "a1": "Treaty of Edo",
+            "a2": "Treaty of Buku",
+            "a3": "Treaty of Kobe",
+            "a4": "Treaty of Kanagawa",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Treaty of Kanagawa"
+        },
+        {
+            "qu": "What period follwed the fall of the Tokugawa era?",
+            "a1": "Meiji Restoration",
+            "a2": "ww1",
+            "a3": "ww2",
+            "a4": "Meiji Revolution",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Meiji restoration"
+        },{
+            "qu": "In which year did the Meiji restoration start?",
+            "a1": "1868",
+            "a2": "1869",
+            "a3": "1856",
+            "a4": "1895",
+            "ans": 1,
+            "marks": 1,
+            "solution": "1868"
+        },
+        {
+            "qu": "Who was the person actually in charge of Japan?",
+            "a1": "Emperor",
+            "a2": "Prime Minister",
+            "a3": "Army General",
+            "a4": "Supreme Leader",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The Prime Minister"
+        },
+        {
+            "qu": "What was the name of the Japanese parliament ?",
+            "a1": "Diet",
+            "a2": "Cabinet",
+            "a3": "Shogun",
+            "a4": "House of commons",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Diet"
+        },
+        {
+            "qu": "Who was the prime minister of France at the start of WW2?",
+            "a1": "Abe",
+            "a2": "Fumimaro",
+            "a3": "Toju",
+            "a4": "Honda",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Konoe Fumimaro"
+        },
+        {
+            "qu": "True or False? Meiji Government introduce complusory education for boys and girls",
+            "a1": "True",
+            "a2": "False",
+            "ans": 1,
+            "marks": 1,
+            "solution": "True, the government made it mandatory for both boys and girls to attend 4 years of school."
+        },
+        {
+            "qu": "True or False? The military was directly responsible to the Emperor and not the diet",
+            "a1": "False",
+            "a2": "true",
+            "ans": 2,
+            "marks": 1,
+            "solution": "true"
+        },
+        {
+            "qu": "When was the first Sino-Japanese war?",
+            "a1": "1895",
+            "a2": "1888",
+            "a3": "1905",
+            "a4": "1917",
+            "ans": 1,
+            "marks": 1,
+            "solution": "1895"
+        },
+        {
+            "qu": "What were the leading party in China Called before WW2?",
+            "a1": "Guomindang",
+            "a2": "CCP",
+            "a3": "RCP",
+            "a4": "CCCP",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Guomindang or GMD"
+        },
+        {
+            "qu": "Which Country did Japan defeat over Manchuria in 1905?",
+            "a1": "Britain",
+            "a2": "Russia",
+            "a3": "US",
+            "a4": "China",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Russia"
+        },
+        {
+            "qu": "Which was China's last Dynasty?",
+            "a1": "Qing",
+            "a2": "Ming",
+            "a3": "Tang",
+            "a4": "Yuan",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Qing Dynasty"
+        },
+        {
+            "qu": "Which of these weaponsproved most effective for Japan against Russia?",
+            "a1": "Howitzers",
+            "a2": "tanks",
+            "a3": "guns",
+            "a4": "grenedes",
+            "ans": 1,
+            "marks": 1,
+            "solution": "The japanese Howitzers proved to be more reliable and effect at destroying dugouts and forts."
+        },
+        {
+            "qu": "Which era was seen as the most libreal in Japan during 1920 -1930?",
+            "a1": "Taishō Democracy",
+            "a2": "Meiji",
+            "a3": "Zaibatsu era",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Taishō Democracy"
+        },
+        {
+            "qu": "What event pushed Japan towards dictatorship and facism?",
+            "a1": "Pearl Harbour",
+            "a2": "Great Depression",
+            "a3": "Dolittle Raid",
+            "ans": 2,
+            "marks": 1,
+            "solution": "The great depression"
+        },
+        {
+            "qu": "What was the name of the army that did not listen to the prime minister ?",
+            "a1": "Kwantung Army",
+            "a2": "China Expeditionary Army",
+            "a3": "Southern Expeditionary Army Group",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Kwantung Army"
+        },
+        {
+            "qu": "Which Chinese port city did Japan seize from German forces in 1914?",
+            "a1": "Hong Kong",
+            "a2": "Shanghai",
+            "a3": "Macau",
+            "a4": "Qingdao",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Qingdao"
+        }
+
+
+
+
+    ]
+}
+

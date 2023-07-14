@@ -1,0 +1,165 @@
+{
+    "quizID": 2304,
+    "title": "3.4 Vocab Review",
+    "questionList": [
+        {
+            "qu": "____ are suppliers who allow a business to purchase goods and/or services on trade credit",
+            "a1": "Debtors",
+            "a2": "Creditors",
+            "a3": "Loan sharks",
+            "a4": "Angels",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Creditors are suppliers who allow a business to purchase goods and/or services on trade credit"
+        },
+        {
+            "qu": "Short-term assets that belong to a firm",
+            "a1": "Assets",
+            "a2": "Fixed assets",
+            "a3": "Current assets",
+            "a4": "Current profit",
+            "ans": 3,
+            "marks": 1,
+            "solution": "Current assets are short-term assets that belong to a firm which are expected to remain in business for up to 12 months"
+        },
+        {
+            "qu": "Fall in value of fixed assets over time (HL)",
+            "a1": "Depreciation",
+            "a2": "Decline",
+            "a3": "Devaluation",
+            "a4": "Diminution",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Depreciation is the fall in value of fixed assets over time"
+        },
+        {
+            "qu": "Final accounts",
+            "a1": "Annual financial statements",
+            "a2": "Bi-monthly financial reports",
+            "a3": "Bi-yearly fincanical statements",
+            "a4": "Monthly fincancial statements",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Final accounts are annual financial statements that all limited liability companies are legally obliged to report"
+        },
+        {
+            "qu": "Items owned by a business not intended for sale and used to generate revenue",
+            "a1": "Assets",
+            "a2": "Fixed assets",
+            "a3": "Current assets",
+            "a4": "Current profit",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Fixed assets are items owned by a business not intended for sale and used to generate revenue"
+        },
+        {
+            "qu": "An intangible asset which exists when the value of a firm exceeds its book value",
+            "a1": "Goodwill",
+            "a2": "Fixed assets",
+            "a3": "Current assets",
+            "a4": "Retained profit",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Goodwill is an intangible asset which exists when the value of a firm exceeds its book value"
+        },
+        {
+            "qu": "Difference between sales revenue of a business and its direct costs of operation",
+            "a1": "Profit",
+            "a2": "Gross profit",
+            "a3": "Net profit",
+            "a4": "Retained profit",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Gross profit is the difference between sales revenue of a business and its direct costs of operation"
+        },
+        {
+            "qu": "____ refers to the purchase cost of a particular fixed asset",
+            "a1": "Retention cost",
+            "a2": "Liability cost",
+            "a3": "Fixed cost",
+            "a4": "Historic cost",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Historic cost refers to the purchase cost of a particular fixed asset"
+        },
+        {
+            "qu": "Assets that do not exist in a physical form",
+            "a1": "Furture assets",
+            "a2": "Intangible assets",
+            "a3": "Imaginable assets",
+            "a4": "Frequent assets",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Furture assets are assets that do not exist in a physical form"
+        },
+        {
+            "qu": "Value of all assets - liabilities = _____",
+            "a1": "Gross profit",
+            "a2": "Retained profit",
+            "a3": "Profit",
+            "a4": "Net profit",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Net profit is the value of all assests minus its liabilities"
+        },
+        {
+            "qu": "A fincancial record of a firm's trading activity over the past 12 months",
+            "a1": "Profit account",
+            "a2": "Business account",
+            "a3": "Profit and loss account",
+            "a4": "Final accounts",
+            "ans": 3,
+            "marks": 1,
+            "solution": "The profit and loss account is a fincancial record of a firm's trading activity over the past 12 months"
+        },
+        {
+            "qu": "Amount of net profit after interest, tax and dividends.",
+            "a1": "Retained profit",
+            "a2": "Gross profit",
+            "a3": "Net profit",
+            "a4": "Total profit",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Retained profit is the amount of net profit after interest, tax and dividends have been paid."
+        },
+        {
+            "qu": "Amount of money raised through sale of shares",
+            "a1": "Equity",
+            "a2": "Equity capital",
+            "a3": "Stock capital",
+            "a4": "Share capital",
+            "ans": 4,
+            "marks": 1,
+            "solution": "Share capital is the amount of money raised through sale of shares"
+        },
+        {
+            "qu": "First section of the profit and loss account",
+            "a1": "Balance sheet",
+            "a2": "Trading account",
+            "a3": "Profit account",
+            "a4": "Asset account",
+            "ans": 2,
+            "marks": 1,
+            "solution": "Trading account is the first section of the P&L account"
+        },
+        {
+            "qu": "An estimate of the scrap/disposal value of the asset at the end of its useful life (HL)",
+            "a1": "Residual value",
+            "a2": "Net value",
+            "a3": "Scrap value",
+            "a4": "Disposal value",
+            "ans": 1,
+            "marks": 1,
+            "solution": "Residual value is an estimate of the scrap/disposal value of the asset at the end of its useful life"
+        }
+        
+
+
+
+
+
+
+
+    ]
+}
+
