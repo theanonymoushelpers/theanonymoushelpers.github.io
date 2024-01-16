@@ -92,6 +92,15 @@ background-color: rgb(81, 117, 83);
 background-color: rgb(114, 144, 115);
 }
 
+.blueExample {
+    background-color: rgb(81, 92, 117);
+    }
+    
+    .blueExample div {
+    background-color: rgb(81, 92, 117);
+    }
+    
+
 .important {
     background: linear-gradient(250.54deg, rgba(255, 228, 0, 0.8) 0%, rgba(193, 147, 0, 0.9) 100%);
     border-radius: 15px;

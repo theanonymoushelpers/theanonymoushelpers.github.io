@@ -2,7 +2,7 @@
     float: left;
     width: 23%;
     padding: 0 10px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     height: 500px;
     }
 
@@ -56,6 +56,16 @@
     color: #788697;
     }
 
+    .scoretag {
+        padding: 4px 8px;
+        border: 3px solid #788697;
+    
+        border-radius: 50px;
+        font-size: 12px;
+        font-weight: 600;
+        color: #101010;
+        }
+
     .name {
     font-size: 24px;
     font-weight: 600;
@@ -71,4 +81,8 @@
 
     .card__details {
     padding: 16px 8px 8px 8px;
+    }
+
+    .card_info {
+    background-color: white;
     }
