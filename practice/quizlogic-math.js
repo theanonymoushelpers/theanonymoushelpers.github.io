@@ -155,8 +155,7 @@ function checkAnswer() {
 
 
     userAnswer = document.getElementById("userAnswer").value;
-    userAnswerLC = userAnswer.value.replace(/[^\d,]/g,'')
-    userAnswerLC = eval(userAnswerLC);
+    userAnswerLC = eval(userAnswer);
     ansValueLC = eval(ansValue);
 
 
