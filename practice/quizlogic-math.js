@@ -190,7 +190,7 @@ function checkAnswer() {
 
         
     }
-    else if (userAnswerLC << ansValueLC + ansValueLC * 0.02 && userAnswerLC >> ansValueLC - ansValueLC * 0.02) {
+    else if (userAnswerLC < ansValueLC + ansValueLC * 0.02 && userAnswerLC > ansValueLC - ansValueLC * 0.02) {
 
 
         continueDiv.style.backgroundColor = '#d5ffd5';
