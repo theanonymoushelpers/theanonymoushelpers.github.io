@@ -1,0 +1,63 @@
+{
+    "quizID": 7101,
+    "title": "Distance, Time, and Velocity",
+    "questionList": [
+        {
+            "qu": "A car accelerates uniformly from 0 to 54km/h in 3 seconds. Calculate the acceleration in `m s^(-2)`.",
+            "ans": "5",
+            "marks": 1,
+            "solution": "`5m s^(-2). Pay attention to unit conversions. Use `v=v_o+at`."
+        },
+        {
+            "qu": "A plane accelerates uniformly from 0 to 147m/s in 3.0 seconds. Calculate the acceleration in `m s^(-2)`.",
+            "ans": "49",
+            "marks": 1,
+            "solution": "`49m s^(-2). Pay attention to unit conversions. Use `v=v_o+at`."
+        },
+
+        {
+            "qu": "A plane accelerates uniformly from rest at `5.50m s^(-2)` for 16.0 seconds before taking off. Calculate the takeoff speed in km/h.",
+            "ans": "317",
+            "marks": 1,
+            "solution": "317km/h. Pay attention to unit conversions. Use `v=v_o+at`."
+        },
+        {
+            "qu": "A hypercar accelerates uniformly from rest at `4.75m s^(-2)` for 12.0 seconds before reaching a speed of 67m/s. Calculate the initial speed in m/s.",
+            "ans": "10",
+            "marks": 1,
+            "solution": "10m/s. Use `v=v_o+at`."
+        },
+
+        {
+            "qu": "A car has an initial velocity of `5m s^(-1)`. The car accelerates at `1.5m s^(-2)` and reaches a velocity of `35m s^(-1)`. How long did it take for the car to reach this speed, in seconds?",
+            "ans": "20",
+            "marks": 1,
+            "solution": "20 seconds. Use `v=v_o+at`."
+        },
+        {
+            "qu": "A car travels at a velocity of `30m s^(-1)` after accelerating at `3m s^(-2)` for `7 seconds`. What was the initial velocity of the car before acceleration, in `m s^(-1)?",
+            "ans": "9",
+            "marks": 1,
+            "solution": "9m/s. Use `v=v_o+at`."
+        },
+        {
+            "qu": "A bus accelerates uniformly from rest at `2.00m s^(-2)` for 8.00 seconds. It then accelerates at `1.20m s^(-2)` for another 10.0 seconds. Calculate the final speed in km/h.",
+            "ans": "101",
+            "marks": 2,
+            "solution": "101km/h. Pay attention to unit conversions. Use `v=v_o+at`."
+        },
+        {
+            "qu": "From rest, Car A accelerates at `3.00ms^(-2)` and Car B accelerates at `4.50ms^(-2). What is the difference in time for both cars to reach `108km/h`?",
+            "ans": "3.33",
+            "marks": 2,
+            "solution": "3.33 seconds. Pay attention to unit conversions. Use `v=v_o+at`."
+        }
+
+
+
+
+
+
+    ]
+}
+
