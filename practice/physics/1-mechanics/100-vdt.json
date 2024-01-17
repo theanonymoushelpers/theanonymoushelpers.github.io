@@ -1,0 +1,67 @@
+{
+    "quizID": 7100,
+    "title": "Distance, Time, and Velocity",
+    "questionList": [
+        {
+            "qu": "A bike travels at `5m/s` for `40 minutes`. What distance does it travel in `km`?",
+            "ans": "12",
+            "marks": 2,
+            "solution": "12km. Pay attention to unit conversions."
+        },
+        {
+            "qu": "A car travels `400km` in `5.00 hours.` How fast is it travelling in `m/s`?",
+            "ans": "22.2",
+            "marks": 2,
+            "solution": "22.2m/s. Pay attention to unit conversions."
+        },
+        {
+            "qu": "A plane travels `8 400km` at `200m/s` How many minutes will the flight take to the nearest minute?",
+            "ans": "700",
+            "marks": 2,
+            "solution": "700 minutes. Pay attention to unit conversions."
+        },
+        {
+            "qu": "A car travels at `20m/s` for `1 hour`. What distance does it travel in `cm`?",
+            "ans": "7200000",
+            "marks": 2,
+            "solution": "7 200 000cm. Pay attention to unit conversions."
+        },
+        {
+            "qu": "A ship travels `300km` in `18.00 hours.` How fast is it travelling in `m/s`?",
+            "ans": "4.63",
+            "marks": 2,
+            "solution": "4.63m/s. Pay attention to unit conversions."
+        },
+        {
+            "qu": "A supersonic jet travels `7 600km` at `500m/s` How many hours will the flight take? (round to the nearest hour)",
+            "ans": "4",
+            "marks": 2,
+            "solution": "4 hours. Pay attention to unit conversions."
+        },
+        {
+            "qu": "Plane A travels `14 000km` at `960km/h`. Plane B travels `13 500km` at `920km/h`. How much earlier will Plane B arrive to the nearest minute?",
+            "ans": "5",
+            "marks": 3,
+            "solution": "5 minutes. Find the difference in times."
+        },
+        {
+            "qu": "Car A travels at `60km/h` and starts 20 meters after the starting line. Car B travels at `85km/h` and starts at the starting line. Assuming there is constant velocity from each vehicle's start, to the nearest second, how much time separation will there be between both cars when they cross the finish line, 1000m from the starting line?",
+            "ans": "16",
+            "marks": 3,
+            "solution": "16 seconds. Apply `v=d/t` formula and find the difference in times. Watch for unit conversions."
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+    ]
+}
+

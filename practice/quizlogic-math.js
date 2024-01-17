@@ -155,8 +155,8 @@ function checkAnswer() {
 
 
     userAnswer = document.getElementById("userAnswer").value;
-
-    userAnswerLC = eval(userAnswer);
+    userAnswerLC = userAnswer.value.replace(/[^\d,]/g,'')
+    userAnswerLC = eval(userAnswerLC);
     ansValueLC = eval(ansValue);
 
 
@@ -191,7 +191,7 @@ function checkAnswer() {
 
         
     }
-    else if (userAnswerLC << ansValueLC + ansValueLC * 0.01 && userAnswerLC >> ansValueLC - ansValueLC * 0.01) {
+    else if (userAnswerLC << ansValueLC + ansValueLC * 0.02 && userAnswerLC >> ansValueLC - ansValueLC * 0.02) {
 
 
         continueDiv.style.backgroundColor = '#d5ffd5';
