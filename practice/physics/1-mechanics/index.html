@@ -100,13 +100,13 @@
             <div class="row">
                 <div class="column card_med" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
                     <div class="card_info" style="background-color: white;">
-                            <span class="tag">Paper 1</span><span class="tag">Medium and Hard</span><span class="scoretag">85%</span><div class="name" style="background-color: white; text-align: center;">Distance, Velocity, Acceleration, and Time</div><p></p>
+                            <span class="tag">Paper 1</span><span class="tag">Medium and Hard</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">Distance, Velocity, Acceleration, and Time</div><p></p>
                             <button class="buttonStGrey">Coming Soon</button>
                         </div></div></div></div>
     
                         <div class="column card_med" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
                             <div class="card_info" style="background-color: white;">
-                                    <span class="tag">Paper 2</span><span class="tag">Medium and Hard</span><span class="scoretag">94%</span><div class="name" style="background-color: white; text-align: center;">2D Kinematics in Larger Problems</div><p></p>
+                                    <span class="tag">Paper 2</span><span class="tag">Medium and Hard</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">2D Kinematics in Larger Problems</div><p></p>
                                     <button class="buttonStGrey">Coming Soon</button>
                                 </div></div></div></div>
 
@@ -216,7 +216,8 @@
 
 
     function score (idNo) {
-        document.getElementById(idNo).innerHTML = "Last Score: " + localStorage.getItem(idNo);
+        idNoConv = idNo.toString();
+        document.getElementById(idNoConv).innerHTML = "Last Score: " + localStorage.getItem(idNoConv);
     }
 
     score(7200);
