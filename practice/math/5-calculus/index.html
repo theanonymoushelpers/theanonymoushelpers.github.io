@@ -1,0 +1,258 @@
+
+<html>
+
+    <head>
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../globalstyle.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../card_practice.css">
+        <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="../../../basefeaturestyle.css">
+        
+
+        <script>
+            MathJax = {
+            loader: {load: ['input/asciimath', 'output/chtml']}
+            }
+                    </script>
+            
+                <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+                <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+            
+                <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=d33e9c77b1ef4bf5b1b71f8438767a26"></script>
+
+
+
+
+
+
+        <script defer src="../../../animate.js"></script>  
+        <title>TAH | Practice Math - Calculus</title>
+        <link rel="icon" type="image/x-icon" href="../../../lib/images/favicon.ico">
+    </head>
+
+
+    <style>
+        .card_med {
+            height: 42vh;
+        }
+
+        .card_large {
+            height: 52vh;
+        }
+
+    </style>
+    <body>
+
+        
+        <div class="pageHt">
+            <div class="pageContentCont">
+                <div class="menuStyle">
+                    <ImgLink onClick="location.href='../../../index.html'">
+                        <img src="../../../lib/images/3.svg">
+                    </ImgLink>
+                    <Txlink  onClick="location.href='../../../review/index.html'">Review</Txlink>
+                    <Txlink class="active" onClick="location.href='../../../practice/index.html'">Practice</Txlink>
+                    <Txlink  onClick="location.href='../../../stats/index.html'">Your Stats</Txlink>
+                    <ImgLink  onClick="location.href='https://theanonymoushelper.wixsite.com/home'">
+                        <img src="../../../lib/images/4.svg">
+                    </ImgLink>
+                </div>
+    <div>
+    <h1 class="titleText" style="padding-top: 100px; font-size: 50px;">Topic 5 - Calculus</h1>
+    <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Use the dropdowns below to jump between each learning objective.</h1>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.1 - Notation and Limits</summary>
+        Estimating limits from graphs, notations
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.2 - Increasing and Decreasing Functions</summary>
+        Identify intervals in which functions are increasing or decreasing. For what value a does f'(x) only increase when x>a 
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.3 - 4 Rules of Derivatives</summary>
+        Power rule, product rule, quotient rule, chain rule
+
+
+        <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
+
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">Power Rule</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=x^n -> (dy)/(dx)=nx^(n-1)`</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">Chain Rule</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=g(f(x))` where `u=f(x) -> (dy)/(dx)=(dy)/(du)*(du)/(dx)` or `(dy)/(dx) = g'(u) * f'(x)` </p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">Product Rule</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`f(x)` or `y=ab -> (dy)/(dx)=a(db)/(dx)+b(da)/(dx)` or `f'(x)=b'a+a'b`</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">Quotient Rule</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`f(x)` or `y=a/b -> (dy)/(dx)=(b(da)/(dx)-a(db)/(dx))/b^2` or `f'(x)=(a'b-b'a)/b^2`</p>
+
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.4 - Tangents and Normals</summary>
+        Find the tangent and normal of graphs
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.5 - Introduction to Integration</summary>
+        Find basic derivatives of power functions, definite integrals
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.6 - Derivatives of Functions</summary>
+        Find derivative of trig functions, logarithmic functions, etc
+
+        <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=sin(x) -> (dy)/(dx)=cos(x)`</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=cos(x) -> (dy)/(dx)=-sin(x)` </p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=e^x -> (dy)/(dx)=e^x`</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=ln(x) -> (dy)/(dx)=1/x`</p>
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.7 & 5.8 - Second Derivatives</summary>
+        Second Derivative, local maxima and minima, points of inflexion, optimization
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.9 - Kinematics</summary>
+        A, V, D, T     
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.10 - Indefinite Integrals - Composites, Chain, Substitution</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.11 - Definite Integrals - Area</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.12 - Derivative from First Principles (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.13 - L'Hopital's Rule (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.14 - Implicit Differentiation (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.15 - Additional Derivatives and Indefinite Integrals (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.16 - Integration by Substitution and Parts (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.17 - Area/volume enclosed by a curve (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.18 - Differential Equations (HL)</summary>
+        
+    </details>
+
+    <details class="blueExample hiddenAnimate">
+        <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.19 - Maclaurin Series (HL)</summary>
+        
+    </details>
+
+
+
+
+    <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Mastered this topic? Take a unit test with questions from all subtopics.</h1>
+
+    <div class="row">
+
+        <div class="column card_large" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+            <div class="card_info" style="background-color: white;">
+                    <span class="tag">Exam-Style</span><span class="tag">Test</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">Paper 1: SL</div><p style="color: rgb(0, 0, 0);">This test combines difficult questions from all 3 subtopics. Recommended time: 20 minutes</p>
+                    <button class="buttonStGrey">Coming Soon</button>
+                </div></div></div></div>
+
+                <div class="column card_large" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                    <div class="card_info" style="background-color: white;">
+                            <span class="tag">Exam-Style</span><span class="tag">Test</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">Paper 1: HL</div><p style="color: rgb(0, 0, 0);">This test combines difficult questions from all 5 subtopics. Recommended time: 30 minutes</p>
+                            <button class="buttonStGrey">Coming Soon</button>
+                        </div></div></div></div>
+
+                        <div class="column card_large" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                            <div class="card_info" style="background-color: white;">
+                                    <span class="tag">Exam-Style</span><span class="tag">Test</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">Paper 2: SL</div><p style="color: rgb(0, 0, 0);">This test combines difficult questions from all 3 subtopics. Recommended time: 40 minutes</p>
+                                    <button class="buttonStGrey">Coming Soon</button>
+                                </div></div></div></div>
+                
+                                <div class="column card_large" style="width: 47%;"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                                    <div class="card_info" style="background-color: white;">
+                                            <span class="tag">Exam-Style</span><span class="tag">Test</span><span class="scoretag">INOP%</span><div class="name" style="background-color: white; text-align: center;">Paper 2: HL</div><p style="color: rgb(0, 0, 0);">This test combines difficult questions from all 5 subtopics. Recommended time: 60 minutes</p>
+                                            <button class="buttonStGrey">Coming Soon</button>
+                                        </div></div></div></div>
+
+                                    </div>
+
+                                    <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Note: This page is a work in progress. We are in the process of updating our whole website to match this design. Any feedback is appreciated.</h1>
+
+
+</div>
+
+
+    <div style="height: 500px;"></div>
+
+    <div class="footer hiddenAnimate">
+        <ImgLink class="hiddenAnimate" onClick="location.href='../../../index.html'">
+            <img src="../../../lib/images/2.svg">
+        </ImgLink>
+        <p class="bodyTextSm hiddenAnimate" style="transition-delay: 100ms">Creating tools to help students through our online platform. Developed independently by students, not affiliated with/endorsed by any academic institution. © The Anonymous Helpers 2024.</p>
+        
+        <div style="height: 20px;"></div>
+        <div style=" margin: auto;">
+            <ImgLink class="hiddenAnimate" style="transition-delay: 200ms;" width="16" height="16" onClick="location.href='https://www.youtube.com/channel/UCtSIplvtgg2ZT1QHRycB1gQ'">
+                <img width="32" height="22" src="../../../lib/images/logo_yt.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 400ms;" width="16" height="16" onClick="location.href='https://www.instagram.com/the_anonymous_helpers/'">
+                <img width="22" height="22" src="../../../lib/images/logo_insta.png">
+            </ImgLink>
+            <ImgLink class="hiddenAnimate" style="transition-delay: 600ms;" width="16" height="16" onClick="location.href='../../../about/index.html'">
+                <img width="22" height="22" src="../../../lib/images/logo_aboutus.png">
+            </ImgLink>
+        </div>
+
+
+</div>
+
+</body>
+
+<script>
+    let redirectPage = (quizNameRedirect) => {
+
+
+        
+        var url = "../../quiz-math.html" +
+            "?subject=" + 'physics'  + 
+            "&ident=" + '1-mechanics' +
+            "&quizName=" + quizNameRedirect;
+    
+        window.location.href = url;
+    }
+
+
+
+    function score (idNo) {
+        idNoConv = idNo.toString();
+        document.getElementById(idNoConv).innerHTML = "Last Score: " + localStorage.getItem(idNoConv) + "%";
+    }
+
+    score(7100);
+    score(7101);
+    </script>
