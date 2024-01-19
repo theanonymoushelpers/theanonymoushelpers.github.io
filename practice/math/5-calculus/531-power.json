@@ -2,7 +2,78 @@
     "quizID": 6531,
     "title": "Power Rule",
     "questionList": [
-
+        {
+            "qu": "`f(x)=x^3+2x^2+4`. Determine f'(1). ",
+            "ans": 11.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=x^4+2x^3+3x^2+7`. Determine f'(2). ",
+            "ans": 75.0,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=2x^4+3x^3+x^2+8`. Determine f'(-2). ",
+            "ans": -32.0,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=2x^2+3x+5`. Determine f'(0). ",
+            "ans": 3.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=2x^3+6x^2+7`. Determine f'(3). ",
+            "ans": 97.0,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=3x^3+4x^2+6`. Determine f'(-1). ",
+            "ans": 7.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=x^4+2x^3+3x^2+7`. Determine f'(0). ",
+            "ans": 0.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=x^4+2x^3+x^2+2`. Determine f'(-2). ",
+            "ans": -10.0,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=x^2+8x+2`. Determine f'(1). ",
+            "ans": 10.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=3x^2+6x+7`. Determine f'(-3). ",
+            "ans": -12.0,
+            "marks": 1,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=x^2+x+1/(x^2). Determine f'(1).",
+            "ans": 1.0,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        },
+        {
+            "qu": "`f(x)=3x^2+2x+2/(x). Determine f'(2).",
+            "ans": 13.5,
+            "marks": 2,
+            "solution": "Use product rule formula for each term: `y=x^n -> (dy)/(dx)=nx^(n-1)`"
+        }
 
 
 
