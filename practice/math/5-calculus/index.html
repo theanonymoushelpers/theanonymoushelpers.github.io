@@ -73,6 +73,34 @@
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.3 - 4 Rules of Derivatives</summary>
         Power rule, product rule, quotient rule, chain rule
 
+        
+        <div class="row">
+        <div class="column"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+            <div class="card_info" style="background-color: white;">
+                    <span class="tag">Easy</span><span class="scoretag scoreElement" id="6531">INOP%</span><div class="name" style="background-color: white; text-align: center;">Power Rule</div><p></p>
+                    <button class="buttonStBl" onclick="redirectPage1('531-power')">Practice</button>
+                </div></div></div></div>
+
+                <div class="column"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                    <div class="card_info" style="background-color: white;">
+                            <span class="tag">Easy</span><span class="scoretag scoreElement" id="6532">INOP%</span><div class="name" style="background-color: white; text-align: center;">Chain Rule</div><p></p>
+                            <button class="buttonStBl" onclick="redirectPage1('532-chain')">Practice</button>
+                        </div></div></div></div>
+
+                        <div class="column"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                            <div class="card_info" style="background-color: white;">
+                                    <span class="tag">Easy</span><span class="scoretag scoreElement" id="6533">INOP%</span><div class="name" style="background-color: white; text-align: center;">Product Rule</div><p></p>
+                                    <button class="buttonStBl" onclick="redirectPage1('533-product')">Practice</button>
+                                </div></div></div></div>
+
+                                <div class="column"><div id="container"><div class="card hiddenAnimate" style="background-color: white;">  
+                                    <div class="card_info" style="background-color: white;">
+                                            <span class="tag">Easy</span><span class="scoretag scoreElement" id="6534">INOP%</span><div class="name" style="background-color: white; text-align: center;">Quotient Rule</div><p></p>
+                                            <button class="buttonStBl" onclick="redirectPage1('534-quotient')">Practice</button>
+                                        </div></div></div></div>
+
+
+        </div>
 
         <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
 
@@ -95,6 +123,10 @@
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">5.5 - Introduction to Integration</summary>
         Find basic derivatives of power functions, definite integrals
+
+        <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`int x^ndx=(x^(n+1))/(n+1)+C, n!=-1`</p>
+        <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`Area=int_a^b y dx` </p>
     </details>
 
     <details class="blueExample hiddenAnimate">
@@ -234,17 +266,29 @@
 </body>
 
 <script>
-    let redirectPage = (quizNameRedirect) => {
+    let redirectPage1 = (quizNameRedirect) => {
 
 
         
-        var url = "../../quiz-math.html" +
-            "?subject=" + 'physics'  + 
-            "&ident=" + '1-mechanics' +
+        var url = "../../quiz-mathnocalc.html" +
+            "?subject=" + 'math'  + 
+            "&ident=" + '5-calculus' +
             "&quizName=" + quizNameRedirect;
     
         window.location.href = url;
     }
+
+    let redirectPage2 = (quizNameRedirect) => {
+
+
+        
+var url = "../../quiz-math.html" +
+    "?subject=" + 'math'  + 
+    "&ident=" + '5-calculus' +
+    "&quizName=" + quizNameRedirect;
+
+window.location.href = url;
+}
 
 
 
@@ -253,6 +297,5 @@
         document.getElementById(idNoConv).innerHTML = "Last Score: " + localStorage.getItem(idNoConv) + "%";
     }
 
-    score(7100);
-    score(7101);
+    
     </script>

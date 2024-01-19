@@ -63,9 +63,9 @@ body, html {
 
 .centerTopTextOverlay {
     position: absolute;
-    top: 20%;
+    top: 30%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -200%);
     font-size: 45px;
     width: 80%;
     font-weight: bold;
