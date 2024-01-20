@@ -99,6 +99,9 @@
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">2.6 - Quadratic Functions</summary>
 
+        <h1 class="head1Text" style="padding: 30px; font-size: 30px;">Topic Video</h1>
+
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/bNNjuhEGdgU"></iframe>
 
             <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
             <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`y=ax^2+bx+c`</p>
@@ -109,6 +112,10 @@
 
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">2.7 - Discriminant and Quadratic Inequalities</summary>
+
+        <h1 class="head1Text" style="padding: 30px; font-size: 30px;">Topic Video</h1>
+
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/awMYRSb4k8Q"></iframe>
         <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
         <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`ax^2+bx+c=0 -> x=(-b+-sqrt(b^2-4ac))/(2a)`</p>
         <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`Delta=b^2-4ac`</p>
@@ -122,6 +129,10 @@
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">2.9 - Exponential and Logarithmic Functions</summary>
 
+        <h1 class="head1Text" style="padding: 30px; font-size: 30px;">Topic Video</h1>
+
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/-UjMxn0Y0rc"></iframe>
+
         <h1 class="head1Text" style="padding-top: 30px; font-size: 30px;">Important Equations for this Topic</h1>
         <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`a^x=e^(xln(a))`</p>
         <p class="bodyText" style="padding-top: 30px; font-size: 20px;">`log_aa^x=x=a^(log_ax)`</p>
@@ -131,6 +142,12 @@
 
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">2.11 - Graph Transformations</summary>
+
+        <h1 class="head1Text" style="padding: 30px; font-size: 30px;">Topic Videos</h1>
+
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/n3RkDH_6_Pk"></iframe>
+        <div style="height: 30px;"></div>
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/L3YCbSk1MRM"></iframe>
 
     </details>
 
@@ -147,6 +164,9 @@
     <details class="blueExample hiddenAnimate">
         <summary class="hiddenAnimate" style="transition-delay: 100ms;">2.13 - Extended Rational Functions (HL)</summary>
 
+        <h1 class="head1Text" style="padding: 30px; font-size: 30px;">Topic Video</h1>
+
+        <iframe width="640" height="360" style="display:block; margin:auto;"src="https://www.youtube.com/embed/NcZ9lS-sq1c"></iframe>
     </details>
 
     <details class="blueExample hiddenAnimate">
@@ -231,19 +251,21 @@
 </body>
 
 <script>
-    let redirectPage = (quizNameRedirect) => {
-
-
-        
-        var url = "../../quiz-math.html" +
-            "?subject=" + 'physics'  + 
-            "&ident=" + '1-mechanics' +
+    let redirectPage1 = (quizNameRedirect) => { 
+        var url = "../../quiz-mathnocalc.html" +
+            "?subject=" + 'math'  + 
+            "&ident=" + '2-functions' +
             "&quizName=" + quizNameRedirect;
     
         window.location.href = url;
     }
-
-
+    let redirectPage2 = (quizNameRedirect) => {       
+        var url = "../../quiz-math.html" +
+            "?subject=" + 'math'  + 
+            "&ident=" + '2-functions' +
+            "&quizName=" + quizNameRedirect;
+        window.location.href = url;
+    }
 
     function score (idNo) {
         idNoConv = idNo.toString();

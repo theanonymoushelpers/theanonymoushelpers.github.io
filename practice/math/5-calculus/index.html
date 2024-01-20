@@ -276,10 +276,7 @@
 </body>
 
 <script>
-    let redirectPage1 = (quizNameRedirect) => {
-
-
-        
+    let redirectPage1 = (quizNameRedirect) => { 
         var url = "../../quiz-mathnocalc.html" +
             "?subject=" + 'math'  + 
             "&ident=" + '5-calculus' +
@@ -287,20 +284,13 @@
     
         window.location.href = url;
     }
-
-    let redirectPage2 = (quizNameRedirect) => {
-
-
-        
-var url = "../../quiz-math.html" +
-    "?subject=" + 'math'  + 
-    "&ident=" + '5-calculus' +
-    "&quizName=" + quizNameRedirect;
-
-window.location.href = url;
-}
-
-
+    let redirectPage2 = (quizNameRedirect) => {       
+        var url = "../../quiz-math.html" +
+            "?subject=" + 'math'  + 
+            "&ident=" + '5-calculus' +
+            "&quizName=" + quizNameRedirect;
+        window.location.href = url;
+    }
 
     function score (idNo) {
         idNoConv = idNo.toString();

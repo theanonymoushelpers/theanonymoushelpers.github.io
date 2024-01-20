@@ -1,94 +1,52 @@
 {
-    "quizID": 6122,
+    "quizID": 6172,
     "title": "Base 10 Logs",
-    "totalQuCount": 8, 
-    "quCountToDisplay": 4,
     "questionList": [
         {
             "qu": "`log_10 1 = x`. What is `x`?",
-            "a1": "0",
-            "a2": "1",
-            "a3": "2",
-            "a4": "3",
-            "ans": 1,
-            "timeUpper": 20,
+            "ans": "0",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1`, so `x=0`."
         },
         {
             "qu": "`log_10 10 = x`. What is `x`?",
-            "a1": "0",
-            "a2": "1",
-            "a3": "2",
-            "a4": "3",
-            "ans": 2,
-            "timeUpper": 20,
+            "ans": "1",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10`, so `x=1`."
         },
         {
             "qu": "`log_10 100 = x`. What is `x`?",
-            "a1": "0",
-            "a2": "1",
-            "a3": "2",
-            "a4": "3",
-            "ans": 3,
-            "timeUpper": 20,
+            "ans": "2",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=100`, so `x=2`."
         },
         {
             "qu": "`log_10 1000 = x`. What is `x`?",
-            "a1": "0",
-            "a2": "1",
-            "a3": "2",
-            "a4": "3",
-            "ans": 4,
-            "timeUpper": 20,
+            "ans": "3",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1000`, so `x=3`."
         },
         {
             "qu": "`log_10 10000 = x`. What is `x`?",
-            "a1": "4",
-            "a2": "5",
-            "a3": "6",
-            "a4": "7",
-            "ans": 1,
-            "timeUpper": 20,
+            "ans": "4",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10000`, so `x=4`."
         },
         {
             "qu": "`log_10 100000 = x`. What is `x`?",
-            "a1": "4",
-            "a2": "5",
-            "a3": "6",
-            "a4": "7",
-            "ans": 2,
-            "timeUpper": 20,
+            "ans": "5",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=100000`, so `x=5`."
         },
         {
             "qu": "`log_10 1000000 = x`. What is `x`?",
-            "a1": "4",
-            "a2": "5",
-            "a3": "6",
-            "a4": "7",
-            "ans": 3,
-            "timeUpper": 20,
+            "ans": "6",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=1000000`, so `x=6`."
         },
         {
             "qu": "`log_10 10000000 = x`. What is `x`?",
-            "a1": "4",
-            "a2": "5",
-            "a3": "6",
-            "a4": "7",
-            "ans": 4,
-            "timeUpper": 20,
+            "ans": "7",
             "marks": 1,
             "solution": "`a^x=b` rewritten as a log is `log_a b = x`. Therefore, `10^x=10000000`, so `x=7`."
         }
