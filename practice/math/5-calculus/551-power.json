@@ -1,0 +1,84 @@
+{
+    "quizID": 6551,
+    "title": "Power Rule - Integration",
+    "questionList": [
+        {
+            "qu": "Find `f(1)` when `f(x)=int(x^3+3x^2)dx` and `f(0)=2`",
+            "ans": 3.25,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Find `f(2)` when `f(x)=int(3x^4+2x^2)dx` and `f(0)=3`",
+            "ans": 40.3,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Find `f(-1)` when `f(x)=int(2x^2+3x)dx` and `f(0)=0`",
+            "ans": 0.833,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Find `h(2)` when `h(x) = int(5x^4 + 2x^3)dx` and `h(0) = 4`.",
+            "ans": 44.0,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Evaluate `k(3)` for `k(x) = int(2x^4 + x^2)dx` with `k(0) = 6`.",
+            "ans": 24.8,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Determine `m(1)` given `m(x) = int(3x^3 + 4x^2)dx` and `m(0) = 2`.",
+            "ans": 4.08,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Calculate `p(2)` where `p(x) = int(2x^4 + 3x^3)dx` and `p(0) = 7`.",
+            "ans": 31.8,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Find `q(1)` for `q(x) = int(4x^3 + 2x^2)dx` with `q(0) = 1`.",
+            "ans": 2.67,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Evaluate `r(2)` when `r(x) = int(5x^4 + x^3)dx` and `r(0) = 8`.",
+            "ans": 44.0,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Determine `s(2)` given `s(x) = int(3x^3 + 4x^2)dx` and `s(0) = 5`.",
+            "ans": 27.7,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Calculate `t(1)` where `t(x) = int(2x^4 + 3x^2)dx` and `t(0) = 3`.",
+            "ans": 4.4,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Find `u(3)` for `u(x) = int(4x^3 + 2x^2)dx` with `u(0) = 6`.",
+            "ans": 105.0,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        },
+        {
+            "qu": "Evaluate `v(2)` when `v(x) = int(5x^4 + x^3)dx` and `v(0) = 4`.",
+            "ans": 38.7,
+            "marks": 2,
+            "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
+        }
+    ]
+}
