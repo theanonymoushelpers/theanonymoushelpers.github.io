@@ -28,7 +28,7 @@
         },
         {
             "qu": "Evaluate `k(3)` for `k(x) = int(2x^4 + x^2)dx` with `k(0) = 6`.",
-            "ans": 24.8,
+            "ans": 112,
             "marks": 2,
             "solution": "Use the rule for each term `x^n -> (x^(n+1))/(n+1)`. f(0) becomes c, as f(0) of any function f(x) will eliminate any terms with `x`."
         },
