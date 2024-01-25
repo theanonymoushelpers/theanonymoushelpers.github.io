@@ -1,0 +1,48 @@
+{
+    "quizID": 6553,
+    "title": "Trigonometry Rule - Integration",
+    "questionList": [
+
+{
+    "qu": "Find `g(pi)` when `g(x) = int(4sin4x)dx` and `g(0) = 0`.",
+    "ans": 0,
+    "marks": 3,
+    "solution": "solution"
+},
+{
+    "qu": "Determine `h(pi/4)` given `h(x) = int(4cos2x)dx` and `h(0) = 2`.",
+    "ans": 4,
+    "marks": 3,
+    "solution": "solution"
+},
+{
+    "qu": "Calculate `k(pi)` where `k(x) = int(5sin(1/5x))dx` and `k(0) = 0`.",
+    "ans": 4.77,
+    "marks": 3,
+    "solution": "solution"
+},
+{
+    "qu": "Evaluate `m(pi/2)` for `m(x) = int(3sin(1/9x))dx` with `m(0) = 4`.",
+    "ans": 4.41,
+    "marks": 3,
+    "solution": "solution"
+},{
+    "qu": "Find `p(pi/2)` when `p(x) = int(2cos(1/2x))dx` and `p(0) = 5`.",
+    "ans": 2.83,
+    "marks": 3,
+    "solution": "solution"
+},
+{
+    "qu": "Determine `q(pi/3)` given `q(x) = int(4sin4x)dx` and `q(0) = 0`.",
+    "ans": 1.50,
+    "marks": 3,
+    "solution": "solution"
+},
+{
+    "qu": "Calculate `r(pi)` where `r(x) = int(2cos(1/8x)dx` and `r(0) = 1`.",
+    "ans": 3.09,
+    "marks": 3,
+    "solution": "solution"
+}
+]
+}
