@@ -10,8 +10,8 @@
     "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`"
 },
 {
-    "qu": "Find f(5) where f'(x)`=2^(4x)` and f(0)=1",
-    "ans": 12.41,
+    "qu": "Find f(2) where f'(x)`=2^(4x)` and f(0)=1",
+    "ans": 93.0,
     "marks": 3,
     "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
 },
