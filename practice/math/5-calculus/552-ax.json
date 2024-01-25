@@ -1,0 +1,79 @@
+{
+    "quizID": 6552,
+    "title": "Exponent Rule - Integration",
+    "questionList": [
+
+{
+    "qu": "Find f(1) where f'(x)=`3^(3x)` and f(0)=1",
+    "ans": 9.89,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`"
+},
+{
+    "qu": "Find f(5) where f'(x)`=2^(4x)` and f(0)=1",
+    "ans": 12.41,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(3) where f'(x)`=5^(2x)` and f(0)=2",
+    "ans": 197,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(4) where f'(x)`=3^(0.2x)` and f(0)=6",
+    "ans": 12.4,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(2) where f'(x)`=4^(0.4x)` and f(0)=9",
+    "ans": 12.7,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(7) where f'(x)`=2^(0.6x)` and f(0)=1",
+    "ans": 42.8,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(-2) where f'(x)`=3^(0.2x)` and f(0)=4",
+    "ans": 2.38,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(2) where f'(x)`=5^(0.8x)` and f(0)=2",
+    "ans": 11.4,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(-3) where f'(x)`=4^(0.3x)` and f(0)=5",
+    "ans": 3.29,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(8) where f'(x)`=2^(0.4x)` and f(0)=3",
+    "ans": 32.5,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(2) where f'(x)`=e^(0.8x)` and f(0)=2",
+    "ans": 6.94,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+},
+{
+    "qu": "Find f(3) where f'(x)`=e^(0.3x)` and f(0)=5",
+    "ans": 9.87,
+    "marks": 3,
+    "solution": "When integrating `a^(nx)`, use the inverse of the derivative (`(a^(nx))/(nlna)`). For `e^x`, recall that `ln e = log_ee = 1`."
+}
+]
+}
