@@ -39,21 +39,23 @@
     }
 
     .card {
-    background-color: white;
-    border: 1px solid #bacdd8;
-    padding: 8px;
-    border-radius: 12px;
+        background-color: rgb(240, 240, 240);
+        border: 3px solid rgb(139, 139, 139);
+        padding: 8px;
+        border-radius: 12px;
     }
 
    
     .tag {
     padding: 4px 8px;
-    border: 1px solid #e5eaed;
+
+
+    background-color: rgba(17, 18, 20, 0.8);
+    border: 1.5px solid rgb(162, 161, 194);
 
     border-radius: 50px;
     font-size: 12px;
     font-weight: 600;
-    color: #788697;
     }
 
     .scoretag {
@@ -84,5 +86,5 @@
     }
 
     .card_info {
-    background-color: white;
+    background-color: rgb(240, 240, 240);
     }

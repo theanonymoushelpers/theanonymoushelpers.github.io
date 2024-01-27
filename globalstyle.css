@@ -24,7 +24,7 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: rgb(29, 29, 36);
+    background-color: rgb(16, 16, 24);
     font-family: 'Lato', Arial, Helvetica, sans-serif;
     color: white;
 }
@@ -150,7 +150,7 @@ body, html {
 .buttonB:hover {opacity: 1}
 
 .menuStyle {
-background-color: rgb(49, 49, 56);
+background-color: rgb(4, 4, 4);
 float: left;
 width: 100%;
 }
@@ -186,7 +186,7 @@ font-size: 24px;
 }
 
 .menuStyle Txlink.active {
-    background-color: rgb(29, 29, 36);
+    background-color: rgb(2, 2, 2);
     border: none;
     border-radius: 45px;
     outline: hidden;
@@ -198,7 +198,7 @@ font-size: 24px;
 }
 
 .menuStyle ImgLink.active {
-    background-color: rgb(29, 29, 36);
+    background-color: rgb(2, 2, 2);
     border: none;
     border-radius: 45px;
     outline: hidden;
@@ -241,7 +241,7 @@ position: absolute;
 height: 270px;
 bottom: 0;
 width: 100%;
-background-color: rgb(49, 49, 56);
+background-color: rgb(4, 4, 4);
 color: white;
 text-align: center;
 }
@@ -318,10 +318,11 @@ line-height: 1.4;
     position: relative; 
     border: none;
     padding: 12px 24px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 600;
-    color: #8a5d16;
+    color: rgb(138, 93, 22);
     background-color: #ffdba1;
+    border: 2px solid rgb(141, 101, 38);
     margin: 0 auto;
     display: block;
 }
@@ -354,10 +355,11 @@ line-height: 1.4;
     position: relative; 
     border: none;
     padding: 12px 24px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 600;
-    color: #238a16;
+    color: rgb(35, 138, 22);
     background-color: #a2ffa1;
+    border: 2px solid rgb(35, 138, 22);
     margin: 0 auto;
     display: block;
 }
@@ -393,10 +395,11 @@ line-height: 1.4;
     position: relative; 
     border: none;
     padding: 12px 24px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 600;
-    color: #16698a;
+    color: rgb(22, 105, 138);
     background-color: #a1e4ff;
+    border: 2px solid rgb(22, 105, 138);
     margin: 0 auto;
     display: block;
 }
@@ -430,10 +433,11 @@ line-height: 1.4;
     position: relative; 
     border: none;
     padding: 12px 24px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 600;
-    color: #56168a;
+    color: rgb(86, 22, 138);
     background-color: #c0a1ff;
+    border: 2px solid rgb(86, 22, 138);
     margin: 0 auto;
     display: block;
 }
@@ -470,10 +474,11 @@ text-align: right; margin-right: 20px; font-size: 16px;
     position: relative; 
     border: none;
     padding: 12px 24px;
-    border-radius: 5px;
+    border-radius: 20px;
     font-weight: 600;
-    color: #868686;
+    color: rgb(134, 134, 134);
     background-color: #dbdbdb;
+    border: 2px solid rgb(134, 134, 134);
     margin: 0 auto;
     display: block;
 }
